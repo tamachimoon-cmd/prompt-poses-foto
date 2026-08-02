@@ -1,0 +1,98 @@
+{
+  "repository": "prompt-poses-foto",
+  "language": "pt-BR",
+  "updated_at": "2026-08-02",
+  "count": 10,
+  "prompts": [
+    {
+      "id": 1,
+      "title": "Beauty headshot com luz clamshell",
+      "use_case": "beleza, maquiagem, skincare, capa de perfil e publicidade limpa.",
+      "key_pose": "ombros levemente diagonais, rosto frontal, queixo discretamente projetado e abaixado, mãos fora do quadro.",
+      "prompt": "Fotografia beauty de estúdio em close de [modelo adulta], usando [maquiagem e figurino minimalistas]. Ombros levemente girados, rosto voltado diretamente para a câmera, queixo sutilmente projetado para a frente e abaixado, expressão serena e confiante, olhos perfeitamente nítidos. Iluminação clamshell: beauty dish branco centralizado acima do rosto e refletor branco abaixo do queixo, preenchimento suave e simétrico, fundo branco quente sem textura. Lente de retrato de 105 mm, enquadramento do topo da cabeça até os ombros, alta definição de cílios, olhos, lábios e textura real da pele, gradação de cor limpa e sofisticada. Sem texto, logotipos, joias deformadas, pele plástica, excesso de suavização ou anatomia irregular. Formato 4:5 vertical.",
+      "negative_prompt": "sem brilho estourado na testa, sem olhos assimétricos, sem dentes artificiais, sem poros apagados",
+      "aspect_ratio": "4:5 vertical"
+    },
+    {
+      "id": 2,
+      "title": "Retrato Rembrandt em três quartos",
+      "use_case": "retrato dramático, ator, músico, escritor e personagem realista.",
+      "key_pose": "corpo a 45 graus, cabeça de volta para a câmera, peso apoiado na perna traseira.",
+      "prompt": "Retrato fotográfico de estúdio em três quartos de [modelo adulta] usando [figurino escuro e elegante]. Corpo girado aproximadamente 45 graus para longe da câmera, peso apoiado na perna traseira, ombro mais próximo discretamente abaixado, cabeça voltada de volta para a lente, uma mão relaxada junto ao corpo e a outra tocando suavemente o punho ou a lapela. Iluminação Rembrandt com softbox grande a 45 graus e ligeiramente acima dos olhos, pequeno triângulo de luz na face em sombra, preenchimento mínimo e fundo cinza-carvão. Lente de 85 mm, câmera na altura dos olhos, contraste controlado, sombras densas com detalhes, pele natural e tecido bem definido, atmosfera cinematográfica sóbria. Sem texto, acessórios duplicados, dedos extras, mãos rígidas ou fundo poluído. Formato 4:5 vertical.",
+      "negative_prompt": "preservar detalhes nas sombras, sem preto esmagado, sem pose totalmente frontal",
+      "aspect_ratio": "4:5 vertical"
+    },
+    {
+      "id": 3,
+      "title": "Corpo inteiro high-key em contrapposto",
+      "use_case": "catálogo premium, lookbook, e-commerce e moda minimalista.",
+      "key_pose": "peso em uma perna, quadril deslocado, outra perna relaxada, braços assimétricos.",
+      "prompt": "Fotografia de moda high-key em corpo inteiro de [modelo adulta] usando [look completo]. Pose contrapposto natural: peso concentrado em uma perna, quadril levemente deslocado, perna oposta relaxada com o joelho suavemente flexionado, um braço solto e o outro criando uma linha discreta na cintura ou no bolso, mãos elegantes e dedos separados de forma natural. Câmera na altura aproximada da cintura para manter proporções equilibradas, composição central com espaço ao redor do corpo. Dois softboxes grandes iluminando o fundo branco seamless e uma luz principal ampla e macia sobre a modelo, sombras muito suaves sob os pés. Lente de 70 mm, nitidez uniforme do rosto ao calçado, cores fiéis, tecido e caimento realistas, acabamento editorial limpo. Sem membros cortados, pés deformados, roupa fundida ao corpo, sombras duras, texto ou objetos no fundo. Formato 3:4 vertical.",
+      "negative_prompt": "corpo inteiro visível, pés completos dentro do quadro, mãos claramente separadas do tronco",
+      "aspect_ratio": "3:4 vertical"
+    },
+    {
+      "id": 4,
+      "title": "Editorial low-key com pose de poder",
+      "use_case": "campanha de moda, capa musical, branding pessoal e retrato de liderança.",
+      "key_pose": "base firme, ombros abertos, mãos com função clara, câmera um pouco abaixo dos olhos.",
+      "prompt": "Retrato editorial low-key de [modelo adulta] usando [alfaiataria estruturada ou moda conceitual]. Pose de poder controlada: pés afastados na largura dos ombros, tronco ereto, ombros abertos, queixo neutro, uma mão apoiada com firmeza na cintura e a outra relaxada ao lado do corpo, olhar direto e expressão determinada. Câmera ligeiramente abaixo da linha dos olhos, enquadramento dos joelhos para cima. Luz principal estreita com stripbox lateral e grid, recorte suave no ombro oposto, preenchimento quase inexistente, fundo preto fosco com separação suficiente do figurino. Lente de 50 mm, contraste alto com detalhes preservados, textura real do tecido, pele natural, estética de revista de moda contemporânea. Sem mãos gigantes, queixo exagerado, preto sem detalhes, pose agressiva caricata, texto ou logotipos. Formato 4:5 vertical.",
+      "negative_prompt": "silhueta claramente separada do fundo, sem sorriso publicitário, sem luz frontal plana",
+      "aspect_ratio": "4:5 vertical"
+    },
+    {
+      "id": 5,
+      "title": "Pose sentada em banco com composição triangular",
+      "use_case": "editorial, retrato artístico, músico, autor e ensaio de personalidade.",
+      "key_pose": "pernas em níveis diferentes, cotovelo apoiado sem esmagar o tronco, mãos visíveis.",
+      "prompt": "Retrato de estúdio de [modelo adulta] sentada em um banco alto simples, usando [figurino]. Corpo levemente diagonal em relação à câmera, um pé apoiado no chão e o outro no suporte inferior do banco, criando alturas diferentes nos joelhos; cotovelo apoiado suavemente sobre a coxa elevada, mão relaxada próxima ao rosto sem cobri-lo, outra mão visível sobre a perna, coluna alongada e ombros soltos. Enquadramento vertical de corpo quase inteiro, câmera na altura do peito. Softbox octogonal grande a 45 graus, refletor discreto do lado oposto, fundo bege ou cinza médio, sombra suave e natural. Lente de 85 mm, profundidade de campo moderada, foco nos olhos, textura de pele e roupa realistas, composição triangular equilibrada. Sem joelhos fundidos, dedos escondidos, cotovelos pontiagudos, banco deformado ou postura curvada. Formato 4:5 vertical.",
+      "negative_prompt": "ambas as mãos legíveis, separação clara entre braços e tronco",
+      "aspect_ratio": "4:5 vertical"
+    },
+    {
+      "id": 6,
+      "title": "Perfil escultural com rim light",
+      "use_case": "joalheria, cabelo, beleza conceitual, capa elegante e silhueta.",
+      "key_pose": "perfil completo, pescoço alongado, ombro oposto ligeiramente recuado.",
+      "prompt": "Retrato escultural de estúdio em perfil completo de [modelo adulta], usando [figurino minimalista e acessório opcional]. Corpo a 90 graus da câmera, pescoço alongado sem tensão, queixo paralelo ao chão, ombro mais distante ligeiramente recuado, mãos fora do quadro, olhar direcionado para um ponto fora da cena. Luz principal suave e estreita na frente do perfil, rim light preciso desenhando testa, nariz, lábios, queixo, cabelo e ombro, fundo azul-marinho ou preto profundo. Lente de 105 mm, enquadramento do busto para cima, foco nítido no olho visível e nos contornos, sombras graduais, textura natural de cabelo e pele, estética sofisticada e minimalista. Sem segundo olho visível de forma impossível, nariz deformado, pescoço alongado artificialmente, halo excessivo, texto ou acessórios duplicados. Formato 4:5 vertical.",
+      "negative_prompt": "perfil anatômico limpo, linha do nariz e lábios bem definida, fundo sem objetos",
+      "aspect_ratio": "4:5 vertical"
+    },
+    {
+      "id": 7,
+      "title": "Caminhada editorial com movimento natural",
+      "use_case": "campanha de roupa, streetwear de estúdio, lookbook dinâmico e anúncio vertical.",
+      "key_pose": "passo real, braços em oposição, tecido em movimento, olhar não necessariamente frontal.",
+      "prompt": "Fotografia editorial de estúdio em corpo inteiro de [modelo adulta] caminhando de forma natural através do cenário, usando [look com tecido que responda ao movimento]. Capture o instante em que a perna da frente toca o chão e a perna traseira inicia o impulso, braços balançando em oposição de forma sutil, tronco estável, mãos relaxadas, cabelo e tecido com movimento leve, olhar dirigido um pouco além da câmera com expressão concentrada. Fundo seamless cinza-claro amplo, luz principal grande e lateral simulando uma janela, preenchimento suave e luz de recorte discreta. Lente de 50 mm, câmera na altura da cintura, velocidade visual suficiente para congelar o rosto e preservar um mínimo de movimento nas extremidades, cores editoriais limpas, anatomia natural e roupa bem separada do corpo. Sem pose congelada de passarela, pernas cruzadas de forma impossível, pés duplicados, motion blur no rosto, tecido fundido ou corte nos calçados. Formato 9:16 vertical.",
+      "negative_prompt": "passo biomecanicamente plausível, rosto e olhos nítidos, corpo inteiro dentro do quadro",
+      "aspect_ratio": "9:16 vertical"
+    },
+    {
+      "id": 8,
+      "title": "Retrato sobre o ombro com elegância",
+      "use_case": "moda, cabelo, vestido, fragrância, retrato romântico e capa editorial.",
+      "key_pose": "costas parcialmente voltadas, cabeça retorna para a câmera, ombro próximo abaixado.",
+      "prompt": "Retrato editorial de estúdio de [modelo adulta] em pose sobre o ombro, usando [vestido, blazer ou figurino elegante]. Costas parcialmente voltadas para a câmera, tronco girado cerca de 60 graus, ombro mais próximo ligeiramente abaixado, pescoço alongado, cabeça virada de volta para a lente sem torção excessiva, olhar suave e seguro, uma mão ajustando discretamente a manga ou o tecido na altura da cintura. Luz principal ampla e suave do lado para o qual o rosto está voltado, preenchimento mínimo, luz de cabelo delicada e fundo em gradiente neutro. Lente de 85 mm, enquadramento da cintura para cima, foco nos olhos, contorno limpo da mandíbula, cabelo detalhado e tecido realista, atmosfera elegante de campanha de luxo genérica. Sem pescoço torcido, ombros desalinhados de forma impossível, mão atravessando o corpo, marcas, texto ou joias duplicadas. Formato 4:5 vertical.",
+      "negative_prompt": "giro confortável do pescoço, olhos alinhados, ombro não cobrindo o rosto",
+      "aspect_ratio": "4:5 vertical"
+    },
+    {
+      "id": 9,
+      "title": "Headshot corporativo contemporâneo",
+      "use_case": "LinkedIn, site de empresa, imprensa, palestrante e equipe executiva.",
+      "key_pose": "corpo a 30–45 graus, rosto frontal, braços fora ou discretamente cruzados, expressão acessível.",
+      "prompt": "Headshot corporativo contemporâneo de [profissional adulta] usando [blazer, camisa ou roupa profissional sem logotipo]. Corpo girado entre 30 e 45 graus, cabeça voltada diretamente para a câmera, coluna ereta, ombros relaxados e nivelados, braços discretamente cruzados abaixo do enquadramento ou mãos fora do quadro, sorriso leve e autêntico com expressão competente e acessível. Iluminação de três pontos muito suave: key light grande próxima à câmera, fill leve e hair light discreta; fundo cinza-claro ou azul dessaturado com gradiente sutil. Lente de 85 mm, enquadramento do peito para cima, olhos perfeitamente nítidos, tons de pele naturais, contraste moderado, acabamento profissional sem retoque excessivo. Sem gravata ou gola deformada, dentes artificiais, olhos desalinhados, pele encerada, texto, marcas ou cenário de escritório genérico. Formato 1:1 ou 4:5.",
+      "negative_prompt": "sem aparência de banco de imagens, expressão natural, roupa sem marcas",
+      "aspect_ratio": "1:1 ou 4:5"
+    },
+    {
+      "id": 10,
+      "title": "Retrato futurista com géis coloridos",
+      "use_case": "música, tecnologia, cyber editorial, capa e experimentação visual.",
+      "key_pose": "perfil de três quartos, braços criando linhas negativas, expressão controlada.",
+      "prompt": "Retrato futurista de estúdio de [modelo adulta] usando [figurino monocromático ou material texturizado]. Pose editorial angular porém anatômica: corpo em três quartos, um ombro mais próximo da câmera, cabeça levemente inclinada na direção oposta, um braço dobrado criando espaço negativo entre cotovelo e cintura, outra mão relaxada junto ao quadril, dedos visíveis, expressão intensa e controlada. Duas luzes com géis complementares em lados opostos, por exemplo ciano e magenta, mais uma luz branca suave e frontal para preservar tons de pele; fundo preto ou metálico fosco com névoa mínima. Lente de 50 mm, enquadramento dos joelhos para cima, reflexos controlados, pele realista, bordas coloridas limpas, textura de tecido detalhada, estética tecnológica original sem copiar franquias ou marcas. Sem neon estourado, fumaça cobrindo o rosto, membros extras, dedos fundidos, roupa impossível, texto ou logotipos. Formato 4:5 vertical.",
+      "negative_prompt": "luz branca suficiente no rosto, cores separadas, sem aparência de ilustração 3D quando o objetivo for fotografia",
+      "aspect_ratio": "4:5 vertical"
+    }
+  ]
+}
