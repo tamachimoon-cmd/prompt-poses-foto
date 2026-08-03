@@ -6,8 +6,10 @@ Os prompts seguem uma estrutura consistente: finalidade, modelo e figurino, pose
 
 ## Conteúdo
 
-- [`PROMPTS.md`](PROMPTS.md): 15 prompts completos em português e inglês.
-- [`prompts.json`](prompts.json): catálogo estruturado para aplicações, agentes e automações.
+- [`PROMPTS.md`](PROMPTS.md): catálogo-base com os 10 primeiros prompts.
+- [`prompts.json`](prompts.json): dados estruturados do catálogo-base.
+- [`prompts/2026-08-03.md`](prompts/2026-08-03.md): 5 novos prompts em português e inglês.
+- [`prompts/2026-08-03.json`](prompts/2026-08-03.json): dados estruturados dos prompts 11 a 15.
 - [`REFERENCIAS.md`](REFERENCIAS.md): metodologia, fundamentos e fontes consultadas.
 
 ## Estilos disponíveis
