@@ -1,6 +1,6 @@
 # Referências e Metodologia
 
-Pesquisa inicial realizada em **2 de agosto de 2026** e ampliada em **3, 4 e 6 de agosto de 2026**. A curadoria prioriza documentação oficial de geração de imagens e materiais educacionais de fabricantes e plataformas reconhecidas de fotografia.
+Pesquisa inicial realizada em **2 de agosto de 2026** e ampliada em **3, 4, 6 e 7 de agosto de 2026**. A curadoria prioriza documentação oficial de geração de imagens e materiais educacionais de fabricantes e plataformas reconhecidas de fotografia.
 
 ## Critérios usados
 
@@ -10,7 +10,7 @@ Pesquisa inicial realizada em **2 de agosto de 2026** e ampliada em **3, 4 e 6 d
 4. Lentes e luz usadas como vocabulário visual coerente.
 5. Restrições explícitas para reduzir deformações e deriva de composição.
 6. Não duplicação dos esquemas já presentes no catálogo.
-7. Uso consciente de elementos ópticos, tecidos difusores e câmera zenital.
+7. Uso consciente de elementos ópticos, tecidos difusores, câmera zenital, movimento e separação de fundo.
 
 ## Fundamentos consolidados
 
@@ -19,10 +19,12 @@ Pesquisa inicial realizada em **2 de agosto de 2026** e ampliada em **3, 4 e 6 d
 - Instruções espaciais como esquerda, direita, acima, atrás e primeiro plano reduzem ambiguidades.
 - Referências de composição podem melhorar aderência de pose, profundidade e estrutura.
 - Luz deve ser descrita por direção, tamanho aparente, dureza e função narrativa.
-- Lentes padrão e teleobjetivas curtas, em geral entre 50 e 105 mm, ajudam a preservar proporções em retratos.
+- Lentes padrão e teleobjetivas curtas, em geral entre 50 e 105 mm, ajudam a preservar proporções em retratos; lentes mais abertas exigem distância de trabalho e intenção de perspectiva explícitas.
 - Olhos devem receber prioridade de foco.
 - Poses complexas funcionam melhor quando descritas pela mecânica corporal.
-- Elementos como scrim, prisma ou espelho exigem limites explícitos para evitar duplicações.
+- Elementos como scrim, prisma, espelho, V-flat e tecidos exigem limites explícitos para evitar duplicações.
+- Movimento deve especificar qual parte da cena congela e qual parte pode apresentar arrasto.
+- Kicker e negative fill devem ser descritos pela função e pela área atingida, não apenas pelo nome do equipamento.
 
 ## Fontes principais
 
@@ -51,20 +53,35 @@ Pesquisa inicial realizada em **2 de agosto de 2026** e ampliada em **3, 4 e 6 d
 7. Nikon — Quick Tips for Taking Better Portraits  
    https://www.nikonusa.com/learn-and-explore/c/tips-and-techniques/quick-tips-for-taking-better-portraits
 
-8. Profoto Academy — Distance, Directions and Shape: Basic Foundations of Light  
-   https://www.profoto.com/us/en/shop/academy/
+8. Profoto — How to create checkerboard lighting, com Lindsay Adler  
+   https://www.profoto.com/pl/en/still-photography/tips-tricks/dramatic-portraits-with-checkerboard-lighting/
 
-## Atualização de 6 de agosto de 2026
+9. Profoto — How to create kicker light for dramatic depth  
+   https://www.profoto.com/us/en/still-photography/tips-tricks/how-to-create-kicker-light/
 
-Foram adicionados cinco conceitos materialmente diferentes dos vinte anteriores:
+10. Profoto — How to freeze motion in the studio with precision  
+    https://www.profoto.com/int/en/still-photography/tips-tricks/how-to-freeze-motion-in-the-studio/
 
-- loop lighting com gesto funcional de ajuste de lapela;
-- silhueta de corpo inteiro atrás de scrim translúcido;
-- composição zenital geométrica em pose de losango;
-- retrato sentado ao contrário em cadeira com cross-light;
-- beauty macro com prisma óptico controlado em primeiro plano.
+11. Profoto — User guide: Connect Pro, seção de sincronismo de segunda cortina  
+    https://profoto.com/globalassets/support/user-guides/connect-pro/profoto-connect-pro-user-guide-english.pdf
 
-A pesquisa recente reforça que prompts eficazes não precisam ser excessivamente longos, mas devem declarar objetivo, sujeito, ação, ambiente, composição, iluminação e restrições. A Adobe também recomenda controlar pose, enquadramento, câmera, textura e referências de composição. A Nikon mantém a recomendação de lentes padrão a teleobjetivas curtas para retratos quando se deseja reduzir distorção facial, enquanto a Profoto organiza o controle da luz em distância, direção e forma.
+12. Profoto — How to create a close-up beauty portrait  
+    https://www.profoto.com/nl/en/still-photography/tips-tricks/how-to-create-a-close-up-beauty-portrait/
+
+13. Profoto — How to create a one-light silhouette, seção de negative fill  
+    https://www.profoto.com/us/en/still-photography/tips-tricks/create-an-iconic-one-light-silhouette
+
+## Atualização de 7 de agosto de 2026
+
+Foram adicionados cinco conceitos materialmente diferentes dos vinte e cinco anteriores:
+
+- **checkerboard lighting** com pose sentada diagonal, usando a relação invertida entre luz e sombra do rosto e do fundo;
+- **perspectiva baixa com 35 mm**, mantendo distância de trabalho para preservar proporções enquanto a câmera cria presença e alongamento visual;
+- **sincronismo de segunda cortina** com giro e tecido, separando visualmente o instante congelado do arrasto de movimento;
+- **kicker light controlado** em ombro e cabelo, usado como ferramenta de separação e não como segunda luz facial;
+- **top light escultural com rebatedor de chão**, equilibrando sombras estruturais com catchlight e detalhe na mandíbula.
+
+A pesquisa recente reforça que prompts eficazes não precisam ser excessivamente longos, mas devem declarar objetivo, sujeito, ação, ambiente, composição, iluminação e restrições. A Adobe também recomenda controlar pose, enquadramento, câmera, textura e referências de composição. A Nikon recomenda lentes de retrato de padrão a teleobjetiva curta e alerta para a distorção de lentes muito abertas em retratos. A Profoto documenta checkerboard lighting, kicker light, negative fill e técnicas de congelamento de movimento com flash. citeturn0search0turn0search1turn0search4turn1search1turn1search3turn1search10turn1search13
 
 ## Autoria
 
