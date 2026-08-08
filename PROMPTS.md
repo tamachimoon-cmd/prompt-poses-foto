@@ -1,279 +1,164 @@
-# 30 Prompts de Fotografia de Estúdio e Poses de Modelo
+# 35 Prompts de Fotografia de Estúdio e Poses de Modelo
 
-Catálogo principal com índice consolidado. Os prompts 1–20 permanecem preservados nos arquivos históricos indicados; os prompts 21–30 estão completos nesta página.
+Catálogo principal consolidado. Os prompts 1–30 permanecem acessíveis por arquivos históricos ou revisões permanentes do próprio repositório; os prompts 31–35 estão completos nesta página.
 
 ## Índice consolidado
 
-1. [Beauty headshot com luz clamshell](PROMPTS.md#1-beauty-headshot-com-luz-clamshell)
-2. [Retrato Rembrandt em três quartos](PROMPTS.md#2-retrato-rembrandt-em-três-quartos)
-3. [Corpo inteiro high-key em contrapposto](PROMPTS.md#3-corpo-inteiro-high-key-em-contrapposto)
-4. [Editorial low-key com pose de poder](PROMPTS.md#4-editorial-low-key-com-pose-de-poder)
-5. [Pose sentada em banco com composição triangular](PROMPTS.md#5-pose-sentada-em-banco-com-composição-triangular)
-6. [Perfil escultural com rim light](PROMPTS.md#6-perfil-escultural-com-rim-light)
-7. [Caminhada editorial com movimento natural](PROMPTS.md#7-caminhada-editorial-com-movimento-natural)
-8. [Retrato sobre o ombro com elegância](PROMPTS.md#8-retrato-sobre-o-ombro-com-elegância)
-9. [Headshot corporativo contemporâneo](PROMPTS.md#9-headshot-corporativo-contemporâneo)
-10. [Retrato futurista com géis coloridos](PROMPTS.md#10-retrato-futurista-com-géis-coloridos)
-11. [Short lighting com antebraços sobre cubo acrílico](prompts/2026-08-03.md#11-short-lighting-com-antebraços-sobre-cubo-acrílico)
-12. [Luz dura com gobo e inclinação diagonal](prompts/2026-08-03.md#12-luz-dura-com-gobo-e-inclinação-diagonal)
-13. [Pose no chão em curva S com luz zenital suave](prompts/2026-08-03.md#13-pose-no-chão-em-curva-s-com-luz-zenital-suave)
-14. [Butterfly beauty com mãos em moldura assimétrica](prompts/2026-08-03.md#14-butterfly-beauty-com-mãos-em-moldura-assimétrica)
-15. [Giro de tecido congelado com flash de curta duração](prompts/2026-08-03.md#15-giro-de-tecido-congelado-com-flash-de-curta-duração)
-16. [Broad lighting com giro espontâneo sobre caixa de estúdio](prompts/2026-08-04.md#16-broad-lighting-com-giro-espontâneo-sobre-caixa-de-estúdio)
-17. [Split lighting monocromático com postura fechada](prompts/2026-08-04.md#17-split-lighting-monocromático-com-postura-fechada)
-18. [Retrato editorial em dupla com profundidade escalonada](prompts/2026-08-04.md#18-retrato-editorial-em-dupla-com-profundidade-escalonada)
-19. [Retrato com espelho lateral e reflexo único controlado](prompts/2026-08-04.md#19-retrato-com-espelho-lateral-e-reflexo-único-controlado)
-20. [Retrato comprimido em camadas com lente 135 mm](prompts/2026-08-04.md#20-retrato-comprimido-em-camadas-com-lente-135-mm)
-21. [Loop lighting com pose de ajuste de lapela](#21-loop-lighting-com-pose-de-ajuste-de-lapela)
-22. [Silhueta translúcida atrás de scrim com pose expansiva](#22-silhueta-translucida-atras-de-scrim-com-pose-expansiva)
-23. [Composição zenital geométrica com pose em losango](#23-composicao-zenital-geometrica-com-pose-em-losango)
-24. [Retrato reverso em cadeira com cross-light suave](#24-retrato-reverso-em-cadeira-com-cross-light-suave)
-25. [Beauty macro com prisma em primeiro plano](#25-beauty-macro-com-prisma-em-primeiro-plano)
-26. [Checkerboard lighting com pose sentada em diagonal](#26-checkerboard-lighting-com-pose-sentada-em-diagonal)
-27. [Perspectiva baixa com lente 35 mm e pose de passarela](#27-perspectiva-baixa-com-lente-35-mm-e-pose-de-passarela)
-28. [Giro congelado com sincronismo de segunda cortina](#28-giro-congelado-com-sincronismo-de-segunda-cortina)
-29. [Kicker light com pose de ombro e contraste controlado](#29-kicker-light-com-pose-de-ombro-e-contraste-controlado)
-30. [Top light escultural com pose agachada e rebatedor de chão](#30-top-light-escultural-com-pose-agachada-e-rebatedor-de-chão)
+1. [Beauty headshot com luz clamshell](https://github.com/tamachimoon-cmd/prompt-poses-foto/blob/476d584e7a06c6ead581e9377fa9481d4e3cc9fd/PROMPTS.md)
+2. [Retrato Rembrandt em três quartos](https://github.com/tamachimoon-cmd/prompt-poses-foto/blob/476d584e7a06c6ead581e9377fa9481d4e3cc9fd/PROMPTS.md)
+3. [Corpo inteiro high-key em contrapposto](https://github.com/tamachimoon-cmd/prompt-poses-foto/blob/476d584e7a06c6ead581e9377fa9481d4e3cc9fd/PROMPTS.md)
+4. [Editorial low-key com pose de poder](https://github.com/tamachimoon-cmd/prompt-poses-foto/blob/476d584e7a06c6ead581e9377fa9481d4e3cc9fd/PROMPTS.md)
+5. [Pose sentada em banco com composição triangular](https://github.com/tamachimoon-cmd/prompt-poses-foto/blob/476d584e7a06c6ead581e9377fa9481d4e3cc9fd/PROMPTS.md)
+6. [Perfil escultural com rim light](https://github.com/tamachimoon-cmd/prompt-poses-foto/blob/476d584e7a06c6ead581e9377fa9481d4e3cc9fd/PROMPTS.md)
+7. [Caminhada editorial com movimento natural](https://github.com/tamachimoon-cmd/prompt-poses-foto/blob/476d584e7a06c6ead581e9377fa9481d4e3cc9fd/PROMPTS.md)
+8. [Retrato sobre o ombro com elegância](https://github.com/tamachimoon-cmd/prompt-poses-foto/blob/476d584e7a06c6ead581e9377fa9481d4e3cc9fd/PROMPTS.md)
+9. [Headshot corporativo contemporâneo](https://github.com/tamachimoon-cmd/prompt-poses-foto/blob/476d584e7a06c6ead581e9377fa9481d4e3cc9fd/PROMPTS.md)
+10. [Retrato futurista com géis coloridos](https://github.com/tamachimoon-cmd/prompt-poses-foto/blob/476d584e7a06c6ead581e9377fa9481d4e3cc9fd/PROMPTS.md)
+11. [Short lighting com antebraços sobre cubo acrílico](prompts/2026-08-03.md)
+12. [Luz dura com gobo e inclinação diagonal](prompts/2026-08-03.md)
+13. [Pose no chão em curva S com luz zenital suave](prompts/2026-08-03.md)
+14. [Butterfly beauty com mãos em moldura assimétrica](prompts/2026-08-03.md)
+15. [Giro de tecido congelado com flash de curta duração](prompts/2026-08-03.md)
+16. [Broad lighting com giro espontâneo sobre caixa de estúdio](prompts/2026-08-04.md)
+17. [Split lighting monocromático com postura fechada](prompts/2026-08-04.md)
+18. [Retrato editorial em dupla com profundidade escalonada](prompts/2026-08-04.md)
+19. [Retrato com espelho lateral e reflexo único controlado](prompts/2026-08-04.md)
+20. [Retrato comprimido em camadas com lente 135 mm](prompts/2026-08-04.md)
+21. [Loop lighting com pose de ajuste de lapela](https://github.com/tamachimoon-cmd/prompt-poses-foto/blob/b5da8ceb3dd70b0b86e7c829f2639389ecf7af41/PROMPTS.md)
+22. [Silhueta translúcida atrás de scrim com pose expansiva](https://github.com/tamachimoon-cmd/prompt-poses-foto/blob/b5da8ceb3dd70b0b86e7c829f2639389ecf7af41/PROMPTS.md)
+23. [Composição zenital geométrica com pose em losango](https://github.com/tamachimoon-cmd/prompt-poses-foto/blob/b5da8ceb3dd70b0b86e7c829f2639389ecf7af41/PROMPTS.md)
+24. [Retrato reverso em cadeira com cross-light suave](https://github.com/tamachimoon-cmd/prompt-poses-foto/blob/b5da8ceb3dd70b0b86e7c829f2639389ecf7af41/PROMPTS.md)
+25. [Beauty macro com prisma em primeiro plano](https://github.com/tamachimoon-cmd/prompt-poses-foto/blob/b5da8ceb3dd70b0b86e7c829f2639389ecf7af41/PROMPTS.md)
+26. [Checkerboard lighting com pose sentada em diagonal](prompts/2026-08-07.md)
+27. [Perspectiva baixa com lente 35 mm e pose de passarela](prompts/2026-08-07.md)
+28. [Giro congelado com sincronismo de segunda cortina](prompts/2026-08-07.md)
+29. [Kicker light com pose de ombro e contraste controlado](prompts/2026-08-07.md)
+30. [Top light escultural com pose agachada e rebatedor de chão](prompts/2026-08-07.md)
+31. [Fresnel Old Hollywood com pose de coluna e halo de fundo](#31-fresnel-old-hollywood-com-pose-de-coluna-e-halo-de-fundo)
+32. [Retrato respirado com LED contínuo e obturador lento](#32-retrato-respirado-com-led-contínuo-e-obturador-lento)
+33. [Snoot de feixe fechado com pose ajoelhada e fundo cromático](#33-snoot-de-feixe-fechado-com-pose-ajoelhada-e-fundo-cromático)
+34. [Beauty dish prateado specular com moldura de clavículas](#34-beauty-dish-prateado-specular-com-moldura-de-clavículas)
+35. [Umbrella prateada frontal com pose expansiva de moda](#35-umbrella-prateada-frontal-com-pose-expansiva-de-moda)
 
 ---
 
-## 21. Loop lighting com pose de ajuste de lapela
+## 31. Fresnel Old Hollywood com pose de coluna e halo de fundo
 
-**Uso:** branding pessoal, editorial masculino ou feminino, retrato de ator e campanha de alfaiataria.
+**Uso:** retrato clássico, campanha de joias, capa musical, editorial em preto e branco.
 
-**Pose-chave:** corpo a 35 graus, peso na perna traseira, uma mão ajusta a lapela e a outra permanece baixa e separada do tronco.
+**Pose-chave:** modelo em pé junto a uma coluna baixa, corpo em três quartos, uma mão repousa na coluna e a outra marca a cintura sem esconder os dedos.
 
 ### Prompt em português
 
 ```text
-Retrato editorial de estúdio de [modelo adulta] usando [alfaiataria ou jaqueta estruturada]. Corpo girado cerca de 35 graus, peso apoiado na perna traseira, quadril estável, ombro próximo discretamente avançado; uma mão ajusta a própria lapela na altura do esterno e a outra fica relaxada ao lado do corpo, claramente separada do tecido. Cabeça retorna para a câmera, queixo neutro e expressão segura. Iluminação loop com softbox médio a aproximadamente 30 graus do eixo da câmera e ligeiramente acima dos olhos, produzindo pequena sombra do nariz sem tocar a sombra da bochecha; fill branco suave e fundo taupe uniforme. Lente de 85 mm, enquadramento da coxa para cima, olhos nítidos, textura realista de pele e tecido. Sem mão fundida à lapela, sombra de nariz longa, ombros rígidos, texto ou logotipos. Formato 4:5 vertical.
+Retrato Old Hollywood de estúdio de [modelo adulta] usando [figurino elegante de linhas clássicas]. Corpo em três quartos ao lado de uma coluna baixa ou pedestal simples, peso na perna traseira, perna da frente levemente cruzada sem sustentar o corpo, uma mão aberta repousa sobre o topo da coluna e a outra toca a própria cintura com dedos visíveis; ombros baixos, pescoço longo, rosto voltado para a câmera e expressão serena. Use um Fresnel como luz principal alta a aproximadamente 35 graus do eixo da câmera, produzindo feixe uniforme, sombras definidas e brilho controlado no rosto; uma segunda luz dura apontada apenas para o fundo cria um halo oval atrás da cabeça e dos ombros, com bandeiras evitando spill. Fundo cinza médio, lente de 85 mm, enquadramento da coxa para cima, contraste cinematográfico, pele realista e tecido detalhado. Sem gobo, sem padrão projetado, sem halo cortando o rosto, mãos fundidas ao pedestal, dedos extras, texto ou logotipos. Formato 4:5 vertical.
 ```
 
 ### Prompt em inglês
 
 ```text
-Editorial studio portrait of an adult [model] wearing [tailoring or a structured jacket]. Body turned about 35 degrees, weight on the back leg, stable hips, near shoulder slightly advanced; one hand adjusts the model's own lapel at sternum height while the other hangs relaxed and clearly separated from the garment. Head turns back toward camera, chin neutral, confident expression. Loop lighting with a medium softbox roughly 30 degrees off camera axis and slightly above eye level, creating a small nose shadow that does not connect with the cheek shadow; soft white fill and a uniform taupe background. 85mm lens, framed from mid-thigh upward, sharp eyes, realistic skin and fabric texture. No hand fused into the lapel, long nose shadow, rigid shoulders, text or logos. Vertical 4:5 composition.
+Old Hollywood studio portrait of an adult [model] wearing [elegant classic-lined wardrobe]. Body in three-quarter view beside a low column or simple pedestal, weight on the back leg, front leg lightly crossed without bearing weight, one open hand resting on top of the column and the other touching the model's own waist with visible fingers; lowered shoulders, elongated neck, face turned toward camera and calm expression. Use a Fresnel as a high key light about 35 degrees off camera axis, producing an even focused beam, defined shadows and controlled facial highlights; a second hard light aimed only at the background creates an oval halo behind the head and shoulders, with flags preventing spill. Medium-gray background, 85mm lens, framed from mid-thigh upward, cinematic contrast, realistic skin and detailed fabric. No gobo, no projected pattern, no halo cutting across the face, hands fused into the pedestal, extra fingers, text or logos. Vertical 4:5 composition.
 ```
 
-**Restrição opcional:** `sombra loop curta e separada da bochecha, dedos legíveis, lapela simétrica, sem pose frontal rígida`.
+**Restrição opcional:** `feixe Fresnel uniforme, halo apenas no fundo, duas mãos legíveis, sem padrão gobo, sem preto esmagado`.
 
-**Por que funciona:** a sombra loop acrescenta volume com menor dramaticidade que Rembrandt, enquanto o gesto na lapela dá função clara à mão e reforça a leitura do figurino.
+**Por que funciona:** O Fresnel entrega um feixe focado e uniforme com leitura clássica de cinema; separar o halo no fundo cria profundidade sem repetir rim light ou gobo.
 
 ---
 
-## 22. Silhueta translúcida atrás de scrim com pose expansiva
+## 32. Retrato respirado com LED contínuo e obturador lento
 
-**Uso:** dança, capa musical, moda conceitual, campanha de fragrância e retrato abstrato.
+**Uso:** editorial contemporâneo, músico, dança, retrato experimental e campanha de beleza conceitual.
 
-**Pose-chave:** modelo atrás de tecido difusor, braços em alturas diferentes e pernas afastadas formando uma silhueta legível.
+**Pose-chave:** corpo quase frontal, rosto relativamente estável, mãos realizando um gesto curto e cabelo com movimento mínimo durante a exposição.
 
 ### Prompt em português
 
 ```text
-Fotografia conceitual de estúdio de [modelo adulta] posicionada atrás de um scrim branco translúcido esticado. Pose expansiva e anatômica: pés afastados, peso distribuído, um braço elevado em diagonal acima da cabeça e o outro estendido lateralmente abaixo da linha do ombro, mãos abertas, pescoço longo e cabeça em perfil suave. Uma fonte dura ampla atrás da modelo cria silhueta definida com bordas levemente difusas; pequena luz frontal sobre o scrim preserva sua textura, fundo branco sem objetos. Lente de 70 mm, câmera na altura do peito, corpo inteiro centralizado com espaço negativo ao redor. A pessoa deve aparecer como uma única silhueta, sem detalhes faciais inventados através do tecido. Sem membros extras, mãos fundidas, tecido rasgado, sombra duplicada, texto ou logotipos. Formato 3:4 vertical.
+Retrato experimental de estúdio de [modelo adulta] usando [figurino monocromático]. Corpo quase frontal, pés estáveis e ombros relaxados; durante a exposição, o rosto permanece o mais estável possível enquanto uma mão percorre um arco curto da clavícula até alguns centímetros acima do ombro e a outra permanece baixa, criando movimento deliberado apenas nas mãos e pontas do cabelo. Use somente luz LED contínua, sem flash, com uma fonte suave principal lateral e uma segunda LED colorida muito discreta no fundo. Simule obturador entre 1/15 s e 1/30 s para produzir uma respiração visual leve, não um borrão total; lente de 85 mm, câmera firme na altura dos olhos, enquadramento do peito para cima, olhos reconhecíveis, pele real e rastros suaves restritos às extremidades móveis. Sem segunda cortina, sem múltiplas exposições, sem rosto duplicado, sem mãos extras, sem blur global, texto ou logotipos. Formato 4:5 vertical.
 ```
 
 ### Prompt em inglês
 
 ```text
-Conceptual studio photograph of an adult [model] positioned behind a stretched translucent white scrim. Expansive anatomical pose: feet apart, weight evenly distributed, one arm raised diagonally above the head and the other extended sideways below shoulder level, open hands, elongated neck and head in a gentle profile. A broad hard source behind the model creates a defined silhouette with slightly diffused edges; a small frontal light on the scrim preserves its texture, white uncluttered background. 70mm lens, camera at chest height, centered full body with negative space around it. The person must appear as one single silhouette, without invented facial details through the fabric. No extra limbs, fused hands, torn fabric, duplicated shadow, text or logos. Vertical 3:4 composition.
+Experimental studio portrait of an adult [model] wearing [monochrome wardrobe]. Body nearly frontal, feet stable and shoulders relaxed; during the exposure the face stays as still as possible while one hand traces a short arc from the collarbone to a few centimeters above the shoulder and the other remains low, creating deliberate motion only in the hands and hair tips. Use continuous LED light only, no flash, with one soft side key and a very subtle colored LED on the background. Simulate a shutter speed between 1/15 s and 1/30 s to create gentle visual breathing rather than total blur; 85mm lens, locked camera at eye level, chest-up framing, recognizable eyes, real skin and soft trails restricted to moving extremities. No second-curtain flash, no multiple exposure, no duplicated face, no extra hands, no global blur, text or logos. Vertical 4:5 composition.
 ```
 
-**Restrição opcional:** `exatamente uma pessoa, uma única sombra, mãos separadas, pés completos, tecido contínuo`.
+**Restrição opcional:** `rosto reconhecível, movimento restrito a mãos e cabelo, sem flash, sem dupla exposição, fundo simples`.
 
-**Por que funciona:** o scrim transforma o corpo em forma gráfica; definir alturas diferentes para braços e pernas evita que a silhueta colapse numa massa simétrica.
+**Por que funciona:** Com LED contínuo, o obturador volta a ser ferramenta criativa no estúdio; limitar o movimento a áreas específicas produz energia sem confundir o retrato com um erro de foco.
 
 ---
 
-## 23. Composição zenital geométrica com pose em losango
+## 33. Snoot de feixe fechado com pose ajoelhada e fundo cromático
 
-**Uso:** editorial de moda, dança contemporânea, acessórios, campanha gráfica e pôster.
+**Uso:** capa musical, retrato dramático, editorial de maquiagem, moda conceitual.
 
-**Pose-chave:** modelo deitada de costas, joelhos dobrados em direções opostas e braços formando linhas diagonais sem cobrir o rosto.
+**Pose-chave:** modelo ajoelhada sobre um joelho, outro pé apoiado à frente, mãos separadas entre coxa e quadril, rosto dentro de um único círculo de luz.
 
 ### Prompt em português
 
 ```text
-Fotografia editorial zenital de [modelo adulta] deitada de costas sobre piso fosco [cor neutra], usando [figurino de linhas simples]. Organize o corpo em um losango assimétrico: um joelho dobrado apontando para o canto superior esquerdo, a outra perna parcialmente estendida para o canto inferior direito, um braço dobrado acima da cabeça sem tocar o cabelo e o outro afastado do tronco com a mão aberta; rosto voltado para cima e olhos para a câmera. Câmera perfeitamente perpendicular ao chão em suporte seguro, lente de 50 mm com distância suficiente para evitar distorção. Octabox grande próxima ao eixo da câmera e duas bandeiras laterais criam sombra curta e direção visual; composição de corpo inteiro com margens iguais. Sem perspectiva inclinada, membros encurtados, cabelo cobrindo o rosto, mãos sob o corpo ou articulações impossíveis. Formato 4:5 vertical.
+Retrato dramático de estúdio de [modelo adulta] em pose ajoelhada estável sobre um joelho, com o outro pé apoiado à frente e joelho elevado; tronco ereto, uma mão aberta repousa na coxa elevada e a outra fica junto ao quadril, claramente separada do corpo, rosto ligeiramente voltado para a luz. Use um snoot em uma fonte dura para criar um único feixe circular estreito concentrado no rosto e parte superior do tórax, com queda rápida e borda definida; mantenha braços e pernas em penumbra legível. Uma segunda luz com grid e gel [cor] ilumina somente o fundo, criando gradiente cromático sem tocar a pele. Lente de 70 mm, câmera na altura do peito, enquadramento de três quartos, foco crítico nos olhos, textura natural e sombra profunda com detalhe. Sem vários círculos de luz, sem luz colorida no rosto, sem joelhos fundidos, mãos escondidas, membros extras, texto ou logotipos. Formato 4:5 vertical.
 ```
 
 ### Prompt em inglês
 
 ```text
-Top-down editorial photograph of an adult [model] lying on their back on a matte [neutral-colored] floor, wearing [clean-lined clothing]. Arrange the body into an asymmetrical diamond: one bent knee points toward the upper-left corner, the other leg extends partly toward the lower-right, one arm bends above the head without touching the hair and the other stays away from the torso with an open hand; face points upward and eyes look at camera. Camera perfectly perpendicular to the floor on a secure overhead support, 50mm lens from enough distance to avoid distortion. A large octabox near camera axis and two side flags create a short directional shadow; full-body composition with even margins. No tilted perspective, shortened limbs, hair covering the face, hands trapped under the body or impossible joints. Vertical 4:5 composition.
+Dramatic studio portrait of an adult [model] in a stable kneeling pose on one knee with the other foot planted forward and the knee raised; torso upright, one open hand resting on the raised thigh and the other near the hip, clearly separated from the body, face turned slightly toward the light. Use a snoot on a hard source to create one narrow circular beam concentrated on the face and upper chest, with rapid falloff and a defined edge; keep arms and legs readable in low shadow. A second gridded light with a [color] gel illuminates only the background, creating a chromatic gradient without touching the skin. 70mm lens, camera at chest height, three-quarter framing, critical eye focus, natural texture and deep detailed shadow. No multiple light circles, no colored light on the face, no fused knees, hidden hands, extra limbs, text or logos. Vertical 4:5 composition.
 ```
 
-**Restrição opcional:** `câmera a 90 graus do piso, corpo inteiro, quatro membros visíveis, mãos abertas e separadas`.
+**Restrição opcional:** `exatamente um círculo de luz, gel apenas no fundo, articulações legíveis, olhos nítidos, sem spill colorido na pele`.
 
-**Por que funciona:** a vista zenital elimina a hierarquia tradicional de cima e baixo; a pose em diagonais guia o olhar e reduz sobreposições anatômicas.
+**Por que funciona:** O snoot restringe o feixe com queda rápida, criando hierarquia visual extrema; separar a cor para o fundo mantém o rosto natural e evita repetir o retrato com géis do catálogo.
 
 ---
 
-## 24. Retrato reverso em cadeira com cross-light suave
+## 34. Beauty dish prateado specular com moldura de clavículas
 
-**Uso:** músico, escritor, retrato editorial, branding criativo e campanha casual.
+**Uso:** beauty editorial, maquiagem metálica, skincare de textura, joalheria e campanha de luxo.
 
-**Pose-chave:** modelo sentada ao contrário na cadeira, antebraços sobre o encosto e mãos sobrepostas sem se esconder.
+**Pose-chave:** rosto quase frontal, mãos abertas próximas às clavículas em alturas diferentes, cotovelos fora do quadro e dedos sem tocar o rosto.
 
 ### Prompt em português
 
 ```text
-Retrato de estúdio de [modelo adulta] sentada ao contrário em uma cadeira simples de encosto baixo, usando [figurino casual ou monocromático]. Pernas posicionadas uma de cada lado da cadeira com ambos os pés apoiados, tronco levemente inclinado para a frente sem curvar a lombar, antebraços apoiados em níveis diferentes sobre o encosto, mãos visíveis e apenas parcialmente sobrepostas, ombros baixos; cabeça inclinada poucos graus e olhar direto. Duas stripboxes suaves em cross-light, uma ligeiramente à frente de cada lado, com a luz principal um ponto mais intensa; negative fill frontal baixo e fundo cinza médio. Lente de 85 mm, enquadramento dos joelhos para cima, olhos nítidos, cadeira geometricamente correta e separação clara entre braços. Sem encosto atravessando o corpo, pernas extras, mãos escondidas, postura colapsada ou sombra dupla dura. Formato 4:5 vertical.
+Beauty portrait de estúdio em close de [modelo adulta] usando [maquiagem editorial e acessórios discretos]. Rosto quase frontal, queixo neutro, ombros levemente diagonais; uma mão aberta paira alguns centímetros acima da clavícula mais próxima e a outra repousa suavemente sobre a clavícula oposta, em alturas diferentes, dedos longos e separados sem tocar o rosto. Use beauty dish prateado acima e ligeiramente lateral ao eixo da câmera para uma luz mais specular e contrastada, preservando highlights controlados na testa, maçãs do rosto e lábios; cartão branco baixo devolve apenas fill suficiente aos olhos e bandeiras pretas laterais mantêm contorno. Fundo cinza pérola, lente de 105 mm, enquadramento da testa até abaixo das clavículas, foco nos olhos e textura real da pele. Sem pele molhada artificial, sem clipping nos highlights, sem dedos extras, mãos gigantes, joias duplicadas, texto ou logotipos. Formato 4:5 vertical.
 ```
 
 ### Prompt em inglês
 
 ```text
-Studio portrait of an adult [model] seated backward on a simple low-back chair, wearing [casual or monochrome clothing]. Legs placed on either side of the chair with both feet supported, torso leaning slightly forward without collapsing the lower back, forearms resting at different heights on the backrest, hands visible and only partly overlapping, shoulders lowered; head tilted a few degrees with direct gaze. Two soft stripboxes in cross-light, one slightly forward on each side, with the key one stop brighter; low frontal negative fill and a medium-gray background. 85mm lens, framed from the knees upward, sharp eyes, geometrically correct chair and clear separation between arms. No backrest passing through the body, extra legs, hidden hands, collapsed posture or hard double shadow. Vertical 4:5 composition.
+Close-up studio beauty portrait of an adult [model] wearing [editorial makeup and subtle accessories]. Face nearly frontal, chin neutral, shoulders slightly diagonal; one open hand hovers a few centimeters above the near collarbone and the other rests gently on the opposite collarbone at a different height, long separated fingers without touching the face. Use a silver beauty dish above and slightly off camera axis for a more specular, higher-contrast quality of light, preserving controlled highlights on the forehead, cheekbones and lips; a low white card returns only enough fill to the eyes and black side flags maintain contour. Pearl-gray background, 105mm lens, crop from forehead to just below the collarbones, sharp eyes and real skin texture. No artificial wet skin, no clipped highlights, no extra fingers, oversized hands, duplicated jewelry, text or logos. Vertical 4:5 composition.
 ```
 
-**Restrição opcional:** `uma cadeira apenas, dois braços e duas pernas, pés apoiados, mãos legíveis sobre o encosto`.
+**Restrição opcional:** `highlights preservados, pele com poros, mãos proporcionais, cinco dedos por mão, sem suavização plástica`.
 
-**Por que funciona:** o encosto cria uma base visual e uma ocupação natural para os braços; a cross-light separa rosto, ombros e cadeira sem achatar o volume.
+**Por que funciona:** O beauty dish prateado aumenta especularidade, contraste e microdetalhe em relação ao branco; a pose nas clavículas adiciona desenho gráfico sem cobrir o rosto.
 
 ---
 
-## 25. Beauty macro com prisma em primeiro plano
+## 35. Umbrella prateada frontal com pose expansiva de moda
 
-**Uso:** maquiagem, skincare, joalheria, capa musical e campanha experimental de beleza.
+**Uso:** fashion campaign, street couture, lookbook de impacto, pôster e capa editorial.
 
-**Pose-chave:** rosto em três quartos, queixo estável, mãos fora do quadro e prisma próximo à lente sem cobrir olhos ou boca.
+**Pose-chave:** corpo inteiro frontal, pés em base larga, um braço elevado em diagonal e o outro afastado do tronco, criando silhueta ampla.
 
 ### Prompt em português
 
 ```text
-Beauty portrait macro de estúdio de [modelo adulta] com o rosto em três quartos, ombros quase frontais, queixo neutro e olhar fixo na lente. Mãos completamente fora do quadro para manter a anatomia simples. Posicione um pequeno prisma óptico real próximo à borda inferior da lente, produzindo uma única refração colorida controlada apenas sobre a bochecha externa e o fundo, sem duplicar olhos, nariz ou boca. Luz principal ampla e difusa frontal-lateral, cartão branco abaixo do rosto e pequeno kicker no cabelo; fundo preto acetinado. Lente macro de 100 mm, enquadramento muito fechado do topo da testa até a base do pescoço, foco crítico no olho mais próximo, poros e cílios naturais, highlights preservados. Sem rosto duplicado, arco-íris cobrindo os olhos, pele plástica, aberração cromática global, texto ou marcas. Formato 4:5 vertical.
+Fotografia de moda de estúdio em corpo inteiro de [modelo adulta] usando [look estrutural ou street couture]. Pose frontal expansiva: pés afastados um pouco além da largura dos ombros, peso equilibrado, joelho de uma perna discretamente relaxado, um braço elevado em diagonal com cotovelo suave e mão aberta acima da linha da cabeça, o outro braço afastado do tronco com mão próxima ao quadril sem encostar na roupa; cabeça levemente girada e olhar direto. Use uma umbrella prateada grande próxima ao eixo da câmera e ligeiramente acima da cabeça para luz frontal mais focada, crisp e contrastada, com duas bandeiras pretas laterais para controlar spill e um rebatedor branco discreto abaixo para abrir sombras. Fundo branco quebrado ou cinza muito claro, lente de 50 mm usada a distância suficiente para corpo inteiro, câmera na altura da cintura, tecido e contornos nítidos, sombra definida porém não dura demais. Sem pose em contrapposto clássica, sem braços fundidos, mãos escondidas, pés cortados, sombra dupla, texto ou logotipos. Formato 2:3 vertical.
 ```
 
 ### Prompt em inglês
 
 ```text
-Macro studio beauty portrait of an adult [model] with the face in three-quarter view, shoulders nearly frontal, chin neutral and gaze fixed on the lens. Hands completely outside the frame to keep anatomy simple. Place one small real optical prism near the lower edge of the lens, producing a single controlled colored refraction only across the outer cheek and background, without duplicating the eyes, nose or mouth. Broad diffused front-side key light, white card below the face and a small hair kicker; satin-black background. 100mm macro lens, very tight crop from the top of the forehead to the base of the neck, critical focus on the nearest eye, natural pores and eyelashes, preserved highlights. No duplicated face, rainbow covering the eyes, plastic skin, global chromatic aberration, text or branding. Vertical 4:5 composition.
+Full-body studio fashion photograph of an adult [model] wearing [a structured look or street couture]. Expansive frontal pose: feet slightly wider than shoulder width, balanced weight, one knee subtly relaxed, one arm raised diagonally with a soft elbow and open hand above head level, the other arm held away from the torso with the hand near the hip without touching the garment; head slightly turned and direct gaze. Use a large silver umbrella close to camera axis and slightly above head height for a more focused, crisp, higher-contrast frontal light, with two black side flags controlling spill and a subtle white reflector below to open shadows. Off-white or very light gray background, 50mm lens from enough distance for full-body proportions, camera at waist height, crisp fabric and contours, defined but not excessively hard shadow. No classic contrapposto pose, no fused arms, hidden hands, cropped feet, double shadow, text or logos. Vertical 2:3 composition.
 ```
 
-**Restrição opcional:** `um único rosto, dois olhos coerentes, refração localizada, olho mais próximo perfeitamente nítido`.
+**Restrição opcional:** `corpo inteiro, quatro membros claramente separados, luz frontal crisp, sem sombra dupla, mãos e pés completos`.
 
-**Por que funciona:** o prisma cria interesse óptico sem exigir uma pose complexa; restringir a refração a uma área impede duplicações faciais e mantém o retrato utilizável.
-
----
-
-## 26. Checkerboard lighting com pose sentada em diagonal
-
-**Uso:** retrato fine art, editorial de moda, capa de álbum e retrato dramático.
-
-**Pose-chave:** modelo sentada em banco baixo, tronco em diagonal, rosto voltado para o lado iluminado e mãos separadas, uma no joelho e outra no banco.
-
-### Prompt em português
-
-```text
-Retrato fine art de estúdio de [modelo adulta] sentada em um banco baixo diante de fundo cinza texturizado. Quadris apontados 30 graus para fora da câmera, tronco inclinado levemente na diagonal, uma perna avançada com o pé completamente apoiado e a outra recolhida, uma mão repousa aberta sobre o joelho e a outra toca o banco ao lado do quadril, sem esconder os dedos. Rosto gira para o lado da luz, mas os olhos retornam à câmera, expressão séria e tranquila. Crie checkerboard lighting: fonte grande e suave lateralmente à frente, levemente feathered para que o lado iluminado do rosto fique diante da área escura do fundo; bloqueie parte da luz no fundo com V-flat preto e mantenha a área oposta do rosto sobre a região mais clara do fundo. Fill mínimo para preservar textura. Lente de 85 mm, enquadramento dos joelhos para cima, olhos nítidos, textura natural de pele e tecido, contraste elegante. Sem mãos fundidas ao banco ou joelho, pernas extras, fundo iluminado uniformemente, sombras sem direção, texto ou logotipos. Formato 4:5 vertical.
-```
-
-### Prompt em inglês
-
-```text
-Fine-art studio portrait of an adult [model] seated on a low bench in front of a textured gray backdrop. Hips turned 30 degrees away from camera, torso leaning slightly on a diagonal, one leg extended with the foot fully supported and the other tucked back, one hand resting open on the knee and the other touching the bench beside the hip with fingers clearly visible. Face turns toward the lit side while the eyes return to camera, calm serious expression. Create checkerboard lighting: a large soft source placed slightly forward and to the side, feathered so the lit side of the face sits against the darker side of the background; block part of the background light with a black V-flat and place the shadow side of the face against the brighter background area. Minimal fill to preserve texture. 85mm lens, knees-up framing, sharp eyes, natural skin and fabric texture, elegant contrast. No hands fused to bench or knee, extra legs, evenly lit background, directionless shadows, text or logos. Vertical 4:5 composition.
-```
-
-**Restrição opcional:** `quatro membros plausíveis, mãos separadas, padrão claro de luz e fundo, sombra com detalhe, olhos nítidos`.
-
-**Por que funciona:** o checkerboard inverte deliberadamente a relação entre luz e sombra do rosto e do fundo, criando contraste espacial sem depender de uma luz dura. A pose diagonal repete essa linguagem geométrica.
-
----
-
-## 27. Perspectiva baixa com lente 35 mm e pose de passarela
-
-**Uso:** campanha de moda, streetwear, calçados, pôster editorial e fotografia de corpo inteiro.
-
-**Pose-chave:** câmera baixa, uma perna avançada em direção à câmera, quadril recuado, tronco alto e braços assimétricos.
-
-### Prompt em português
-
-```text
-Fotografia editorial de moda em estúdio de [modelo adulta] em pé sobre um ciclorama neutro, usando [look de moda contemporânea]. Câmera baixa posicionada pouco acima do chão e inclinada apenas o suficiente para enquadrar o corpo inteiro; uma perna avança em direção à câmera com o pé totalmente apoiado, a outra fica atrás suportando a maior parte do peso, quadril recua levemente, tronco permanece alongado e cabeça acima do eixo do corpo. Um braço dobra com a mão na cintura e o outro cai naturalmente afastado do torso, dedos visíveis. Lente de 35 mm usada a distância suficiente para preservar proporções, sem aproximação extrema do rosto; iluminação ampla lateral com softbox grande, fill discreto e fundo contínuo cinza claro. Deixe espaço ao redor dos pés e da cabeça, linhas do ciclorama retas e perspectiva deliberada. Sem pés gigantes, rosto distorcido, joelhos impossíveis, dedos fundidos, câmera visível ou texto. Formato 2:3 vertical.
-```
-
-### Prompt em inglês
-
-```text
-Full-body studio fashion photograph of an adult [model] standing on a neutral cyclorama, wearing [contemporary fashion look]. Low camera positioned slightly above the floor and tilted only enough to frame the entire body; one leg advances toward camera with the foot fully supported, the other remains behind carrying most of the weight, hips slightly back, torso elongated and head above the body's axis. One arm bends with hand at the waist while the other falls naturally away from the torso with visible fingers. 35mm lens used from enough distance to preserve proportions, avoiding extreme facial proximity; broad side light from a large softbox, subtle fill and continuous light-gray background. Leave space around feet and head, keep cyclorama lines straight and perspective intentional. No oversized feet, distorted face, impossible knees, fused fingers, visible camera or text. Vertical 2:3 composition.
-```
-
-**Restrição opcional:** `corpo inteiro completo, ambos os pés visíveis, perspectiva baixa deliberada, rosto sem distorção exagerada`.
-
-**Por que funciona:** a câmera baixa cria presença e alongamento visual, mas a distância de trabalho evita que a lente de 35 mm deforme excessivamente rosto e calçados.
-
----
-
-## 28. Giro congelado com sincronismo de segunda cortina
-
-**Uso:** dança, moda em movimento, capa musical e campanha de tecidos fluidos.
-
-**Pose-chave:** corpo iniciando giro, pé de apoio estável, cabeça retornando à câmera e tecido formando uma cauda lateral.
-
-### Prompt em português
-
-```text
-Fotografia de movimento em estúdio de [modelo adulta] usando [vestido, casaco ou saia de tecido fluido]. Modelo inicia um giro para a direita: pé de apoio completamente plantado, segundo pé em meia-ponta, quadris e tronco seguindo a rotação, braço externo conduzindo o tecido e braço interno próximo ao corpo, cabeça retorna para a câmera no final do movimento, olhar nítido. Use sincronismo de segunda cortina com flash curto para registrar uma base de movimento contínuo antes do disparo final, mantendo o rosto e o corpo definidos no término da trajetória; reduza a luz ambiente para evitar ghosting. Fundo escuro neutro, uma luz principal ampla lateral e pequena luz de recorte atrás para separar o tecido. Lente de 70 mm, corpo inteiro com grande espaço lateral para a cauda do tecido, bordas do tecido com arrasto suave e rosto perfeitamente congelado. Sem dois pares de pés, braços duplicados, tecido atravessando o corpo, rosto borrado, trajetória aleatória, texto ou logotipos. Formato 4:5 vertical.
-```
-
-### Prompt em inglês
-
-```text
-Studio motion photograph of an adult [model] wearing [a dress, coat or flowing skirt]. The model begins a turn to the right: support foot fully planted, second foot on the ball, hips and torso following the rotation, outer arm guiding the fabric and inner arm close to the body, head returning to camera at the end of the movement, sharp gaze. Use second-curtain synchronization with short flash duration to record a continuous motion trail before the final exposure, keeping face and body defined at the end of the trajectory; reduce ambient light to prevent ghosting. Neutral dark background, broad side key light and small rear kicker to separate the fabric. 70mm lens, full-body framing with generous lateral space for the fabric trail, soft fabric motion blur and perfectly frozen face. No duplicate feet, duplicated arms, fabric passing through body, blurred face, random trajectory, text or logos. Vertical 4:5 composition.
-```
-
-**Restrição opcional:** `um único instante final do corpo, arrasto somente no tecido, rosto nítido, trajetória lateral coerente`.
-
-**Por que funciona:** a segunda cortina coloca o rastro de movimento antes do instante congelado, fazendo a direção do giro parecer causal em vez de simplesmente adicionar blur decorativo.
-
----
-
-## 29. Kicker light com pose de ombro e contraste controlado
-
-**Uso:** retrato executivo premium, ator, campanha de alfaiataria e branding pessoal.
-
-**Pose-chave:** corpo em três quartos, ombro mais distante recuado, cabeça retorna para a câmera e uma mão segura discretamente a própria manga.
-
-### Prompt em português
-
-```text
-Retrato premium de estúdio de [modelo adulta] usando [terno, blazer ou figurino estruturado]. Corpo em três quartos, ombro mais distante recuado, peso distribuído entre os dois pés, tronco alto; uma mão segura discretamente a própria manga na altura do pulso e a outra permanece relaxada junto à lateral do corpo, ambas separadas do torso. Cabeça retorna para a câmera, queixo neutro e expressão confiante. Beauty dish branco ou softbox médio como luz principal a 35 graus da câmera, fill baixo do lado oposto e kicker estreito com grid de 20 graus atrás do modelo, atingindo somente a borda do ombro e cabelo para separação. Fundo cinza escuro ligeiramente mais claro atrás da silhueta, bandeiras pretas controlando spill. Lente de 105 mm, enquadramento do peito para cima, olhos nítidos, textura realista de pele e alfaiataria. Sem halo excessivo, kicker atingindo o rosto, mãos fundidas à manga, ombros deformados, fundo estourado, texto ou logotipos. Formato 4:5 vertical.
-```
-
-### Prompt em inglês
-
-```text
-Premium studio portrait of an adult [model] wearing [a suit, blazer or structured outfit]. Body in three-quarter view, far shoulder pulled slightly back, weight distributed between both feet, upright torso; one hand subtly holds the own sleeve at wrist level and the other rests relaxed beside the body, both clearly separated from the torso. Head returns toward camera, neutral chin and confident expression. White beauty dish or medium softbox as key light 35 degrees from camera, low fill on the opposite side and a narrow 20-degree gridded kicker behind the model, hitting only the shoulder and hair edge for separation. Dark gray background slightly brighter behind the silhouette, black flags controlling spill. 105mm lens, chest-up framing, sharp eyes, realistic skin and tailoring texture. No excessive halo, kicker hitting face, hands fused to sleeve, distorted shoulders, blown background, text or logos. Vertical 4:5 composition.
-```
-
-**Restrição opcional:** `kicker somente em ombro e cabelo, halo mínimo, duas mãos coerentes, fundo sem flare`.
-
-**Por que funciona:** o kicker é usado como ferramenta de separação, não como segunda luz dramática no rosto. A pose mantém a linha do ombro clara para que a borda iluminada tenha uma função visual precisa.
-
----
-
-## 30. Top light escultural com pose agachada e rebatedor de chão
-
-**Uso:** editorial de moda, retrato conceitual, capa de álbum e campanha de calçados.
-
-**Pose-chave:** agachamento assimétrico estável, um joelho alto e outro baixo, tronco inclinado para frente e mãos separadas em planos diferentes.
-
-### Prompt em português
-
-```text
-Retrato editorial escultural de estúdio de [modelo adulta] usando [figurino minimalista e calçados de destaque]. Modelo em agachamento assimétrico estável: um pé totalmente apoiado e joelho alto, o outro pé apoiado mais atrás com joelho baixo, quadril próximo dos calcanhares sem colapsar, tronco inclinado levemente para a frente e coluna alongada. Uma mão repousa sobre o joelho alto com dedos separados e a outra toca o chão ao lado do corpo sem esconder o pulso. Cabeça inclinada poucos graus para baixo, olhos levantam para a câmera. Fonte grande e difusa acima e ligeiramente à frente cria top light escultural; rebatedor branco no chão abaixo do rosto devolve luz suave aos olhos e mandíbula, com bandeiras laterais pretas para impedir que a luz preencha demais o fundo. Fundo cinza médio, lente de 85 mm, câmera pouco abaixo da linha dos olhos, enquadramento de corpo inteiro com espaço ao redor dos pés. Sem articulações impossíveis, joelhos fundidos, mãos sob o corpo, olhos perdidos na sombra, pés cortados, fundo chapado ou texto. Formato 4:5 vertical.
-```
-
-### Prompt em inglês
-
-```text
-Sculptural studio editorial portrait of an adult [model] wearing [minimal clothing with statement footwear]. The model holds a stable asymmetrical crouch: one foot fully planted with a high knee, the other foot supported farther back with a lower knee, hips close to the heels without collapsing, torso leaning slightly forward with an elongated spine. One hand rests on the high knee with separated fingers and the other touches the floor beside the body without hiding the wrist. Head tilts only a few degrees downward while eyes look up toward camera. A large diffused source above and slightly forward creates sculptural top light; a white floor reflector bounces soft light into the eyes and jawline, with black side flags preventing excessive fill on the background. Medium-gray background, 85mm lens, camera slightly below eye level, full-body framing with space around the feet. No impossible joints, fused knees, hands trapped under body, lost eyes in shadow, cropped feet, flat background or text. Vertical 4:5 composition.
-```
-
-**Restrição opcional:** `um único agachamento, ambos os pés completos, joelhos separados, duas mãos visíveis, rebatedor apenas como fill`.
-
-**Por que funciona:** a top light cria sombras estruturais, enquanto o rebatedor de chão preserva os olhos e a mandíbula. A pose baixa produz uma silhueta compacta, mas as mãos e joelhos são separados por planos para reduzir ambiguidades anatômicas.
+**Por que funciona:** A umbrella prateada entrega luz mais focada e contrastada que a branca; a pose ampla usa essa frontalidade como linguagem gráfica em vez de tentar suavizá-la.
 
 ---
 
