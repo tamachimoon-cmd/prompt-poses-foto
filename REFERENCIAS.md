@@ -1,6 +1,6 @@
 # Referências e Metodologia
 
-Pesquisa inicial realizada em **2 de agosto de 2026** e ampliada em **3, 4, 6, 7 e 8 de agosto de 2026**. A curadoria prioriza documentação oficial de geração de imagens e materiais educacionais de fabricantes e plataformas reconhecidas de fotografia.
+Pesquisa inicial realizada em **2 de agosto de 2026** e ampliada em **3, 4, 6, 7, 8 e 9 de agosto de 2026**. A curadoria prioriza documentação oficial de geração de imagens e materiais educacionais de fabricantes e plataformas reconhecidas de fotografia.
 
 ## Critérios usados
 
@@ -23,7 +23,9 @@ Pesquisa inicial realizada em **2 de agosto de 2026** e ampliada em **3, 4, 6, 7
 - Olhos devem receber prioridade de foco.
 - Poses complexas funcionam melhor quando descritas pela mecânica corporal.
 - Movimento deve especificar qual parte fica nítida e qual pode apresentar arrasto.
-- Modificadores como Fresnel, snoot, beauty dish e umbrella devem ser descritos pelo efeito visual produzido, não como palavras mágicas.
+- Modificadores devem ser descritos pelo efeito visual produzido, não como palavras mágicas.
+- Negative fill é uma ferramenta de subtração: remove luz refletida para reforçar contorno e contraste.
+- Polarizadores circulares reduzem reflexos de superfícies não metálicas como vidro; o efeito deve ser tratado como controle, não como obrigação de zerar toda reflexão.
 
 ## Fontes principais
 
@@ -32,11 +34,11 @@ Pesquisa inicial realizada em **2 de agosto de 2026** e ampliada em **3, 4, 6, 7
 1. OpenAI Academy — Creating images with ChatGPT, 10 de abril de 2026  
    https://openai.com/academy/image-generation/
 
-2. Adobe Firefly — Generate realistic photos with a prompt formula, 13 de abril de 2026  
-   https://www.adobe.com/us/learn/firefly/web/generate-realistic-photos
+2. Adobe Firefly — Generate realistic photos with a prompt formula, abril de 2026  
+   https://helpx.adobe.com/pt/firefly/how-to/generate-realistic-photos.html
 
-3. Adobe Firefly — Generate images from text descriptions, atualizado em julho de 2026  
-   https://helpx.adobe.com/firefly/web/work-with-images/generate-images/generate-images-from-text-descriptions.html
+3. Adobe Firefly — Match image composition to reference image, atualizado em 16 de junho de 2026  
+   https://helpx.adobe.com/firefly/web/work-with-images/generate-images/match-image-composition-to-reference-image.html
 
 4. Adobe Firefly — Art composition  
    https://www.adobe.com/products/firefly/features/text-to-image/art-composition.html
@@ -46,35 +48,35 @@ Pesquisa inicial realizada em **2 de agosto de 2026** e ampliada em **3, 4, 6, 7
 5. Nikon — Quick Tips for Taking Better Portraits  
    https://www.nikonusa.com/learn-and-explore/c/tips-and-techniques/quick-tips-for-taking-better-portraits
 
-6. Profoto — Fresnels for cinematic and natural lighting effects  
-   https://www.profoto.com/gb/en/still-photography/experience/fresnels/
+6. Profoto — Softlight Reflector for Ring Flash  
+   https://www.profoto.com/pt/en/shop/products/light-shaping-tools/beauty-dishes/softlight-reflector-for-ring-flash/
 
-7. Profoto — What's the difference between grids and snoots  
-   https://www.profoto.com/us/en/still-photography/tips-tricks/difference-between-grids-and-snoot
+7. Profoto — Hardbox  
+   https://www.profoto.com/us/en/shop/products/light-shaping-tools/special-effect-tools/hardbox-item/
 
-8. Profoto — How to choose between a white and a silver beauty dish  
-   https://www.profoto.com/us/en/still-photography/tips-tricks/choose-between-white-and-silver-beauty-dish/ImportedBlogPage
+8. Profoto — Softbox 1x4 Silver / stripbox  
+   https://www.profoto.com/us/en/shop/products/light-shaping-tools/softboxes/profoto-softbox-1x4-30x120cm-silver---demo-unit/
 
-9. Profoto — A new generation of lights, Part 2: Seeing differently  
-   https://www.profoto.com/int/en/still-photography/profoto-stories/a-new-generation-of-lights/seeing-differently-the-creative-techneques
+9. Profoto — How to create a close-up beauty portrait  
+   https://www.profoto.com/nl/en/still-photography/tips-tricks/how-to-create-a-close-up-beauty-portrait/
 
-10. Profoto — What's the difference between a white and silver umbrella?  
-    https://www.profoto.com/us/en/still-photography/tips-tricks/What-is-the-difference-between-a-white-and-silver-umbrella
+10. Nikon — Polarizing Filters Add POW to Pictures  
+    https://www.nikonusa.com/learn-and-explore/c/tips-and-techniques/polarizing-filters-add-pow-to-pictures
 
-11. Profoto — Softboxes for beautifully soft, natural light  
-    https://www.profoto.com/int/en/still-photography/experience/softboxes
+11. Sony — Circular PL Filter: suppression of reflections and glare  
+    https://electronics.sony.com/imaging/imaging-accessories/all-accessories/p/vf72cpam2
 
-## Atualização de 8 de agosto de 2026
+## Atualização de 9 de agosto de 2026
 
-Foram adicionados cinco conceitos materialmente diferentes dos trinta anteriores:
+Foram adicionados cinco conceitos materialmente diferentes dos trinta e cinco anteriores:
 
-- **Fresnel Old Hollywood**, explorando feixe focado e uniforme com halo de fundo, sem gobo;
-- **LED contínuo com obturador lento**, usando 1/15–1/30 s para movimento controlado sem flash;
-- **snoot de feixe fechado**, isolando rosto e tórax e separando a cor exclusivamente para o fundo;
-- **beauty dish prateado**, priorizando especularidade, contraste e microdetalhe de pele;
-- **umbrella prateada frontal**, criando luz mais focada e crisp para uma pose expansiva de moda.
+- **ring flash frontal**, explorando luz axial uniforme e sombra mínima em beauty;
+- **Hardbox como sol direto**, priorizando uma única sombra dura e highlights pontuais;
+- **duas stripboxes laterais**, desenhando contorno bilateral sem transformar o centro do rosto em uma terceira luz;
+- **negative fill duplo**, aumentando volume por remoção de luz refletida em vez de adicionar fontes;
+- **vidro com polarizador circular**, reduzindo glare mas preservando um reflexo residual intencional.
 
-A OpenAI recomenda prompts claros, específicos e orientados por propósito, assunto, ação, composição, luz e restrições. A Adobe reforça controle de pose, framing, iluminação, câmera e textura. A Profoto documenta o Fresnel como feixe focado e uniforme; o snoot como feixe restrito com borda mais definida; o beauty dish prateado como mais specular e contrastado que o branco; e a umbrella prateada como mais focada e crisp. Em março de 2026, a Profoto também destacou o uso criativo de obturadores lentos com LEDs contínuos em retratos de estúdio.
+A OpenAI recomenda prompts claros e descritivos, com propósito, assunto, ação, composição, luz e restrições quando relevantes. A Adobe reforça controle explícito de pose, enquadramento, configurações de câmera, iluminação e textura, além do uso de referências de composição para estrutura e profundidade. A Profoto documenta ring flash/reflector para luz mais uniforme, Hardbox para luz extremamente dura semelhante ao sol direto, stripboxes para bordas longas e separação do fundo, e black flags para negative fill. Nikon e Sony documentam polarizadores circulares como recurso para reduzir glare e reflexos em superfícies não metálicas, incluindo vidro.
 
 ## Autoria
 
