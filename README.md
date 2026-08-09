@@ -1,13 +1,13 @@
 # Prompt Poses Foto
 
-Coleção curada de **35 prompts reutilizáveis para fotografia de estúdio com modelos adultos**, cobrindo retrato beauty, editorial, corpo inteiro, movimento, iluminação clássica, luz contínua, Fresnel, snoot, beauty dish, umbrella, silhueta, refração e direção de pose.
+Coleção curada de **40 prompts reutilizáveis para fotografia de estúdio com modelos adultos**, cobrindo retrato beauty, editorial, corpo inteiro, movimento, iluminação clássica, luz contínua, Fresnel, snoot, beauty dish, umbrella, ring flash, luz dura tipo sol, stripboxes, negative fill, polarização, silhueta, refração e direção de pose.
 
 Os prompts seguem uma estrutura consistente: finalidade, modelo e figurino, pose, enquadramento, iluminação, lente, textura, fundo e restrições anatômicas.
 
 ## Conteúdo
 
-- [`PROMPTS.md`](PROMPTS.md): catálogo principal consolidado e conteúdo integral dos prompts 31–35.
-- [`prompts.json`](prompts.json): catálogo estruturado com IDs 1–35.
+- [`PROMPTS.md`](PROMPTS.md): catálogo principal consolidado e conteúdo integral dos prompts 31–40.
+- [`prompts.json`](prompts.json): catálogo estruturado com IDs 1–40.
 - [`prompts/2026-08-03.md`](prompts/2026-08-03.md): prompts 11–15.
 - [`prompts/2026-08-04.md`](prompts/2026-08-04.md): prompts 16–20.
 - [`prompts/2026-08-07.md`](prompts/2026-08-07.md): prompts 26–30.
@@ -17,11 +17,11 @@ Os prompts 1–10 e 21–25 continuam acessíveis por revisões históricas perm
 
 ## Novos estilos adicionados
 
-31. Fresnel Old Hollywood com pose de coluna e halo de fundo
-32. Retrato respirado com LED contínuo e obturador lento
-33. Snoot de feixe fechado com pose ajoelhada e fundo cromático
-34. Beauty dish prateado specular com moldura de clavículas
-35. Umbrella prateada frontal com pose expansiva de moda
+36. Ring flash beauty frontal com sombra mínima e ombro avançado
+37. Hardbox sol direto com pose de meio-passo e sombra única
+38. Duas stripboxes laterais com contorno bilateral e centro escuro
+39. Negative fill duplo com luz frontal suave e retrato escultórico
+40. Retrato através de vidro com polarizador e reflexo residual controlado
 
 ## Fórmula-base
 
