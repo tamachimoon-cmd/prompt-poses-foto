@@ -6,14 +6,14 @@ Os prompts seguem uma estrutura consistente: finalidade, modelo e figurino, pose
 
 ## Conteúdo
 
-- [`PROMPTS.md`](PROMPTS.md): catálogo principal consolidado e conteúdo integral dos prompts 31–40.
+- [`PROMPTS.md`](PROMPTS.md): catálogo principal consolidado e conteúdo integral dos prompts 36–40.
 - [`prompts.json`](prompts.json): catálogo estruturado com IDs 1–40.
 - [`prompts/2026-08-03.md`](prompts/2026-08-03.md): prompts 11–15.
 - [`prompts/2026-08-04.md`](prompts/2026-08-04.md): prompts 16–20.
 - [`prompts/2026-08-07.md`](prompts/2026-08-07.md): prompts 26–30.
 - [`REFERENCIAS.md`](REFERENCIAS.md): metodologia e fontes consultadas.
 
-Os prompts 1–10 e 21–25 continuam acessíveis por revisões históricas permanentes linkadas diretamente no índice de `PROMPTS.md`.
+Os prompts 1–10, 21–25 e 31–35 continuam acessíveis por revisões históricas permanentes linkadas diretamente no índice de `PROMPTS.md`; os demais blocos históricos permanecem nos arquivos datados existentes.
 
 ## Novos estilos adicionados
 
