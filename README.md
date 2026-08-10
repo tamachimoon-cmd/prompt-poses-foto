@@ -1,13 +1,13 @@
 # Prompt Poses Foto
 
-Coleção curada de **40 prompts reutilizáveis para fotografia de estúdio com modelos adultos**, cobrindo retrato beauty, editorial, corpo inteiro, movimento, iluminação clássica, luz contínua, Fresnel, snoot, beauty dish, umbrella, ring flash, luz dura tipo sol, stripboxes, negative fill, polarização, silhueta, refração e direção de pose.
+Coleção curada de **45 prompts reutilizáveis para fotografia de estúdio com modelos adultos**, cobrindo retrato beauty, editorial, corpo inteiro, movimento, iluminação clássica, luz contínua, Fresnel, snoot, beauty dish, umbrella, ring flash, luz dura tipo sol, stripboxes, negative fill, polarização, silhueta, refração, projection spot, tilt-shift, refletor parabólico, grid de fundo e direção de pose.
 
 Os prompts seguem uma estrutura consistente: finalidade, modelo e figurino, pose, enquadramento, iluminação, lente, textura, fundo e restrições anatômicas.
 
 ## Conteúdo
 
-- [`PROMPTS.md`](PROMPTS.md): catálogo principal consolidado e conteúdo integral dos prompts 36–40.
-- [`prompts.json`](prompts.json): catálogo estruturado com IDs 1–40.
+- [`PROMPTS.md`](PROMPTS.md): catálogo principal consolidado e conteúdo integral dos prompts 36–45.
+- [`prompts.json`](prompts.json): catálogo estruturado com IDs 1–45.
 - [`prompts/2026-08-03.md`](prompts/2026-08-03.md): prompts 11–15.
 - [`prompts/2026-08-04.md`](prompts/2026-08-04.md): prompts 16–20.
 - [`prompts/2026-08-07.md`](prompts/2026-08-07.md): prompts 26–30.
@@ -17,11 +17,11 @@ Os prompts 1–10, 21–25 e 31–35 continuam acessíveis por revisões histór
 
 ## Novos estilos adicionados
 
-36. Ring flash beauty frontal com sombra mínima e ombro avançado
-37. Hardbox sol direto com pose de meio-passo e sombra única
-38. Duas stripboxes laterais com contorno bilateral e centro escuro
-39. Negative fill duplo com luz frontal suave e retrato escultórico
-40. Retrato através de vidro com polarizador e reflexo residual controlado
+41. Spot óptico com íris circular e pose de perfil interrompido
+42. Tilt-shift 135 mm com plano de foco diagonal entre olhos e mão
+43. Para 133 focado com pose torsionada e contraste hard-soft
+44. Umbrella Deep White em luz envolvente com pose sentada fechada
+45. Halo de fundo com grid 5° e pose deslocada no terço
 
 ## Fórmula-base
 
@@ -39,6 +39,8 @@ Os prompts 1–10, 21–25 e 31–35 continuam acessíveis por revisões histór
 - Prefira olhos nítidos e mãos com função clara.
 - Use referências de composição quando a ferramenta permitir.
 - Configurações de câmera funcionam como vocabulário visual; não garantem simulação física exata.
+- Em tilt-shift, descreva o plano que deve permanecer em foco para evitar o efeito miniatura acidental.
+- Em luz de projeção ou grids, especifique exatamente onde o feixe deve e não deve atingir.
 - Respeite consentimento, direitos de imagem e regras da plataforma.
 
 ## Licenciamento
