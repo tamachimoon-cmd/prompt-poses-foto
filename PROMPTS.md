@@ -1,6 +1,6 @@
-# 40 Prompts de Fotografia de Estúdio e Poses de Modelo
+# 45 Prompts de Fotografia de Estúdio e Poses de Modelo
 
-Catálogo principal consolidado. Os prompts 1–35 permanecem acessíveis por arquivos históricos ou revisões permanentes; os prompts 36–40 estão completos nesta página.
+Catálogo principal consolidado. Os prompts 1–35 permanecem acessíveis por arquivos históricos ou revisões permanentes; os prompts 36–45 estão completos nesta página.
 
 ## Índice consolidado
 
@@ -44,6 +44,11 @@ Catálogo principal consolidado. Os prompts 1–35 permanecem acessíveis por ar
 38. [Duas stripboxes laterais com contorno bilateral e centro escuro](#38-duas-stripboxes-laterais-com-contorno-bilateral-e-centro-escuro)
 39. [Negative fill duplo com luz frontal suave e retrato escultórico](#39-negative-fill-duplo-com-luz-frontal-suave-e-retrato-escultorico)
 40. [Retrato através de vidro com polarizador e reflexo residual controlado](#40-retrato-atraves-de-vidro-com-polarizador-e-reflexo-residual-controlado)
+41. [Spot óptico com íris circular e pose de perfil interrompido](#41-spot-optico-com-iris-circular-e-pose-de-perfil-interrompido)
+42. [Tilt-shift 135 mm com plano de foco diagonal entre olhos e mão](#42-tilt-shift-135-mm-com-plano-de-foco-diagonal-entre-olhos-e-mao)
+43. [Para 133 focado com pose torsionada e contraste hard-soft](#43-para-133-focado-com-pose-torsionada-e-contraste-hard-soft)
+44. [Umbrella Deep White em luz envolvente com pose sentada fechada](#44-umbrella-deep-white-em-luz-envolvente-com-pose-sentada-fechada)
+45. [Halo de fundo com grid 5° e pose deslocada no terço](#45-halo-de-fundo-com-grid-5-e-pose-deslocada-no-terco)
 
 ---
 
@@ -164,6 +169,126 @@ Editorial studio portrait of an adult [model] photographed through a vertical cl
 **Restrição opcional:** `um único reflexo residual, rosto sem duplicação, câmera invisível, vidro plano, glare reduzido mas não zerado`.
 
 **Por que funciona:** O polarizador circular reduz reflexos em superfícies não metálicas como vidro. Manter um reflexo residual controlado preserva profundidade e evita que a técnica vire apenas uma cópia do retrato com espelho.
+
+---
+
+## 41. Spot óptico com íris circular e pose de perfil interrompido
+
+**Uso:** editorial conceitual, retrato teatral, capa musical, joalheria e campanha de moda gráfica.
+
+**Pose-chave:** corpo em perfil quase completo, rosto retorna parcialmente à câmera e uma mão entra apenas na borda inferior do círculo de luz.
+
+### Prompt em português
+
+```text
+Retrato editorial de estúdio de [modelo adulta] diante de fundo preto fosco, com corpo em perfil quase completo para a esquerda, ombro mais próximo da câmera baixo, rosto retornando cerca de 25 graus para a lente e olhar direto; uma mão permanece baixa junto ao quadril e a outra sobe até a altura do esterno, entrando apenas com os dedos na borda inferior da área iluminada. Use um projection spot óptico com lente focalizável e íris fechada para projetar um único círculo de luz branco, limpo e de borda definida, centrado sobre rosto e parte superior do torso; mantenha o restante da cena dois a três stops mais escuro, sem padrão de gobo e sem segunda luz de recorte. Lente de 85 mm, enquadramento da cintura para cima, foco crítico no olho mais próximo, textura natural da pele e borda do círculo geometricamente regular. Sem múltiplos círculos, sem gobo decorativo, sem luz vazando no fundo, sem mão cortando olhos ou boca, sem membros extras, texto ou logotipos. Formato 4:5 vertical.
+```
+
+### Prompt em inglês
+
+```text
+Editorial studio portrait of an adult [model] against a matte black background, body in an almost complete left profile, camera-side shoulder lowered, face turning back about 25 degrees toward the lens with direct gaze; one hand remains low beside the hip while the other rises to sternum height, placing only the fingers into the lower edge of the illuminated area. Use an optical projection spot with a focusable lens and a closed iris to project one clean white circle of light with a defined edge, centered over the face and upper torso; keep the rest of the scene two to three stops darker, with no gobo pattern and no second rim light. 85mm lens, waist-up framing, critical focus on the nearest eye, natural skin texture and a geometrically regular circle edge. No multiple circles, no decorative gobo, no light spill on background, no hand crossing eyes or mouth, no extra limbs, text or logos. Vertical 4:5 composition.
+```
+
+**Restrição opcional:** `um único círculo de luz, borda óptica limpa, sem gobo, fundo preto sem spill, mão fora dos olhos e boca`.
+
+**Por que funciona:** Um projection spot com lente e íris permite controlar forma, foco e tamanho do feixe. Aqui a geometria vem de um círculo óptico isolado, não de padrões de gobo ou de um snoot simples já existentes no catálogo.
+
+---
+
+## 42. Tilt-shift 135 mm com plano de foco diagonal entre olhos e mão
+
+**Uso:** retrato editorial premium, joalheria, relógios, beleza conceitual e publicidade de acessórios.
+
+**Pose-chave:** modelo em três quartos, rosto e mão com acessório ocupando profundidades diferentes, alinhados por um plano diagonal de foco.
+
+### Prompt em português
+
+```text
+Retrato editorial de estúdio de [modelo adulta] em três quartos, enquadrada do peito para cima, usando [figurino minimalista] e [anel, relógio ou brinco de destaque]. O rosto fica ligeiramente mais distante da câmera enquanto uma mão avança cerca de 20 cm para a frente na altura da clavícula, dedos separados e relaxados; olhos permanecem voltados à lente e o pulso não cobre o queixo. Simule uma lente tilt-shift teleobjetiva de 135 mm com tilt discreto para inclinar o plano de foco de modo que ambos os olhos e a mão com o acessório permaneçam nítidos apesar de estarem em profundidades diferentes, enquanto ombro traseiro e fundo caem suavemente fora de foco. Luz principal grande e difusa lateral a 45 graus, fill branco mínimo do lado oposto e fundo cinza-champagne uniforme. Câmera na altura dos olhos, perspectiva natural, textura real de pele e metal. Sem efeito miniatura, sem rosto parcialmente desfocado, sem mão gigante, sem dedos fundidos, sem perspectiva quebrada, texto ou logotipos. Formato 4:5 vertical.
+```
+
+### Prompt em inglês
+
+```text
+Premium studio editorial portrait of an adult [model] in three-quarter view, framed from chest upward, wearing [minimal wardrobe] and a featured [ring, watch or earring]. The face sits slightly farther from camera while one hand advances about 20 cm forward at collarbone height, fingers separated and relaxed; eyes remain toward the lens and the wrist does not cover the chin. Simulate a 135mm telephoto tilt-shift lens with a subtle tilt to angle the plane of focus so both eyes and the accessory hand remain sharp despite occupying different depths, while the rear shoulder and background fall gently out of focus. Large diffused key light 45 degrees to one side, minimal white fill opposite and an even champagne-gray background. Eye-level camera, natural perspective, realistic skin and metal texture. No miniature effect, no partially blurred face, no oversized hand, no fused fingers, no broken perspective, text or logos. Vertical 4:5 composition.
+```
+
+**Restrição opcional:** `olhos e mão do acessório simultaneamente nítidos, sem efeito miniatura, mão proporcional, fundo suave, perspectiva natural`.
+
+**Por que funciona:** Tilt desloca o plano focal em vez de simplesmente aumentar a profundidade de campo. Uma tele tilt-shift de 135 mm permite usar esse controle de forma intencional em retrato de estúdio e acessórios.
+
+---
+
+## 43. Para 133 focado com pose torsionada e contraste hard-soft
+
+**Uso:** fashion editorial, alfaiataria, retrato de artista, campanha premium e capa de revista.
+
+**Pose-chave:** quadris a 45 graus, tronco retorna para a câmera, um cotovelo cria espaço negativo e a mão oposta segura a lapela.
+
+### Prompt em português
+
+```text
+Fotografia de moda em estúdio de [modelo adulta] usando [alfaiataria, couro ou tecido com textura]. Quadris girados cerca de 45 graus para fora da câmera, peso na perna traseira, tronco retorna para a lente criando torção controlada, um cotovelo abre lateralmente para formar espaço negativo e a mão oposta segura levemente a própria lapela; cabeça reta e olhar firme. Ilumine com um grande refletor parabólico tipo Para 133 colocado lateralmente e ligeiramente acima, com a fonte posicionada em foco intermediário para produzir luz simultaneamente direcional, viva e relativamente envolvente, com contraste marcado mas transições menos secas que um refletor pequeno; use apenas negative fill discreto no lado oposto. Fundo cinza médio, lente de 70 mm, enquadramento dos joelhos para cima, textura do figurino e relevo facial preservados. Sem segunda key light, sem halo de rim, sem pose totalmente frontal, sem cotovelo fundido ao torso, sem dedos ocultos, texto ou logotipos. Formato 4:5 vertical.
+```
+
+### Prompt em inglês
+
+```text
+Studio fashion photograph of an adult [model] wearing [tailoring, leather or textured fabric]. Hips turned about 45 degrees away from camera, weight on the rear leg, torso rotating back toward the lens in a controlled twist, one elbow opening sideways to create negative space and the opposite hand lightly holding the model's own lapel; head level with a firm gaze. Light with a large parabolic reflector such as a Para 133 placed to the side and slightly above, with the lamp in a mid-focus position to create light that is directional, vivid and still relatively wrapping, with pronounced contrast but smoother transitions than a small hard reflector; use only subtle negative fill opposite. Medium-gray background, 70mm lens, knees-up framing, preserved wardrobe texture and facial relief. No second key light, no rim halo, no fully frontal pose, no elbow fused to torso, no hidden fingers, text or logos. Vertical 4:5 composition.
+```
+
+**Restrição opcional:** `uma única luz parabólica dominante, contraste hard-soft, cotovelo separado do torso, mão visível na lapela, sem rim light`.
+
+**Por que funciona:** Grandes refletores parabólicos podem variar de uma luz mais aberta e macia a uma luz concentrada e viva conforme a posição da fonte. O foco intermediário cria uma assinatura hard-soft que não repete softbox, beauty dish ou Hardbox.
+
+---
+
+## 44. Umbrella Deep White em luz envolvente com pose sentada fechada
+
+**Uso:** retrato editorial suave, skincare, moda clean, branding pessoal e campanha lifestyle.
+
+**Pose-chave:** modelo sentada em banco alto, joelhos juntos em diagonal, antebraços cruzam em níveis diferentes sem esconder as mãos.
+
+### Prompt em português
+
+```text
+Retrato clean de estúdio de [modelo adulta] sentada em banco alto sem encosto, usando [figurino claro ou neutro]. Joelhos permanecem juntos e apontados em diagonal para a direita, pés em alturas ligeiramente diferentes e totalmente apoiados; coluna longa, tronco retorna poucos graus para a câmera. Os antebraços cruzam em níveis diferentes à frente do torso sem se sobrepor completamente, com ambas as mãos visíveis e relaxadas sobre braços opostos; rosto frontal e expressão tranquila. Use uma Umbrella Deep White grande como única fonte principal, próxima à câmera e ligeiramente acima, ajustada em posição aberta para luz natural, macia e uniforme, com diffuser opcional para suavizar ainda mais a transição; cartão branco baixo apenas para recuperar brilho nos olhos. Fundo off-white separado do figurino por leve diferença tonal, lente de 85 mm, enquadramento de três quartos, pele natural e sombras suaves. Sem luz prateada especular, sem pose expansiva, sem braços fundidos, sem mãos escondidas, sem pernas cruzadas de forma impossível, texto ou logotipos. Formato 4:5 vertical.
+```
+
+### Prompt em inglês
+
+```text
+Clean studio portrait of an adult [model] seated on a backless high stool, wearing [light or neutral wardrobe]. Knees stay together and angle diagonally to the right, feet at slightly different heights and fully supported; spine elongated, torso turning a few degrees back toward camera. Forearms cross at different levels in front of the torso without fully overlapping, with both hands visible and relaxed on opposite arms; face frontal with a calm expression. Use one large Deep White umbrella as the main light, close to camera and slightly above, adjusted for an open natural, soft and even spread, with an optional diffuser for an even gentler transition; a low white card only restores brightness in the eyes. Off-white background separated from wardrobe by a subtle tonal difference, 85mm lens, three-quarter framing, natural skin and soft shadows. No specular silver light, no expansive pose, no fused arms, no hidden hands, no impossible crossed legs, text or logos. Vertical 4:5 composition.
+```
+
+**Restrição opcional:** `luz branca macia e uniforme, mãos totalmente visíveis, joelhos juntos em diagonal, sem brilho especular forte, fundo off-white separado`.
+
+**Por que funciona:** A geometria profunda de uma umbrella branca oferece controle de espalhamento mantendo caráter suave e natural. O conceito contrasta deliberadamente com a umbrella prateada frontal já catalogada.
+
+---
+
+## 45. Halo de fundo com grid 5° e pose deslocada no terço
+
+**Uso:** retrato editorial gráfico, campanha de moda, headshot criativo, pôster e branding contemporâneo.
+
+**Pose-chave:** modelo deslocada para um terço do quadro, corpo em três quartos e cabeça volta à câmera, deixando espaço negativo para o halo.
+
+### Prompt em português
+
+```text
+Retrato editorial de estúdio de [modelo adulta] posicionado no terço esquerdo do quadro, usando [figurino escuro de linhas simples]. Corpo em três quartos voltado para o centro, peso equilibrado, braço mais próximo da câmera relaxado e separado do torso, outra mão no próprio bolso; cabeça retorna à lente e olhar direto. Ilumine o rosto com uma softbox média e suave a 45 graus, mantendo contraste moderado. Atrás da modelo, aponte uma segunda fonte exclusivamente para o fundo com grid estreito de 5 graus, criando um único gradiente circular pequeno e concentrado deslocado para o terço direito, sem tocar diretamente no corpo; o halo funciona como contrapeso visual ao espaço negativo. Fundo cinza grafite, lente de 105 mm, enquadramento da coxa para cima, olhos nítidos e bordas do gradiente suaves. Sem halo centrado atrás da cabeça, sem luz de fundo vazando no rosto, sem dois círculos, sem gobo, sem membros extras, texto ou logotipos. Formato 3:2 horizontal.
+```
+
+### Prompt em inglês
+
+```text
+Studio editorial portrait of an adult [model] placed on the left third of the frame, wearing [dark wardrobe with clean lines]. Body in three-quarter view toward the center, balanced weight, camera-side arm relaxed and separated from the torso, other hand in the model's own pocket; head returns toward the lens with direct gaze. Light the face with a medium softbox at 45 degrees for moderate contrast. Behind the model, aim a second light only at the background through a narrow 5-degree grid, creating one small concentrated circular gradient offset on the right third without directly striking the body; the halo acts as a visual counterweight to the negative space. Graphite-gray background, 105mm lens, thigh-up framing, sharp eyes and soft gradient edges. No halo centered behind the head, no background light spilling onto the face, no two circles, no gobo, no extra limbs, text or logos. Horizontal 3:2 composition.
+```
+
+**Restrição opcional:** `halo único apenas no fundo, modelo no terço esquerdo, sem spill no rosto, sem gobo, composição horizontal com espaço negativo`.
+
+**Por que funciona:** Um grid estreito restringe o espalhamento e pode criar efeitos de fundo controlados. Aqui ele não ilumina o rosto: constrói um gradiente excêntrico para equilibrar uma composição deliberadamente assimétrica.
 
 ---
 
