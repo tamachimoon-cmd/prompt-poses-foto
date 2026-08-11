@@ -1,6 +1,6 @@
 # Referências e Metodologia
 
-Pesquisa inicial realizada em **2 de agosto de 2026** e ampliada em **3, 4, 6, 7, 8, 9 e 10 de agosto de 2026**. A curadoria prioriza documentação oficial de geração de imagens e materiais educacionais de fabricantes e plataformas reconhecidas de fotografia.
+Pesquisa inicial realizada em **2 de agosto de 2026** e ampliada em **3, 4, 6, 7, 8, 9, 10 e 11 de agosto de 2026**. A curadoria prioriza documentação oficial de geração de imagens e materiais educacionais de fabricantes reconhecidos.
 
 ## Critérios usados
 
@@ -16,97 +16,65 @@ Pesquisa inicial realizada em **2 de agosto de 2026** e ampliada em **3, 4, 6, 7
 
 - Clareza e especificidade superam listas ornamentais de adjetivos.
 - Propósito, assunto, ação, composição, iluminação, textura e restrições formam uma estrutura robusta.
-- Instruções espaciais como esquerda, direita, acima, atrás e primeiro plano reduzem ambiguidades.
-- Referências de composição podem melhorar aderência de pose, profundidade e estrutura.
+- Instruções espaciais reduzem ambiguidades.
 - Luz deve ser descrita por direção, tamanho aparente, dureza, queda e função narrativa.
-- Lentes padrão e teleobjetivas curtas ajudam a preservar proporções; lentes abertas exigem distância e intenção de perspectiva.
+- Lentes padrão e teleobjetivas curtas ajudam a preservar proporções.
 - Olhos devem receber prioridade de foco.
 - Poses complexas funcionam melhor quando descritas pela mecânica corporal.
 - Movimento deve especificar qual parte fica nítida e qual pode apresentar arrasto.
-- Modificadores devem ser descritos pelo efeito visual produzido, não como palavras mágicas.
-- Negative fill é uma ferramenta de subtração: remove luz refletida para reforçar contorno e contraste.
-- Polarizadores circulares reduzem reflexos de superfícies não metálicas como vidro; o efeito deve ser tratado como controle, não como obrigação de zerar toda reflexão.
-- Projection spots permitem definir forma, foco e bordas do feixe com precisão óptica.
-- Tilt-shift altera o plano focal e pode manter sujeitos em profundidades distintas nítidos quando o plano é descrito com intenção.
-- Refletores parabólicos grandes podem variar entre caráter mais aberto e mais concentrado conforme a posição da fonte.
-- Grids estreitos são úteis não só na luz principal, mas também para efeitos localizados no fundo e controle de spill.
+- Bounce muda direção e tamanho aparente da fonte sem exigir luz direta sobre o rosto.
+- Barn doors são úteis para limitar spill e desenhar faixas simples no fundo.
+- Bokeh depende fortemente de abertura, distância entre sujeito e fundo e focal.
+- Múltipla exposição combina registros distintos e deve preservar uma hierarquia visual clara.
+- Elementos muito próximos à lente podem criar moldura e profundidade sem depender de projeções.
 
 ## Fontes principais
 
 ### Geração de imagem e prompts
 
-1. OpenAI Academy — Creating images with ChatGPT, 10 de abril de 2026  
-   https://openai.com/academy/image-generation/
-
-2. OpenAI Help Center — Images in ChatGPT, verificado em 10 de agosto de 2026  
+1. OpenAI Help Center — Images in ChatGPT, verificado em 11 de agosto de 2026  
    https://help.openai.com/en/articles/11084440-images-in-chatgpt
 
-3. Adobe Firefly — Generate realistic photos with a prompt formula, abril de 2026  
-   https://helpx.adobe.com/pt/firefly/how-to/generate-realistic-photos.html
+2. OpenAI Help Center — Prompt engineering best practices for ChatGPT, verificado em 11 de agosto de 2026  
+   https://help.openai.com/en/articles/10032626-prompt-gineering-best-practices-for-chatgpt
 
-4. Adobe Firefly — Match image composition to reference image, atualizado em 16 de junho de 2026  
-   https://helpx.adobe.com/firefly/web/work-with-images/generate-images/match-image-composition-to-reference-image.html
-
-5. Adobe Firefly — Art composition  
-   https://www.adobe.com/products/firefly/features/text-to-image/art-composition.html
+3. OpenAI Academy — Creating images, atualizado em 29 de maio de 2026  
+   https://academy.openai.com/public/clubs/work-users-ynjqu/resources/creating-images
 
 ### Retrato, lentes e iluminação
 
-6. Nikon — Quick Tips for Taking Better Portraits  
+4. Nikon — The Basics of Flash Photography  
+   https://www.nikonusa.com/learn-and-explore/c/tips-and-techniques/the-basics-of-flash-photography
+
+5. Nikon — Easily Add a Streak of Light to a Portrait’s Background  
+   https://www.nikonusa.com/learn-and-explore/c/tips-and-techniques/easily-add-a-streak-of-light-to-a-portrait-s-background
+
+6. Nikon — Holiday Lights and Bokeh Create a Fun Background for a Portrait  
+   https://www.nikonusa.com/learn-and-explore/c/tips-and-techniques/holiday-lights-and-bokeh-create-a-fun-background-for-a-portrait
+
+7. Nikon — Quick Tips for Taking Better Portraits  
    https://www.nikonusa.com/learn-and-explore/c/tips-and-techniques/quick-tips-for-taking-better-portraits
 
-7. Profoto — Softlight Reflector for Ring Flash  
-   https://www.profoto.com/pt/en/shop/products/light-shaping-tools/beauty-dishes/softlight-reflector-for-ring-flash/
+8. Canon Europe — EOS 90D Specifications, suporte a Multi-exposure  
+   https://www.canon-europe.com/cameras/eos-90d/specifications
 
-8. Profoto — Hardbox  
-   https://www.profoto.com/us/en/shop/products/light-shaping-tools/special-effect-tools/hardbox-item/
+9. Canon RF Lens World — Professional Eye, composição com elementos de primeiro plano e separação de sujeito  
+   https://files.canon-europe.com/files/webcontent/rf-lens-world/professional/index.html
 
-9. Profoto — Softbox 1x4 Silver / stripbox  
-   https://www.profoto.com/us/en/shop/products/light-shaping-tools/softboxes/profoto-softbox-1x4-30x120cm-silver---demo-unit/
+10. Aputure — Light Box 60x90, controle de difusão e spread em retrato  
+    https://aputure.com/en-US/products/light-box-60x90
 
-10. Profoto — How to create a close-up beauty portrait  
-    https://www.profoto.com/nl/en/still-photography/tips-tricks/how-to-create-a-close-up-beauty-portrait/
+## Atualização de 11 de agosto de 2026
 
-11. Nikon — Polarizing Filters Add POW to Pictures  
-    https://www.nikonusa.com/learn-and-explore/c/tips-and-techniques/polarizing-filters-add-pow-to-pictures
+Foram adicionados cinco conceitos materialmente diferentes dos 45 anteriores:
 
-12. Sony — Circular PL Filter: suppression of reflections and glare  
-    https://electronics.sony.com/imaging/imaging-accessories/all-accessories/p/vf72cpam2
+- **bounce em V-flat branco**, usando somente luz rebatida como key;
+- **faixa diagonal de fundo com barn doors e CTO**, sem gobo ou projection spot;
+- **bokeh de pontos práticos com teleobjetiva**, usando separação óptica real;
+- **dupla exposição editorial**, com um registro frontal dominante e um perfil secundário;
+- **moldura orgânica em primeiro plano**, mantendo o rosto livre e usando profundidade de campo para separar planos.
 
-### Fontes adicionadas em 10 de agosto de 2026
-
-13. Profoto — Spot Small: projection spot for precision and control  
-    https://www.profoto.com/us/en/shop/products/light-shaping-tools/special-effect-tools/spot-small-item/
-
-14. Canon Australia — TS-E 135mm f/4L Macro Tilt Shift: studio portrait and focal-plane control  
-    https://www.canon.com.au/camera-lenses/ts-e-135mm-f-4l-macro-tilt-shift
-
-15. broncolor — Para 133 reflector  
-    https://broncolor.swiss/products/para-133-reflector
-
-16. broncolor — How to shoot a Portrait with Para: Simplicity  
-    https://broncolor.swiss/news/how-to-shoot-a-portrait-with-para-simplicity
-
-17. Profoto — Umbrella Deep White M  
-    https://www.profoto.com/int/en/shop/products/light-shaping-tools/umbrellas/umbrella-deep-white-m/
-
-18. Profoto — Grid 5° 100 mm  
-    https://www.profoto.com/int/en/shop/products/light-shaping-tools/grids/grid-5-100-mm/
-
-19. Profoto — How to shape hard light with the Profoto Hard Reflectors White, 20 de outubro de 2025  
-    https://www.profoto.com/int/en/still-photography/tips-tricks/how-to-shape-hard-light-with-the-profoto-hard-reflectors-white
-
-## Atualização de 10 de agosto de 2026
-
-Foram adicionados cinco conceitos materialmente diferentes dos quarenta anteriores:
-
-- **projection spot com íris**, criando um círculo óptico único e controlado em vez de um padrão de gobo;
-- **tilt-shift teleobjetivo**, usando inclinação do plano focal para manter olhos e mão com acessório em foco;
-- **grande refletor parabólico Para 133**, explorando caráter hard-soft e direcional em uma única fonte;
-- **Umbrella Deep White**, priorizando luz branca, suave e envolvente em contraste com a umbrella prateada já presente;
-- **grid estreito dedicado ao fundo**, usando o feixe como elemento compositivo deslocado, sem iluminar diretamente o rosto.
-
-A OpenAI recomenda prompts claros e descritivos, com propósito, assunto, ação, composição, iluminação e restrições quando relevantes. A documentação do Spot Small descreve lente focalizável, íris e controle preciso de forma do feixe; a Canon apresenta a TS-E 135 mm como lente de uso em estúdio com controle do plano de foco; broncolor documenta o Para como sistema capaz de variar entre luz aberta e concentrada; Profoto descreve a Umbrella Deep White como luz natural e macia com espalhamento ajustável e os grids estreitos como ferramentas de controle de spill e efeitos de fundo.
+A documentação Nikon reforça que bounce produz luz mais suave do que flash frontal, que barn doors podem restringir uma faixa de luz no fundo e que pontos luminosos desfocados podem formar bokeh com abertura ampla e focal longa. A Canon documenta suporte a múltipla exposição em câmeras EOS e mostra o uso de elementos próximos como moldura compositiva. A documentação atual da OpenAI reforça instruções claras, específicas e localizadas para geração e edição de imagens.
 
 ## Autoria
 
