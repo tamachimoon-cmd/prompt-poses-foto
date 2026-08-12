@@ -1,6 +1,6 @@
 # Referências e Metodologia
 
-Pesquisa inicial realizada em **2 de agosto de 2026** e ampliada em **3, 4, 6, 7, 8, 9, 10 e 11 de agosto de 2026**. A curadoria prioriza documentação oficial de geração de imagens e materiais educacionais de fabricantes reconhecidos.
+Pesquisa inicial realizada em **2 de agosto de 2026** e ampliada em **3, 4, 6, 7, 8, 9, 10, 11 e 12 de agosto de 2026**. A curadoria prioriza documentação oficial de geração de imagens e materiais educacionais de fabricantes reconhecidos.
 
 ## Critérios usados
 
@@ -17,64 +17,61 @@ Pesquisa inicial realizada em **2 de agosto de 2026** e ampliada em **3, 4, 6, 7
 - Clareza e especificidade superam listas ornamentais de adjetivos.
 - Propósito, assunto, ação, composição, iluminação, textura e restrições formam uma estrutura robusta.
 - Instruções espaciais reduzem ambiguidades.
-- Luz deve ser descrita por direção, tamanho aparente, dureza, queda e função narrativa.
-- Lentes padrão e teleobjetivas curtas ajudam a preservar proporções.
+- Luz deve ser descrita por direção, tamanho aparente, dureza, queda, percurso e função narrativa.
+- Lentes padrão e teleobjetivas curtas ajudam a preservar proporções em retratos.
 - Olhos devem receber prioridade de foco.
 - Poses complexas funcionam melhor quando descritas pela mecânica corporal.
 - Movimento deve especificar qual parte fica nítida e qual pode apresentar arrasto.
-- Bounce muda direção e tamanho aparente da fonte sem exigir luz direta sobre o rosto.
-- Barn doors são úteis para limitar spill e desenhar faixas simples no fundo.
-- Bokeh depende fortemente de abertura, distância entre sujeito e fundo e focal.
-- Múltipla exposição combina registros distintos e deve preservar uma hierarquia visual clara.
-- Elementos muito próximos à lente podem criar moldura e profundidade sem depender de projeções.
+- Book light combina bounce e difusão para criar uma fonte aparente ampla.
+- Fontes muito próximas aumentam a sensibilidade do edge transfer e do falloff.
+- Grandes superfícies translúcidas podem atuar como uma janela artificial uniforme.
+- Light painting exige longa exposição, câmera estável, deslocamento da fonte e pose capaz de permanecer imóvel.
+- Pixel tubes podem funcionar como practicals visíveis, luz de efeito e fontes com zonas independentes.
 
 ## Fontes principais
 
 ### Geração de imagem e prompts
 
-1. OpenAI Help Center — Images in ChatGPT, verificado em 11 de agosto de 2026  
-   https://help.openai.com/en/articles/11084440-images-in-chatgpt
+1. OpenAI Academy — Criando imagens com o ChatGPT, publicado em 10 de abril de 2026, verificado em 12 de agosto de 2026  
+   https://openai.com/pt-BR/academy/image-generation/
 
-2. OpenAI Help Center — Prompt engineering best practices for ChatGPT, verificado em 11 de agosto de 2026  
+2. OpenAI Help Center — Imagens no ChatGPT, verificado em 12 de agosto de 2026  
+   https://help.openai.com/pt-br/articles/11084440-images-in-chatgpt
+
+3. OpenAI Help Center — Prompt engineering best practices for ChatGPT, verificado em 12 de agosto de 2026  
    https://help.openai.com/en/articles/10032626-prompt-gineering-best-practices-for-chatgpt
 
-3. OpenAI Academy — Creating images, atualizado em 29 de maio de 2026  
-   https://academy.openai.com/public/clubs/work-users-ynjqu/resources/creating-images
+### Retrato, iluminação, lentes e composição
 
-### Retrato, lentes e iluminação
+4. Aputure — Lensing a Vertical Comedy Presser for the Toronto Raptors, uso documentado de book light 8x8  
+   https://aputure.com/en-US/case-studies/lighting-a-vertical-comedy-presser-for-the-toronto-raptors
 
-4. Nikon — The Basics of Flash Photography  
-   https://www.nikonusa.com/learn-and-explore/c/tips-and-techniques/the-basics-of-flash-photography
+5. Broncolor — How to Shoot Beauty Photography with a Single Softbox, edge transfer e falloff com softbox angulada  
+   https://broncolor.swiss/news/how-to-shoot-beauty-photography-with-a-single-softbox
 
-5. Nikon — Easily Add a Streak of Light to a Portrait’s Background  
-   https://www.nikonusa.com/learn-and-explore/c/tips-and-techniques/easily-add-a-streak-of-light-to-a-portrait-s-background
+6. Nikon — Diffusing a Light Source to Make it Larger, difusão grande e uniforme com supersilk  
+   https://www.nikonusa.com/learn-and-explore/c/tips-and-techniques/diffusing-a-light-source-to-make-it-larger
 
-6. Nikon — Holiday Lights and Bokeh Create a Fun Background for a Portrait  
-   https://www.nikonusa.com/learn-and-explore/c/tips-and-techniques/holiday-lights-and-bokeh-create-a-fun-background-for-a-portrait
+7. Nikon — Lighting Techniques: Light Painting, longa exposição, movimento da fonte e orientação para retratos  
+   https://www.nikonusa.com/learn-and-explore/c/tips-and-techniques/lighting-techniques-light-painting
 
-7. Nikon — Quick Tips for Taking Better Portraits  
+8. amaran — PT4c, pixel tube RGBWW com 16 zonas e uso como practical/effect/light-painting source  
+   https://amarancreators.com/pages/amaran-pt4c
+
+9. Nikon — Quick Tips for Taking Better Portraits, lentes padrão e teleobjetivas curtas para proporções naturais  
    https://www.nikonusa.com/learn-and-explore/c/tips-and-techniques/quick-tips-for-taking-better-portraits
 
-8. Canon Europe — EOS 90D Specifications, suporte a Multi-exposure  
-   https://www.canon-europe.com/cameras/eos-90d/specifications
+## Atualização de 12 de agosto de 2026
 
-9. Canon RF Lens World — Professional Eye, composição com elementos de primeiro plano e separação de sujeito  
-   https://files.canon-europe.com/files/webcontent/rf-lens-world/professional/index.html
+Foram adicionados cinco conceitos materialmente diferentes dos 50 anteriores:
 
-10. Aputure — Light Box 60x90, controle de difusão e spread em retrato  
-    https://aputure.com/en-US/products/light-box-60x90
+- **book light cinematográfico**, com bounce seguido de uma segunda camada de difusão;
+- **edge transfer com softbox rente ao rosto**, usando distância curta e feathering para queda rápida;
+- **parede de difusão translúcida**, tratando uma superfície grande como janela artificial;
+- **light painting de retrato**, com pose apoiada e rosto iluminado primeiro durante longa exposição;
+- **pixel tube segmentado como practical**, mantendo o rosto neutro e a estrutura de cor no próprio emissor.
 
-## Atualização de 11 de agosto de 2026
-
-Foram adicionados cinco conceitos materialmente diferentes dos 45 anteriores:
-
-- **bounce em V-flat branco**, usando somente luz rebatida como key;
-- **faixa diagonal de fundo com barn doors e CTO**, sem gobo ou projection spot;
-- **bokeh de pontos práticos com teleobjetiva**, usando separação óptica real;
-- **dupla exposição editorial**, com um registro frontal dominante e um perfil secundário;
-- **moldura orgânica em primeiro plano**, mantendo o rosto livre e usando profundidade de campo para separar planos.
-
-A documentação Nikon reforça que bounce produz luz mais suave do que flash frontal, que barn doors podem restringir uma faixa de luz no fundo e que pontos luminosos desfocados podem formar bokeh com abertura ampla e focal longa. A Canon documenta suporte a múltipla exposição em câmeras EOS e mostra o uso de elementos próximos como moldura compositiva. A documentação atual da OpenAI reforça instruções claras, específicas e localizadas para geração e edição de imagens.
+A Aputure documenta book lights de grande escala em produção real. A Broncolor demonstra como uma softbox angulada e próxima controla falloff e edge transfer. A Nikon mostra que uma grande seda difusora aumenta o tamanho aparente da fonte e, em light painting, recomenda câmera em tripé, movimentação da fonte e poses apoiadas para pessoas. A amaran documenta pixel tubes RGBWW com zonas controláveis usados como practicals e fontes de efeitos. A OpenAI recomenda prompts de imagem claros, descritivos e específicos sobre propósito, composição, iluminação e restrições.
 
 ## Autoria
 

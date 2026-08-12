@@ -1,6 +1,6 @@
-# 50 Prompts de Fotografia de Estúdio e Poses de Modelo
+# 55 Prompts de Fotografia de Estúdio e Poses de Modelo
 
-Catálogo principal consolidado. Os prompts 1–45 permanecem acessíveis por arquivos históricos ou revisões permanentes; os prompts 46–50 estão completos nesta página.
+Catálogo principal consolidado. Os prompts 1–50 permanecem acessíveis por arquivos históricos ou revisões permanentes; os prompts 51–55 estão completos nesta página.
 
 ## Índice consolidado
 
@@ -49,131 +49,136 @@ Catálogo principal consolidado. Os prompts 1–45 permanecem acessíveis por ar
 43. [Para 133 focado com pose torsionada e contraste hard-soft](https://github.com/tamachimoon-cmd/prompt-poses-foto/blob/5cbfdc5c8e0a5797ebe9d4e6a4cf207d12128f98/PROMPTS.md)
 44. [Umbrella Deep White em luz envolvente com pose sentada fechada](https://github.com/tamachimoon-cmd/prompt-poses-foto/blob/5cbfdc5c8e0a5797ebe9d4e6a4cf207d12128f98/PROMPTS.md)
 45. [Halo de fundo com grid 5° e pose deslocada no terço](https://github.com/tamachimoon-cmd/prompt-poses-foto/blob/5cbfdc5c8e0a5797ebe9d4e6a4cf207d12128f98/PROMPTS.md)
-46. [Bounce em V-flat branco com pose de passo interrompido](#46-bounce-em-v-flat-branco-com-pose-de-passo-interrompido)
-47. [Faixa de fundo com barn doors e gel CTO em composição lateral](#47-faixa-de-fundo-com-barn-doors-e-gel-cto-em-composicao-lateral)
-48. [Bokeh de pontos práticos com teleobjetiva e pose compacta](#48-bokeh-de-pontos-praticos-com-teleobjetiva-e-pose-compacta)
-49. [Dupla exposição editorial com frontal nítido e perfil fantasma](#49-dupla-exposicao-editorial-com-frontal-nitido-e-perfil-fantasma)
-50. [Moldura orgânica de primeiro plano com foco no olhar](#50-moldura-organica-de-primeiro-plano-com-foco-no-olhar)
+46. [Bounce em V-flat branco com pose de passo interrompido](https://github.com/tamachimoon-cmd/prompt-poses-foto/blob/f07bd75af830a81171edc38bf5d0eca54a739f18/PROMPTS.md)
+47. [Faixa de fundo com barn doors e gel CTO em composição lateral](https://github.com/tamachimoon-cmd/prompt-poses-foto/blob/f07bd75af830a81171edc38bf5d0eca54a739f18/PROMPTS.md)
+48. [Bokeh de pontos práticos com teleobjetiva e pose compacta](https://github.com/tamachimoon-cmd/prompt-poses-foto/blob/f07bd75af830a81171edc38bf5d0eca54a739f18/PROMPTS.md)
+49. [Dupla exposição editorial com frontal nítido e perfil fantasma](https://github.com/tamachimoon-cmd/prompt-poses-foto/blob/f07bd75af830a81171edc38bf5d0eca54a739f18/PROMPTS.md)
+50. [Moldura orgânica de primeiro plano com foco no olhar](https://github.com/tamachimoon-cmd/prompt-poses-foto/blob/f07bd75af830a81171edc38bf5d0eca54a739f18/PROMPTS.md)
+51. [Book light cinematográfico com pose sentada em avanço](#51-book-light-cinematografico-com-pose-sentada-em-avanco)
+52. [Edge transfer com softbox rente ao rosto e pose de clavícula](#52-edge-transfer-com-softbox-rente-ao-rosto-e-pose-de-clavicula)
+53. [Parede de difusão translúcida com pose apoiada e luz de janela](#53-parede-de-difusao-translucida-com-pose-apoiada-e-luz-de-janela)
+54. [Light painting de retrato com pose apoiada e rosto pintado primeiro](#54-light-painting-de-retrato-com-pose-apoiada-e-rosto-pintado-primeiro)
+55. [Pixel tube segmentado como practical com pose em arco lateral](#55-pixel-tube-segmentado-como-practical-com-pose-em-arco-lateral)
 
 ---
 
-## 46. Bounce em V-flat branco com pose de passo interrompido
+## 51. Book light cinematográfico com pose sentada em avanço
 
-**Uso:** branding pessoal, retrato lifestyle de estúdio, campanha casual e editorial clean.
+**Uso:** retrato editorial cinematográfico, campanha de moda, retrato de ator e branding premium.
 
-**Pose-chave:** meio passo interrompido, peso na perna traseira, tronco levemente girado e uma mão ajustando o punho da própria roupa.
+**Pose-chave:** modelo sentada na borda de um cubo baixo, quadris recuados, tronco avançado a partir do quadril, um antebraço apoiado na própria coxa e a outra mão solta abaixo da clavícula.
 
 ### Prompt em português
 
 ```text
-Retrato lifestyle de estúdio de [modelo adulta] em corpo de três quartos sobre fundo cinza-claro, usando [figurino casual premium ou alfaiataria leve]. A pose congela um meio passo: perna traseira sustenta o peso, pé dianteiro toca o chão sem cruzar, tronco gira poucos graus para a câmera, uma mão ajusta o punho da própria manga e a outra fica relaxada longe do torso, dedos visíveis. Em vez de luz direta, aponte uma fonte de flash para um V-flat branco grande fora do quadro e use somente a luz rebatida como key, criando iluminação ampla, macia e natural, com queda gradual; adicione negative fill discreto do lado oposto para preservar volume. Lente de 85 mm, câmera na altura do peito, olhos nítidos, pele e tecido realistas. Sem fonte direta visível, sem sombra dura, sem braços fundidos, sem pés sobrepostos, sem aparência chapada, texto ou logotipos. Formato 4:5 vertical.
+Retrato editorial de estúdio de [modelo adulta] sentada na borda de um cubo baixo, usando [alfaiataria minimalista ou figurino editorial]. Quadris recuados, pés separados e firmes, tronco inclinado para a frente a partir do quadril sem curvar a coluna; um antebraço repousa na própria coxa com mão visível e a outra mão fica leve abaixo da clavícula, sem tocar o pescoço. Crie a key como book light: uma fonte potente bate primeiro em um painel branco grande e a luz rebatida atravessa uma segunda camada de difusão ampla antes de alcançar a modelo. Posicione o conjunto lateralmente a cerca de 45 graus, com negative fill suave no lado oposto, produzindo wrap muito macio, transições longas e highlights controlados. Fundo cinza quente, lente de 85 mm, enquadramento da coxa para cima, câmera na altura do peito, foco crítico nos olhos e textura de pele natural. Sem softbox direta apontada para o rosto, sem clamshell, sem luz chapada, sem cotovelos fundidos às pernas, sem dedos extras, texto ou logotipos. Formato 4:5 vertical.
 ```
 
 ### Prompt em inglês
 
 ```text
-Three-quarter lifestyle studio portrait of an adult [model] against a light-gray background, wearing [premium casual clothing or light tailoring]. Freeze the pose mid-step: rear leg carries the weight, front foot touches the floor without crossing, torso turns a few degrees toward camera, one hand adjusts the model's own cuff and the other hangs relaxed away from the torso with visible fingers. Instead of direct light, aim one flash into a large white V-flat outside the frame and use only the bounced light as the key, creating broad, soft, natural illumination with gradual falloff; add subtle negative fill on the opposite side to retain shape. 85mm lens, camera at chest height, sharp eyes, realistic skin and fabric. No visible direct source, no hard shadow, no fused arms, no overlapping feet, no flat look, text or logos. Vertical 4:5 composition.
+Studio editorial portrait of an adult [model] seated on the edge of a low cube, wearing [minimal tailoring or editorial wardrobe]. Hips set back, feet separated and firmly planted, torso leaning forward from the hips without rounding the spine; one forearm rests on the model's own thigh with the hand visible, while the other hand floats lightly below the collarbone without touching the neck. Build the key as a book light: a powerful source first bounces into a large white panel, then the bounced light passes through a second broad diffusion layer before reaching the model. Place the setup about 45 degrees to the side, with gentle negative fill opposite, creating very soft wrap, long transitions and controlled highlights. Warm-gray background, 85mm lens, thigh-up framing, camera at chest height, critical focus on the eyes and natural skin texture. No direct softbox aimed at the face, no clamshell, no flat light, no elbows fused into legs, no extra fingers, text or logos. Vertical 4:5 composition.
 ```
 
-**Restrição opcional:** `apenas luz rebatida como key, sombras macias, mãos legíveis, pés separados, sem flash direto`.
+**Restrição opcional:** `book light real com bounce + difusão, pés separados, mãos legíveis, coluna longa, sem key direta, sem clamshell`.
 
-**Por que funciona:** Rebater a luz aumenta o tamanho aparente da fonte e muda sua direção antes de alcançar o rosto. É uma lógica de iluminação diferente das softboxes e umbrellas diretas já catalogadas.
+**Por que funciona:** O book light altera a trajetória da luz duas vezes: primeiro por reflexão e depois por transmissão em difusão. Isso produz uma fonte aparente muito ampla e envolvente sem repetir o bounce simples do ID 46.
 
 ---
 
-## 47. Faixa de fundo com barn doors e gel CTO em composição lateral
+## 52. Edge transfer com softbox rente ao rosto e pose de clavícula
 
-**Uso:** retrato editorial, capa musical, campanha de moda e retrato cinematográfico.
+**Uso:** beauty de alto contraste, campanha de maquiagem, retrato autoral e editorial monocromático.
 
-**Pose-chave:** modelo deslocada para um lado, corpo em três quartos, ombro externo recuado e uma mão baixa criando espaço negativo para a faixa luminosa.
+**Pose-chave:** busto quase frontal, ombros em alturas diferentes, queixo levemente projetado e uma mão aberta abaixo da clavícula sem cobrir o pescoço.
 
 ### Prompt em português
 
 ```text
-Retrato editorial de estúdio de [modelo adulta] posicionada no terço direito do quadro, usando [figurino preto, grafite ou azul profundo]. Corpo em três quartos voltado para o centro, ombro externo recuado, uma mão baixa e separada do quadril e a outra próxima à cintura sem cruzar o torso; cabeça retorna para a lente. Ilumine o rosto com uma fonte suave neutra a 45 graus. Use uma segunda luz exclusivamente no fundo, equipada com barn doors bem fechados e gel CTO leve, formando uma única faixa diagonal quente de bordas limpas atrás e ao lado da modelo, sem atingir pele ou cabelo. Fundo cinza escuro, lente de 105 mm, enquadramento da coxa para cima, olhos nítidos e contraste de cor controlado. Sem gobo, sem círculo de projection spot, sem múltiplas faixas, sem luz quente no rosto, sem braços extras, texto ou logotipos. Formato 3:2 horizontal.
+Beauty portrait de estúdio de [modelo adulta] do peito para cima sobre fundo grafite, com [maquiagem editorial limpa e figurino de gola baixa]. Corpo quase frontal, um ombro discretamente mais baixo que o outro, queixo projetado poucos centímetros e girado cerca de 10 graus; uma mão aberta repousa abaixo da própria clavícula com todos os dedos separados e a outra permanece fora do quadro. Coloque uma softbox retangular pequena ou média extremamente próxima ao lado do rosto, ligeiramente à frente, e gire a superfície da softbox para fora da modelo até que apenas a borda do feixe atravesse o rosto. Use a curta distância para produzir edge transfer visível e queda rápida de luz do lado iluminado para o lado escuro, mantendo catchlight único no olho próximo. Lente de 105 mm, f/8 como referência visual, pele detalhada e fundo sem iluminação adicional. Sem split lighting simétrico, sem luz de preenchimento frontal, sem beauty dish, sem mão sobre boca ou garganta, sem highlights estourados, texto ou logotipos. Formato 4:5 vertical.
 ```
 
 ### Prompt em inglês
 
 ```text
-Studio editorial portrait of an adult [model] placed on the right third of the frame, wearing [black, graphite or deep-blue wardrobe]. Body in three-quarter view toward the center, outer shoulder pulled back, one hand low and separated from the hip and the other near the waist without crossing the torso; head returns to the lens. Light the face with a neutral soft source at 45 degrees. Use a second light only on the background, fitted with tightly controlled barn doors and a light CTO gel, creating one clean warm diagonal streak behind and beside the model without touching skin or hair. Dark-gray background, 105mm lens, thigh-up framing, sharp eyes and controlled color contrast. No gobo, no projection-spot circle, no multiple streaks, no warm light on the face, no extra arms, text or logos. Horizontal 3:2 composition.
+Chest-up studio beauty portrait of an adult [model] against a graphite background, with [clean editorial makeup and a low-neckline wardrobe]. Body nearly frontal, one shoulder subtly lower than the other, chin projected a few centimeters and turned about 10 degrees; one open hand rests below the model's own collarbone with all fingers separated while the other stays out of frame. Place a small-to-medium rectangular softbox extremely close beside the face and slightly forward, then rotate its surface away from the model so only the feathered edge of the beam crosses the face. Use the short distance to create visible edge transfer and rapid light falloff from the lit side into shadow, keeping a single catchlight in the near eye. 105mm lens, f/8 as visual reference, detailed skin and no additional background light. No symmetrical split lighting, no frontal fill, no beauty dish, no hand covering mouth or throat, no blown highlights, text or logos. Vertical 4:5 composition.
 ```
 
-**Restrição opcional:** `uma única faixa diagonal no fundo, barn doors, sem gobo, rosto neutro, nenhum spill quente no corpo`.
+**Restrição opcional:** `softbox muito próxima, edge transfer claro, catchlight único, sem fill frontal, sem beauty dish, dedos separados`.
 
-**Por que funciona:** Barn doors recortam o feixe mecanicamente e permitem construir uma faixa simples no fundo. O gel separa cromaticamente o plano sem transformar a iluminação facial em duas cores.
+**Por que funciona:** A fonte próxima torna a transição e a queda de luz extremamente sensíveis à distância. O resultado usa geometria de edge transfer e falloff, não apenas um esquema clássico de direção facial.
 
 ---
 
-## 48. Bokeh de pontos práticos com teleobjetiva e pose compacta
+## 53. Parede de difusão translúcida com pose apoiada e luz de janela
 
-**Uso:** retrato festivo premium, campanha de joias, editorial noturno e capa musical.
+**Uso:** retrato lifestyle premium, publicidade clean, moda minimalista e retrato corporativo editorial.
 
-**Pose-chave:** modelo sentada em banco baixo, joelhos em diagonal, mãos sobrepostas sem se esconder e rosto levemente avançado em relação ao corpo.
+**Pose-chave:** modelo em pé com um ombro apoiado suavemente em painel neutro, perna externa flexionada e mãos separadas em alturas diferentes.
 
 ### Prompt em português
 
 ```text
-Retrato de estúdio de [modelo adulta] sentada em banco baixo diante de um fundo escuro com pequenas luzes práticas pontuais posicionadas vários metros atrás. Joelhos apontam em diagonal, pés totalmente apoiados, coluna longa, mãos repousam em níveis diferentes sobre a coxa sem se cobrir completamente, rosto avança discretamente e olhos encontram a lente. Use uma key light suave lateral e distante do fundo para não iluminar as lâmpadas. Fotografe com teleobjetiva entre 135 e 200 mm e abertura ampla, mantendo rosto e mãos nítidos enquanto as luzes traseiras viram círculos de bokeh grandes, suaves e não sobrepostos ao rosto. Fundo preto ou azul-marinho, contraste elegante e highlights sem estourar. Sem luzes formando texto, sem círculos cobrindo olhos ou boca, sem bokeh duplicando joias, sem mãos fundidas, texto ou logotipos. Formato 4:5 vertical.
+Retrato de estúdio de corpo inteiro de [modelo adulta] em cenário minimalista claro, vestindo [roupa neutra de textura fosca]. A modelo fica de pé com apenas um ombro tocando suavemente um painel vertical neutro, perna externa flexionada e pé ligeiramente avançado; uma mão repousa baixa sobre a própria lateral da coxa e a outra segura de leve o punho da manga, sem cruzar o torso. Construa uma parede de difusão translúcida grande, do chão acima da cabeça, posicionada lateralmente como uma janela. Coloque uma fonte de flash ou LED atrás dessa difusão e suficientemente afastada para preenchê-la de maneira uniforme, fazendo a própria superfície difusora se tornar a fonte aparente. Mantenha o lado oposto sem fill ou com rebatedor mínimo, criando luz suave, contínua e direcional com sombra delicada no chão. Lente de 70–85 mm, câmera na altura da cintura, linhas verticais retas, corpo inteiro e pés completos. Sem softbox visível, sem halo traseiro, sem silhueta através do tecido, sem high-key estourado, sem pés cortados ou fundidos, texto ou logotipos. Formato 2:3 vertical.
 ```
 
 ### Prompt em inglês
 
 ```text
-Studio portrait of an adult [model] seated on a low stool in front of a dark background with small practical point lights placed several meters behind. Knees angle diagonally, both feet fully supported, spine elongated, hands rest at different levels on the thigh without fully covering each other, face subtly forward and eyes meeting the lens. Use a soft side key kept away from the background so it does not wash out the practical lights. Shoot with a 135–200mm telephoto lens and a wide aperture, keeping face and hands sharp while the rear lights become large soft bokeh circles that do not overlap the face. Black or navy background, elegant contrast and controlled highlights. No lights forming text, no circles covering eyes or mouth, no bokeh duplicating jewelry, no fused hands, text or logos. Vertical 4:5 composition.
+Full-body studio portrait of an adult [model] in a bright minimalist set, wearing [neutral matte-textured clothing]. The model stands with only one shoulder gently touching a neutral vertical panel, outside leg bent and foot slightly forward; one hand rests low along the model's own thigh while the other lightly holds the sleeve cuff, without crossing the torso. Build a large translucent diffusion wall extending from the floor above head height and place it laterally like a window. Put a flash or LED source behind the diffusion and far enough back to fill the surface evenly, making the diffusion itself become the apparent source. Keep the opposite side unfilled or use only minimal bounce, creating soft, continuous, directional light with a delicate floor shadow. 70–85mm lens, camera at waist height, straight vertical lines, full body and complete feet. No visible softbox, no rear halo, no silhouette through fabric, no blown high-key background, no cropped or fused feet, text or logos. Vertical 2:3 composition.
 ```
 
-**Restrição opcional:** `bokeh apenas no fundo, rosto e mãos nítidos, pontos luminosos separados, sem círculos sobre olhos ou boca`.
+**Restrição opcional:** `difusão translúcida gigante lateral, superfície uniformemente iluminada, corpo inteiro, pés completos, sem silhueta`.
 
-**Por que funciona:** Distância entre sujeito e fundo, abertura ampla e focal longa ampliam o desfoque dos pontos luminosos, criando separação óptica em vez de depender de fumaça, prisma ou tecido.
+**Por que funciona:** Uma grande seda ou difusor iluminado por trás aumenta drasticamente o tamanho aparente da fonte. Diferente do book light, aqui a luz é transmitida diretamente por uma única superfície ampla, imitando uma janela de estúdio.
 
 ---
 
-## 49. Dupla exposição editorial com frontal nítido e perfil fantasma
+## 54. Light painting de retrato com pose apoiada e rosto pintado primeiro
 
-**Uso:** capa de álbum, retrato conceitual, pôster autoral e narrativa de identidade.
+**Uso:** retrato conceitual, capa musical, campanha artística e fotografia experimental de estúdio.
 
-**Pose-chave:** primeira exposição frontal estável; segunda exposição em perfil, deslocada lateralmente, sem cruzar olhos e boca da imagem principal.
+**Pose-chave:** modelo reclinada em chaise ou banco com costas apoiadas, pés estáveis e mãos pousadas para conseguir permanecer imóvel durante longa exposição.
 
 ### Prompt em português
 
 ```text
-Retrato conceitual de estúdio de uma única [modelo adulta] construído como dupla exposição fotográfica intencional. Primeira exposição: busto frontal, ombros baixos, rosto totalmente nítido e olhar direto, iluminado por softbox neutra contra fundo preto. Segunda exposição do mesmo rosto: perfil limpo voltado para a esquerda, deslocado lateralmente cerca de um terço da largura da cabeça, com exposição mais baixa e bordas suaves, criando uma presença fantasma translúcida sem cobrir os olhos, nariz ou boca da imagem frontal. Simule composição in-camera de múltipla exposição, não clonagem de duas pessoas; lente de 85 mm, enquadramento do peito para cima, tons monocromáticos ou muito dessaturados. Exatamente uma pessoa representada em dois registros, sem quatro olhos no rosto principal, sem boca duplicada sobreposta, sem corpos independentes, sem texto ou logotipos. Formato 4:5 vertical.
+Retrato conceitual de estúdio de [modelo adulta] em ambiente quase escuro, reclinada em uma chaise ou banco firme. Costas e um braço ficam apoiados, ambos os pés estáveis no chão e a outra mão repousa aberta sobre a própria coxa, criando uma pose confortável que possa ser mantida imóvel. Câmera em tripé, lente de 50–70 mm, longa exposição como referência visual entre 10 e 30 segundos, ambiente muito escuro. Use uma pequena fonte contínua portátil fora do quadro para fazer light painting manual: ilumine primeiro o rosto com uma passagem curta e suave, desligue a luz, depois pinte seletivamente ombro, mãos e tecido com movimentos circulares ou de pincel, deixando áreas deliberadamente em sombra. A luz deve parecer acumulada por movimento da fonte, com bordas graduais, não como flash ou softbox. Olhos e rosto devem permanecer nítidos, sem trilha sobre o rosto; pequenas variações luminosas no tecido são permitidas. Sem neon contínuo ao redor do corpo, sem motion blur facial, sem múltiplas pessoas, sem fonte luminosa visível, texto ou logotipos. Formato 3:2 horizontal.
 ```
 
 ### Prompt em inglês
 
 ```text
-Conceptual studio portrait of a single adult [model] built as an intentional photographic double exposure. First exposure: frontal bust, lowered shoulders, fully sharp face and direct gaze, lit by a neutral softbox against black. Second exposure of the same face: clean left-facing profile, shifted sideways by roughly one third of the head width, lower in exposure with soft edges, creating a translucent ghost presence without covering the eyes, nose or mouth of the frontal image. Simulate an in-camera multiple-exposure composition, not two cloned people; 85mm lens, chest-up framing, monochrome or strongly desaturated tones. Exactly one person represented in two exposures, no four eyes on the primary face, no duplicated mouth overlapping it, no independent bodies, text or logos. Vertical 4:5 composition.
+Conceptual studio portrait of an adult [model] in an almost dark environment, reclining on a firm chaise or bench. Back and one arm are supported, both feet stable on the floor and the other hand rests open on the model's own thigh, creating a comfortable pose that can be held still. Camera on a tripod, 50–70mm lens, long exposure as a visual reference between 10 and 30 seconds, very low ambient light. Use a small handheld continuous source outside the frame for manual light painting: illuminate the face first with one short gentle pass, switch the light off, then selectively paint the shoulder, hands and fabric using circular or brushing motions, deliberately leaving areas in shadow. The illumination should look accumulated by movement of the source, with gradual edges, not like flash or softbox. Eyes and face remain sharp with no trail across the face; small luminous variations on fabric are allowed. No continuous neon outline around the body, no facial motion blur, no multiple people, no visible light source, text or logos. Horizontal 3:2 composition.
 ```
 
-**Restrição opcional:** `uma única identidade, dois registros fotográficos, rosto frontal principal intacto, perfil translúcido lateral, sem clone corporal`.
+**Restrição opcional:** `câmera em tripé, pose apoiada e imóvel, rosto iluminado primeiro, sem trilha facial, sem neon contínuo`.
 
-**Por que funciona:** A múltipla exposição combina registros separados na mesma imagem e cria narrativa temporal ou psicológica sem depender de reflexos, espelhos ou motion blur.
+**Por que funciona:** Light painting exige longa exposição e deslocamento físico da fonte, permitindo acumular luz seletivamente. A pose apoiada reduz movimento corporal e a iluminação do rosto primeiro diminui o risco de registrar expressões borradas.
 
 ---
 
-## 50. Moldura orgânica de primeiro plano com foco no olhar
+## 55. Pixel tube segmentado como practical com pose em arco lateral
 
-**Uso:** editorial de moda, retrato de ator, campanha de beleza natural e retrato cinematográfico.
+**Uso:** editorial tecnológico, campanha musical, retrato fashion contemporâneo e key art de streaming.
 
-**Pose-chave:** corpo em três quartos, rosto voltado à lente e braços baixos, deixando folhas desfocadas enquadrarem apenas as bordas.
+**Pose-chave:** modelo em pé deslocada do centro, quadril em leve contrapposto, braço externo curvado atrás da cintura e braço interno baixo deixando o tubo prático totalmente legível.
 
 ### Prompt em português
 
 ```text
-Retrato cinematográfico de estúdio de [modelo adulta] em três quartos diante de fundo verde-oliva ou cinza quente. Coloque folhas naturais ou elementos botânicos reais muito próximos da lente nas bordas esquerda e direita, desfocados e usados somente como moldura de primeiro plano; mantenha o centro totalmente livre. Modelo com corpo a 30 graus, braços baixos e separados do torso, uma mão segurando suavemente a própria lapela ou gola, cabeça voltada para a câmera e olhos nítidos. Use lente de 85 mm em abertura moderadamente ampla, foco crítico no olho mais próximo, softbox lateral grande e fill mínimo; as folhas devem criar profundidade e vinheta orgânica sem projetar padrões sobre o rosto. Paleta monocromática coerente entre fundo, folhagem e figurino. Sem folhas cobrindo olhos, nariz ou boca, sem folhagem brotando do corpo, sem gobo vegetal, sem fundo poluído, texto ou logotipos. Formato 4:5 vertical.
+Retrato fashion de estúdio de [modelo adulta] em corpo de três quartos sobre fundo preto fosco, usando [figurino monocromático escuro com textura]. Posicione a modelo no terço esquerdo, quadril em contrapposto suave, braço externo curvado atrás da cintura sem desaparecer e braço interno baixo e separado do torso; cabeça volta para a câmera. No terço direito, coloque um único pixel tube RGBWW vertical totalmente visível como practical de cena, configurado com quatro a oito zonas de cor em transição gradual, sem formar letras ou símbolos. Use uma key neutra e controlada no rosto, de intensidade baixa o bastante para o tubo permanecer saturado; permita que o practical gere um único reflexo linear sutil no contorno do figurino, sem colorir toda a pele. Lente de 85 mm, enquadramento do joelho para cima, fundo preto com espaço negativo entre modelo e tubo, olhos nítidos e cores limpas. Exatamente um tubo, sem sabres de luz, sem múltiplas barras, sem géis coloridos diretamente no rosto, sem texto, símbolos ou logotipos. Formato 4:5 vertical.
 ```
 
 ### Prompt em inglês
 
 ```text
-Cinematic studio portrait of an adult [model] in three-quarter view against an olive-green or warm-gray background. Place real leaves or botanical elements very close to the lens along the left and right edges, out of focus and used only as a foreground frame; keep the center completely clear. Model stands about 30 degrees off camera, arms low and separated from the torso, one hand gently holding the model's own lapel or collar, head turned toward camera and eyes sharp. Use an 85mm lens at a moderately wide aperture, critical focus on the nearest eye, large side softbox and minimal fill; leaves create depth and an organic vignette without casting patterns over the face. Keep a coherent monochromatic palette across background, foliage and wardrobe. No leaves covering eyes, nose or mouth, no foliage growing from the body, no botanical gobo, no cluttered background, text or logos. Vertical 4:5 composition.
+Three-quarter fashion studio portrait of an adult [model] against a matte-black background, wearing [dark monochromatic textured wardrobe]. Place the model on the left third, hips in gentle contrapposto, outer arm curved behind the waist without disappearing and inner arm low and separated from the torso; head returns to camera. On the right third, place one fully visible vertical RGBWW pixel tube as an in-scene practical, configured with four to eight color zones in a smooth transition without forming letters or symbols. Use a controlled neutral key on the face, low enough in intensity for the tube to remain saturated; allow the practical to create one subtle linear reflection along the wardrobe edge without coloring the entire skin. 85mm lens, knee-up framing, black background with negative space between model and tube, sharp eyes and clean colors. Exactly one tube, no lightsabers, no multiple bars, no colored gels directly on the face, no text, symbols or logos. Vertical 4:5 composition.
 ```
 
-**Restrição opcional:** `folhagem apenas nas bordas, centro livre, olhos nítidos, sem folhas sobre o rosto, paleta coerente`.
+**Restrição opcional:** `um único pixel tube visível, zonas de cor graduais, rosto neutro, espaço negativo, sem sabre de luz, sem letras`.
 
-**Por que funciona:** Usar elementos próximos à lente cria uma camada real de primeiro plano e direciona o olhar por enquadramento, não por luz projetada. A técnica adiciona profundidade sem repetir prisma ou tecido translúcido.
+**Por que funciona:** Um pixel tube pode atuar simultaneamente como objeto cenográfico, practical e fonte de reflexão localizada. O controle por zonas cria estrutura cromática no próprio emissor, diferente de géis projetados sobre o sujeito.
 
 ---
 
