@@ -1,6 +1,6 @@
 # Referências e Metodologia
 
-Pesquisa inicial realizada em **2 de agosto de 2026** e ampliada em **3, 4, 6, 7, 8, 9, 10, 11 e 12 de agosto de 2026**. A curadoria prioriza documentação oficial de geração de imagens e materiais educacionais de fabricantes reconhecidos.
+Pesquisa inicial realizada em **2 de agosto de 2026** e ampliada em **3, 4, 6, 7, 8, 9, 10, 11, 12 e 13 de agosto de 2026**. A curadoria prioriza documentação oficial de geração de imagens e materiais educacionais de fabricantes reconhecidos.
 
 ## Critérios usados
 
@@ -27,18 +27,23 @@ Pesquisa inicial realizada em **2 de agosto de 2026** e ampliada em **3, 4, 6, 7
 - Grandes superfícies translúcidas podem atuar como uma janela artificial uniforme.
 - Light painting exige longa exposição, câmera estável, deslocamento da fonte e pose capaz de permanecer imóvel.
 - Pixel tubes podem funcionar como practicals visíveis, luz de efeito e fontes com zonas independentes.
+- Contraste cromático pode ser produzido pela diferença de temperatura de cor entre LEDs, sem depender de géis.
+- Refletores duros de interior branco mantêm direção e alcance, mas suavizam contraste e transições comparados a superfícies metálicas mais especulares.
+- Filtros de difusão óptica podem reduzir microcontraste e criar halation localizado sem sacrificar o foco principal.
+- Espaço negativo deve ser orientado em relação ao olhar ou ao movimento do sujeito, não tratado como área vazia acidental.
+- Composição central ganha força quando o quadro é limpo e elementos de apoio reforçam o eixo principal.
 
 ## Fontes principais
 
 ### Geração de imagem e prompts
 
-1. OpenAI Academy — Criando imagens com o ChatGPT, publicado em 10 de abril de 2026, verificado em 12 de agosto de 2026  
+1. OpenAI Academy — Criando imagens com o ChatGPT, publicado em 10 de abril de 2026, verificado em 13 de agosto de 2026  
    https://openai.com/pt-BR/academy/image-generation/
 
-2. OpenAI Help Center — Imagens no ChatGPT, verificado em 12 de agosto de 2026  
+2. OpenAI Help Center — Imagens no ChatGPT, verificado em 13 de agosto de 2026  
    https://help.openai.com/pt-br/articles/11084440-images-in-chatgpt
 
-3. OpenAI Help Center — Prompt engineering best practices for ChatGPT, verificado em 12 de agosto de 2026  
+3. OpenAI Help Center — Prompt engineering best practices for ChatGPT, verificado em 13 de agosto de 2026  
    https://help.openai.com/en/articles/10032626-prompt-gineering-best-practices-for-chatgpt
 
 ### Retrato, iluminação, lentes e composição
@@ -61,17 +66,35 @@ Pesquisa inicial realizada em **2 de agosto de 2026** e ampliada em **3, 4, 6, 7
 9. Nikon — Quick Tips for Taking Better Portraits, lentes padrão e teleobjetivas curtas para proporções naturais  
    https://www.nikonusa.com/learn-and-explore/c/tips-and-techniques/quick-tips-for-taking-better-portraits
 
-## Atualização de 12 de agosto de 2026
+10. Profoto — Environmental lighting / cinematic set com L600C, demonstra separação cromática usando diferentes temperaturas Kelvin em LEDs, verificado em 13 de agosto de 2026  
+    https://www.profoto.com/pl/fr/still-photography/profoto-stories/4-photoshoots-with-the-new-profoto-l600c-led/setup-4-environmental-lighting-cinematic-set/
 
-Foram adicionados cinco conceitos materialmente diferentes dos 50 anteriores:
+11. Profoto — How to shape hard light with the Profoto Hard Reflectors White, publicado em 20 de outubro de 2025, verificado em 13 de agosto de 2026  
+    https://www.profoto.com/ca/en/still-photography/tips-tricks/how-to-shape-hard-light-with-the-profoto-hard-reflectors-white/BlogPage
 
-- **book light cinematográfico**, com bounce seguido de uma segunda camada de difusão;
-- **edge transfer com softbox rente ao rosto**, usando distância curta e feathering para queda rápida;
-- **parede de difusão translúcida**, tratando uma superfície grande como janela artificial;
-- **light painting de retrato**, com pose apoiada e rosto iluminado primeiro durante longa exposição;
-- **pixel tube segmentado como practical**, mantendo o rosto neutro e a estrutura de cor no próprio emissor.
+12. Tiffen — Unlock Your Creativity with Tiffen Filters, difusão óptica, redução de microcontraste e halation em highlights, verificado em 13 de agosto de 2026  
+    https://tiffen.com/pages/unlock-your-creativity-with-tiffen-filters
 
-A Aputure documenta book lights de grande escala em produção real. A Broncolor demonstra como uma softbox angulada e próxima controla falloff e edge transfer. A Nikon mostra que uma grande seda difusora aumenta o tamanho aparente da fonte e, em light painting, recomenda câmera em tripé, movimentação da fonte e poses apoiadas para pessoas. A amaran documenta pixel tubes RGBWW com zonas controláveis usados como practicals e fontes de efeitos. A OpenAI recomenda prompts de imagem claros, descritivos e específicos sobre propósito, composição, iluminação e restrições.
+13. Nikon — 5 Easy Composition Guidelines, orientação de espaço negativo na direção do olhar e movimento, verificado em 13 de agosto de 2026  
+    https://www.nikonusa.com/learn-and-explore/c/tips-and-techniques/5-easy-composition-guidelines
+
+14. Nikon — When Center Composition can Elevate a Portrait, composição central, limpeza de quadro e elementos de apoio, verificado em 13 de agosto de 2026  
+    https://www.nikonusa.com/learn-and-explore/c/tips-and-techniques/when-center-composition-can-elevate-a-portrait
+
+15. Nikon — The Portrait as Assignment, Documentary and More, direção de modelos, experimentação de pose e controle de movimento, verificado em 13 de agosto de 2026  
+    https://www.nikonusa.com/learn-and-explore/c/ideas-and-inspiration/the-portrait-as-assignment-documentary-and-more
+
+## Atualização de 13 de agosto de 2026
+
+Foram adicionados cinco conceitos materialmente diferentes dos 55 anteriores:
+
+- **contraste de temperatura de cor com LED**, separando key neutra-fria e borda quente sem géis;
+- **hard light de refletor branco em longa distância**, mantendo direção e alcance com transições menos agressivas;
+- **difusão óptica na lente com halation controlado**, preservando olhos nítidos e pele real;
+- **perfil com espaço negativo dominante**, usando o vazio como elemento compositivo explícito;
+- **composição central com linhas condutoras**, mantendo cenário simétrico e pose corporal levemente assimétrica.
+
+A Profoto documenta tanto o uso recente de LEDs com temperaturas Kelvin contrastantes em um set cinematográfico quanto o comportamento de refletores duros de interior branco para retrato e moda. A Tiffen descreve filtros de difusão como ferramentas para suavizar microcontraste e gerar glow nos highlights sem simplesmente desfocar a imagem. A Nikon recomenda espaço negativo na direção do olhar/movimento e mostra quando uma composição central funciona melhor: quadro limpo, ponto focal forte e elementos que reforçam o centro. A OpenAI recomenda prompts claros, descritivos e específicos quanto a propósito, composição, iluminação e restrições.
 
 ## Autoria
 
