@@ -1,6 +1,6 @@
-# 60 Prompts de Fotografia de Estúdio e Poses de Modelo
+# 65 Prompts de Fotografia de Estúdio e Poses de Modelo
 
-Catálogo principal consolidado. Os prompts 1–55 permanecem acessíveis por arquivos históricos ou revisões permanentes; os prompts 56–60 estão completos nesta página.
+Catálogo principal consolidado. Os prompts 1–60 permanecem acessíveis por arquivos históricos ou revisões permanentes; os prompts 61–65 estão completos nesta página.
 
 ## Índice consolidado
 
@@ -64,113 +64,116 @@ Catálogo principal consolidado. Os prompts 1–55 permanecem acessíveis por ar
 58. Difusão óptica com halation controlado e beauty frontal assimétrica
 59. Perfil com espaço negativo dominante e gesto de saída do quadro
 60. Composição central com corredores de luz e pose axial interrompida
+61. Sequência estroboscópica lateral com dança em quatro tempos
+62. Starburst de fundo em f/11 com pose vertical minimalista
+63. Beauty com polarizador circular e brilho especular reduzido
+64. Retrato narrativo sem rosto com mãos e objeto em foco
+65. Panning editorial lateral com modelo nítida e fundo arrastado
 
 ---
 
-## 56. Retrato bi-color por temperatura com LED frio e contraluz quente
+## 61. Sequência estroboscópica lateral com dança em quatro tempos
 
-**Uso:** editorial cinematográfico, retrato de músico, moda noturna e branding dramático.
+**Uso:** dança, editorial esportivo, moda performática e capa musical.
 
-**Pose-chave:** corpo em três quartos, peso na perna traseira, ombro próximo levemente avançado, uma mão no bolso e a outra afastada do torso.
+**Pose-chave:** deslocamento lateral em quatro posições legíveis, tronco ereto, braços mudando de nível e rosto orientado para a direção do movimento.
 
 ### Prompt em português
 ```text
-Retrato editorial de estúdio de [modelo adulta] diante de fundo cinza-azulado profundo, com [alfaiataria escura]. Corpo em três quartos, peso na perna traseira, perna dianteira relaxada, uma mão no bolso com polegar visível e a outra afastada do torso; rosto retorna para a câmera. Use apenas LEDs de temperatura variável, sem géis: key ampla e suave a 4300 K, 45 graus à frente e acima; fonte dura lateral-traseira a 2700 K criando borda âmbar em cabelo e ombro; fill muito fraco a 5000 K no lado sombreado. Preserve pele neutra e separação clara entre temperaturas. Lente 85 mm, enquadramento dos joelhos para cima, foco nos olhos e textura natural. Sem neon saturado, divisão cromática artificial no rosto, membros extras, texto ou logotipos. Formato 4:5 vertical.
+Fotografia editorial de estúdio de [modelo adulta] executando uma sequência curta de dança lateral diante de fundo preto fosco. Registre quatro posições sucessivas do mesmo corpo ao longo de uma única trajetória da esquerda para a direita: primeiro apoio firme, passo de transição, extensão central e encerramento estável. Use repeating flash estroboscópico em baixa potência durante uma exposição longa controlada, com a sala escura e sem luz ambiente relevante; cada pulso deve criar uma posição corporal distinta, com separação visual entre braços e pernas. Mantenha o rosto orientado para a direção do movimento e preserve pelo menos a última posição com olhos legíveis. Lente 50 mm, câmera fixa em tripé, quadro horizontal amplo, fundo sem elementos. Sem clones com roupas diferentes, posições sobrepostas caóticas, membros fundidos, mais de quatro registros corporais, texto ou logotipos. Formato 16:9 horizontal.
 ```
 
 ### Prompt em inglês
 ```text
-Studio editorial portrait of an adult [model] against a deep blue-gray background in [dark tailoring]. Three-quarter body, weight on the back leg, relaxed front leg, one hand in a pocket with thumb visible and the other away from the torso; face turns back to camera. Use variable-CCT LEDs only, no gels: broad soft 4300 K key 45 degrees forward and above; hard side-back 2700 K source creating an amber edge on hair and shoulder; very weak 5000 K fill on the shadow side. Keep skin neutral and color-temperature separation clear. 85mm lens, knees-up framing, sharp eyes and natural texture. No saturated neon, artificial split color across the face, extra limbs, text or logos. Vertical 4:5.
+Studio editorial photograph of an adult [model] performing a short lateral dance sequence against a matte black background. Record four successive positions of the same body along one left-to-right path: firm starting stance, transition step, central extension, and stable finish. Use low-power repeating stroboscopic flash during a controlled long exposure, with the room dark and no meaningful ambient light; each pulse should create a distinct body position with clear separation between arms and legs. Keep the face oriented toward the direction of travel and preserve at least the final position with readable eyes. 50mm lens, camera locked on a tripod, wide horizontal frame, uncluttered background. No clones with different wardrobe, chaotic overlapping positions, fused limbs, more than four body records, text or logos. Horizontal 16:9.
 ```
 
-**Restrição opcional:** `sem géis, pele neutra, temperaturas separadas, mãos legíveis, sem neon saturado`.
+**Restrição opcional:** `exatamente quatro posições, uma única pessoa, trajetória lateral contínua, câmera fixa, sem sobreposição caótica`.
 
-**Por que funciona:** explora contraste cromático por temperatura Kelvin real entre LEDs, diferente dos conceitos anteriores baseados em géis.
+**Por que funciona:** O repeating flash registra fases reais de um movimento numa única exposição; difere da dupla exposição e do sincronismo de segunda cortina porque produz uma cadência discreta de posições, não um fantasma único ou rastro contínuo.
 
 ---
+## 62. Starburst de fundo em f/11 com pose vertical minimalista
 
-## 57. Hard light cremosa com refletor branco de longo alcance e pose em arco
+**Uso:** retrato musical, moda noturna, pôster e editorial gráfico.
 
-**Uso:** beauty fashion, joalheria, editorial de textura e retrato de alto impacto.
-
-**Pose-chave:** quadril deslocado para um lado, tronco em arco suave oposto, braço externo alongado e mão interna abaixo das costelas.
+**Pose-chave:** corpo frontal estreito, peso em uma perna, braços baixos e afastados do torso, cabeça levemente inclinada entre pontos de luz.
 
 ### Prompt em português
 ```text
-Retrato fashion de estúdio de [modelo adulta] em corpo inteiro sobre fundo bege mineral. Quadril deslocado para a direita, dois pés apoiados em planos diferentes, tronco em arco suave para a esquerda, braço externo alongado e mão interna abaixo das costelas. Use um único refletor duro de interior branco a vários metros da modelo, ligeiramente acima e 30 graus fora do eixo. A luz deve ser direcional e definida, porém com transições mais suaves e pele menos especular que um refletor prateado. Uma bandeira preta no lado oposto aprofunda o contorno; sem fill frontal. Lente 100 mm, câmera na altura da cintura, textura de pele e tecido preservadas. Sem hardbox, Fresnel ou beauty dish, articulações impossíveis, dedos extras, texto ou logotipos. Formato 2:3 vertical.
+Retrato de estúdio de [modelo adulta] em pé diante de fundo carvão, com quatro pequenas fontes pontuais posicionadas bem atrás da modelo em alturas diferentes. Corpo frontal estreito, peso concentrado em uma perna, joelho oposto relaxado, braços baixos e ligeiramente afastados do torso, mãos visíveis; cabeça inclinada poucos graus sem bloquear os pontos de luz. Use uma key suave e controlada a 45 graus para o rosto e mantenha as luzes traseiras pequenas, intensas e visíveis no quadro. Trabalhe com abertura próxima de f/11 para transformar cada ponto traseiro em starburst definido, em vez de bokeh; controle flare com grids ou bandeiras para preservar contraste no rosto. Lente 85 mm, enquadramento dos joelhos para cima, olhos nítidos, fundo limpo. Sem orbes desfocados, flare cobrindo o rosto, mais de quatro estrelas, halos gigantes, membros extras, texto ou logotipos. Formato 4:5 vertical.
 ```
 
 ### Prompt em inglês
 ```text
-Full-body studio fashion portrait of an adult [model] against a mineral beige background. Hips shifted right, both feet grounded on different planes, torso forming a gentle opposing arc left, outer arm extended and inner hand below the ribs. Use one white-interior hard reflector several meters away, slightly above and 30 degrees off camera axis. Keep light directional and defined, with smoother transitions and less specular skin than a silver reflector. Add one black flag opposite for contour, no frontal fill. 100mm lens, camera at waist height, preserved skin and fabric texture. No hardbox, Fresnel or beauty dish, impossible joints, extra fingers, text or logos. Vertical 2:3.
+Studio portrait of an adult [model] standing against a charcoal background with four small point light sources positioned well behind the model at different heights. Keep the body narrow and frontal, weight on one leg, opposite knee relaxed, arms low and slightly away from the torso, hands visible; tilt the head only a few degrees without blocking the point lights. Use a controlled soft key at 45 degrees for the face and keep the rear lights small, bright and visible in frame. Work near f/11 so each rear point renders as a defined starburst rather than bokeh; control flare with grids or flags to preserve facial contrast. 85mm lens, knees-up framing, sharp eyes, clean background. No blurred orbs, flare covering the face, more than four stars, oversized halos, extra limbs, text or logos. Vertical 4:5.
 ```
 
-**Restrição opcional:** `refletor duro branco, distância longa, sombra definida porém suave, corpo inteiro`.
+**Restrição opcional:** `quatro starbursts nítidos, sem bokeh, flare controlado, olhos preservados, fundo escuro`.
 
-**Por que funciona:** o interior branco preserva direção e alcance, mas reduz a agressividade especular, criando hard light diferente dos setups já catalogados.
+**Por que funciona:** É o inverso técnico do bokeh de pontos práticos: fechar a abertura transforma fontes pequenas em estrelas definidas e cria estrutura gráfica sem depender de projeções no fundo.
 
 ---
+## 63. Beauty com polarizador circular e brilho especular reduzido
 
-## 58. Difusão óptica com halation controlado e beauty frontal assimétrica
+**Uso:** skincare, cosméticos, retrato dermatológico editorial e beauty clean.
 
-**Uso:** beauty editorial, retrato de ator, skincare atmosférico e capa musical.
-
-**Pose-chave:** rosto em três quartos suave, queixo neutro, uma mão toca a gola e os olhos retornam diretamente à lente.
+**Pose-chave:** rosto em três quartos leve, testa e maçãs do rosto voltadas para a key, uma mão abaixo da clavícula e a outra fora do quadro.
 
 ### Prompt em português
 ```text
-Beauty portrait de estúdio de [modelo adulta] do peito para cima, com roupa fosca e maquiagem natural. Corpo quase frontal, rosto girado 15 graus, queixo neutro, uma mão tocando levemente a própria gola com dedos legíveis; olhos diretamente na lente. Ilumine com fonte grande e suave frontal-lateral a 30 graus e dois pequenos pontos quentes muito atrás, próximos às bordas. Simule difusão óptica leve na frente da lente: preserve olhos e cílios nítidos, reduza apenas microcontraste excessivo da pele e crie halation discreto nos pontos luminosos, sem blur global. Fundo carvão, lente 105 mm, poros ainda visíveis, highlights protegidos. Sem pele plástica, glow pesado, olhos enevoados, bokeh sobre o rosto, dedos extras, texto ou logotipos. Formato 4:5 vertical.
+Beauty portrait de estúdio de [modelo adulta] do ombro para cima, com maquiagem leve e pele real. Rosto girado cerca de 20 graus em relação à câmera, queixo neutro, olhos retornando à lente, uma mão repousando abaixo da clavícula sem tocar o rosto. Use uma fonte grande e suave lateral-frontal para revelar volume sem criar highlights agressivos e um fill branco muito discreto. Na lente, use polarizador circular ajustado para reduzir reflexos e glare especular na pele sem eliminar completamente o brilho natural; preserve textura, poros e diferença entre zonas secas e luminosas. Fundo cinza-claro mate, lente 105 mm, foco preciso nos olhos, exposição protegendo testa e maçãs do rosto. Sem pele de plástico, matte artificial total, reflexos de vidro, halation, dedos extras, texto ou logotipos. Formato 4:5 vertical.
 ```
 
 ### Prompt em inglês
 ```text
-Chest-up studio beauty portrait of an adult [model] in matte clothing and natural makeup. Body nearly frontal, face turned 15 degrees, neutral chin, one hand lightly touching the collar with readable fingers; eyes directly to lens. Light with a large soft front-side source at 30 degrees and two small warm points far behind near the frame edges. Simulate light optical diffusion in front of the lens: keep eyes and eyelashes sharp, reduce only excessive skin microcontrast and create restrained halation around point lights, without global blur. Charcoal background, 105mm lens, visible pores, protected highlights. No plastic skin, heavy glow, hazy eyes, bokeh over the face, extra fingers, text or logos. Vertical 4:5.
+Shoulder-up studio beauty portrait of an adult [model] with light makeup and realistic skin. Turn the face about 20 degrees from camera, neutral chin, eyes returning to lens, one hand resting below the collarbone without touching the face. Use a large soft front-side source to reveal volume without harsh highlights and a very subtle white fill. Use a circular polarizer on the lens, rotated to reduce reflected glare and specular shine on the skin without removing all natural luminosity; preserve texture, pores and variation between matte and luminous areas. Matte light-gray background, 105mm lens, precise eye focus, exposure protecting forehead and cheek highlights. No plastic skin, completely artificial matte finish, glass reflections, halation, extra fingers, text or logos. Vertical 4:5.
 ```
 
-**Restrição opcional:** `difusão óptica leve, olhos nítidos, halation apenas nos highlights, pele com poros`.
+**Restrição opcional:** `brilho especular reduzido, pele ainda natural, olhos nítidos, sem efeito plástico, sem reflexos de vidro`.
 
-**Por que funciona:** trata a suavização como efeito óptico da lente, preservando foco nos olhos e limitando o bloom aos highlights.
+**Por que funciona:** O polarizador passa a ser ferramenta de controle de reflexão na pele, não de vidro ou cenário. Isso cria um beauty técnico centrado em microcontraste e especularidade, distinto da difusão óptica.
 
 ---
+## 64. Retrato narrativo sem rosto com mãos e objeto em foco
 
-## 59. Perfil com espaço negativo dominante e gesto de saída do quadro
+**Uso:** campanha artesanal, joalheria, retrato ocupacional, editorial de produto e storytelling.
 
-**Uso:** editorial minimalista, retrato conceitual, campanha com espaço para tipografia e capa de revista.
-
-**Pose-chave:** modelo no terço esquerdo, corpo em perfil para a direita, perna iniciando passo curto e olhar para a grande área vazia.
+**Pose-chave:** enquadramento do tórax às mãos, rosto deliberadamente fora do quadro, uma mão executa uma ação e a outra estabiliza o objeto.
 
 ### Prompt em português
 ```text
-Retrato editorial minimalista de estúdio de [modelo adulta] no terço esquerdo extremo de um quadro horizontal, usando look monocromático. Corpo quase de perfil para a direita, peso na perna traseira, perna dianteira iniciando passo curto, braços compactos com mãos legíveis. Cabeça em perfil olhando para a direita, deixando cerca de dois terços do quadro como espaço negativo limpo na direção do olhar e movimento. Softbox média alta e lateral separa testa, nariz e queixo; fill mínimo; fundo cinza uniforme ligeiramente mais claro no espaço vazio. Lente 85 mm, joelhos para cima, olho nítido. Nenhum objeto ou texto no espaço negativo; não centralize a modelo; sem membros extras. Formato 16:9 horizontal.
+Retrato narrativo de estúdio de [modelo adulta] sem mostrar o rosto, enquadrado do tórax até as mãos enquanto interage com [objeto relevante: câmera analógica, caderno, ferramenta, joia ou instrumento pequeno]. Uma mão executa uma ação clara no objeto e a outra o estabiliza; pulsos separados, dedos totalmente legíveis e braços criando uma diagonal simples. O figurino deve contextualizar a personagem sem competir com o gesto. Use softbox lateral grande a 45 graus e negative fill oposto para destacar textura das mãos e do objeto, com fundo neutro desfocado. Lente macro ou retrato de 100–105 mm, foco no ponto de contato entre dedos e objeto, profundidade de campo suficiente para manter ambas as mãos legíveis. Sem rosto entrando no quadro, dedos extras, objeto deformado, mãos fundidas, texto ou logotipos. Formato 4:5 vertical.
 ```
 
 ### Prompt em inglês
 ```text
-Minimalist studio editorial portrait of an adult [model] on the far left third of a horizontal frame, wearing a monochrome look. Body almost in profile facing right, weight on the rear leg, front leg beginning a short step, compact arms with readable hands. Head in profile looking right, leaving roughly two thirds of the frame as clean negative space in the direction of gaze and movement. A medium high side softbox separates forehead, nose and chin; minimal fill; uniform gray background slightly brighter toward the empty area. 85mm lens, knees-up framing, sharp eye. No object or text in the negative space; do not center the model; no extra limbs. Horizontal 16:9.
+Narrative studio portrait of an adult [model] without showing the face, framed from torso to hands while interacting with [a relevant object: analog camera, notebook, tool, jewelry piece or small instrument]. One hand performs a clear action on the object while the other stabilizes it; wrists separated, fingers fully readable, arms forming a simple diagonal. Wardrobe should contextualize the character without competing with the gesture. Use a large side softbox at 45 degrees and opposite negative fill to emphasize hand and object texture, with a neutral blurred background. 100–105mm macro or portrait lens, focus on the contact point between fingers and object, enough depth of field to keep both hands readable. No face entering the frame, extra fingers, distorted object, fused hands, text or logos. Vertical 4:5.
 ```
 
-**Restrição opcional:** `modelo no terço esquerdo, dois terços vazios à direita, olhar para dentro do quadro, sem objetos no vazio`.
+**Restrição opcional:** `rosto fora do quadro, duas mãos legíveis, objeto íntegro, gesto funcional claro, sem anatomia duplicada`.
 
-**Por que funciona:** transforma o espaço negativo em elemento compositivo explícito e reutilizável para layouts editoriais.
+**Por que funciona:** Um retrato não precisa depender do rosto: mãos, gesto e objeto podem carregar identidade e narrativa. O corte deliberado muda o centro de atenção e força direção anatômica mais precisa.
 
 ---
+## 65. Panning editorial lateral com modelo nítida e fundo arrastado
 
-## 60. Composição central com corredores de luz e pose axial interrompida
+**Uso:** street-fashion em estúdio, activewear, campanha de calçados e retrato de movimento.
 
-**Uso:** fashion gráfico, alfaiataria, pôster e retrato conceitual simétrico.
-
-**Pose-chave:** modelo no eixo central, pés em bases diferentes, tronco frontal, um braço vertical e o outro dobrado sobre a própria cintura.
+**Pose-chave:** caminhada lateral contínua, pé dianteiro em contato com o chão, braços em balanço curto e cabeça estável acompanhando a direção.
 
 ### Prompt em português
 ```text
-Retrato fashion de estúdio de [modelo adulta] exatamente no eixo central diante de dois painéis verticais claros e simétricos. Corpo frontal, pés em bases diferentes, peso levemente deslocado para uma perna, coluna longa; um braço quase vertical junto ao corpo e o outro dobrado sobre a própria cintura, mão visível. Crie duas faixas verticais de luz iguais no fundo, uma de cada lado, como linhas condutoras para a modelo. Use fonte frontal ampla e suave ligeiramente acima da câmera para o rosto, mantendo volume. Cenário limpo e simétrico; pequena assimetria corporal evita rigidez. Lente 70 mm, joelhos para cima, câmera nivelada e central, olhos nítidos. Sem Dutch angle, painéis desalinhados, modelo fora do eixo, mãos duplicadas, texto ou logotipos. Formato 4:5 vertical.
+Fotografia editorial de estúdio de [modelo adulta] caminhando lateralmente da esquerda para a direita diante de um fundo com faixas verticais discretas. O movimento deve ser contínuo: pé dianteiro tocando o chão, perna traseira impulsionando, braços em balanço curto e oposto às pernas, tronco estável, cabeça acompanhando a direção com olhar ligeiramente para a câmera. Use apenas luz contínua suficiente para exposição e faça panning acompanhando a modelo durante um obturador lento em torno de 1/15 a 1/30 s; a câmera se move junto com o sujeito, mantendo rosto e tronco relativamente nítidos enquanto as faixas do fundo viram arrasto horizontal. Lente 50 mm, câmera na altura da cintura, quadro horizontal com espaço à frente do movimento. Sem flash, sem segunda cortina, sem múltiplas cópias do corpo, pés duplicados, rosto borrado por completo, texto ou logotipos. Formato 3:2 horizontal.
 ```
 
 ### Prompt em inglês
 ```text
-Studio fashion portrait of an adult [model] exactly on the central axis in front of two bright symmetrical vertical panels. Frontal body, feet on different bases, weight slightly shifted to one leg, long spine; one arm nearly vertical beside the body and the other bent across the model's own waist, hand visible. Create two equal vertical light bands in the background, one on each side, acting as leading lines toward the model. Use a broad soft frontal source slightly above camera for the face while preserving volume. Keep the set clean and symmetrical; slight body asymmetry prevents stiffness. 70mm lens, knees-up framing, level centered camera, sharp eyes. No Dutch angle, misaligned panels, off-axis model, duplicated hands, text or logos. Vertical 4:5.
+Studio editorial photograph of an adult [model] walking laterally from left to right in front of a background with subtle vertical bands. Keep the movement continuous: front foot contacting the floor, rear leg driving forward, arms in a short natural swing opposite the legs, stable torso, head following the direction while the eyes turn slightly toward camera. Use continuous light only and pan the camera with the model during a slow shutter around 1/15 to 1/30 s; the camera tracks the subject so face and torso remain relatively sharp while the vertical background bands become horizontal motion streaks. 50mm lens, camera at waist height, horizontal frame with lead room in front of the movement. No flash, no rear-curtain sync, no multiple body copies, duplicated feet, fully blurred face, text or logos. Horizontal 3:2.
 ```
 
-**Restrição opcional:** `eixo central exato, cenário simétrico, pose levemente assimétrica, câmera nivelada`.
+**Restrição opcional:** `panning real, uma única pessoa, rosto relativamente nítido, fundo arrastado horizontalmente, sem flash`.
 
-**Por que funciona:** combina centralização, simetria e linhas condutoras, enquanto a pequena assimetria corporal mantém naturalidade.
+**Por que funciona:** No panning, a câmera acompanha o sujeito durante uma exposição lenta; isso desloca o blur para o fundo e cria sensação de velocidade sem repetir o rastro de segunda cortina ou a múltipla exposição.
+
+---

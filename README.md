@@ -1,13 +1,13 @@
 # Prompt Poses Foto
 
-Coleção curada de **60 prompts reutilizáveis para fotografia de estúdio com modelos adultos**, cobrindo retrato beauty, editorial, corpo inteiro, movimento, iluminação clássica, luz contínua, modificadores ópticos, bounce, book light, difusão gigante, light painting, practicals segmentados, bokeh, múltipla exposição, composição, direção de pose, contraste de temperatura de cor e difusão óptica na lente.
+Coleção curada de **65 prompts reutilizáveis para fotografia de estúdio com modelos adultos**, cobrindo retrato beauty, editorial, corpo inteiro, movimento, iluminação clássica, luz contínua, modificadores ópticos, bounce, book light, difusão gigante, light painting, practicals segmentados, bokeh, múltipla exposição, composição, direção de pose, contraste de temperatura de cor, difusão óptica na lente, flash estroboscópico, starburst, controle de reflexo com polarizador, retrato narrativo sem rosto e panning.
 
 Os prompts seguem uma estrutura consistente: finalidade, modelo e figurino, pose, enquadramento, iluminação, lente, textura, fundo e restrições anatômicas.
 
 ## Conteúdo
 
-- [`PROMPTS.md`](PROMPTS.md): índice consolidado e conteúdo integral dos prompts 56–60.
-- [`prompts.json`](prompts.json): catálogo estruturado com IDs 1–60.
+- [`PROMPTS.md`](PROMPTS.md): índice consolidado e conteúdo integral dos prompts 61–65.
+- [`prompts.json`](prompts.json): catálogo estruturado com IDs 1–65.
 - [`prompts/2026-08-03.md`](prompts/2026-08-03.md): prompts 11–15.
 - [`prompts/2026-08-04.md`](prompts/2026-08-04.md): prompts 16–20.
 - [`prompts/2026-08-07.md`](prompts/2026-08-07.md): prompts 26–30.
@@ -17,11 +17,11 @@ Os prompts anteriores continuam acessíveis por arquivos históricos ou revisõe
 
 ## Novos estilos adicionados
 
-56. Retrato bi-color por temperatura com LED frio e contraluz quente
-57. Hard light cremosa com refletor branco de longo alcance e pose em arco
-58. Difusão óptica com halation controlado e beauty frontal assimétrica
-59. Perfil com espaço negativo dominante e gesto de saída do quadro
-60. Composição central com corredores de luz e pose axial interrompida
+61. Sequência estroboscópica lateral com dança em quatro tempos
+62. Starburst de fundo em f/11 com pose vertical minimalista
+63. Beauty com polarizador circular e brilho especular reduzido
+64. Retrato narrativo sem rosto com mãos e objeto em foco
+65. Panning editorial lateral com modelo nítida e fundo arrastado
 
 ## Fórmula-base
 
@@ -34,12 +34,12 @@ Os prompts anteriores continuam acessíveis por arquivos históricos ou revisõe
 ## Notas práticas
 
 - Descreva função, posição, direção, tamanho aparente e percurso da luz.
-- Diferencie cor por temperatura Kelvin de cor criada por gel quando isso for parte do conceito.
-- Ao descrever hard light, informe distância, cobertura, material do refletor e comportamento da transição de sombra.
-- Em difusão óptica, preserve olhos e cílios nítidos e limite o halation aos highlights.
-- Trate espaço negativo como parte explícita da composição, indicando sua direção e proporção.
-- Em composição central, limpe o quadro e use simetria ou linhas condutoras com propósito.
-- Prefira olhos nítidos e mãos com função clara.
+- Em flash estroboscópico, limite a quantidade de fases e defina trajetória, fundo e posição final.
+- Para starburst, diferencie explicitamente fontes pontuais nítidas de bokeh.
+- Polarização deve controlar glare sem apagar toda a luminosidade natural da pele.
+- Retratos sem rosto precisam de gesto funcional, mãos legíveis e objeto íntegro.
+- Em panning, descreva que a câmera acompanha o sujeito e que o fundo, não o rosto, recebe o arrasto dominante.
+- Prefira olhos nítidos quando o rosto estiver no quadro e mãos com função clara.
 - Configurações de câmera funcionam como vocabulário visual; não garantem simulação física exata.
 - Respeite consentimento, direitos de imagem e regras da plataforma.
 

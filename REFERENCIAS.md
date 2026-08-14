@@ -1,6 +1,6 @@
 # Referências e Metodologia
 
-Pesquisa inicial realizada em **2 de agosto de 2026** e ampliada em **3, 4, 6, 7, 8, 9, 10, 11, 12 e 13 de agosto de 2026**. A curadoria prioriza documentação oficial de geração de imagens e materiais educacionais de fabricantes reconhecidos.
+Pesquisa inicial realizada em **2 de agosto de 2026** e ampliada em **3, 4, 6, 7, 8, 9, 10, 11, 12, 13 e 14 de agosto de 2026**. A curadoria prioriza documentação oficial de geração de imagens e materiais educacionais de fabricantes reconhecidos.
 
 ## Critérios usados
 
@@ -32,6 +32,11 @@ Pesquisa inicial realizada em **2 de agosto de 2026** e ampliada em **3, 4, 6, 7
 - Filtros de difusão óptica podem reduzir microcontraste e criar halation localizado sem sacrificar o foco principal.
 - Espaço negativo deve ser orientado em relação ao olhar ou ao movimento do sujeito, não tratado como área vazia acidental.
 - Composição central ganha força quando o quadro é limpo e elementos de apoio reforçam o eixo principal.
+- Repeating flash registra fases discretas de movimento numa única exposição.
+- Fontes pontuais pequenas com abertura fechada podem produzir starbursts em vez de bokeh.
+- Polarizadores podem reduzir glare e reflexos, inclusive em pele, sem substituir direção de luz e exposição corretas.
+- Um retrato pode contar história sem mostrar o rosto quando gesto, mãos e detalhes assumem o protagonismo.
+- No panning, a câmera acompanha o sujeito durante a exposição lenta, transferindo o arrasto dominante para o fundo.
 
 ## Fontes principais
 
@@ -43,8 +48,8 @@ Pesquisa inicial realizada em **2 de agosto de 2026** e ampliada em **3, 4, 6, 7
 2. OpenAI Help Center — Imagens no ChatGPT, verificado em 13 de agosto de 2026  
    https://help.openai.com/pt-br/articles/11084440-images-in-chatgpt
 
-3. OpenAI Help Center — Prompt engineering best practices for ChatGPT, verificado em 13 de agosto de 2026  
-   https://help.openai.com/en/articles/10032626-prompt-gineering-best-practices-for-chatgpt
+3. OpenAI Help Center — Prompt engineering best practices for ChatGPT, verificado em 14 de agosto de 2026  
+   https://help.openai.com/en/articles/10032626-prompt-engineering-best-practices-for-chatgpt
 
 ### Retrato, iluminação, lentes e composição
 
@@ -72,7 +77,7 @@ Pesquisa inicial realizada em **2 de agosto de 2026** e ampliada em **3, 4, 6, 7
 11. Profoto — How to shape hard light with the Profoto Hard Reflectors White, publicado em 20 de outubro de 2025, verificado em 13 de agosto de 2026  
     https://www.profoto.com/ca/en/still-photography/tips-tricks/how-to-shape-hard-light-with-the-profoto-hard-reflectors-white/BlogPage
 
-12. Tiffen — Unlock Your Creativity with Tiffen Filters, difusão óptica, redução de microcontraste e halation em highlights, verificado em 13 de agosto de 2026  
+12. Tiffen — Unlock Your Creativity with Tiffen Filters, difusão óptica, redução de microcontraste, halation e polarização para controle de glare, verificado em 14 de agosto de 2026  
     https://tiffen.com/pages/unlock-your-creativity-with-tiffen-filters
 
 13. Nikon — 5 Easy Composition Guidelines, orientação de espaço negativo na direção do olhar e movimento, verificado em 13 de agosto de 2026  
@@ -83,6 +88,21 @@ Pesquisa inicial realizada em **2 de agosto de 2026** e ampliada em **3, 4, 6, 7
 
 15. Nikon — The Portrait as Assignment, Documentary and More, direção de modelos, experimentação de pose e controle de movimento, verificado em 13 de agosto de 2026  
     https://www.nikonusa.com/learn-and-explore/c/ideas-and-inspiration/the-portrait-as-assignment-documentary-and-more
+
+16. Nikon — Repeating Flash Lighting Technique, flash estroboscópico para registrar fases sucessivas do movimento, verificado em 14 de agosto de 2026  
+    https://www.nikonusa.com/learn-and-explore/c/tips-and-techniques/repeating-flash-lighting-technique
+
+17. Nikon — Speedlights add Starburst Effect, fontes pontuais e f/11 para starburst em retratos, verificado em 14 de agosto de 2026  
+    https://www.nikonusa.com/learn-and-explore/c/tips-and-techniques/speedlights-add-starburst-effect
+
+18. Tiffen — Mavic Mini EDU, referência complementar de polarização reduzindo reflexos inclusive em pele, verificado em 14 de agosto de 2026  
+    https://tiffen.com/pages/mavic-mini-edu
+
+19. Nikon — Benefits of Taking Portraits with a DSLR, foco em olhos, detalhes e retratos que podem contar história sem incluir o rosto, verificado em 14 de agosto de 2026  
+    https://www.nikonusa.com/learn-and-explore/c/tips-and-techniques/benefits-of-taking-portraits-with-a-dslr
+
+20. Nikon — Capturing or Freezing Motion in Photos, panning com acompanhamento do sujeito durante obturador lento, verificado em 14 de agosto de 2026  
+    https://www.nikonusa.com/learn-and-explore/c/tips-and-techniques/capturing-or-freezing-motion-in-photos
 
 ## Atualização de 13 de agosto de 2026
 
@@ -95,6 +115,18 @@ Foram adicionados cinco conceitos materialmente diferentes dos 55 anteriores:
 - **composição central com linhas condutoras**, mantendo cenário simétrico e pose corporal levemente assimétrica.
 
 A Profoto documenta tanto o uso recente de LEDs com temperaturas Kelvin contrastantes em um set cinematográfico quanto o comportamento de refletores duros de interior branco para retrato e moda. A Tiffen descreve filtros de difusão como ferramentas para suavizar microcontraste e gerar glow nos highlights sem simplesmente desfocar a imagem. A Nikon recomenda espaço negativo na direção do olhar/movimento e mostra quando uma composição central funciona melhor: quadro limpo, ponto focal forte e elementos que reforçam o centro. A OpenAI recomenda prompts claros, descritivos e específicos quanto a propósito, composição, iluminação e restrições.
+
+## Atualização de 14 de agosto de 2026
+
+Foram adicionados cinco conceitos materialmente diferentes dos 60 anteriores:
+
+- **flash estroboscópico em sequência**, registrando quatro fases discretas do mesmo movimento;
+- **starburst com fontes pontuais e abertura fechada**, oposto visualmente ao bokeh já catalogado;
+- **polarização para reduzir brilho especular na pele**, separada do uso anterior do polarizador em vidro;
+- **retrato narrativo sem rosto**, deslocando o foco para mãos, gesto e objeto;
+- **panning lateral**, em que a câmera acompanha a modelo e transforma o fundo em arrasto.
+
+A Nikon documenta repeating flash como técnica estroboscópica capaz de registrar sucessivas fases de movimento e demonstra starbursts de fundo com Speedlights usando f/11. Também descreve panning como o acompanhamento do sujeito com a câmera durante exposição lenta, o que permite manter o sujeito relativamente definido enquanto o fundo borra. A Tiffen documenta o uso de polarizadores para reduzir glare e reflexos, inclusive em pele. A Nikon reforça ainda que retratos podem contar história por detalhes sem necessariamente mostrar o rosto. As orientações atuais da OpenAI continuam favorecendo instruções claras, específicas e suficientemente contextualizadas.
 
 ## Autoria
 
