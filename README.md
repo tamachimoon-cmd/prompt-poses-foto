@@ -1,13 +1,13 @@
 # Prompt Poses Foto
 
-Coleção curada de **65 prompts reutilizáveis para fotografia de estúdio com modelos adultos**, cobrindo retrato beauty, editorial, corpo inteiro, movimento, iluminação clássica, luz contínua, modificadores ópticos, bounce, book light, difusão gigante, light painting, practicals segmentados, bokeh, múltipla exposição, composição, direção de pose, contraste de temperatura de cor, difusão óptica na lente, flash estroboscópico, starburst, controle de reflexo com polarizador, retrato narrativo sem rosto e panning.
+Coleção curada de **70 prompts reutilizáveis para fotografia de estúdio com modelos adultos**, cobrindo retrato beauty, editorial, corpo inteiro, movimento, iluminação clássica, luz contínua, modificadores ópticos, bounce, book light, difusão gigante, light painting, practicals segmentados, bokeh, múltipla exposição, composição, direção de pose, contraste de temperatura de cor, difusão óptica na lente, flash estroboscópico, starburst, polarização, panning, split-field diopter, fisheye, zoom burst, HSS e sombras cromáticas com géis.
 
 Os prompts seguem uma estrutura consistente: finalidade, modelo e figurino, pose, enquadramento, iluminação, lente, textura, fundo e restrições anatômicas.
 
 ## Conteúdo
 
-- [`PROMPTS.md`](PROMPTS.md): índice consolidado e conteúdo integral dos prompts 61–65.
-- [`prompts.json`](prompts.json): catálogo estruturado com IDs 1–65.
+- [`PROMPTS.md`](PROMPTS.md): índice consolidado e conteúdo integral dos prompts 66–70.
+- [`prompts.json`](prompts.json): catálogo estruturado com IDs 1–70.
 - [`prompts/2026-08-03.md`](prompts/2026-08-03.md): prompts 11–15.
 - [`prompts/2026-08-04.md`](prompts/2026-08-04.md): prompts 16–20.
 - [`prompts/2026-08-07.md`](prompts/2026-08-07.md): prompts 26–30.
@@ -17,11 +17,11 @@ Os prompts anteriores continuam acessíveis por arquivos históricos ou revisõe
 
 ## Novos estilos adicionados
 
-61. Sequência estroboscópica lateral com dança em quatro tempos
-62. Starburst de fundo em f/11 com pose vertical minimalista
-63. Beauty com polarizador circular e brilho especular reduzido
-64. Retrato narrativo sem rosto com mãos e objeto em foco
-65. Panning editorial lateral com modelo nítida e fundo arrastado
+66. Split-field diopter com rosto ao fundo e mão em primeiro plano
+67. Fisheye 15 mm central com pose de moda em perspectiva extrema
+68. Zoom burst radial com flash frontal ancorando o rosto
+69. HSS com abertura ampla diante de painel LED brilhante
+70. Três sombras cromáticas em fundo branco com géis RGB
 
 ## Fórmula-base
 
@@ -34,11 +34,11 @@ Os prompts anteriores continuam acessíveis por arquivos históricos ou revisõe
 ## Notas práticas
 
 - Descreva função, posição, direção, tamanho aparente e percurso da luz.
-- Em flash estroboscópico, limite a quantidade de fases e defina trajetória, fundo e posição final.
-- Para starburst, diferencie explicitamente fontes pontuais nítidas de bokeh.
-- Polarização deve controlar glare sem apagar toda a luminosidade natural da pele.
-- Retratos sem rosto precisam de gesto funcional, mãos legíveis e objeto íntegro.
-- Em panning, descreva que a câmera acompanha o sujeito e que o fundo, não o rosto, recebe o arrasto dominante.
+- No split-field diopter, coloque a transição óptica em uma área sem olhos, dedos ou bordas críticas.
+- Em fisheye, mantenha o rosto perto do centro quando a distorção facial não for o objetivo.
+- No zoom burst, diferencie o movimento do anel de zoom de panning, segunda cortina e repeating flash.
+- Em HSS, descreva a relação entre obturador rápido, abertura ampla, flash e luz ambiente.
+- Para sombras cromáticas, especifique número de fontes, cores, pequeno deslocamento angular e que a cor pertence às sombras.
 - Prefira olhos nítidos quando o rosto estiver no quadro e mãos com função clara.
 - Configurações de câmera funcionam como vocabulário visual; não garantem simulação física exata.
 - Respeite consentimento, direitos de imagem e regras da plataforma.

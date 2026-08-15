@@ -1,6 +1,6 @@
 # Referências e Metodologia
 
-Pesquisa inicial realizada em **2 de agosto de 2026** e ampliada em **3, 4, 6, 7, 8, 9, 10, 11, 12, 13 e 14 de agosto de 2026**. A curadoria prioriza documentação oficial de geração de imagens e materiais educacionais de fabricantes reconhecidos.
+Pesquisa inicial realizada em **2 de agosto de 2026** e ampliada em **3, 4, 6, 7, 8, 9, 10, 11, 12, 13, 14 e 15 de agosto de 2026**. A curadoria prioriza documentação oficial de geração de imagens e materiais educacionais de fabricantes reconhecidos.
 
 ## Critérios usados
 
@@ -37,18 +37,23 @@ Pesquisa inicial realizada em **2 de agosto de 2026** e ampliada em **3, 4, 6, 7
 - Polarizadores podem reduzir glare e reflexos, inclusive em pele, sem substituir direção de luz e exposição corretas.
 - Um retrato pode contar história sem mostrar o rosto quando gesto, mãos e detalhes assumem o protagonismo.
 - No panning, a câmera acompanha o sujeito durante a exposição lenta, transferindo o arrasto dominante para o fundo.
+- Split-field diopters permitem combinar foco de primeiro plano e plano distante em regiões diferentes do quadro.
+- Fisheyes transformam a distorção periférica e o campo de visão extremo em linguagem compositiva.
+- Zooming during exposure cria linhas radiais a partir do centro sem deslocar a câmera.
+- HSS permite combinar flash, obturador rápido e abertura ampla em ambientes fortes.
+- Géis criativos podem produzir sombras cromáticas, não apenas rim lights ou coloração direta do sujeito.
 
 ## Fontes principais
 
 ### Geração de imagem e prompts
 
-1. OpenAI Academy — Criando imagens com o ChatGPT, publicado em 10 de abril de 2026, verificado em 13 de agosto de 2026  
+1. OpenAI Academy — Criando imagens com o ChatGPT, publicado em 10 de abril de 2026, verificado em 15 de agosto de 2026  
    https://openai.com/pt-BR/academy/image-generation/
 
-2. OpenAI Help Center — Imagens no ChatGPT, verificado em 13 de agosto de 2026  
+2. OpenAI Help Center — Imagens no ChatGPT, verificado em 15 de agosto de 2026  
    https://help.openai.com/pt-br/articles/11084440-images-in-chatgpt
 
-3. OpenAI Help Center — Prompt engineering best practices for ChatGPT, verificado em 14 de agosto de 2026  
+3. OpenAI Help Center — Prompt engineering best practices for ChatGPT, verificado em 15 de agosto de 2026  
    https://help.openai.com/en/articles/10032626-prompt-engineering-best-practices-for-chatgpt
 
 ### Retrato, iluminação, lentes e composição
@@ -86,7 +91,7 @@ Pesquisa inicial realizada em **2 de agosto de 2026** e ampliada em **3, 4, 6, 7
 14. Nikon — When Center Composition can Elevate a Portrait, composição central, limpeza de quadro e elementos de apoio, verificado em 13 de agosto de 2026  
     https://www.nikonusa.com/learn-and-explore/c/tips-and-techniques/when-center-composition-can-elevate-a-portrait
 
-15. Nikon — The Portrait as Assignment, Documentary and More, direção de modelos, experimentação de pose e controle de movimento, verificado em 13 de agosto de 2026  
+15. Nikon — The Portrait as Assignment, Documentary and More, direção de modelos, experimentação de pose e controle de movimento, verificado em 15 de agosto de 2026  
     https://www.nikonusa.com/learn-and-explore/c/ideas-and-inspiration/the-portrait-as-assignment-documentary-and-more
 
 16. Nikon — Repeating Flash Lighting Technique, flash estroboscópico para registrar fases sucessivas do movimento, verificado em 14 de agosto de 2026  
@@ -103,6 +108,21 @@ Pesquisa inicial realizada em **2 de agosto de 2026** e ampliada em **3, 4, 6, 7
 
 20. Nikon — Capturing or Freezing Motion in Photos, panning com acompanhamento do sujeito durante obturador lento, verificado em 14 de agosto de 2026  
     https://www.nikonusa.com/learn-and-explore/c/tips-and-techniques/capturing-or-freezing-motion-in-photos
+
+21. Tiffen — 138mm Split Field Diopter, foco simultâneo em regiões próximas e distantes com elemento semicircular rotacionável, verificado em 15 de agosto de 2026  
+    https://flysteadicam.tiffen.com/products/138mm-split-field-diopter
+
+22. Nikon — AF-S Fisheye NIKKOR 8-15mm f/3.5-4.5E ED, campo de visão de até 180° e perspectiva fisheye, verificado em 15 de agosto de 2026  
+    https://www.nikonusa.com/p/af-s-fisheye-nikkor-8-15mm-f35-45e-ed/20066/overview
+
+23. Nikon — Photography Glossary: Zooming During Exposure, rotação do anel durante a exposição para linhas radiais, verificado em 15 de agosto de 2026  
+    https://www.nikonusa.com/learn-and-explore/photography-glossary
+
+24. Profoto — Does the Profoto A2 support TTL and HSS?, HSS para obturadores rápidos, abertura ampla e controle de ambiente, modificado em 30 de junho de 2025 e verificado em 15 de agosto de 2026  
+    https://support.profoto.com/support/solutions/articles/79000146802/
+
+25. Profoto — Gels for color correction and creative effects, uso de géis criativos para rim lights e sombras coloridas, verificado em 15 de agosto de 2026  
+    https://www.profoto.com/hu/en/still-photography/experience/gels/
 
 ## Atualização de 13 de agosto de 2026
 
@@ -127,6 +147,18 @@ Foram adicionados cinco conceitos materialmente diferentes dos 60 anteriores:
 - **panning lateral**, em que a câmera acompanha a modelo e transforma o fundo em arrasto.
 
 A Nikon documenta repeating flash como técnica estroboscópica capaz de registrar sucessivas fases de movimento e demonstra starbursts de fundo com Speedlights usando f/11. Também descreve panning como o acompanhamento do sujeito com a câmera durante exposição lenta, o que permite manter o sujeito relativamente definido enquanto o fundo borra. A Tiffen documenta o uso de polarizadores para reduzir glare e reflexos, inclusive em pele. A Nikon reforça ainda que retratos podem contar história por detalhes sem necessariamente mostrar o rosto. As orientações atuais da OpenAI continuam favorecendo instruções claras, específicas e suficientemente contextualizadas.
+
+## Atualização de 15 de agosto de 2026
+
+Foram adicionados cinco conceitos materialmente diferentes dos 65 anteriores:
+
+- **split-field diopter**, mantendo primeiro plano e rosto distante em foco simultâneo em regiões distintas do quadro;
+- **fisheye central de 15 mm**, usando a deformação periférica como elemento compositivo com o rosto preservado no centro;
+- **zoom burst durante a exposição**, criando movimento radial com a câmera fixa e flash curto ancorando o sujeito;
+- **HSS com abertura ampla**, congelando gesto diante de painel LED brilhante enquanto controla a contribuição ambiente;
+- **sombras RGB com géis**, deslocando o efeito cromático para três sombras projetadas no fundo branco, em vez de pintar o rosto com cor.
+
+A Tiffen descreve split-field diopters como elementos semicirculares que ampliam a profundidade de campo e permitem mais da cena simultaneamente em foco. A Nikon documenta fisheyes de 180° e define zooming during exposure como girar o anel de zoom durante a exposição para criar linhas radiais. A Profoto confirma o uso de HSS com velocidades rápidas, abertura ampla e controle de luz ambiente, e descreve géis criativos como ferramentas para produzir inclusive sombras coloridas. A estrutura dos prompts continua baseada em instruções claras, espaciais e específicas quanto a sujeito, ação, composição, iluminação e restrições.
 
 ## Autoria
 
