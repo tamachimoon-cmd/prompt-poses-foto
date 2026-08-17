@@ -1,6 +1,6 @@
 # Referências e Metodologia
 
-Pesquisa inicial realizada em **2 de agosto de 2026** e ampliada em **3, 4, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15 e 16 de agosto de 2026**. A curadoria prioriza documentação oficial de geração de imagens e materiais educacionais de fabricantes reconhecidos.
+Pesquisa inicial realizada em **2 de agosto de 2026** e ampliada em **3, 4, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16 e 17 de agosto de 2026**. A curadoria prioriza documentação oficial de geração de imagens e materiais educacionais de fabricantes reconhecidos.
 
 ## Critérios usados
 
@@ -18,58 +18,51 @@ Pesquisa inicial realizada em **2 de agosto de 2026** e ampliada em **3, 4, 6, 7
 - Propósito, assunto, ação, composição, iluminação, textura e restrições formam uma estrutura robusta.
 - Instruções espaciais reduzem ambiguidades.
 - Luz deve ser descrita por direção, tamanho aparente, dureza, queda, percurso e função narrativa.
-- Lentes padrão e teleobjetivas curtas ajudam a preservar proporções em retratos.
-- Olhos devem receber prioridade de foco.
+- Olhos devem receber prioridade de foco quando o rosto estiver no quadro.
 - Poses complexas funcionam melhor quando descritas pela mecânica corporal.
-- Movimento deve especificar qual parte fica nítida e qual pode apresentar arrasto.
-- O caráter óptico da lente pode ser tratado como elemento compositivo, desde que não comprometa a leitura do rosto.
-- Espelhos podem funcionar como refletores de luz dura, não apenas como objetos de cena.
-- Aberturas extremas exigem alinhamento cuidadoso do plano dos olhos.
-- Bokeh rotacional funciona melhor quando o sujeito permanece central e o efeito cresce nas bordas.
-- Seamless branco pode ser transformado em gradientes de cor com RGB ou géis sem colorir diretamente a pele.
-- Haze revela feixes de contraluz e exige controle de flare para preservar contraste.
+- Efeitos ópticos devem indicar explicitamente onde podem atuar e quais regiões precisam permanecer limpas.
+- Partículas, água e haze ganham leitura quando iluminados em plano separado e com contraluz controlada.
+- Catchlights podem ser tratados como parte da composição, não apenas como consequência da luz.
+- Características de bokeh precisam distinguir forma, transição, rotação e suavização de borda.
 
 ## Fontes principais
 
 ### Geração de imagem e prompts
 
-1. OpenAI Academy — Criando imagens com o ChatGPT, publicado em 10 de abril de 2026, verificado em 16 de agosto de 2026  
-   https://openai.com/pt-BR/academy/image-generation/
+1. OpenAI Academy — Creating images with ChatGPT, publicado em 10 de abril de 2026, verificado em 17 de agosto de 2026  
+   https://openai.com/academy/image-generation/
 
-2. OpenAI Help Center — Prompt engineering best practices for ChatGPT, verificado em 16 de agosto de 2026  
+2. OpenAI Help Center — Prompt engineering best practices for ChatGPT, atualizado em agosto de 2026, verificado em 17 de agosto de 2026  
    https://help.openai.com/en/articles/10032626-prompt-engineering-best-practices-for-chatgpt
 
 ### Retrato, iluminação, lentes e composição
 
-3. Nikon — The Portrait as Assignment, Documentary and More, uso de espelhos como refletores e experimentação de pose, verificado em 16 de agosto de 2026  
-   https://www.nikonusa.com/learn-and-explore/c/ideas-and-inspiration/the-portrait-as-assignment-documentary-and-more
+3. Profoto — How to shoot with a star filter, publicado em 16 de agosto de 2024, verificado em 17 de agosto de 2026  
+   https://www.profoto.com/mt/en/still-photography/tips-tricks/how-to-shoot-with-a-star-filter/ImportedBlogPage
 
-4. Nikon — Out of the Dark: The Creative Portrait Power of the NIKON Noct Lens, profundidade de campo extrema, foco crítico e alinhamento dos olhos, verificado em 16 de agosto de 2026  
-   https://www.nikonusa.com/learn-and-explore/c/tips-and-techniques/portraiture-with-nikon-noct-mirrorless-lens
+4. Profoto — How to create a dramatic portrait with an umbrella, stretch glass em primeiro plano, publicado em 19 de maio de 2020, verificado em 17 de agosto de 2026  
+   https://www.profoto.com/us/en/still-photography/tips-tricks/how-to-create-a-dramatic-portrait-with-an-umbrella
 
-5. ZEISS Mobile Imaging — R&D Competencies, bokeh rotacional inspirado em Biotar e bokeh oval, verificado em 16 de agosto de 2026  
-   https://www.zeiss.com/photonics-and-optics/en/photography/mobile-imaging/rd-competencies.html
+5. Profoto — How to create a beauty portrait indoors, spray d’água congelado por flash em plano traseiro, verificado em 17 de agosto de 2026  
+   https://www.profoto.com/us/en/still-photography/tips-tricks/how-to-create-a-beauty-portrait-indoors/ImportedBlogPage
 
-6. Nikon — Transforming Plain White Seamless Paper into Colorful and Fun Backgrounds, uso de RGB/géis e controle de gradientes, verificado em 16 de agosto de 2026  
-   https://www.nikonusa.com/learn-and-explore/c/tips-and-techniques/transforming-plain-white-seamless-into-fun-backgrounds
+6. broncolor — How to Use a Strip Mask for Portrait Photography, strip mask, catchlight estreito e controle de falloff, verificado em 17 de agosto de 2026  
+   https://broncolor.swiss/zh/news/how-to-use-a-strip-mask-for-portrait-photography
 
-7. Profoto — How to create fiery in-camera effects with smoke and gels, importância da contraluz para revelar fumaça/haze e controle de efeito, publicado em 25 de julho de 2024 e verificado em 16 de agosto de 2026  
-   https://www.profoto.com/us/en/still-photography/tips-tricks/fiery-effects-with-smoke-and-gels/ImportedBlogPage
+7. Canon — RF Lens Lineup, RF85mm F1.2 L USM DS e Defocus Smoothing, verificado em 17 de agosto de 2026  
+   https://files.canon-europe.com/files/webcontent/rf-lens-world/features/rf-lineup/index.html?pop=pop18
 
-8. Nikon — Want to Take Really Creative Portraits? Start by Putting Yourself in the Picture, uso de haze para textura cinematográfica em retratos, verificado em 16 de agosto de 2026  
-   https://www.nikonusa.com/learn-and-explore/c/ideas-and-inspiration/want-to-take-really-creative-portraits-start-by-putting-yourself-in-the-picture
+## Atualização de 17 de agosto de 2026
 
-## Atualização de 16 de agosto de 2026
+Foram adicionados cinco conceitos materialmente diferentes dos 75 anteriores:
 
-Foram adicionados cinco conceitos materialmente diferentes dos 70 anteriores:
+- **filtro star 4 pontas**, usando highlights especulares reais em joias e glitter;
+- **stretch glass em primeiro plano**, limitando blur/refração a uma borda e preservando o rosto;
+- **spray d’água retroiluminado**, congelado por flash e mantido atrás da silhueta;
+- **strip mask frontal**, usando uma fonte aparente estreita para controlar catchlight e queda assimétrica;
+- **Defocus Smoothing em 85 mm**, buscando discos de bokeh com transição suave e sem rotação.
 
-- **espelho como refletor duro**, usando reflexão de luz como ferramenta de recorte em vez de espelho visível no enquadramento;
-- **f/0,95 com olhos coplanares**, tratando a posição da cabeça como solução para profundidade de campo milimétrica;
-- **bokeh rotacional**, deslocando o caráter óptico para as bordas enquanto o rosto permanece central e nítido;
-- **gradiente RGB em seamless branco**, separando iluminação de fundo e key neutra;
-- **haze retroiluminado**, usando dois feixes traseiros controlados e fill mínimo para olhos.
-
-A OpenAI recomenda prompts claros, descritivos e específicos sobre propósito, composição, iluminação e restrições. A Nikon documenta o uso criativo de espelhos como refletores, a necessidade de controle de plano focal em f/0,95 e a transformação de seamless branco por luz colorida. A ZEISS descreve bokeh rotacional como característica de desenhos ópticos clássicos, e a Profoto reforça que partículas como fumaça e haze ganham definição principalmente com contraluz.
+A OpenAI recomenda instruções claras, descritivas e específicas sobre finalidade, composição, iluminação e restrições. A Profoto documenta filtros star, stretch glass e água congelada por flash; a broncolor documenta o uso de strip mask para controlar reflexos nos olhos e falloff; e a Canon descreve o Defocus Smoothing como recurso para suavizar o bokeh em retratos.
 
 ## Autoria
 

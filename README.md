@@ -1,13 +1,13 @@
 # Prompt Poses Foto
 
-Coleção curada de **75 prompts reutilizáveis para fotografia de estúdio com modelos adultos**, cobrindo retrato beauty, editorial, corpo inteiro, movimento, iluminação clássica e experimental, modificadores ópticos, composição, direção de pose e linguagem de lentes.
+Coleção curada de **80 prompts reutilizáveis para fotografia de estúdio com modelos adultos**, cobrindo retrato beauty, editorial, corpo inteiro, movimento, iluminação clássica e experimental, modificadores ópticos, composição, direção de pose e linguagem de lentes.
 
 Os prompts seguem uma estrutura consistente: finalidade, modelo e figurino, pose, enquadramento, iluminação, lente, textura, fundo e restrições anatômicas.
 
 ## Conteúdo
 
-- [`PROMPTS.md`](PROMPTS.md): índice consolidado e conteúdo integral dos prompts 71–75.
-- [`prompts.json`](prompts.json): catálogo estruturado com IDs 1–75.
+- [`PROMPTS.md`](PROMPTS.md): índice consolidado e conteúdo integral dos prompts 76–80.
+- [`prompts.json`](prompts.json): catálogo estruturado com IDs 1–80.
 - [`prompts/2026-08-03.md`](prompts/2026-08-03.md): prompts 11–15.
 - [`prompts/2026-08-04.md`](prompts/2026-08-04.md): prompts 16–20.
 - [`prompts/2026-08-07.md`](prompts/2026-08-07.md): prompts 26–30.
@@ -17,11 +17,11 @@ Os prompts anteriores continuam acessíveis por arquivos históricos ou revisõe
 
 ## Novos estilos adicionados
 
-71. Espelho como refletor duro com recorte angular no rosto
-72. Plano de foco ultrarraso f/0,95 com olhos coplanares
-73. Bokeh rotacional com lente de caráter e pose central estável
-74. Gradiente RGB em seamless branco com pose entre duas zonas de cor
-75. Haze retroiluminado com feixes laterais e pose em silhueta parcial
+76. Filtro star 4 pontas com joias e pose de perfil quebrado
+77. Stretch glass em primeiro plano com flare lateral e rosto preservado
+78. Spray d’água retroiluminado e congelado atrás da silhueta
+79. Strip mask frontal com catchlight estreito e queda assimétrica
+80. Defocus Smoothing 85 mm com bokeh limpo e pose sobre o ombro
 
 ## Fórmula-base
 
@@ -34,11 +34,11 @@ Os prompts anteriores continuam acessíveis por arquivos históricos ou revisõe
 ## Notas práticas
 
 - Descreva função, posição, direção, tamanho aparente e percurso da luz.
-- Para fontes refletidas, diferencie claramente luz direta e luz rebatida.
-- Em profundidade de campo extrema, trate o plano dos olhos como parte da pose.
-- Em bokeh de caráter, preserve o sujeito no centro e deixe o efeito atuar no fundo.
-- Em gradientes de fundo, separe iluminação do fundo da key do rosto.
-- Com haze, use contraluz e controle flare com grids ou bandeiras.
+- Em efeitos ópticos de primeiro plano, reserve uma zona limpa para olhos, nariz e boca.
+- Para filtros star, crie poucos highlights especulares e controle o spill.
+- Para partículas ou água, separe fisicamente o plano do efeito do plano do rosto.
+- Em strip masks, especifique a geometria desejada do catchlight e a queda de luz.
+- Para bokeh com apodização/Defocus Smoothing, diferencie suavização de borda de bokeh rotacional.
 - Prefira olhos nítidos quando o rosto estiver no quadro e mãos com função clara.
 - Configurações de câmera funcionam como vocabulário visual; não garantem simulação física exata.
 - Respeite consentimento, direitos de imagem e regras da plataforma.
