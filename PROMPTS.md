@@ -1,6 +1,6 @@
-# 80 Prompts de Fotografia de Estúdio e Poses de Modelo
+# 85 Prompts de Fotografia de Estúdio e Poses de Modelo
 
-Catálogo principal consolidado. Os prompts 1–75 permanecem acessíveis por arquivos históricos ou revisões permanentes; os prompts 76–80 estão completos nesta página.
+Catálogo principal consolidado. Os prompts 1–80 permanecem acessíveis por arquivos históricos ou revisões permanentes; os prompts 81–85 estão completos nesta página.
 
 ## Índice consolidado
 
@@ -84,113 +84,130 @@ Catálogo principal consolidado. Os prompts 1–75 permanecem acessíveis por ar
 78. Spray d’água retroiluminado e congelado atrás da silhueta
 79. Strip mask frontal com catchlight estreito e queda assimétrica
 80. Defocus Smoothing 85 mm com bokeh limpo e pose sobre o ombro
+81. Anamórfica 75 mm com bokeh oval e flare horizontal controlado
+82. Beauty cross-polarized com brilho especular suprimido e cor de pele preservada
+83. ICM rotacional com flash ancorando o rosto e trilhas circulares de luz
+84. Projeção digital de gradiente topográfico com rosto em zona limpa
+85. Retrato infravermelho 720 nm com fill ocular e pose escultórica
 
 ---
 
-## 76. Filtro star 4 pontas com joias e pose de perfil quebrado
+## 81. Anamórfica 75 mm com bokeh oval e flare horizontal controlado
 
-**Uso:** beauty, joalheria, maquiagem com glitter, capa musical e editorial glam.
+**Uso:** capa musical, retrato cinematográfico, moda noturna e campanha com linguagem widescreen.
 
-**Pose-chave:** rosto em três quartos quase de perfil, queixo levemente baixo, uma mão abaixo da clavícula e a outra fora do quadro; olhos retornam à câmera.
+**Pose-chave:** corpo em três quartos, rosto próximo ao centro óptico, ombro externo recuado e uma mão na lapela; practical luminoso isolado atrás do ombro oposto.
 
 ### Prompt em português
+
 ```text
-Beauty portrait de estúdio de [modelo adulta] usando [joias metálicas, cristais ou maquiagem com glitter] contra fundo preto fosco. Posicione o rosto em três quartos quase de perfil, queixo levemente baixo e olhos retornando à câmera; uma mão repousa abaixo da clavícula com dedos separados, sem tocar o rosto. Use uma fonte dura e controlada, como refletor com grid ou Fresnel, em ângulo lateral-frontal para produzir poucos highlights especulares fortes nas joias e no glitter. Coloque um filtro óptico star de 4 pontas/cross-screen na lente para transformar apenas esses highlights definidos em estrelas de quatro raios; mantenha olhos, pele e contorno facial nítidos e sem estrelas artificiais. Lente 85–105 mm, enquadramento do busto para cima, contraste alto e pele realista. Sem starburst em cada ponto da imagem, sem estrelas nos olhos ou dentes, sem flare leitoso dominante, sem joias duplicadas, dedos extras, texto ou logotipos. Formato 4:5 vertical.
+Retrato cinematográfico de estúdio de [modelo adulta] usando [figurino editorial escuro] em composição widescreen. Corpo em três quartos, rosto mantido próximo ao centro óptico para preservar proporções, ombro externo recuado, uma mão ajustando a lapela e a outra baixa e separada do torso. Fotografe com lente anamórfica full-frame de aproximadamente 75 mm, squeeze 1.6x, em abertura ampla, e faça o de-squeeze para proporção final próxima de 2.39:1. Posicione pequenos pontos de luz desfocados vários metros atrás para produzir bokeh oval vertical; mantenha apenas um practical estreito atrás do ombro oposto apontando lateralmente para a lente para criar um único flare horizontal controlado, sem atravessar os olhos. Use key suave e lateral a 45 graus, negative fill no lado oposto e fundo escuro com profundidade. Olhos perfeitamente nítidos, pele realista e flare secundário ao rosto. Sem bokeh circular dominante, sem vários flares paralelos, sem linha de flare sobre olhos ou boca, sem rosto esticado, sem duplicação de mãos, texto ou logotipos. Formato 2.39:1 horizontal.
 ```
 
 ### Prompt em inglês
+
 ```text
-Studio beauty portrait of an adult [model] wearing [metal jewelry, crystals or glitter makeup] against a matte black background. Place the face in a near-profile three-quarter angle, chin slightly lowered and eyes returning to camera; one hand rests below the collarbone with separated fingers without touching the face. Use a controlled hard source such as a gridded reflector or Fresnel from a front-side angle to create a small number of strong specular highlights on the jewelry and glitter. Place a 4-point star/cross-screen optical filter on the lens so only those defined highlights become four-ray stars; keep the eyes, skin and facial contour sharp and free of artificial stars. 85–105mm lens, bust-up framing, high contrast and realistic skin. No starburst on every bright point, no stars in eyes or teeth, no dominant milky flare, no duplicated jewelry, extra fingers, text or logos. Vertical 4:5.
+Cinematic studio portrait of an adult [model] wearing [dark editorial wardrobe] in a widescreen composition. Body in three-quarter view, face kept near the optical center to preserve proportions, outer shoulder pulled slightly back, one hand adjusting the lapel and the other kept low and separated from the torso. Shoot with an approximately 75mm full-frame anamorphic lens with 1.6x squeeze at a wide aperture, then de-squeeze to a final aspect ratio near 2.39:1. Place small practical lights several meters behind the model to create vertically oval bokeh; keep only one narrow practical behind the opposite shoulder aimed laterally toward the lens to create a single controlled horizontal flare without crossing the eyes. Use a soft side key at 45 degrees, negative fill on the opposite side and a dark background with depth. Eyes perfectly sharp, realistic skin and flare secondary to the face. No dominant circular bokeh, no multiple parallel flares, no flare line over eyes or mouth, no stretched face, no duplicated hands, text or logos. Horizontal 2.39:1.
 ```
 
-**Restrição opcional:** `poucas estrelas de quatro pontas, somente em highlights especulares, olhos limpos, pele nítida, sem estrelas decorativas aleatórias`.
+**Restrição opcional:** `um único flare horizontal, bokeh oval vertical, rosto sem alongamento, olhos livres e nítidos, sem flare decorativo excessivo`.
 
-**Por que funciona:** O filtro star cria difração óptica diretamente nos highlights especulares. Luz dura e superfícies brilhantes fornecem pontos definidos para o filtro, enquanto limitar a quantidade de reflexos evita que o retrato vire uma constelação descontrolada.
+**Por que funciona:** Lentes anamórficas comprimem o campo horizontal e produzem assinaturas ópticas próprias, especialmente bokeh oval e flares horizontais. Manter o rosto perto do centro e usar apenas um practical para alimentar o flare preserva anatomia e hierarquia visual.
 
 ---
 
-## 77. Stretch glass em primeiro plano com flare lateral e rosto preservado
+## 82. Beauty cross-polarized com brilho especular suprimido e cor de pele preservada
 
-**Uso:** retrato cinematográfico, moda editorial, capa musical e campanha com sensação de movimento.
+**Uso:** skincare, documentação cosmética, beauty técnico e catálogo de maquiagem com acabamento natural.
 
-**Pose-chave:** corpo em três quartos, rosto no terço oposto ao vidro, uma mão segurando a lapela e a outra baixa; expressão estável.
+**Pose-chave:** rosto frontal com leve rotação de cinco graus, queixo neutro, mãos baixas e fora do rosto para permitir comparação limpa da pele.
 
 ### Prompt em português
+
 ```text
-Retrato cinematográfico de estúdio de [modelo adulta] em três quartos diante de fundo neutro escuro. Posicione o rosto no terço direito, completamente livre, e mantenha uma mão ajustando a lapela ou gola enquanto a outra fica baixa e visível. Coloque uma pequena peça de stretch glass ou vidro texturizado muito próxima da lente cobrindo apenas a borda esquerda do quadro; incline-a para gerar uma faixa localizada de blur, refração e flare suave no primeiro plano, como uma sensação óptica de movimento, sem atravessar olhos, nariz ou boca. Ilumine a modelo com uma grande fonte suave a 45 graus e um pequeno recorte traseiro no lado do vidro para alimentar o flare de forma controlada. Lente 85 mm em abertura moderadamente ampla, foco crítico nos olhos, profundidade em camadas e textura natural de pele. Sem rosto duplicado, refração sobre os olhos, blur global, prisma arco-íris dominante, vidro visível como objeto central, membros extras, texto ou logotipos. Formato 3:2 horizontal.
+Beauty portrait técnico de estúdio de [modelo adulta] do peito para cima diante de fundo cinza neutro. Rosto quase frontal com rotação máxima de cinco graus, queixo neutro, ombros baixos e mãos abaixo da clavícula sem tocar a face. Use duas fontes grandes e simétricas próximas ao eixo da câmera, cada uma coberta por filme polarizador linear orientado na mesma direção; coloque um polarizador na lente e gire-o aproximadamente 90 graus em relação à polarização das luzes para criar cross-polarization e reduzir fortemente reflexos especulares superficiais. Lente macro ou tele curta de 90–105 mm, câmera na altura dos olhos, balanço de branco neutro e exposição uniforme. Preserve textura, poros, variações naturais de pigmentação e cor realista da pele; a imagem deve parecer beauty documental, não retoque plástico. Sem brilho oleoso dominante, sem pele encerada, sem apagar poros, sem alterar formato do rosto, sem olhos excessivamente escuros, sem maquiagem inventada, texto ou logotipos. Formato 4:5 vertical.
 ```
 
 ### Prompt em inglês
+
 ```text
-Cinematic studio portrait of an adult [model] in three-quarter view against a dark neutral background. Place the face on the right third fully unobstructed, with one hand adjusting a lapel or collar and the other kept low and visible. Position a small piece of stretch glass or textured glass very close to the lens covering only the left edge of the frame; angle it to create a localized strip of blur, refraction and soft flare in the foreground, suggesting optical motion without crossing the eyes, nose or mouth. Light the model with a large soft source at 45 degrees and a small rear edge light on the glass side to feed the flare in a controlled way. 85mm lens at a moderately wide aperture, critical focus on the eyes, layered depth and natural skin texture. No duplicated face, refraction over the eyes, global blur, dominant rainbow prism, glass as the central visible object, extra limbs, text or logos. Horizontal 3:2.
+Technical studio beauty portrait of an adult [model] framed from the chest up against a neutral gray background. Face nearly frontal with no more than a five-degree turn, neutral chin, relaxed shoulders and hands kept below the collarbone without touching the face. Use two large symmetrical sources close to the camera axis, each covered with linear polarizing film oriented in the same direction; place a polarizer on the lens and rotate it roughly 90 degrees relative to the light polarization to create cross-polarization and strongly suppress superficial specular reflections. Use a 90–105mm macro or short-telephoto lens, camera at eye level, neutral white balance and even exposure. Preserve texture, pores, natural pigmentation variation and realistic skin color; the image should feel like documentary beauty rather than plastic retouching. No dominant oily glare, waxy skin, erased pores, altered facial shape, excessively dark eyes, invented makeup, text or logos. Vertical 4:5.
 ```
 
-**Restrição opcional:** `efeito apenas numa borda, rosto totalmente limpo, flare localizado, sem duplicação facial, sem blur global`.
+**Restrição opcional:** `cross-polarization realista, brilho superficial reduzido, poros preservados, cor de pele neutra, sem efeito plástico`.
 
-**Por que funciona:** Vidro texturizado próximo da lente adiciona profundidade, blur e flare reais no primeiro plano. Reservar uma zona limpa para o rosto transforma o efeito em moldura óptica, não em defeito sobre a anatomia.
+**Por que funciona:** Na polarização cruzada, a luz é polarizada na fonte e o filtro da lente fica ortogonal a ela. Isso suprime grande parte do reflexo especular superficial e aumenta a leitura de cor e estruturas abaixo da superfície, diferindo do uso de um CPL isolado.
 
 ---
 
-## 78. Spray d’água retroiluminado e congelado atrás da silhueta
+## 83. ICM rotacional com flash ancorando o rosto e trilhas circulares de luz
 
-**Uso:** beauty, cabelo, moda esportiva, campanha de cosméticos e retrato energético.
+**Uso:** capa musical, retrato experimental, dança, editorial noturno e campanha de streetwear.
 
-**Pose-chave:** tronco quase frontal, ombro mais próximo levemente avançado, braços afastados do corpo e cabelo organizado para deixar o contorno visível.
+**Pose-chave:** modelo permanece estável com rosto frontal e braços em assimetria simples; o movimento vem da câmera girando poucos graus ao redor do eixo óptico.
 
 ### Prompt em português
+
 ```text
-Retrato energético de estúdio de [modelo adulta] do quadril para cima diante de fundo preto ou azul-marinho. Corpo quase frontal, um ombro discretamente avançado, braços afastados alguns centímetros do torso e mãos baixas fora da área do rosto; olhar direto e cabeça estável. Crie uma cortina fina de spray d’água exclusivamente atrás da modelo, a pelo menos um metro de distância, sem molhar nem cruzar o rosto. Coloque dois flashes traseiros com grids apontados para o spray e ligeiramente para fora da câmera, congelando milhares de gotículas brilhantes ao redor da silhueta; use uma softbox frontal suave e mais fraca para pele e olhos. Flash de curta duração, lente 85 mm, fundo escuro, gotículas nítidas apenas no plano traseiro e contorno do cabelo bem separado. Sem chuva na frente do rosto, gotas sobre olhos ou boca, água atravessando o corpo, motion blur nas gotículas, duplicação de braços, pele plástica, texto ou logotipos. Formato 4:5 vertical.
+Retrato experimental de estúdio de [modelo adulta] em pé diante de fundo escuro com pequenos LEDs e practicals distribuídos nas bordas do quadro. Modelo permanece estável: peso na perna traseira, perna frontal relaxada, um braço dobrado com mão na cintura e o outro baixo, rosto frontal e olhar fixo. Use exposição lenta de aproximadamente 0,5 a 1 segundo e um flash curto frontal-lateral para registrar uma única versão nítida do rosto e do corpo. Durante a parte contínua da exposição, gire deliberadamente a câmera apenas 5–10 graus ao redor do eixo óptico, sem fazer pan lateral e sem alterar o zoom, para transformar somente os practicals e a luz ambiente em arcos circulares ao redor da figura. Fundo suficientemente escuro para evitar um segundo rosto fantasma; lente 50–70 mm, flash dominante sobre a pele, trilhas organizadas nas bordas e centro visual limpo. Sem duplicação facial, sem zoom burst, sem panning horizontal, sem corpo inteiro borrado, sem vários pares de braços, sem arcos atravessando olhos ou boca, texto ou logotipos. Formato 4:5 vertical.
 ```
 
 ### Prompt em inglês
+
 ```text
-Energetic studio portrait of an adult [model] framed from the hips up against a black or navy background. Body nearly frontal, one shoulder slightly advanced, arms separated a few centimeters from the torso and hands kept low away from the face; direct gaze and stable head. Create a fine curtain of water spray exclusively behind the model, at least one meter back, without wetting or crossing the face. Place two rear gridded flashes aimed into the spray and slightly away from camera, freezing thousands of bright droplets around the silhouette; use a softer and weaker frontal softbox for skin and eyes. Short flash duration, 85mm lens, dark background, crisp droplets only in the rear plane and clean hair separation. No rain in front of the face, droplets over eyes or mouth, water passing through the body, motion-blurred droplets, duplicated arms, plastic skin, text or logos. Vertical 4:5.
+Experimental studio portrait of an adult [model] standing against a dark background with small LEDs and practical lights distributed near the frame edges. The model remains stable: weight on the rear leg, front leg relaxed, one arm bent with hand at the waist and the other kept low, face frontal with a fixed gaze. Use a slow exposure of roughly 0.5 to 1 second and a short front-side flash to record one sharp version of the face and body. During the continuous-light portion of the exposure, deliberately rotate the camera only 5–10 degrees around the optical axis, with no lateral pan and no zoom change, turning only the practicals and ambient light into circular arcs around the figure. Keep the background dark enough to prevent a second ghost face; 50–70mm lens, flash dominant on skin, organized trails near the edges and a clean visual center. No duplicated face, no zoom burst, no horizontal panning, no fully blurred body, no multiple pairs of arms, no arcs crossing eyes or mouth, text or logos. Vertical 4:5.
 ```
 
-**Restrição opcional:** `spray somente atrás, rosto seco e limpo, gotículas congeladas, fundo escuro, sem água na frente da modelo`.
+**Restrição opcional:** `uma única versão nítida do rosto, rotação de câmera pequena, trilhas somente nas luzes, sem pan, sem zoom e sem ghost facial`.
 
-**Por que funciona:** Partículas pequenas aparecem com força quando recebem contraluz, e a curta duração do flash congela as gotas. Separar fisicamente spray e modelo mantém a anatomia legível e cria um halo de partículas sem transformar o rosto em vidro molhado.
+**Por que funciona:** ICM usa movimento deliberado da câmera como parte da composição. Ao combinar rotação curta do corpo da câmera com flash, o flash ancora o sujeito enquanto a exposição lenta transforma luzes contínuas em arcos, produzindo um movimento diferente de panning, zoom burst ou segunda cortina.
 
 ---
 
-## 79. Strip mask frontal com catchlight estreito e queda assimétrica
+## 84. Projeção digital de gradiente topográfico com rosto em zona limpa
 
-**Uso:** retrato dramático, beauty gráfico, campanha de óculos e editorial minimalista.
+**Uso:** editorial conceitual, tecnologia, pôster, capa de álbum e retrato futurista sem depender de pós-produção pesada.
 
-**Pose-chave:** rosto quase frontal com leve rotação para a sombra, ombros nivelados e mãos fora do rosto.
+**Pose-chave:** corpo frontal deslocado para um terço, um braço elevado formando espaço negativo e rosto voltado para uma área deliberadamente sem linhas projetadas.
 
 ### Prompt em português
+
 ```text
-Retrato gráfico de estúdio de [modelo adulta] em close, fundo cinza carvão, rosto quase frontal girado poucos graus para o lado escuro, queixo neutro e ombros baixos. Use uma strip softbox frontal-lateral muito próxima da modelo com uma strip mask estreita cobrindo a difusão para criar uma fonte aparente longa e fina. Oriente a faixa de luz verticalmente para produzir um catchlight estreito e elegante no olho iluminado, uma transição rápida sobre a maçã do rosto e queda profunda no lado oposto; adicione apenas um rim light discreto atrás do lado sombreado e um ponto mínimo no fundo. Lente 105 mm, enquadramento do peito para cima, textura de pele real, reflexo ocular único e alongado, sem fill frontal adicional. Sem duas faixas iguais nos olhos, sem catchlight circular, sem stripbox aparecendo no quadro, sem sombra completamente sem detalhe no olho escuro, mãos no rosto, texto ou logotipos. Formato 4:5 vertical.
+Retrato conceitual de estúdio de [modelo adulta] diante de parede fosca clara, com o ambiente quase totalmente escuro. Posicione o corpo frontal no terço direito, uma mão na cintura e o outro braço elevado com cotovelo dobrado criando um espaço negativo; rosto gira levemente para a câmera. Use um projetor de vídeo digital como fonte visual principal, projetando um arquivo de alta resolução com gradiente de duas cores e linhas topográficas finas que atravessam fundo, figurino e braço, mas reservam uma área oval limpa sobre olhos, nariz e boca. Ajuste foco e geometria do projetor para linhas nítidas no plano do rosto e do fundo; mantenha a luz ambiente baixa para preservar contraste e adicione apenas um fill frontal muito fraco e neutro para manter os olhos legíveis sem apagar a projeção. Lente 70–85 mm, câmera na altura dos olhos, enquadramento da cintura para cima e cores da projeção sem estourar. Sem gobo monocromático, sem padrão aleatório sobre os olhos, sem pixelização visível, sem texto projetado, sem múltiplos rostos, mãos extras ou logotipos. Formato 4:5 vertical.
 ```
 
 ### Prompt em inglês
+
 ```text
-Graphic studio close-up portrait of an adult [model] against a charcoal-gray background, face nearly frontal and turned only a few degrees toward the dark side, neutral chin and relaxed shoulders. Use a front-side strip softbox placed very close to the model with a narrow strip mask covering the diffusion to create a long, thin apparent source. Orient the light vertically to produce one elegant narrow catchlight in the lit eye, a rapid transition across the cheekbone and deep falloff on the opposite side; add only a subtle rim light behind the shadow side and a tiny background accent. 105mm lens, chest-up framing, realistic skin texture, one elongated eye reflection and no additional frontal fill. No two identical light strips in the eyes, no circular catchlight, no visible softbox in frame, no completely detail-less shadow eye, hands on face, text or logos. Vertical 4:5.
+Conceptual studio portrait of an adult [model] against a light matte wall in an almost completely darkened room. Place the body frontally on the right third, one hand at the waist and the other arm raised with a bent elbow creating negative space; face turns slightly toward camera. Use a digital video projector as the main visual source, projecting a high-resolution file with a two-color gradient and thin topographic lines across the background, wardrobe and raised arm, while reserving a clean oval area over the eyes, nose and mouth. Adjust projector focus and geometry so the lines remain sharp on the face/background plane; keep ambient light low to preserve contrast and add only a very weak neutral frontal fill to keep the eyes readable without washing out the projection. 70–85mm lens, eye-level camera, waist-up framing and projection colors below clipping. No monochrome gobo look, no random pattern over the eyes, no visible pixelation, no projected text, no multiple faces, extra hands or logos. Vertical 4:5.
 ```
 
-**Restrição opcional:** `um catchlight estreito principal, queda rápida, lado sombreado com detalhe mínimo, sem fill achatando o rosto`.
+**Restrição opcional:** `projeção digital nítida, zona facial limpa, sem texto, sem pixelização, fill mínimo e sem aparência de gobo simples`.
 
-**Por que funciona:** A strip mask reduz ainda mais a largura aparente de uma stripbox. Isso controla tanto a queda de luz quanto a geometria do catchlight, fazendo o reflexo no olho participar da linguagem gráfica do retrato.
+**Por que funciona:** Um projetor digital pode fornecer cor, gradiente e desenho simultaneamente, diferente de gobos físicos ou spots de recorte. Controlar brilho ambiente, foco do projetor e uma zona limpa no rosto evita que o padrão destrua expressão e anatomia.
 
 ---
 
-## 80. Defocus Smoothing 85 mm com bokeh limpo e pose sobre o ombro
+## 85. Retrato infravermelho 720 nm com fill ocular e pose escultórica
 
-**Uso:** retrato premium, casamento editorial, beauty suave e campanha de joias.
+**Uso:** fine art, capa musical, retrato experimental monocromático e campanha com estética etérea.
 
-**Pose-chave:** corpo de costas em três quartos, rosto retorna sobre o ombro, mão próxima segura discretamente o tecido sem cobrir pescoço ou mandíbula.
+**Pose-chave:** corpo em três quartos, pescoço alongado, mãos separadas em níveis diferentes e olhos direcionados para uma fonte frontal suave.
 
 ### Prompt em português
+
 ```text
-Retrato premium de estúdio de [modelo adulta] com corpo de costas em três quartos e rosto retornando sobre o ombro para a câmera. Ombro próximo baixo, pescoço alongado, uma mão segura discretamente a borda do figurino na altura da cintura e a outra permanece fora do eixo do rosto. Fundo distante com pequenos pontos luminosos e formas claras suaves, pelo menos três metros atrás. Use uma tele curta de 85 mm f/1.2 com característica de Defocus Smoothing ou apodização equivalente, em abertura ampla, para manter olhos e cílios nítidos enquanto highlights fora de foco se dissolvem em discos extremamente suaves, com bordas sem anel duro e transição cremosa. Key grande e suave a 45 graus, fill mínimo e cabelo separado do fundo. O bokeh deve ser limpo e neutro, sem rotação, sem formato oval deliberado e sem efeito de filtro digital. Sem segundo olho perdido no desfoque, rosto plastificado, halos artificiais nos discos, múltiplos rostos, mãos duplicadas, texto ou logotipos. Formato 4:5 vertical.
+Retrato fine-art de estúdio de [modelo adulta] com câmera convertida para infravermelho ou full-spectrum usando filtro de corte próximo de 720 nm, fundo preto fosco e figurino de textura simples. Corpo em três quartos, pescoço alongado, ombro próximo ligeiramente baixo, uma mão repousando sobre o antebraço oposto sem fundir dedos e a outra relaxada abaixo da cintura; olhar direto. Use uma fonte infravermelha dedicada ou flash com emissão IR como key lateral suave e uma pequena fonte LED circular próxima ao eixo da lente em baixa intensidade para fornecer reflexo aos olhos e evitar cavidades totalmente escuras. Lente de 85–105 mm apropriada para IR, foco crítico nos olhos e renderização monocromática: pele luminosa e suavizada pela resposta infravermelha, cabelo e tecidos mantendo detalhe, fundo profundo e contraste etéreo. Não simule maquiagem glam comum; preserve identidade e anatomia. Sem olhos negros vazios, sem pele de cera sem textura, sem falso efeito de visão térmica, sem foliage branco de paisagem, sem membros extras, texto ou logotipos. Formato 4:5 vertical.
 ```
 
 ### Prompt em inglês
+
 ```text
-Premium studio portrait of an adult [model] with the body turned away in three-quarter back view and the face returning over the shoulder toward camera. Near shoulder lowered, neck elongated, one hand discreetly holding the garment edge at waist level and the other kept away from the facial axis. Use a distant background with small practical light points and soft bright shapes at least three meters behind. Shoot with a short-telephoto 85mm f/1.2 lens featuring Defocus Smoothing or equivalent apodization at a wide aperture, keeping eyes and lashes sharp while out-of-focus highlights dissolve into exceptionally smooth discs with no hard edge rings and creamy transitions. Large soft key at 45 degrees, minimal fill and clear hair separation. Bokeh must remain clean and neutral, with no swirl, no deliberate oval shape and no digital filter look. No second eye lost in blur, plastic skin, artificial halos around bokeh discs, multiple faces, duplicated hands, text or logos. Vertical 4:5.
+Fine-art studio portrait of an adult [model] captured with an infrared-converted or full-spectrum camera using an approximately 720nm cutoff filter, matte black background and simple textured wardrobe. Body in three-quarter view, elongated neck, near shoulder slightly lowered, one hand resting over the opposite forearm without fused fingers and the other relaxed below the waist; direct gaze. Use a dedicated infrared source or IR-emitting flash as a soft side key and a small low-intensity circular LED source close to the lens axis to provide eye reflections and prevent completely dark eye sockets. Use an 85–105mm lens suitable for IR, critical focus on the eyes and monochrome rendering: luminous skin softened by infrared response, hair and fabrics retaining detail, deep background and ethereal contrast. Do not simulate ordinary glam makeup; preserve identity and anatomy. No empty black eyes, no textureless wax skin, no fake thermal-vision look, no white landscape foliage, no extra limbs, text or logos. Vertical 4:5.
 ```
 
-**Restrição opcional:** `bokeh suave sem borda dura, sem swirl, sem cat-eye deliberado, olhos nítidos, fundo distante`.
+**Restrição opcional:** `estética IR 720 nm monocromática, olhos vivos com catchlight, sem visão térmica, pele luminosa mas com textura, fundo preto`.
 
-**Por que funciona:** Elementos de apodização/Defocus Smoothing suavizam a borda dos discos fora de foco. Isso cria uma assinatura diferente do bokeh rotacional: o objetivo aqui é transição limpa e uniforme, não movimento visual nas bordas.
+**Por que funciona:** A captura em infravermelho registra comprimentos de onda fora do visível e altera de forma real a resposta de pele, olhos e materiais. Em retratos, um fill próximo ao eixo da lente ajuda a evitar o aspecto de olhos mortos, mantendo a assinatura IR sem confundi-la com um filtro térmico digital.
+
+---
