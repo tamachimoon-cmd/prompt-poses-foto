@@ -1,27 +1,27 @@
 # Prompt Poses Foto
 
-Coleção curada de **85 prompts reutilizáveis para fotografia de estúdio com modelos adultos**, cobrindo retrato beauty, editorial, corpo inteiro, movimento, iluminação clássica e experimental, modificadores ópticos, composição, direção de pose, captura em espectros alternativos e linguagem de lentes.
+Coleção curada de **90 prompts reutilizáveis para fotografia de estúdio com modelos adultos**, cobrindo retrato beauty, editorial, corpo inteiro, movimento, iluminação clássica e experimental, modificadores ópticos, composição, direção de pose, captura em espectros alternativos e linguagem de lentes.
 
 Os prompts seguem uma estrutura consistente: finalidade, modelo e figurino, pose, enquadramento, iluminação, lente, textura, fundo e restrições anatômicas.
 
 ## Conteúdo
 
-- [`PROMPTS.md`](PROMPTS.md): índice consolidado e conteúdo integral dos prompts 81–85.
-- [`prompts.json`](prompts.json): catálogo estruturado com IDs 1–85.
+- [`PROMPTS.md`](PROMPTS.md): índice consolidado e conteúdo integral dos prompts 86–90.
+- [`prompts.json`](prompts.json): catálogo estruturado com IDs 1–90.
 - [`prompts/2026-08-03.md`](prompts/2026-08-03.md): prompts 11–15.
 - [`prompts/2026-08-04.md`](prompts/2026-08-04.md): prompts 16–20.
 - [`prompts/2026-08-07.md`](prompts/2026-08-07.md): prompts 26–30.
 - [`REFERENCIAS.md`](REFERENCIAS.md): metodologia e fontes consultadas.
 
-Os prompts anteriores continuam acessíveis por arquivos históricos ou revisões permanentes linkadas no índice de `PROMPTS.md`; os cinco mais recentes ficam incorporados integralmente no catálogo principal.
+Os prompts anteriores continuam acessíveis por arquivos históricos, pelo catálogo JSON ou por revisões permanentes linkadas no índice de `PROMPTS.md`; os cinco mais recentes ficam incorporados integralmente no catálogo principal.
 
 ## Novos estilos adicionados
 
-81. Anamórfica 75 mm com bokeh oval e flare horizontal controlado
-82. Beauty cross-polarized com brilho especular suprimido e cor de pele preservada
-83. ICM rotacional com flash ancorando o rosto e trilhas circulares de luz
-84. Projeção digital de gradiente topográfico com rosto em zona limpa
-85. Retrato infravermelho 720 nm com fill ocular e pose escultórica
+86. Macro Probe 24 mm com joia monumental em primeiro plano e rosto contextual
+87. Arco de cabelo com wind machine e flash ultracurto
+88. Fluorescência UV-A 365 nm com maquiagem reativa e rosto em baixa exposição
+89. Ultra-wide retangular 14 mm com set geométrico e rosto no centro óptico
+90. Luz dual hard-soft com microspot em joia e pele envolvente
 
 ## Fórmula-base
 
@@ -34,11 +34,10 @@ Os prompts anteriores continuam acessíveis por arquivos históricos ou revisõe
 ## Notas práticas
 
 - Descreva função, posição, direção, tamanho aparente e percurso da luz.
-- Diferencie efeitos ópticos reais: anamórfico, polarização, ICM, projeção e infravermelho não são sinônimos de “cinematic”.
-- Em cross-polarization, deixe claro que a fonte e a lente participam da polarização.
-- Em ICM com flash, especifique qual elemento deve permanecer nítido e qual deve registrar movimento.
-- Em projeção digital, reserve uma zona facial limpa e controle a luz ambiente para não apagar o padrão.
-- Em infravermelho, diferencie IR fotográfico de visão térmica e preserve legibilidade dos olhos.
+- Em óticas extremas, especifique o que fica no centro e o que pode sofrer expansão de perspectiva.
+- Para movimento rápido, diferencie velocidade do obturador de duração efetiva do flash.
+- Em técnicas espectrais, descreva mecanismo físico, filtros e cuidados de segurança, sem confundir fluorescência UV com infravermelho ou visão térmica.
+- Quando pele e produto exigirem acabamentos distintos, separe as funções das fontes e controle spill.
 - Prefira olhos nítidos quando o rosto estiver no quadro e mãos com função clara.
 - Configurações de câmera funcionam como vocabulário visual; não garantem simulação física exata.
 - Respeite consentimento, direitos de imagem e regras da plataforma.

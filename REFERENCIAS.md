@@ -1,6 +1,6 @@
 # Referências e Metodologia
 
-Pesquisa inicial realizada em **2 de agosto de 2026** e ampliada em **3, 4, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17 e 18 de agosto de 2026**. A curadoria prioriza documentação oficial de geração de imagens, materiais educacionais de fabricantes reconhecidos e literatura técnica/revisada por pares quando a técnica exige base óptica ou clínica.
+Pesquisa inicial realizada em **2 de agosto de 2026** e ampliada em **3, 4, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18 e 19 de agosto de 2026**. A curadoria prioriza documentação oficial de geração de imagens, materiais educacionais de fabricantes reconhecidos e literatura técnica/revisada por pares quando a técnica exige base óptica, espectral ou clínica.
 
 ## Critérios usados
 
@@ -24,73 +24,91 @@ Pesquisa inicial realizada em **2 de agosto de 2026** e ampliada em **3, 4, 6, 7
 - Partículas, água e haze ganham leitura quando iluminados em plano separado e com contraluz controlada.
 - Catchlights podem ser tratados como parte da composição, não apenas como consequência da luz.
 - Características de bokeh precisam distinguir forma, transição, rotação e suavização de borda.
-- Técnicas de captura especiais devem ser nomeadas pelo mecanismo físico: polarização cruzada, anamórfico, movimento intencional de câmera, projeção ou infravermelho.
+- Técnicas de captura especiais devem ser nomeadas pelo mecanismo físico: polarização cruzada, anamórfico, movimento intencional de câmera, projeção, infravermelho ou fluorescência UV.
+- Em lentes grande-angulares extremas, posição do rosto no quadro é parte da correção de perspectiva.
+- Congelamento de movimento em estúdio depende da duração efetiva do pulso do flash e do controle da luz ambiente.
+- Pele e produto podem exigir qualidades de luz diferentes dentro do mesmo retrato.
 
 ## Fontes principais
 
 ### Geração de imagem e prompts
 
-1. OpenAI Help Center — Como crio um bom prompt para um modelo de AI?, atualizado em agosto de 2026, verificado em 18 de agosto de 2026  
-   https://help.openai.com/pt-br/articles/4936848-how-do-i-create-a-good-prompt-for-an-ai-model
+1. OpenAI Academy — Criando imagens com o ChatGPT, publicado em 10 de abril de 2026 e verificado em 19 de agosto de 2026  
+   https://openai.com/pt-BR/academy/image-generation/
 
-2. OpenAI Help Center — Práticas recomendadas de engenharia de prompts para o ChatGPT, atualizado em agosto de 2026, verificado em 18 de agosto de 2026  
-   https://help.openai.com/pt-br/articles/10032626-melhores-pr%C3%A1ticas-de-engenharia-de-prompts-para-o-chatgpt
-
-3. OpenAI Help Center — Imagens no ChatGPT, atualizado em agosto de 2026, verificado em 18 de agosto de 2026  
-   https://help.openai.com/pt-br/articles/11084440-perguntas-frequentes-sobre-imagens-no-chatgpt
+2. OpenAI Help Center — Imagens no ChatGPT, verificado em 19 de agosto de 2026  
+   https://help.openai.com/en/articles/11084440
 
 ### Retrato, iluminação, lentes e composição
 
-4. Profoto — How to shoot with a star filter, verificado em 17 de agosto de 2026  
+3. Profoto — How to shoot with a star filter, verificado em 17 de agosto de 2026  
    https://www.profoto.com/mt/en/still-photography/tips-tricks/how-to-shoot-with-a-star-filter/ImportedBlogPage
 
-5. Profoto — How to create a dramatic portrait with an umbrella, stretch glass em primeiro plano, verificado em 17 de agosto de 2026  
+4. Profoto — How to create a dramatic portrait with an umbrella, stretch glass em primeiro plano, verificado em 17 de agosto de 2026  
    https://www.profoto.com/us/en/still-photography/tips-tricks/how-to-create-a-dramatic-portrait-with-an-umbrella
 
-6. Profoto — How to create a beauty portrait indoors, spray d’água congelado por flash em plano traseiro, verificado em 17 de agosto de 2026  
+5. Profoto — How to create a beauty portrait indoors, spray d’água congelado por flash em plano traseiro, verificado em 17 de agosto de 2026  
    https://www.profoto.com/us/en/still-photography/tips-tricks/how-to-create-a-beauty-portrait-indoors/ImportedBlogPage
 
-7. broncolor — How to Use a Strip Mask for Portrait Photography, verificado em 17 de agosto de 2026  
+6. broncolor — How to Use a Strip Mask for Portrait Photography, verificado em 17 de agosto de 2026  
    https://broncolor.swiss/zh/news/how-to-use-a-strip-mask-for-portrait-photography
 
-8. Canon — RF Lens Lineup, RF85mm F1.2 L USM DS e Defocus Smoothing, verificado em 17 de agosto de 2026  
+7. Canon — RF Lens Lineup, RF85mm F1.2 L USM DS e Defocus Smoothing, verificado em 17 de agosto de 2026  
    https://files.canon-europe.com/files/webcontent/rf-lens-world/features/rf-lineup/index.html?pop=pop18
 
-## Atualização de 18 de agosto de 2026
-
-Foram adicionados cinco conceitos materialmente diferentes dos 80 anteriores:
-
-- **lente anamórfica em retrato**, explorando bokeh oval, flare horizontal e composição widescreen;
-- **cross-polarization em beauty**, polarizando a iluminação e a lente em eixos ortogonais para suprimir reflexos especulares;
-- **ICM rotacional com flash**, usando rotação curta da câmera para desenhar arcos de luz sem repetir panning ou zoom burst;
-- **projeção digital**, usando um video projector para aplicar gradientes e linhas complexas sobre modelo e fundo com zona facial limpa;
-- **retrato infravermelho 720 nm**, tratando IR como técnica de captura em espectro não visível e não como filtro de visão térmica.
-
-### Novas fontes verificadas em 18 de agosto de 2026
-
-9. SIRUI — Saturn 1.6x Review: The Lightest Full Frame Anamorphic Lens, publicado em 23 de junho de 2026. Documenta bokeh oval e flares horizontais em lentes anamórficas.  
+8. SIRUI — Saturn 1.6x Review: The Lightest Full Frame Anamorphic Lens, publicado em 23 de junho de 2026  
    https://store.sirui.com/en-fr/blogs/guides/sirui-saturn-1-6x-review-the-lightest-full-frame-anamorphic-lens
 
-10. JAMA Dermatology / PubMed — Digital Photography Guide for Dermatologists With Special Considerations for Diverse Populations, publicado em 2025. Discute iluminação difusa, padronização e uso de cross-polarization para capturar alterações de cor e pigmentação da pele.  
-    https://pubmed.ncbi.nlm.nih.gov/40238107/
+9. JAMA Dermatology / PubMed — Digital Photography Guide for Dermatologists With Special Considerations for Diverse Populations, publicado em 2025  
+   https://pubmed.ncbi.nlm.nih.gov/40238107/
 
-11. British Journal of Dermatology / PMC — Standardized clinical photography considerations in patients across skin tones. Explica que cross-polarization reduz reflexos especulares e aumenta contraste de estruturas sob a superfície.  
+10. British Journal of Dermatology / PMC — Standardized clinical photography considerations in patients across skin tones  
     https://pmc.ncbi.nlm.nih.gov/articles/PMC9297997/
 
-12. Canon Snapshot — Capturing Portraits with Slow Sync Flash, atualizado em 29 de janeiro de 2026. Documenta o uso combinado de obturador lento e flash para sobrepor blur de movimento e uma pose congelada.  
+11. Canon Snapshot — Capturing Portraits with Slow Sync Flash, atualizado em 29 de janeiro de 2026  
     https://snapshot.asia.canon/tw/en/article/capturing-portraits-with-slow-sync-flash
 
-13. Frank Doorhof — Freezing motion while painting with Light, publicado em 20 de junho de 2026. Demonstra combinar flash, luz contínua e movimento intencional da câmera para manter o sujeito nítido e produzir trilhas ao redor.  
+12. Frank Doorhof — Freezing motion while painting with Light, publicado em 20 de junho de 2026  
     https://frankdoorhof.com/web/2026/06/freezing-motion-painting/
 
-14. Learn Photography by Zoner — Projector Portrait Photography: What You Need to Know Before Getting Started, publicado em 2025 e verificado em 18 de agosto de 2026. Discute brilho, distância, foco, sala escura, styling e projeção de gradientes, formas e texturas sobre modelos.  
+13. Learn Photography by Zoner — Projector Portrait Photography: What You Need to Know Before Getting Started, publicado em 2025  
     https://learn.zoner.com/projector-portrait-photography-what-you-need-to-know-before-getting-started/
 
-15. Nikon USA — Photographing Nature on a Different Wavelength, verificado em 18 de agosto de 2026. Explica captura IR, filtros como 720 nm, conversão de câmera e diferenças entre luz visível e infravermelha.  
+14. Nikon USA — Photographing Nature on a Different Wavelength, verificado em 18 de agosto de 2026  
     https://www.nikonusa.com/learn-and-explore/c/nikon-creators/photographing-nature-on-a-different-wavelength
 
-16. LifePixel — How to Capture Beautiful Eyes in Infrared Portraits, verificado em 18 de agosto de 2026. Discute o problema de olhos muito escuros em retratos IR e o uso de luz circular próxima ao eixo da lente para melhorar a leitura ocular.  
+15. LifePixel — How to Capture Beautiful Eyes in Infrared Portraits, verificado em 18 de agosto de 2026  
     https://www.lifepixel.com/photo-tutorials/how-to-capture-beautiful-eyes
+
+## Atualização de 19 de agosto de 2026
+
+Foram adicionados cinco conceitos materialmente diferentes dos 85 anteriores:
+
+- **macro probe 24 mm em retrato publicitário**, combinando aproximação macro e contexto grande-angular;
+- **wind machine com flash ultracurto**, usando duração t0.1 curta e baixa luz ambiente para congelar fios individuais;
+- **fluorescência UV-A induzida**, registrando luz visível emitida por materiais reativos em vez de simplesmente iluminar tudo de violeta;
+- **ultra-wide retangular 14 mm**, explorando perspectiva extrema sem a curvatura característica de uma fisheye;
+- **luz dual hard-soft**, separando tratamento suave de pele e microspot duro dedicado ao produto.
+
+### Novas fontes verificadas em 19 de agosto de 2026
+
+16. Venus Optics / LAOWA — Laowa 24mm f/14 2X Macro Probe. Documenta foco de 2:1 macro a infinito, campo de visão grande-angular de aproximadamente 85°, pequena ponta frontal e perspectiva “bug-eye”.  
+    https://www.venuslens.net/product/laowa-24mm-f-14-2x-macro-probe/
+
+17. Profoto Support — What is the flash duration of the Profoto A2?, modificado em 30 de junho de 2025. Informa duração t0.1 entre 1/350 s e 1/26.000 s conforme a potência.  
+    https://support.profoto.com/support/solutions/articles/79000146804-what-is-the-flash-duration-of-the-profoto-a2-
+
+18. Profoto — How to freeze motion in the studio with precision. Explica controle de luz ambiente, potência e duração do flash para congelar água, dança e outros movimentos rápidos.  
+    https://www.profoto.com/us/en/still-photography/tips-tricks/how-to-freeze-motion-in-the-studio/ImportedBlogPage
+
+19. Heritage Science / PMC — Ultraviolet Fluorescence Photography—Choosing the Correct Filters for Imaging. Discute UV-induced visible fluorescence, necessidade de filtro de bloqueio na lente, ambiente escuro e segurança com radiação UV.  
+    https://pmc.ncbi.nlm.nih.gov/articles/PMC9224984/
+
+20. Nikon USA — NIKKOR Z 14-24mm f/2.8 S. Descreve a lente como ultra-wide voltada também a environmental portraits, com forte perspectiva e controle de distorção.  
+    https://www.nikonusa.com/p/nikkor-z-14-24mm-f28-s/20097/overview
+
+21. Profoto — Andrea Belluso’s pro lighting techniques for stunning shots. Demonstra combinar luz suave geral com luz dura e focada em um elemento específico, como uma joia, para tratar materiais de forma independente.  
+    https://www.profoto.com/us/en/still-photography/profoto-stories/andrea-belluso-pro-lighting-techniques/ImportedBlogPage
 
 ## Autoria
 
