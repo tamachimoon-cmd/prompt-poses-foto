@@ -1,13 +1,13 @@
 # Prompt Poses Foto
 
-Coleção curada de **90 prompts reutilizáveis para fotografia de estúdio com modelos adultos**, cobrindo retrato beauty, editorial, corpo inteiro, movimento, iluminação clássica e experimental, modificadores ópticos, composição, direção de pose, captura em espectros alternativos e linguagem de lentes.
+Coleção curada de **95 prompts reutilizáveis para fotografia de estúdio com modelos adultos**, cobrindo retrato beauty, editorial, corpo inteiro, movimento, iluminação clássica e experimental, modificadores ópticos, composição, direção de pose, captura em espectros alternativos e linguagem de lentes.
 
 Os prompts seguem uma estrutura consistente: finalidade, modelo e figurino, pose, enquadramento, iluminação, lente, textura, fundo e restrições anatômicas.
 
 ## Conteúdo
 
-- [`PROMPTS.md`](PROMPTS.md): índice consolidado e conteúdo integral dos prompts 86–90.
-- [`prompts.json`](prompts.json): catálogo estruturado com IDs 1–90.
+- [`PROMPTS.md`](PROMPTS.md): índice consolidado e conteúdo integral dos prompts 91–95.
+- [`prompts.json`](prompts.json): catálogo estruturado com IDs 1–95.
 - [`prompts/2026-08-03.md`](prompts/2026-08-03.md): prompts 11–15.
 - [`prompts/2026-08-04.md`](prompts/2026-08-04.md): prompts 16–20.
 - [`prompts/2026-08-07.md`](prompts/2026-08-07.md): prompts 26–30.
@@ -17,11 +17,11 @@ Os prompts anteriores continuam acessíveis por arquivos históricos, pelo catá
 
 ## Novos estilos adicionados
 
-86. Macro Probe 24 mm com joia monumental em primeiro plano e rosto contextual
-87. Arco de cabelo com wind machine e flash ultracurto
-88. Fluorescência UV-A 365 nm com maquiagem reativa e rosto em baixa exposição
-89. Ultra-wide retangular 14 mm com set geométrico e rosto no centro óptico
-90. Luz dual hard-soft com microspot em joia e pele envolvente
+91. Focus stacking beauty com joia e rosto em profundidade contínua
+92. Caústicas de água refletidas no rosto com fill azul profundo
+93. Litepipe quase coaxial com key lateral e fill ascendente integrado
+94. Casulo de plástico translúcido com flashes azuis ocultos nas bordas
+95. Eyewear sobre acrílico translúcido com fill inferior para armação transparente
 
 ## Fórmula-base
 
@@ -37,6 +37,8 @@ Os prompts anteriores continuam acessíveis por arquivos históricos, pelo catá
 - Em óticas extremas, especifique o que fica no centro e o que pode sofrer expansão de perspectiva.
 - Para movimento rápido, diferencie velocidade do obturador de duração efetiva do flash.
 - Em técnicas espectrais, descreva mecanismo físico, filtros e cuidados de segurança, sem confundir fluorescência UV com infravermelho ou visão térmica.
+- Em técnicas compostas, como focus stacking, deixe claro o que precisa permanecer imóvel e quais planos devem terminar nítidos.
+- Para caústicas e reflexos, descreva o percurso físico da luz e impeça a IA de converter o efeito em gobo ou projeção.
 - Quando pele e produto exigirem acabamentos distintos, separe as funções das fontes e controle spill.
 - Prefira olhos nítidos quando o rosto estiver no quadro e mãos com função clara.
 - Configurações de câmera funcionam como vocabulário visual; não garantem simulação física exata.

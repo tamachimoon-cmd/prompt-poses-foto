@@ -1,6 +1,6 @@
 # Referências e Metodologia
 
-Pesquisa inicial realizada em **2 de agosto de 2026** e ampliada em **3, 4, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18 e 19 de agosto de 2026**. A curadoria prioriza documentação oficial de geração de imagens, materiais educacionais de fabricantes reconhecidos e literatura técnica/revisada por pares quando a técnica exige base óptica, espectral ou clínica.
+Pesquisa inicial realizada em **2 de agosto de 2026** e ampliada em **3, 4, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19 e 20 de agosto de 2026**. A curadoria prioriza documentação oficial de geração de imagens, materiais educacionais de fabricantes reconhecidos e literatura técnica/revisada por pares quando a técnica exige base óptica, espectral ou clínica.
 
 ## Critérios usados
 
@@ -28,12 +28,15 @@ Pesquisa inicial realizada em **2 de agosto de 2026** e ampliada em **3, 4, 6, 7
 - Em lentes grande-angulares extremas, posição do rosto no quadro é parte da correção de perspectiva.
 - Congelamento de movimento em estúdio depende da duração efetiva do pulso do flash e do controle da luz ambiente.
 - Pele e produto podem exigir qualidades de luz diferentes dentro do mesmo retrato.
+- Focus stacking exige câmera, iluminação e sujeito estáveis entre quadros; o ganho de profundidade vem da combinação de planos focais, não de nitidez artificial global.
+- Caústicas e reflexos devem indicar o percurso físico da luz, diferenciando luz refletida de gobo, projeção ou textura digital.
+- Em materiais translúcidos, separar luz transmitida, refletida e incidente permite controlar transparência e legibilidade do produto.
 
 ## Fontes principais
 
 ### Geração de imagem e prompts
 
-1. OpenAI Academy — Criando imagens com o ChatGPT, publicado em 10 de abril de 2026 e verificado em 19 de agosto de 2026  
+1. OpenAI Academy — Criando imagens com o ChatGPT, publicado em 10 de abril de 2026 e verificado em 20 de agosto de 2026  
    https://openai.com/pt-BR/academy/image-generation/
 
 2. OpenAI Help Center — Imagens no ChatGPT, verificado em 19 de agosto de 2026  
@@ -109,6 +112,33 @@ Foram adicionados cinco conceitos materialmente diferentes dos 85 anteriores:
 
 21. Profoto — Andrea Belluso’s pro lighting techniques for stunning shots. Demonstra combinar luz suave geral com luz dura e focada em um elemento específico, como uma joia, para tratar materiais de forma independente.  
     https://www.profoto.com/us/en/still-photography/profoto-stories/andrea-belluso-pro-lighting-techniques/ImportedBlogPage
+
+## Atualização de 20 de agosto de 2026
+
+Foram adicionados cinco conceitos materialmente diferentes dos 90 anteriores:
+
+- **focus stacking em beauty com joia**, mantendo produto, dedos e olhos em profundidade contínua por composição de planos focais;
+- **caústicas reais de água refletidas no rosto**, com fonte dura incidindo na água e não diretamente na modelo;
+- **Litepipe quase coaxial**, explorando uma fonte longa cuja zona próxima atua como key e o restante produz fill ascendente integrado;
+- **plástico translúcido iluminado internamente pelas bordas**, com luz facial estreita separada para preservar pele e cor do prop;
+- **eyewear sobre acrílico translúcido**, usando fill inferior transmitido para controlar transparência da armação e fill superior para reflexos.
+
+### Novas fontes verificadas em 20 de agosto de 2026
+
+22. Nikon USA — Focus Shift, the Basics: Stacking Focus. Explica a criação de uma sequência com pequenos deslocamentos de foco para compor uma imagem com profundidade de campo ampliada, evitando fechar excessivamente a abertura e aumentar difração.  
+    https://www.nikonusa.com/learn-and-explore/c/tips-and-techniques/focus-shift-the-basics-stacking-focus
+
+23. broncolor — How to Create Water Reflections for Portrait Photography. Demonstra uma fonte dura e recortada incidindo sobre a superfície da água para que apenas reflexos nítidos atinjam rosto e corpo, combinados com fill azul e recorte de cabelo.  
+    https://broncolor.swiss/news/how-to-create-water-reflections-for-portrait-photography
+
+24. broncolor — How to: Unconventional portrait with an unorthodox light shaper. Documenta o Litepipe P como fonte longa e difusa, com região próxima da lâmpada atuando como key e o restante como fill de direção inferior, além de controle de spill por counter reflectors.  
+    https://broncolor.swiss/zh/news/how-to-unconventional-portrait-with-an-unorthodox-light-shaper
+
+25. broncolor — How to Use Plastic Foil as Prop in Photography. Mostra flashes de ampla dispersão e baixa potência sob as bordas de plástico translúcido com filtros azuis e uma beauty dish com grid dedicada ao centro do rosto.  
+    https://broncolor.swiss/news/how-to-use-plastic-foil-as-prop-in-photography
+
+26. broncolor — How to Photoshoot Glasses. Documenta duas pequenas Octaboxes acima e abaixo de uma placa acrílica, com a luz inferior enfatizando transparência da armação e a superior controlando reflexão e opacidade.  
+    https://broncolor.swiss/news/how-to-photoshoot-glasses
 
 ## Autoria
 
