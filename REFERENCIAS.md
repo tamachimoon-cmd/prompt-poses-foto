@@ -1,6 +1,6 @@
 # Referências e Metodologia
 
-Pesquisa inicial realizada em **2 de agosto de 2026** e ampliada em **3, 4, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19 e 20 de agosto de 2026**. A curadoria prioriza documentação oficial de geração de imagens, materiais educacionais de fabricantes reconhecidos e literatura técnica/revisada por pares quando a técnica exige base óptica, espectral ou clínica.
+Pesquisa inicial realizada em **2 de agosto de 2026** e ampliada em **3, 4, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20 e 21 de agosto de 2026**. A curadoria prioriza documentação oficial de geração de imagens, materiais educacionais de fabricantes reconhecidos e literatura técnica/revisada por pares quando a técnica exige base óptica, espectral ou clínica.
 
 ## Critérios usados
 
@@ -31,12 +31,15 @@ Pesquisa inicial realizada em **2 de agosto de 2026** e ampliada em **3, 4, 6, 7
 - Focus stacking exige câmera, iluminação e sujeito estáveis entre quadros; o ganho de profundidade vem da combinação de planos focais, não de nitidez artificial global.
 - Caústicas e reflexos devem indicar o percurso físico da luz, diferenciando luz refletida de gobo, projeção ou textura digital.
 - Em materiais translúcidos, separar luz transmitida, refletida e incidente permite controlar transparência e legibilidade do produto.
+- A geometria da pupila ou da abertura influencia diretamente a forma de highlights fora de foco; isso precisa ser diferenciado de filtros de difração e padrões projetados.
+- O tamanho aparente da fonte em relação ao rosto pode ser usado deliberadamente para criar gradientes espaciais fortes, não apenas para classificar a luz como dura ou suave.
+- Um modificador pode fazer parte física do fundo; nesse caso, posição, foco interno e desfoque da própria superfície passam a ser elementos de composição.
 
 ## Fontes principais
 
 ### Geração de imagem e prompts
 
-1. OpenAI Academy — Criando imagens com o ChatGPT, publicado em 10 de abril de 2026 e verificado em 20 de agosto de 2026  
+1. OpenAI Academy — Criando imagens com o ChatGPT, publicado em 10 de abril de 2026 e verificado em 21 de agosto de 2026  
    https://openai.com/pt-BR/academy/image-generation/
 
 2. OpenAI Help Center — Imagens no ChatGPT, verificado em 19 de agosto de 2026  
@@ -139,6 +142,33 @@ Foram adicionados cinco conceitos materialmente diferentes dos 90 anteriores:
 
 26. broncolor — How to Photoshoot Glasses. Documenta duas pequenas Octaboxes acima e abaixo de uma placa acrílica, com a luz inferior enfatizando transparência da armação e a superior controlando reflexão e opacidade.  
     https://broncolor.swiss/news/how-to-photoshoot-glasses
+
+## Atualização de 21 de agosto de 2026
+
+Foram adicionados cinco conceitos materialmente diferentes dos 95 anteriores:
+
+- **teleobjetiva catadióptrica/reflex com bokeh donut**, usando a obstrução central da ótica como assinatura dos pontos desfocados;
+- **máscara de abertura em losango**, alterando a geometria do bokeh sem projetar padrão sobre a modelo;
+- **Picobox estreita como key de retrato**, explorando uma fonte aparente menor que o rosto para criar gradiente bilateral forte;
+- **fundo branco translúcido iluminado por trás com Balloon frontal**, combinando transmissão, rim e high-key em uma arquitetura distinta de clamshell;
+- **Para 222 físico usado como fundo**, com lâmpada desfocada para manter o centro escuro e a periferia luminosa.
+
+### Novas fontes verificadas em 21 de agosto de 2026
+
+27. B&H eXplora — Understanding Bokeh. Explica como desenho óptico e forma da abertura controlam highlights desfocados, descreve o bokeh em donut de lentes catadióptricas e o uso de recortes personalizados para alterar a forma dos discos de bokeh.  
+    https://www.bhphotovideo.com/explora/photography/tips-and-solutions/understanding-bokeh/bi/4271
+
+28. B&H eXplora — Creating Portraits with Beautiful Bokeh. Reforça que lentes mirror/catadioptric geram donuts pela obstrução central e que discos de abertura com recortes podem produzir formas definidas nos highlights fora de foco.  
+    https://www.bhphotovideo.com/explora/photography/tips-and-solutions/creating-portraits-with-beautiful-bokeh
+
+29. broncolor — How-to: Still-life Portrait. Documenta o uso de uma Picobox, originalmente de fotografia de produto, como main light de retrato, com o lado estreito menor que o rosto produzindo forte queda bilateral até as orelhas.  
+    https://broncolor.swiss/news/how-to-still-life-portrait
+
+30. broncolor — How to photograph a portrait with soft light. Mostra uma fonte atrás de backdrop translúcido para fundo queimado, rim e reflexo no colar, combinada a um Balloon frontal cuja distância controla a relação entre luz direta e indireta.  
+    https://broncolor.swiss/news/wie-man-ein-portrait-mit-weichem-licht-fotografiert
+
+31. broncolor — How to use the Para for Portraiture. Documenta um Para 88 como única luz frontal e um Para 222 como fundo, com a lâmpada interna desfocada para manter o centro do refletor escuro e abertura ampla para suavizar a textura.  
+    https://broncolor.swiss/news/how-to-use-the-para-for-portraiture
 
 ## Autoria
 

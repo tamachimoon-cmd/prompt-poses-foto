@@ -1,6 +1,6 @@
-# 95 Prompts de Fotografia de Estúdio e Poses de Modelo
+# 100 Prompts de Fotografia de Estúdio e Poses de Modelo
 
-Catálogo principal consolidado. Os prompts 1–90 permanecem acessíveis por arquivos históricos, pelo catálogo JSON ou revisões permanentes; os prompts 91–95 estão completos nesta página.
+Catálogo principal consolidado. Os prompts 1–95 permanecem acessíveis por arquivos históricos, pelo catálogo JSON ou revisões permanentes; os prompts 96–100 estão completos nesta página.
 
 ## Índice consolidado
 
@@ -99,125 +99,130 @@ Catálogo principal consolidado. Os prompts 1–90 permanecem acessíveis por ar
 93. Litepipe quase coaxial com key lateral e fill ascendente integrado
 94. Casulo de plástico translúcido com flashes azuis ocultos nas bordas
 95. Eyewear sobre acrílico translúcido com fill inferior para armação transparente
+96. Tele-reflex 250 mm com bokeh donut e pose sentada em compressão extrema
+97. Bokeh em losango por máscara de abertura com pose frontal minimalista
+98. Picobox estreita como key com gradiente bilateral e pose beauty contida
+99. Fundo translúcido retroiluminado com Balloon frontal e joia luminosa
+100. Para 222 desfocado como fundo de centro escuro e pose axial
 
 ---
 
-## 91. Focus stacking beauty com joia e rosto em profundidade contínua
+## 96. Tele-reflex 250 mm com bokeh donut e pose sentada em compressão extrema
 
-**Uso:** joalheria premium, relógios, beauty técnico, publicidade de acessórios e retrato de produto com alta definição.
+**Uso:** editorial experimental, capa musical, retrato retrofuturista e moda com fundo gráfico.
 
-**Pose-chave:** modelo sentada e totalmente estável, queixo apoiado de leve sobre a mão fechada sem deformar a face; a outra mão apresenta a joia alguns centímetros à frente do rosto.
+**Pose-chave:** modelo sentada de lado em banco alto, joelho mais próximo elevado, um antebraço apoiado nele e rosto retornando à câmera.
 
 ### Prompt em português
 
 ```text
-Retrato publicitário de estúdio de [modelo adulta] apresentando [anel, relógio ou pequena joia] com profundidade de campo estendida por focus stacking. Modelo sentada e completamente imóvel, coluna longa, rosto em três quartos suave; apoie apenas o osso do queixo de leve sobre os nós da mão fechada, sem pressionar a pele, enquanto a outra mão apresenta o produto alguns centímetros à frente da linha do rosto com dedos separados. Câmera fixa em tripé, lente macro ou tele curta de 90–105 mm, abertura na faixa de melhor nitidez da lente, aproximadamente f/5.6–f/8. Simule uma sequência de foco começando no ponto mais próximo da joia e avançando em pequenos passos até os olhos, depois combine somente regiões nítidas em um único resultado: produto, dedos e ambos os olhos criticamente definidos, enquanto o fundo permanece suave. Use duas fontes grandes e estáveis, uma key lateral-frontal e um fill discreto, sem mudanças de exposição entre quadros. Sem aparência de HDR, sem halos de empilhamento, sem duplicação de dedos, sem bordas fantasma, sem pele excessivamente afiada, sem texto ou logotipos. Formato 4:5 vertical.
+Retrato editorial de estúdio de [modelo adulta] sentada lateralmente em um banco alto diante de fundo preto profundo. Quadris a cerca de 45 graus da câmera, joelho mais próximo discretamente elevado, um antebraço apoiado sobre esse joelho sem esconder a mão, a outra mão baixa junto à lateral do banco; coluna longa, pescoço livre e rosto retornando para a lente. Posicione pequenos pontos luminosos reais de tamanhos variados entre 6 e 10 metros atrás da modelo, bem separados do plano de foco. Fotografe com uma teleobjetiva catadióptrica/reflex de aproximadamente 250 mm f/5.6, abertura fixa, câmera em tripé e longa distância de trabalho; faça foco manual crítico no olho mais próximo. Use uma key grande e suave a 45 graus e fill mínimo. Os practicals fora de foco devem virar anéis de bokeh em forma de donut, com borda luminosa e centro escuro, enquanto rosto, mãos e contorno corporal permanecem limpos e nítidos. Sem bokeh circular sólido dominante, sem swirl, sem anéis desenhados sobre pele ou roupa, sem donuts cobrindo olhos ou boca, sem membros duplicados, texto ou logotipos. Formato 4:5 vertical.
 ```
 
 ### Prompt em inglês
 
 ```text
-Advertising studio portrait of an adult [model] presenting a [ring, watch or small jewel] with extended depth of field through focus stacking. Keep the model seated and completely still with an elongated spine and a gentle three-quarter face angle; rest only the chin bone lightly on the knuckles of one closed hand without compressing the skin, while the other hand presents the product a few centimeters in front of the facial plane with separated fingers. Lock the camera on a tripod, use a 90–105mm macro or short-telephoto lens at its sharp aperture range, roughly f/5.6–f/8. Simulate a focus sequence beginning at the nearest point of the jewel and advancing in small steps toward the eyes, then combine only sharp regions into one result: product, fingers and both eyes critically defined while the background stays soft. Use two stable large sources, a front-side key and subtle fill, with no exposure change between frames. No HDR look, no stacking halos, no duplicated fingers, no ghost edges, no over-sharpened skin, text or logos. Vertical 4:5.
+Experimental studio editorial portrait of an adult [model] seated sideways on a high stool against a deep black background. Turn the hips roughly 45 degrees from camera, raise the nearer knee slightly, rest one forearm on that knee without hiding the hand, and keep the other hand low beside the stool; maintain a long spine, open neck and face returning toward the lens. Place real small practical light points of varied sizes 6–10 meters behind the model, clearly separated from the focus plane. Shoot with an approximately 250mm f/5.6 catadioptric/reflex telephoto lens with a fixed aperture, camera on a tripod and long working distance; use critical manual focus on the nearest eye. Light with one large soft key at 45 degrees and minimal fill. Out-of-focus practicals should become doughnut-shaped bokeh rings with bright edges and dark centers while the face, hands and body contour remain clean and sharp. No dominant solid circular bokeh, no swirl, no rings drawn over skin or clothing, no doughnuts covering eyes or mouth, no duplicated limbs, text or logos. Vertical 4:5.
 ```
 
-**Restrição opcional:** `modelo imóvel, câmera em tripé, joia e olhos nítidos, sem halos de stacking, sem ghosting, sem textura de pele exagerada`.
+**Restrição opcional:** `bokeh donut somente nos practicals fora de foco, centro escuro real, rosto nítido, sem swirl, sem anéis sobre a pele`.
 
-**Por que funciona:** Focus stacking amplia a profundidade de campo combinando uma sequência de focos distintos sem exigir abertura extrema e sua difração. A pose apoiada reduz micro movimento, tornando plausível manter produto, mãos e olhos definidos no mesmo retrato.
+**Por que funciona:** A obstrução central de uma lente catadióptrica transforma pontos luminosos desfocados em anéis, criando uma assinatura óptica diferente do bokeh circular, suave, rotacional ou anamórfico já catalogado. A focal longa reforça compressão e separação de planos.
 
 ---
 
-## 92. Caústicas de água refletidas no rosto com fill azul profundo
+## 97. Bokeh em losango por máscara de abertura com pose frontal minimalista
 
-**Uso:** beauty conceitual, capa musical, editorial aquático, perfume e retrato fine art.
+**Uso:** beauty criativo, capa musical, editorial noturno, joalheria e retrato festivo sofisticado.
 
-**Pose-chave:** rosto em três quartos, uma mão fora do enquadramento agita suavemente a água; a outra permanece baixa, enquanto os olhos retornam à câmera.
+**Pose-chave:** tronco quase frontal, rosto levemente deslocado do centro, uma mão ajustando a lapela e a outra baixa, mantendo a silhueta simples.
 
 ### Prompt em português
 
 ```text
-Retrato fine-art de estúdio de [modelo adulta] do peito para cima diante de fundo azul-marinho profundo. Corpo em três quartos, pescoço alongado e rosto voltado para a câmera; mantenha uma mão baixa e visível, enquanto a outra fica fora do quadro movimentando suavemente uma bandeja rasa de água posicionada abaixo e à frente da modelo. Direcione uma fonte pequena, dura e precisamente recortada para a superfície da água, nunca diretamente para o corpo, para que somente as reflexões caústicas móveis atinjam bochecha, pescoço e parte do figurino. Use fill geral azul muito baixo por rebote nas paredes ou em superfície ampla e um pequeno recorte traseiro com grid no cabelo. Lente 105–150 mm, fundo escuro, olhos nítidos e padrões de água luminosos com bordas vivas, porém sem cobrir integralmente olhos e boca. Sem aparência de projeção digital, sem água fisicamente sobre a pele, sem ondas gigantes, sem padrão repetido como gobo, sem mãos extras, texto ou logotipos. Formato 4:5 vertical.
+Retrato beauty-editorial de estúdio de [modelo adulta] do busto para cima diante de fundo escuro com pequenos pontos de luz reais posicionados pelo menos três metros atrás. Tronco quase frontal, rosto deslocado ligeiramente para um terço, queixo neutro; uma mão ajusta discretamente a lapela ou gola abaixo da clavícula e a outra permanece baixa, fora da região facial. Use lente luminosa de 85 mm próxima da abertura máxima e coloque uma máscara preta fina imediatamente diante da lente, coaxial, com um único recorte em forma de losango menor que a pupila de entrada. Mantenha o rosto no plano de foco e deixe apenas os practicals traseiros profundamente desfocados, para que seus discos de bokeh assumam a forma de losangos luminosos. Key grande e suave a 45 graus, negative fill leve no lado oposto e exposição dos pontos abaixo do clipping. O efeito deve existir somente nas altas luzes fora de foco; linhas do rosto, olhos, joias e figurino permanecem opticamente normais. Sem filtro star, sem raios de difração decorativos, sem losangos impressos sobre pele, sem padrão geométrico no fundo em foco, sem mãos extras, texto ou logotipos. Formato 4:5 vertical.
 ```
 
 ### Prompt em inglês
 
 ```text
-Fine-art studio portrait of an adult [model] framed from the chest up against a deep navy background. Body in three-quarter view, neck elongated and face turned toward camera; keep one hand low and visible while the other remains outside the frame gently disturbing a shallow tray of water positioned below and in front of the model. Aim a small hard precisely controlled source at the water surface, never directly at the body, so only moving reflected caustics strike the cheek, neck and part of the wardrobe. Use a very low deep-blue ambient fill bounced from walls or a broad surface and a small gridded rear edge light on the hair. 105–150mm lens, dark background, sharp eyes and bright water patterns with crisp edges without fully covering the eyes or mouth. No digital projection look, no physical water on the skin, no giant waves, no repeated gobo-like pattern, extra hands, text or logos. Vertical 4:5.
+Beauty-editorial studio portrait of an adult [model] framed from the bust up against a dark background with real small light points placed at least three meters behind. Keep the torso nearly frontal, place the face slightly off center on a third, neutral chin; one hand subtly adjusts the lapel or collar below the collarbone while the other remains low and away from the facial area. Use a fast 85mm lens near maximum aperture and place a thin black mask immediately in front of the lens, coaxial, with one diamond-shaped cutout smaller than the entrance pupil. Keep the face on the focus plane and render only the rear practicals deeply out of focus so their bokeh discs take on luminous diamond shapes. Use a large soft key at 45 degrees, slight negative fill opposite and keep practical highlights below clipping. The effect must exist only in out-of-focus highlights; facial lines, eyes, jewelry and wardrobe remain optically normal. No star filter, no decorative diffraction rays, no diamonds printed over skin, no in-focus geometric background pattern, no extra hands, text or logos. Vertical 4:5.
 ```
 
-**Restrição opcional:** `caústicas reais refletidas pela água, fonte dura apontada para a água e não para o rosto, olhos livres, fundo azul profundo, sem gobo`.
+**Restrição opcional:** `losangos somente no bokeh fora de foco, rosto e figurino sem padrão, sem star filter, sem raios, olhos nítidos`.
 
-**Por que funciona:** A superfície ondulada da água redireciona uma fonte dura em reflexos caústicos irregulares. Como a luz direta é bloqueada da modelo, o desenho no rosto vem do percurso físico luz→água→pele, produzindo um padrão diferente de gobo ou projeção.
+**Por que funciona:** A geometria da pupila de entrada influencia a forma dos pontos desfocados. Uma máscara com recorte em losango modifica os discos de bokeh sem projetar um desenho sobre a modelo, distinguindo o efeito de gobos, filtros star e projeções digitais.
 
 ---
 
-## 93. Litepipe quase coaxial com key lateral e fill ascendente integrado
+## 98. Picobox estreita como key com gradiente bilateral e pose beauty contida
 
-**Uso:** beauty editorial, retrato de proximidade, campanha de maquiagem, músico e retrato em espaço compacto.
+**Uso:** beauty gráfico, campanha de skincare, retrato de ator, maquiagem e editorial minimalista.
 
-**Pose-chave:** rosto quase frontal com leve rotação para a extremidade mais brilhante da fonte; ombros baixos, mãos cruzadas abaixo da clavícula e longe do rosto.
+**Pose-chave:** rosto quase frontal, rotação mínima em direção à fonte, ombros baixos e mãos cruzadas abaixo da clavícula.
 
 ### Prompt em português
 
 ```text
-Retrato editorial de estúdio de [modelo adulta] em enquadramento fechado contra fundo grafite. Rosto quase frontal girado poucos graus em direção à extremidade mais brilhante da luz, queixo neutro, ombros baixos; mãos cruzadas suavemente abaixo da clavícula, dedos separados e longe do rosto. Posicione uma fonte tubular difusa longa, estilo Litepipe, extremamente próxima do eixo da câmera e curvada visualmente ao redor do lado da lente: a extremidade próxima à cabeça do flash fica na altura dos olhos e funciona como key lateral suave, enquanto o restante do tubo desce em diagonal abaixo da câmera e age como fill ascendente contínuo. Use contrarrefletores ou bandeiras para estreitar a abertura da fonte e manter contraste; acrescente apenas um pequeno cartão branco oposto se necessário. Lente 50–85 mm, distância curta, olhos nítidos, catchlight alongado e gradiente vertical contínuo no rosto. Sem duas fontes separadas parecendo stripboxes comuns, sem underlight de terror, sem tubo aparecendo no quadro, sem sombra plana, sem mãos no rosto, texto ou logotipos. Formato 4:5 vertical.
+Retrato beauty minimalista de estúdio de [modelo adulta] do peito para cima contra fundo cinza grafite. Rosto quase frontal com rotação de apenas 5–10 graus, queixo neutro e olhos diretamente na câmera; ombros baixos, mãos cruzadas suavemente abaixo da clavícula com dedos separados e completamente fora do rosto. Use uma fonte compacta de lados rígidos e frente acrílica difusa, estilo Picobox, como única key principal, posicionada próxima e com o lado mais estreito voltado para a modelo, de modo que a largura aparente da fonte seja menor que a largura do rosto. Oriente a fonte ligeiramente para a câmera, não diretamente para a testa, criando máxima luminosidade no centro do rosto e gradientes bilaterais fortes até têmporas e orelhas quase sem luz. Acrescente somente uma placa branca grande na altura da cintura para fill discreto e um grid estreito no fundo se necessário. Lente 105–120 mm, olhos nítidos, poros naturais e transição de brilho contínua. Sem faixa vertical de luz parecendo stripbox, sem orelhas completamente recortadas em preto, sem hotspot estourado na testa, sem underlight, sem mãos no rosto, texto ou logotipos. Formato 4:5 vertical.
 ```
 
 ### Prompt em inglês
 
 ```text
-Close editorial studio portrait of an adult [model] against a graphite background. Keep the face nearly frontal with a slight turn toward the brighter end of the source, neutral chin and lowered shoulders; hands softly crossed below the collarbone with separated fingers and kept away from the face. Position one long diffused tubular source, Litepipe-style, extremely close to the camera axis and visually wrapping around one side of the lens: the end nearest the flash head sits around eye level and acts as the soft side key, while the rest of the tube descends diagonally below camera and works as continuous upward fill. Use counter-reflectors or flags to narrow the emitting aperture and preserve contrast; add only a small opposite white card if needed. 50–85mm lens, close working distance, sharp eyes, elongated catchlight and a continuous vertical facial gradient. No two separate sources that look like ordinary stripboxes, no horror-style underlight, no visible tube in frame, no flat shadowless face, no hands on face, text or logos. Vertical 4:5.
+Minimal studio beauty portrait of an adult [model] framed from the chest up against a graphite-gray background. Keep the face nearly frontal with only a 5–10 degree turn toward the source, neutral chin and direct eye contact; shoulders lowered, hands softly crossed below the collarbone with separated fingers and completely away from the face. Use a compact hard-sided modifier with a frosted acrylic front, Picobox-style, as the sole main key, placed close with its narrow side facing the model so the apparent source width is smaller than the face. Aim the source slightly toward the camera rather than directly at the forehead, creating maximum brightness through the facial center and strong bilateral gradients toward temples and nearly unlit ears. Add only one large white board at waist height for subtle fill and a narrow background grid if needed. Use a 105–120mm lens, sharp eyes, natural pores and a continuous brightness transition. No vertical strip of light resembling a stripbox, no ears cut into total black, no blown forehead hotspot, no horror underlight, no hands on face, text or logos. Vertical 4:5.
 ```
 
-**Restrição opcional:** `uma única fonte tubular longa, key na altura dos olhos e fill vindo de baixo, catchlight contínuo, sem aparência de duas stripboxes`.
+**Restrição opcional:** `fonte menor que o rosto, centro luminoso e queda bilateral forte, sem aparência de stripbox, pele natural, olhos nítidos`.
 
-**Por que funciona:** Uma fonte tubular de emissão contínua pode exercer duas funções ao mesmo tempo: a região mais brilhante atua como key e o comprimento restante fornece fill inferior progressivo. A proximidade ao eixo da lente cria um gradiente que seria difícil reproduzir com duas caixas discretas.
+**Por que funciona:** Quando a fonte aparente é mais estreita que o rosto, as áreas laterais recebem muito menos luz e surge um gradiente bilateral pronunciado. Usar um modificador compacto de produto como key cria uma distribuição espacial diferente de stripboxes, softboxes grandes e máscaras de catchlight.
 
 ---
 
-## 94. Casulo de plástico translúcido com flashes azuis ocultos nas bordas
+## 99. Fundo translúcido retroiluminado com Balloon frontal e joia luminosa
 
-**Uso:** moda conceitual, beauty experimental, capa musical, campanha futurista e retrato com material translúcido.
+**Uso:** joalheria, beauty high-key premium, skincare, perfume e publicidade de acessórios claros.
 
-**Pose-chave:** modelo deitada ou semi-reclinada sob filme plástico amplo sem cobrir o rosto; cotovelos afastados do torso e mãos empurram o material para criar volumes laterais.
+**Pose-chave:** busto em três quartos suave, pescoço alongado, uma mão apresenta o colar ou pingente na clavícula sem cobrir a peça e a outra fica baixa.
 
 ### Prompt em português
 
 ```text
-Retrato conceitual de estúdio de [modelo adulta] semi-reclinada sobre piso branco fosco, envolvida por um grande filme plástico translúcido leve usado como elemento de cenário, nunca apertado ao corpo e mantendo rosto, nariz e boca totalmente livres. Um joelho elevado sob o tecido e o outro mais baixo criam volumes diferentes; cotovelos afastados do torso e as duas mãos pressionam suavemente o plástico para fora, formando dobras amplas sem ocultar dedos. Esconda cinco pequenos flashes de baixa potência com tubos nus ou distribuição muito ampla sob as bordas externas do plástico, fora do quadro, todos com gel azul saturado e modelling lights desligadas, fazendo o material brilhar de dentro para fora. Use uma beauty dish com grid muito próxima e frontal para iluminar apenas o centro do rosto sem dessaturar o plástico azul. Lente 70–85 mm, câmera ligeiramente acima, composição quase zenital, plástico com reflexos especulares controlados e pele natural. Sem plástico aderido à boca ou nariz, sem sensação de sufocamento, sem luz azul lavando toda a pele, sem mãos ou pernas duplicadas, sem material fundido ao corpo, texto ou logotipos. Formato 4:5 vertical.
+Retrato publicitário high-key de estúdio de [modelo adulta] usando [colar, pingente ou joia clara] diante de um grande fundo branco translúcido. Corpo em três quartos suave, pescoço alongado, rosto voltado para a câmera; uma mão sobe até a clavícula e apresenta a joia com dedos separados sem cobrir a peça, enquanto a outra permanece baixa. Posicione uma beauty dish ou fonte controlada atrás do fundo, apontada através do material translúcido para criar um branco queimado uniforme, uma borda luminosa delicada no cabelo e nos ombros e luz transmitida visível também nos reflexos da joia. Na frente, use uma única fonte esférica difusa grande, estilo Balloon, próxima ao eixo da câmera e ligeiramente acima, ajustando sua distância para equilibrar luz direta e indireta e manter sombras quase inexistentes, mas ainda legíveis. Lente 85–105 mm, enquadramento do busto para cima, pele clara sem clipping, olhos nítidos e metal/cristais com highlights definidos. Sem silhueta, sem fundo cinza, sem joia estourada, sem halo recortado artificial, sem fonte visível, sem dedos fundidos, texto ou logotipos. Formato 4:5 vertical.
 ```
 
 ### Prompt em inglês
 
 ```text
-Conceptual studio portrait of an adult [model] semi-reclined on a matte white floor, surrounded by a large lightweight translucent plastic sheet used as a set element, never tightened around the body and keeping the face, nose and mouth completely unobstructed. One knee raised beneath the material and the other lower create different volumes; elbows stay away from the torso and both hands gently push the plastic outward to form broad folds without hiding fingers. Hide five small low-power flashes with bare tubes or very wide spread under the outer edges of the plastic, outside the frame, all fitted with saturated blue gels and modeling lights switched off, making the material glow from within. Use a closely positioned gridded beauty dish frontally to light only the center of the face without desaturating the blue plastic. 70–85mm lens, camera slightly above, near-overhead composition, controlled specular reflections in the plastic and natural skin. No plastic touching or sealing the mouth or nose, no suffocation imagery, no blue wash across all skin, no duplicated hands or legs, no material fused to the body, text or logos. Vertical 4:5.
+High-key advertising studio portrait of an adult [model] wearing a [necklace, pendant or light-colored jewel] in front of a large translucent white backdrop. Keep the body in a gentle three-quarter view, neck elongated and face toward camera; one hand rises to the collarbone to present the jewelry with separated fingers without covering it, while the other stays low. Place a beauty dish or controlled source behind the backdrop, firing through the translucent material to create an evenly burned-out white background, a delicate luminous edge on hair and shoulders, and transmitted light visible in the jewelry reflections. From the front, use one large diffused spherical source, Balloon-style, close to the camera axis and slightly above, adjusting its distance to balance direct and indirect light and retain almost shadowless yet readable facial modeling. Use an 85–105mm lens, bust-up framing, bright skin without clipping, sharp eyes and defined highlights on metal or crystals. No silhouette, no gray background, no blown jewelry, no artificial cutout halo, no visible light source, no fused fingers, text or logos. Vertical 4:5.
 ```
 
-**Restrição opcional:** `plástico solto e seguro, rosto totalmente livre, brilho azul vindo das bordas, luz facial seletiva, sem sufocamento e sem material colado ao rosto`.
+**Restrição opcional:** `fundo translúcido branco iluminado por trás, rosto high-key com detalhe, joia legível, sem silhueta, sem clipping de pele`.
 
-**Por que funciona:** Flashes amplos escondidos sob um material translúcido transformam o próprio prop em superfície luminosa irregular. Separar uma luz facial estreita preserva cor de pele e contraste, enquanto as dobras do plástico produzem gradientes e reflexos que não existem num scrim plano.
+**Por que funciona:** Iluminar através de um fundo translúcido transforma o próprio backdrop em fonte traseira e fornece simultaneamente branco puro, rim suave e reflexos transmitidos no produto. A fonte esférica frontal reduz sombras sem repetir uma clamshell convencional.
 
 ---
 
-## 95. Eyewear sobre acrílico translúcido com fill inferior para armação transparente
+## 100. Para 222 desfocado como fundo de centro escuro e pose axial
 
-**Uso:** campanha de óculos, eyewear premium, retrato de produto, moda clean e publicidade de armações transparentes ou translúcidas.
+**Uso:** retrato de moda premium, capa editorial, campanha de luxo e retrato fine art de estúdio.
 
-**Pose-chave:** modelo inclinada sobre uma mesa acrílica branca, antebraços apoiados em níveis diferentes; uma mão segura discretamente a haste do óculos e a outra permanece aberta sobre a mesa.
+**Pose-chave:** modelo em pé no eixo central, peso deslocado discretamente para uma perna, um braço dobrado atrás da cintura e o outro relaxado lateralmente.
 
 ### Prompt em português
 
 ```text
-Retrato publicitário de estúdio de [modelo adulta] usando [óculos de armação transparente ou translúcida] inclinada suavemente sobre uma mesa de acrílico branco translúcido. Antebraços apoiados em níveis diferentes, um mais próximo da câmera e outro recuado; uma mão segura discretamente a haste externa do óculos com dois dedos, sem cobrir a lente, e a outra repousa aberta sobre a mesa com todos os dedos visíveis. Coloque uma octabox pequena abaixo do tampo acrílico para enviar fill difuso de baixo para cima através da mesa e revelar transparência e bordas da armação; use outra octabox pequena acima e frontal como fill facial, equilibrando a proporção entre reflexão superficial e transmissão de luz. Atrás da modelo, use fundo branco separado com queda rápida para cinza claro e uma fonte estreita apenas se necessário para destacar a borda da armação. Lente 85–105 mm, enquadramento do peito para cima, olhos nítidos através das lentes, reflexos controlados e armação legível. Sem olhos duplicados por refração, sem reflexo escondendo a pupila, sem mesa atravessando braços, sem mãos fundidas, sem armação opaca quando deveria ser translúcida, texto ou logotipos. Formato 4:5 vertical.
+Retrato de moda premium em estúdio de [modelo adulta] posicionada exatamente no eixo central. Corpo quase frontal, peso deslocado discretamente para a perna traseira, quadril mínimo para um lado; um braço dobra atrás da cintura sem desaparecer completamente e o outro desce relaxado separado do torso, cabeça reta e olhar direto. Use um grande refletor parabólico profundo de aproximadamente 220 cm, estilo Para 222, fisicamente atrás da modelo e voltado para a câmera como elemento de fundo. Mantenha a cabeça de flash interna em posição desfocada para que o centro do refletor permaneça propositalmente escuro enquanto as zonas externas ficam luminosas; fotografe com abertura moderadamente ampla e distância suficiente para suavizar a textura segmentada, transformando o refletor em um gradiente radial amplo, não em um halo pequeno. Na frente, use apenas um refletor parabólico menor de cerca de 88 cm como key, próximo do eixo mas ligeiramente acima, com foco intermediário para textura de pele e volume. Lente 85–105 mm, enquadramento dos joelhos para cima, olhos nítidos e separação clara da silhueta. Sem spotlight circular projetado na parede, sem halo apertado atrás da cabeça, sem centro do fundo brilhante, sem textura metálica excessivamente nítida, sem braços duplicados, texto ou logotipos. Formato 4:5 vertical.
 ```
 
 ### Prompt em inglês
 
 ```text
-Advertising studio portrait of an adult [model] wearing [transparent or translucent eyeglass frames] gently leaning over a white translucent acrylic table. Forearms rest at different depths, one closer to camera and the other farther back; one hand lightly holds the outer temple of the glasses with two fingers without covering the lens, while the other rests open on the table with all fingers visible. Place a small octabox below the acrylic surface to send diffused upward fill through the table and reveal the transparency and edges of the frame; use another small octabox above and in front as facial fill, balancing surface reflections against transmitted light. Behind the model, keep a separate white background falling quickly toward light gray and add a narrow accent only if needed to define the frame edge. 85–105mm lens, chest-up framing, eyes sharp through the lenses, controlled reflections and clearly readable frames. No duplicated eyes from refraction, no reflection hiding the pupil, no table passing through arms, no fused hands, no opaque-looking frame when it should be translucent, text or logos. Vertical 4:5.
+Premium studio fashion portrait of an adult [model] positioned exactly on the central axis. Keep the body nearly frontal, shift weight subtly to the rear leg with a minimal hip offset; bend one arm behind the waist without making it disappear completely and let the other hang relaxed and separated from the torso, head upright and direct gaze. Use a very large deep parabolic reflector of roughly 220cm, Para 222-style, physically behind the model and facing the camera as the background element. Keep its internal flash head in a defocused position so the reflector center remains intentionally dark while the outer zones glow; shoot at a moderately wide aperture and enough distance to soften the segmented texture, turning the reflector into a broad radial gradient rather than a small halo. From the front use only a smaller roughly 88cm parabolic reflector as the key, close to the camera axis but slightly above, in an intermediate focus position for skin texture and volume. Use an 85–105mm lens, knees-up framing, sharp eyes and clear silhouette separation. No circular spotlight projected on a wall, no tight halo behind the head, no bright background center, no overly sharp metallic segment texture, no duplicated arms, text or logos. Vertical 4:5.
 ```
 
-**Restrição opcional:** `armação transparente legível, fill inferior através do acrílico, olhos visíveis sem reflexo dominante, mãos plausíveis, mesa íntegra`.
+**Restrição opcional:** `grande fundo parabólico físico, centro escuro e periferia luminosa, sem halo pequeno, key frontal separada, olhos nítidos`.
 
-**Por que funciona:** A luz abaixo de uma superfície acrílica translúcida privilegia transmissão e transparência, enquanto a fonte superior controla reflexos e contraste facial. Isso separa tecnicamente a leitura do produto da iluminação da pele em um retrato de eyewear.
+**Por que funciona:** Um refletor parabólico grande pode funcionar como o próprio fundo. Com a lâmpada interna desfocada, o centro permanece escuro enquanto as zonas externas recebem luz; desfocar a superfície com a câmera transforma os segmentos em um gradiente radial que não é equivalente a um halo projetado.
 
 ---
