@@ -1,6 +1,6 @@
-# 105 Prompts de Fotografia de Estúdio e Poses de Modelo
+# 110 Prompts de Fotografia de Estúdio e Poses de Modelo
 
-Catálogo principal consolidado. Os prompts 1–100 permanecem acessíveis pelo catálogo JSON, arquivos históricos ou revisões permanentes; os prompts 101–105 estão completos nesta página.
+Catálogo principal consolidado. Os prompts 1–105 permanecem acessíveis pelo catálogo JSON, arquivos históricos ou revisões permanentes; os prompts 106–110 estão completos nesta página.
 
 ## Índice consolidado
 
@@ -109,125 +109,126 @@ Catálogo principal consolidado. Os prompts 1–100 permanecem acessíveis pelo 
 103. Zone Plate Obscura 50 mm com glow difrativo e pose gráfica imóvel
 104. Flash congelado com LED contínuo em meia exposição e gesto fantasma cromático
 105. Contraluz duplo com braços elevados como rebatedores naturais do rosto
+106. Birrefringência em acrílico cross-polarized com rosto neutro e prop cromático
+107. Estúdio inteiro como rebatedor com flag preto único e pose frontal respirada
+108. Front projection retroreflexiva coaxial com fundo cinematográfico e silhueta limpa
+109. Grade de difração em primeiro plano com réplicas espectrais e rosto central limpo
+110. Pepper’s Ghost com objeto luminoso virtual e pose de perfil ancorada
 
 ---
 
-## 101. SA Control 100 mm com bubble bokeh e beauty de textura preservada
+## 106. Birrefringência em acrílico cross-polarized com rosto neutro e prop cromático
 
-**Uso:** beauty criativo, skincare editorial, joalheria e retrato com assinatura óptica vintage-controlada.
+**Uso:** beauty experimental, acessórios, campanha de materiais transparentes, ciência-fashion e editorial tecnológico.
 
-**Pose-chave:** rosto em três quartos suave, uma mão abaixo da clavícula apresentando uma joia e a outra fora do eixo facial; olhos no mesmo plano.
+**Pose-chave:** corpo em três quartos, placa ou objeto acrílico transparente ao lado do ombro, uma mão segura a borda inferior e a outra permanece baixa; rosto totalmente livre.
 
 ### Prompt em português
 
 ```text
-Retrato beauty de estúdio de [modelo adulta] do busto para cima, diante de fundo escuro com pequenos practicals circulares a pelo menos três metros atrás. Posicione o rosto em três quartos suave, olhos quase no mesmo plano focal, queixo neutro; uma mão apresenta [joia ou acessório] abaixo da clavícula sem tocar o rosto e a outra permanece baixa. Fotografe com uma macro/tele curta de aproximadamente 100 mm f/2.8 equipada com controle de aberração esférica (SA Control), usando ajuste positivo moderado para endurecer as bordas dos discos fora de foco e criar bubble bokeh, mas mantendo olhos, cílios e textura da pele claramente legíveis. Use key grande e suave a 45 graus, fill mínimo e practicals pequenos bem separados do sujeito. O efeito de SA deve atuar principalmente no caráter do desfoque traseiro, não como filtro de difusão sobre todo o rosto. Sem bokeh donut com centro vazio, sem máscara de abertura geométrica, sem glow leitoso global, sem olhos desfocados, sem pele plástica, dedos extras, texto ou logotipos. Formato 4:5 vertical.
+Retrato editorial de estúdio de [modelo adulta] do busto para cima diante de fundo preto. Corpo em três quartos, rosto totalmente livre e voltado para a câmera; uma mão segura pela borda inferior um [disco, placa ou forma de acrílico transparente moldado] ao lado do ombro, sem colocá-lo diante dos olhos, nariz ou boca, e a outra mão permanece baixa. Ilumine o acrílico por trás com luz branca linearmente polarizada e fotografe através de um polarizador na lente girado aproximadamente 90 graus em relação à polarização da fonte, de modo que tensões internas do acrílico apareçam como bandas espectrais de birrefringência apenas dentro do material. Ilumine o rosto separadamente com uma softbox neutra e suave a 45 graus, controlando spill para que a pele permaneça natural e sem arco-íris. Lente de 85 mm, foco nos olhos e na borda frontal do acrílico, fundo preto limpo. Sem efeito rainbow sobre a pele, sem prisma no rosto, sem transparência atravessando a anatomia, sem mãos fundidas ao acrílico, sem duplicação facial, texto ou logotipos. Formato 4:5 vertical.
 ```
 
 ### Prompt em inglês
 
 ```text
-Studio beauty portrait of an adult [model], bust-up, against a dark background with small circular practical lights placed at least three meters behind. Pose the face in a gentle three-quarter angle with both eyes close to the same focus plane and a neutral chin; one hand presents a [jewel or accessory] below the collarbone without touching the face while the other stays low. Shoot with an approximately 100mm f/2.8 macro/short-telephoto lens featuring Spherical Aberration control, using a moderate positive SA setting to harden the edges of out-of-focus discs and create bubble bokeh while keeping eyes, lashes and natural skin texture clearly readable. Use a large soft key at 45 degrees, minimal fill and small practicals well separated from the subject. The SA effect should primarily change the character of the rear blur rather than behave like a global diffusion filter on the face. No hollow-center doughnut bokeh, no geometric aperture mask, no global milky glow, no blurred eyes, no plastic skin, extra fingers, text or logos. Vertical 4:5.
+Studio editorial portrait of an adult [model], bust-up, against a black background. Keep the body in three-quarter view and the face fully unobstructed toward camera; one hand holds the lower edge of a [clear molded acrylic disc, sheet or shape] beside the shoulder without placing it over the eyes, nose or mouth, while the other hand stays low. Backlight the acrylic with white linearly polarized light and shoot through a lens polarizer rotated roughly 90 degrees relative to the source polarization so internal stresses in the acrylic appear as spectral birefringence bands confined to the material. Light the face separately with a neutral softbox at 45 degrees, controlling spill so skin remains natural and free of rainbow coloration. Use an 85mm lens, with focus on the eyes and front edge of the acrylic, against a clean black background. No rainbow effect on skin, no prism across the face, no transparent object passing through anatomy, no hands fused into acrylic, no duplicated face, text or logos. Vertical 4:5.
 ```
 
-**Restrição opcional:** `bubble bokeh com borda definida apenas no fundo, olhos e pele legíveis, sem donut de centro vazio, sem difusão global`.
+**Restrição opcional:** `cores de birrefringência somente no acrílico, pele neutra, rosto livre, polarização cruzada, sem arco-íris decorativo aleatório`.
 
-**Por que funciona:** O controle de aberração esférica altera a distribuição de luz dentro e fora do plano focal, mudando a dureza do bokeh e podendo criar o chamado bubble bokeh. É diferente de apodização, máscara de abertura ou lente catadióptrica porque o desenho vem do ajuste deliberado da aberração da própria ótica.
+**Por que funciona:** Plásticos transparentes sob tensão podem tornar-se birrefringentes: entre polarizadores cruzados, diferenças de fase dependentes da tensão e do comprimento de onda aparecem como bandas coloridas. Separar a luz do rosto da luz polarizada do prop mantém o efeito físico localizado e distingue a técnica da cross-polarization usada apenas para suprimir brilho da pele.
 
 ---
+## 107. Estúdio inteiro como rebatedor com flag preto único e pose frontal respirada
 
-## 102. Sweet Spot 80 mm deslocado para o olho com campo de foco curvo
+**Uso:** beauty naturalista, retrato premium, campanha de skincare, catálogo e editorial minimalista.
 
-**Uso:** retrato autoral, capa musical, moda intimista e beauty artístico com foco seletivo.
-
-**Pose-chave:** rosto no terço superior, um olho escolhido como ponto de ancoragem; ombros em diagonal e mãos baixas para não competir com o sweet spot.
+**Pose-chave:** corpo quase frontal, peso distribuído, ombros baixos, mãos fora do rosto e cabeça girada poucos graus para o lado oposto ao flag.
 
 ### Prompt em português
 
 ```text
-Retrato autoral de estúdio de [modelo adulta] do peito para cima, fundo texturizado escuro com poucos pontos de luz e contraste moderado. Coloque o rosto no terço superior esquerdo, ombros em diagonal e queixo levemente baixo; mãos ficam abaixo da clavícula e fora da área facial. Use uma óptica de foco seletivo tipo Sweet 80, cerca de 80 mm f/2.8, inclinada apenas o suficiente para mover o pequeno sweet spot circular exatamente sobre o olho mais próximo. O olho escolhido, cílios e pequena região da sobrancelha devem ficar criticamente nítidos, enquanto a nitidez cai de forma progressiva e curvada em todas as direções até virar blur orgânico e levemente esticado nas bordas. Use uma fonte grande e suave lateral e negative fill discreto no lado oposto. Não simule um plano de foco reto de tilt-shift; o efeito deve ser um núcleo arredondado de foco cercado por desfoque crescente. Sem segundo rosto, sem olho principal desfocado, sem blur uniforme de filtro, sem miniatura falsa, sem mãos no rosto, texto ou logotipos. Formato 4:5 vertical.
+Retrato de estúdio de [modelo adulta] do peito para cima em um estúdio branco com paredes, teto e ciclorama claros. Corpo quase frontal, ombros baixos e relaxados, cabeça girada apenas 10–15 graus, olhar para a câmera; mãos permanecem abaixo da clavícula e fora da área facial. Aponte duas ou mais cabeças de flash para longe da modelo, exclusivamente para paredes e teto brancos, fazendo o estúdio inteiro funcionar como uma enorme superfície de rebote indireto; nenhuma fonte direta deve apontar para o rosto. Posicione apenas um painel preto alto e fosco próximo a um dos lados da modelo para absorver parte da luz que retorna daquela direção e criar um gradiente facial suave, mantendo o lado oposto muito aberto. Lente de 105 mm, enquadramento limpo, pele com textura real, catchlights amplos e discretos. Sem key direta visível, sem duas bandeiras pretas, sem split lighting, sem sombras duras, sem fundo cinza por subexposição, sem mãos no rosto, texto ou logotipos. Formato 4:5 vertical.
 ```
 
 ### Prompt em inglês
 
 ```text
-Authorial studio portrait of an adult [model], chest-up, against a dark textured background with a few practical light points and moderate contrast. Place the face on the upper-left third, shoulders on a diagonal and chin slightly lowered; keep hands below the collarbone and away from the facial area. Use a selective-focus optic such as an 80mm f/2.8 Sweet-style lens, tilted only enough to move the small circular sweet spot precisely onto the nearest eye. The chosen eye, lashes and a small eyebrow region must be critically sharp while focus falls away progressively along a curved field in every direction, becoming organic, slightly stretched blur toward the edges. Use one large soft side source and subtle negative fill opposite. Do not simulate the straight focus plane of a conventional tilt-shift lens; the effect should be a rounded island of focus surrounded by increasing blur. No second face, no blurred primary eye, no uniform filter blur, no fake miniature effect, no hands on face, text or logos. Vertical 4:5.
+Studio portrait of an adult [model], chest-up, inside a white studio with bright walls, ceiling and cyclorama. Keep the body nearly frontal, shoulders lowered and relaxed, head turned only 10–15 degrees, eyes toward camera; hands remain below the collarbone and away from the face. Aim two or more flash heads away from the model and exclusively into the white walls and ceiling so the entire studio becomes one enormous indirect bounce surface; no direct source should point at the face. Place only one tall matte-black panel close to one side of the model to absorb part of the returning light from that direction and create a gentle facial gradient while keeping the opposite side very open. Use a 105mm lens, clean framing, realistic skin texture and broad subtle catchlights. No visible direct key, no pair of black flags, no split lighting, no hard shadows, no gray background caused by underexposure, no hands on face, text or logos. Vertical 4:5.
 ```
 
-**Restrição opcional:** `sweet spot circular no olho principal, queda de foco curva, sem plano tilt-shift reto, sem blur global, sem rosto duplicado`.
+**Restrição opcional:** `iluminação totalmente indireta, um único flag preto, gradiente suave, pele natural, sem fonte direta sobre o rosto`.
 
-**Por que funciona:** Ópticas Sweet usam um campo de foco curvo e permitem deslocar uma pequena ilha de nitidez pelo quadro. Isso produz uma transição radial de foco para blur que não equivale ao plano inclinado linear de uma tilt-shift nem a um filtro de difusão.
+**Por que funciona:** Quando flashes são rebatidos em múltiplas superfícies brancas, o volume inteiro do estúdio vira uma fonte aparente gigantesca e quase omnidirecional. Um único painel preto retira luz de apenas uma direção, acrescentando modelagem sem abandonar a suavidade extrema do setup indireto.
 
 ---
+## 108. Front projection retroreflexiva coaxial com fundo cinematográfico e silhueta limpa
 
-## 103. Zone Plate Obscura 50 mm com glow difrativo e pose gráfica imóvel
+**Uso:** moda cinematográfica, capa musical, retrato narrativo e composição in-camera com cenário impossível.
 
-**Uso:** fine art, retrato experimental, capa de álbum e editorial de estética pictórica.
-
-**Pose-chave:** modelo sentada e imóvel em perfil de três quartos, mãos apoiadas e separadas; rosto próximo ao centro para concentrar o detalhe disponível.
+**Pose-chave:** modelo em pé a um ou dois metros do fundo retroreflexivo, corpo em três quartos, um pé meio passo à frente e braços afastados da silhueta.
 
 ### Prompt em português
 
 ```text
-Retrato fine-art de estúdio de [modelo adulta] sentada e completamente imóvel diante de fundo preto com uma única forma luminosa clara atrás, composição de três quartos. Coluna longa, mãos apoiadas em níveis diferentes e completamente visíveis, rosto próximo ao centro do quadro e olhos dirigidos à câmera. Fotografe em tripé usando uma óptica camera obscura de aproximadamente 50 mm no modo zone plate, equivalente a uma abertura muito pequena, com exposição longa adequada e luz contínua intensa lateral-frontal. A zone plate deve produzir um núcleo central com detalhe suave e um glow difrativo progressivo, além de artefatos luminosos circulares sutis apenas ao redor da fonte brilhante do fundo. Preserve a silhueta, identidade e posição das mãos; aceite suavidade óptica real, mas não transforme a imagem em desfoque digital uniforme. Sem flare moderno anamórfico, sem star filter, sem bokeh convencional de abertura ampla, sem rosto borrado por movimento, sem múltiplas exposições, texto ou logotipos. Formato 4:5 vertical.
+Retrato editorial cinematográfico de [modelo adulta] em corpo inteiro diante de uma grande tela retroreflexiva cinza. Posicione a modelo a cerca de um a dois metros da tela, corpo em três quartos, um pé meio passo à frente, braços ligeiramente afastados do torso e rosto voltado para a câmera. Use front projection real: um projetor envia uma [paisagem, arquitetura ou textura fotográfica] para a tela por meio de um beam splitter semirrefletor a aproximadamente 45 graus, alinhando o eixo óptico do projetor quase coaxialmente com a lente da câmera. A tela retroreflexiva deve devolver a imagem projetada intensamente em direção à câmera, enquanto a própria modelo mascara sua sombra sobre o fundo; ilumine a pele separadamente com uma key lateral suave e bandeirada que não lave a projeção. Lente de 50–70 mm, câmera na altura do peito, fundo fotográfico nítido e perspectiva coerente. Sem green screen, sem projeção estampada sobre o rosto ou roupa, sem sombra escura deslocada no backdrop, sem dois horizontes, sem projector visível, texto ou logotipos. Formato 3:2 horizontal.
 ```
 
 ### Prompt em inglês
 
 ```text
-Fine-art studio portrait of an adult [model] seated completely still against a black background with one clear bright shape behind, in a three-quarter composition. Keep a long spine, hands resting at different levels and fully visible, face near the center of frame and eyes directed toward camera. Lock the camera on a tripod and use an approximately 50mm camera-obscura optic in zone-plate mode, equivalent to a very small aperture, with an appropriately long exposure and a strong continuous front-side light. The zone plate should create a central region of soft detail with progressively increasing diffractive glow, plus subtle circular light artifacts only around the bright background source. Preserve silhouette, identity and hand position; accept genuine optical softness without turning the image into uniform digital blur. No modern anamorphic flare, no star filter, no conventional wide-aperture bokeh, no motion-blurred face, no multiple exposure, text or logos. Vertical 4:5.
+Cinematic full-body editorial portrait of an adult [model] in front of a large gray retroreflective screen. Place the model roughly one to two meters from the screen, body in three-quarter view, one foot half a step forward, arms slightly separated from the torso and face toward camera. Use true front projection: a projector sends a [landscape, architectural plate or photographic texture] onto the screen through a semi-reflective beam splitter at roughly 45 degrees, placing the projector optical axis nearly coaxial with the camera lens. The retroreflective screen should return the projected plate strongly toward camera while the model naturally masks her own shadow on the background; light the skin separately with a soft flagged side key that does not wash out the projection. Use a 50–70mm lens, camera around chest height, with a sharp photographic background and coherent perspective. No green screen, no projected pattern printed across face or clothing, no displaced dark shadow on the backdrop, no double horizon, no visible projector, text or logos. Horizontal 3:2.
 ```
 
-**Restrição opcional:** `zone plate realista, modelo imóvel, detalhe central suave, glow difrativo localizado, sem blur digital uniforme e sem motion blur facial`.
+**Restrição opcional:** `projeção somente no fundo retroreflexivo, câmera e projetor coaxiais, pele limpa, sem green screen, sem sombra deslocada`.
 
-**Por que funciona:** Uma zone plate forma imagem por zonas concêntricas em vez de uma lente convencional. Ela oferece mais luz que um pinhole simples, mas introduz glow, flare e artefatos difrativos característicos, criando uma assinatura óptica distinta de filtros soft-focus e halation.
+**Por que funciona:** Materiais retroreflexivos devolvem grande parte da luz para perto da direção de onde ela veio. Ao alinhar projetor e câmera por um beam splitter, a placa projetada retorna fortemente à lente e o corpo da modelo oculta a própria sombra, permitindo um compósito fotográfico in-camera sem chroma key.
 
 ---
+## 109. Grade de difração em primeiro plano com réplicas espectrais e rosto central limpo
 
-## 104. Flash congelado com LED contínuo em meia exposição e gesto fantasma cromático
+**Uso:** capa musical, beauty futurista, editorial de joias, retrato tecnológico e campanha de nightlife.
 
-**Uso:** dança, moda, capa musical e retrato experimental com sujeito nítido cercado por movimento colorido.
-
-**Pose-chave:** rosto e tronco permanecem estáveis enquanto apenas um braço move tecido translúcido em arco durante a exposição.
+**Pose-chave:** rosto central e imóvel, ombros em diagonal, uma mão apresenta joia abaixo da clavícula; practicals ficam nas laterais e longe do rosto.
 
 ### Prompt em português
 
 ```text
-Retrato experimental de estúdio de [modelo adulta] em pé diante de fundo preto. Mantenha rosto, cabeça e tronco completamente estáveis; peso na perna traseira, uma mão baixa junto ao quadril e o outro braço segura [tecido translúcido ou manga leve] para executar um único arco lateral durante a exposição. Trabalhe com exposição de aproximadamente 1/2 segundo, duas fontes LED RGB contínuas coloridas posicionadas atrás e nas laterais para registrar o movimento do tecido como trilhas cromáticas suaves, e um flash curto frontal-lateral disparado uma única vez para congelar rosto, corpo e uma posição principal da mão. Lente 85 mm, câmera em tripé, fundo quase sem luz ambiente e flash dominante sobre a pele. O resultado deve mostrar uma única versão nítida da modelo envolvida por um halo de movimento colorido pertencente apenas ao tecido e ao braço em deslocamento. Sem vários rostos, sem corpo inteiro duplicado, sem ICM ou rotação da câmera, sem zoom burst, sem panning, sem trilhas atravessando olhos ou boca, texto ou logotipos. Formato 4:5 vertical.
+Retrato beauty futurista de estúdio de [modelo adulta] do busto para cima diante de fundo preto com quatro a seis pequenos practicals brancos pontuais posicionados nas bordas e vários metros atrás. Mantenha o rosto no centro óptico, olhos nítidos, ombros em diagonal e uma mão apresentando [joia ou acessório] abaixo da clavícula. Coloque uma pequena grade de difração transmissiva muito próxima da frente da lente e alinhe-a para que os practicals laterais gerem réplicas espectrais discretas de primeira ordem nas bordas do quadro, com o feixe de ordem zero e o rosto permanecendo visualmente limpos. Use uma key neutra suave e bandeirada sobre a pele; os efeitos coloridos devem nascer da difração dos pontos luminosos, não de géis, prisma ou projeção. Lente de 85 mm, abertura moderada, fundo preto e contraste alto. Sem arco-íris atravessando olhos ou boca, sem star filter, sem flare anamórfico, sem prisma triangular, sem bokeh colorido aleatório, sem rosto duplicado, texto ou logotipos. Formato 4:5 vertical.
 ```
 
 ### Prompt em inglês
 
 ```text
-Experimental studio portrait of an adult [model] standing against a black background. Keep the face, head and torso completely stable; weight on the rear leg, one hand low by the hip while the other arm holds a [translucent fabric or lightweight sleeve] and performs one lateral arc during the exposure. Use an exposure of roughly 1/2 second, two colored RGB continuous LED sources placed behind and to the sides to record the fabric motion as soft chromatic trails, and one short front-side flash fired once to freeze the face, body and one primary hand position. Use an 85mm lens, camera locked on a tripod, almost no uncontrolled ambient light and flash dominant on skin. The result should show one sharp version of the model wrapped by a halo of color movement belonging only to the fabric and moving arm. No multiple faces, no full-body duplication, no intentional camera movement or rotation, no zoom burst, no panning, no trails crossing eyes or mouth, text or logos. Vertical 4:5.
+Futuristic studio beauty portrait of an adult [model], bust-up, against a black background with four to six small white point practicals positioned near the edges and several meters behind. Keep the face on the optical center, eyes sharp, shoulders on a diagonal and one hand presenting a [jewel or accessory] below the collarbone. Place a small transmissive diffraction grating very close to the front of the lens and align it so the side practicals create restrained first-order spectral replicas near the frame edges while the zero-order beam and the face remain visually clean. Use a neutral soft flagged key on the skin; the colored effects must originate from diffraction of the point lights rather than gels, a prism or projection. Use an 85mm lens at a moderate aperture, black background and high contrast. No rainbow crossing eyes or mouth, no star filter, no anamorphic flare, no triangular prism, no random colored bokeh, no duplicated face, text or logos. Vertical 4:5.
 ```
 
-**Restrição opcional:** `uma única modelo nítida, trilhas só no tecido e braço móvel, câmera fixa, flash curto dominante, sem ghost facial`.
+**Restrição opcional:** `espectros somente nas bordas a partir de practicals, rosto central limpo, primeira ordem discreta, sem prisma e sem star filter`.
 
-**Por que funciona:** Combinar flash de curta duração com LED contínuo durante uma exposição longa permite separar dois tempos na mesma captura: o flash ancora uma versão nítida do sujeito e o LED registra apenas o movimento que continua durante o restante da exposição. Isso difere de ICM, panning e rear-curtain sync porque a câmera permanece fixa e o movimento é seletivo.
+**Por que funciona:** Uma grade de difração possui sulcos periódicos que enviam diferentes comprimentos de onda para ângulos diferentes, criando ordens espectrais ao redor da luz de ordem zero. Confinir fontes pontuais às bordas permite usar a dispersão como moldura óptica sem converter todo o retrato em um arco-íris decorativo.
 
 ---
+## 110. Pepper’s Ghost com objeto luminoso virtual e pose de perfil ancorada
 
-## 105. Contraluz duplo com braços elevados como rebatedores naturais do rosto
+**Uso:** retrato conceitual, fine art, capa de álbum, editorial teatral e campanha surreal in-camera.
 
-**Uso:** beauty experimental, moda escultórica, retrato de palco e editorial de alto contraste.
-
-**Pose-chave:** dois braços elevados em assimetria ao redor da cabeça, sem tocar o rosto, para interceptar e devolver parte do contraluz às bochechas.
+**Pose-chave:** modelo em perfil de três quartos no lado direito, uma mão aberta abaixo de um objeto virtual e a outra baixa, sem tocar o plano do vidro.
 
 ### Prompt em português
 
 ```text
-Retrato beauty experimental de estúdio de [modelo adulta] do peito para cima diante de fundo escuro. Posicione dois refletores padrão com honeycomb grids estreitos atrás da modelo, um de cada lado, apontando majoritariamente para fora do corpo e passando pela silhueta, de modo que apenas uma pequena fração atinja cabelo e bordas dos ombros diretamente. Direcione a pose com os dois braços elevados em assimetria ao redor da cabeça, cotovelos abertos e antebraços a 15–25 cm das bochechas, sem cobrir olhos, boca ou mandíbula; use mangas claras foscas ou pele exposta para que parte do contraluz seja refletida pelos antebraços de volta ao rosto. Preserve algum spill controlado para reforçar a sensação de contraluz dominante. Não adicione key frontal convencional; use apenas um cartão branco distante se necessário para impedir que os olhos desapareçam totalmente. Lente 85–105 mm, olhos nítidos, contorno luminoso forte e centro facial mais suave vindo do rebote dos próprios braços. Sem mãos fundidas à cabeça, sem luz frontal achatada, sem halos recortados artificiais, sem braços extras, sem dedos sobre os olhos, texto ou logotipos. Formato 4:5 vertical.
+Retrato conceitual de estúdio de [modelo adulta] em três quartos no lado direito do quadro, diante de um set físico escuro e simples. Corpo estável, rosto em perfil de três quartos voltado para o centro, uma mão aberta abaixo de onde aparecerá um [ramo de flores, escultura leve, véu ou objeto luminoso] e a outra baixa, deixando espaço negativo no lado esquerdo. Entre câmera e set, use uma grande placa de vidro ou acrílico óptico transparente posicionada a aproximadamente 45 graus. Fora do eixo da câmera, esconda em um compartimento preto o objeto real intensamente iluminado; sua reflexão no vidro deve aparecer no set como uma única imagem virtual semitransparente flutuando acima da mão, enquanto a cena principal continua visível por transmissão através da placa. Ilumine a modelo com uma key suave e controlada, mantendo o compartimento refletido totalmente preto. Lente de 70–85 mm, câmera fixa, reflexo virtual coerente em escala e perspectiva. Sem holograma volumétrico verdadeiro, sem dupla exposição, sem segundo rosto, sem vidro visível como painel central, sem objeto físico conectado à mão, sem reflexos múltiplos, texto ou logotipos. Formato 3:2 horizontal.
 ```
 
 ### Prompt em inglês
 
 ```text
-Experimental studio beauty portrait of an adult [model], chest-up, against a dark background. Place two standard reflectors with tight honeycomb grids behind the model, one on each side, aimed mostly past the body so only a small amount of direct light catches the hair and shoulder edges. Direct the pose with both arms raised asymmetrically around the head, elbows open and forearms 15–25 cm from the cheeks without covering the eyes, mouth or jaw; use matte light-colored sleeves or bare skin so some of the backlight striking the forearms reflects back onto the face. Preserve a controlled amount of scattered light to reinforce the impression of dominant backlighting. Do not add a conventional frontal key; use only a distant white card if absolutely needed to prevent the eyes from disappearing. Use an 85–105mm lens, sharp eyes, strong luminous contour and softer facial center created by bounce from the model's own arms. No hands fused into the head, no flat frontal light, no artificial cutout halos, no extra arms, no fingers over the eyes, text or logos. Vertical 4:5.
+Conceptual studio portrait of an adult [model] in three-quarter profile on the right side of frame, against a simple dark physical set. Keep the body stable, face in three-quarter profile toward center, one open hand below the location where a [flower branch, lightweight sculpture, veil or luminous object] will appear and the other hand low, leaving negative space on the left. Between camera and set, place a large clean glass or optical acrylic plate at roughly 45 degrees. Off the camera axis, hide the real brightly lit object inside a black chamber; its reflection in the transparent plate should appear within the main set as a single semi-transparent virtual image floating above the hand while the primary scene remains visible through the plate by transmission. Light the model with a controlled soft key and keep the reflected chamber completely black. Use a 70–85mm lens, locked camera and a virtual reflection with coherent scale and perspective. No true volumetric hologram, no double exposure, no second face, no glass panel visible as the central object, no physical object attached to the hand, no multiple reflections, text or logos. Horizontal 3:2.
 ```
 
-**Restrição opcional:** `duas luzes atrás passando pela silhueta, braços elevados refletindo luz no rosto, sem key frontal, anatomia limpa e olhos legíveis`.
+**Restrição opcional:** `uma única imagem virtual refletida, placa transparente a 45 graus, fundo do compartimento preto, sem dupla exposição e sem holograma falso volumétrico`.
 
-**Por que funciona:** A pose deixa de ser apenas estética e passa a integrar o desenho de luz: os antebraços interceptam fontes traseiras estreitas e devolvem uma fração da luz ao rosto. O resultado combina rim dominante e preenchimento indireto dependente da posição corporal, uma lógica diferente de refletores externos ou fill frontal.
+**Por que funciona:** Pepper’s Ghost combina transmissão da cena principal com reflexão parcial de um elemento luminoso fora de eixo em uma placa transparente inclinada. O observador percebe a reflexão como uma imagem virtual flutuante, um mecanismo óptico diferente de dupla exposição, projeção ou composição digital.
 
 ---

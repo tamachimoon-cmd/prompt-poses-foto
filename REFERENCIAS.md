@@ -1,6 +1,6 @@
 # Referências e Metodologia
 
-Pesquisa inicial realizada em **2 de agosto de 2026** e ampliada em **3, 4, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21 e 22 de agosto de 2026**. A curadoria prioriza documentação oficial de geração de imagens, materiais educacionais de fabricantes reconhecidos e literatura técnica/revisada por pares quando a técnica exige base óptica, espectral ou clínica.
+Pesquisa inicial realizada em **2 de agosto de 2026** e ampliada em **3, 4, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22 e 23 de agosto de 2026**. A curadoria prioriza documentação oficial de geração de imagens, materiais educacionais de fabricantes reconhecidos e literatura técnica/revisada por pares quando a técnica exige base óptica, espectral ou clínica.
 
 ## Critérios usados
 
@@ -28,12 +28,16 @@ Pesquisa inicial realizada em **2 de agosto de 2026** e ampliada em **3, 4, 6, 7
 - Campos de foco curvos e ilhas seletivas de nitidez não devem ser descritos como simples tilt-shift linear.
 - Zone plate, pinhole e pinhole sieve produzem imagem e artefatos por mecanismos ópticos/difrativos diferentes de filtros de difusão.
 - A pose pode integrar o próprio esquema de iluminação quando braços, mãos ou figurino interceptam e refletem fontes controladas.
+- Polarização cruzada pode ter funções distintas: suprimir reflexos especulares em pele ou revelar birrefringência e tensões em materiais transparentes.
+- Retroreflexão deve ser descrita como retorno da luz para perto da direção de incidência, não como reflexão especular comum.
+- Grades de difração separam comprimentos de onda por ângulo e devem ser distinguidas de prismas, filtros star e flare anamórfico.
+- Pepper’s Ghost é uma reflexão virtual em placa transparente, não um holograma volumétrico.
 
 ## Fontes principais
 
 ### Geração de imagem e prompts
 
-1. OpenAI Academy — Criando imagens com o ChatGPT, publicado em 10 de abril de 2026 e verificado em 22 de agosto de 2026  
+1. OpenAI Academy — Criando imagens com o ChatGPT, publicado em 10 de abril de 2026 e verificado em 23 de agosto de 2026  
    https://openai.com/pt-BR/academy/image-generation/
 
 2. OpenAI Help Center — Imagens no ChatGPT, verificado em agosto de 2026  
@@ -128,33 +132,51 @@ Pesquisa inicial realizada em **2 de agosto de 2026** e ampliada em **3, 4, 6, 7
 31. broncolor — How to use the Para for Portraiture  
     https://broncolor.swiss/news/how-to-use-the-para-for-portraiture
 
-## Atualização de 22 de agosto de 2026
-
-Foram adicionados cinco conceitos materialmente diferentes dos 100 anteriores:
-
-- **SA Control em 100 mm**, usando aberração esférica ajustável para produzir bubble bokeh sem recorrer a lente catadióptrica ou máscara de abertura;
-- **Sweet Spot 80 mm**, usando campo de foco curvo e ilha móvel de nitidez em vez de plano focal tilt-shift;
-- **Zone Plate Obscura**, usando formação de imagem difrativa com glow e artefatos próprios da camera obscura;
-- **flash + LED contínuo em exposição de 1/2 s**, separando sujeito congelado de movimento cromático seletivo com câmera fixa;
-- **contraluz refletido pelos próprios braços da modelo**, em que a pose participa fisicamente da iluminação do rosto.
-
-### Novas fontes verificadas em 22 de agosto de 2026
-
-32. Canon — RF Lens Technology / Spherical Aberration Control. Documenta o SA Control da RF100mm F2.8 L Macro IS USM, que permite alterar a aberração esférica, suavizar ou endurecer o bokeh e produzir soft focus ou bubble bokeh.  
+32. Canon — RF Lens Technology / Spherical Aberration Control  
     https://files.canon-europe.com/files/webcontent/rf-lens-world/features/technology/index.html?pop=pop16
 
-33. Lensbaby — Sweet Optics Guide / Sweet 80. Explica que as ópticas Sweet usam campo de foco curvo, com pequeno sweet spot de nitidez cujo tamanho e posição mudam com abertura e inclinação.  
+33. Lensbaby — Sweet Optics Guide / Sweet 80  
     https://lensbaby.com/blogs/creative-photography/step-by-step-sweet-optics-guide  
     https://lensbaby.com/products/sweet-80-optic
 
-34. Lensbaby — Photographic Art with Camera Obscura. Detalha pinhole, pinhole sieve e zone plate; a zone plate oferece glow mais pronunciado, detalhe sob o glow e artefatos específicos de luz.  
+34. Lensbaby — Photographic Art with Camera Obscura  
     https://lensbaby.com/blogs/creative-photography/new-camera-obscura
 
-35. Profoto — Setup 3: LEDs that flash, publicado em 24 de fevereiro de 2026. Jake Hicks combina flash e LED contínuo com exposição de 1/2 s para produzir sujeito congelado envolto por movimento cromático fantasma.  
+35. Profoto — Setup 3: LEDs that flash, publicado em 24 de fevereiro de 2026  
     https://www.profoto.com/be/de/still-photography/profoto-stories/4-photoshoots-with-the-new-profoto-l600c-led/setup-3-leds-that-flash/
 
-36. broncolor — How to: One face – six lights. No setup final, dois refletores com grids estreitos ficam atrás da modelo e iluminam majoritariamente além dela; ao elevar os braços, a luz refletida pelos braços alcança o rosto.  
+36. broncolor — How to: One face – six lights  
     https://broncolor.swiss/news/how-to-one-face-six-lights
+
+## Atualização de 23 de agosto de 2026
+
+Foram adicionados cinco conceitos materialmente diferentes dos 105 anteriores:
+
+- **birrefringência de tensão em acrílico entre polarizadores cruzados**, confinando bandas cromáticas ao prop transparente;
+- **iluminação totalmente indireta**, em que paredes e teto tornam o estúdio inteiro um rebatedor e um único painel preto devolve modelagem;
+- **front projection coaxial sobre tela retroreflexiva**, criando fundo fotográfico in-camera sem chroma key;
+- **grade de difração transmissiva em primeiro plano**, gerando réplicas espectrais controladas de fontes pontuais nas bordas;
+- **Pepper’s Ghost com objeto luminoso**, combinando transmissão da cena principal e reflexão virtual em placa transparente a 45°.
+
+### Novas fontes verificadas em 23 de agosto de 2026
+
+37. Oberlin College Physics — Stress Birefringence. Mostra que plásticos transparentes entre polarizadores cruzados exibem bandas coloridas associadas a anisotropias e tensões internas.  
+    https://www2.oberlin.edu/physics/catalog/demonstrations/optics/birefringence.html
+
+38. broncolor — How to: One face – six lights. Documenta a iluminação indireta em que praticamente todo o estúdio atua como refletor e o uso de uma superfície preta para absorver retorno de uma direção e recuperar tridimensionalidade.  
+    https://broncolor.swiss/zh/news/how-to-one-face-six-lights
+
+39. American Society of Cinematographers — Mobilizing Army of Darkness via Go-Animation. Descreve front projection com tela Scotchlite, beam-combiner e alinhamento dos eixos de projetor e câmera para que a projeção retrorefletida retorne à lente.  
+    https://theasc.com/articles/mobilizing-army-of-darkness-via-039-go-animation-039
+
+40. 3M — How Scotchlite Reflective Material Works. Explica que retroreflexão devolve os raios luminosos para a direção de origem e é mais brilhante para observadores próximos à fonte.  
+    https://www.3m.com/3M/en_US/scotchlite-reflective-material-us/industries-active-lifestyle/active-lifestyle/how-retroreflection-works/
+
+41. Edmund Optics — All About Diffraction Gratings. Explica que sulcos periódicos dividem a luz em múltiplos caminhos por difração e fazem diferentes comprimentos de onda propagarem em ângulos distintos.  
+    https://www.edmundoptics.com/Knowledge-Center/application-notes/optics/all-about-diffraction-gratings/
+
+42. Science World — Pepper’s Ghost: Hologram Illusion. Explica que uma imagem real ou gravada refletida por uma superfície transparente a 45° é percebida como imagem virtual com profundidade aparente; não é um holograma verdadeiro.  
+    https://www.scienceworld.ca/resource/peppers-ghost-hologram-illusion/
 
 ## Autoria
 
