@@ -1,6 +1,6 @@
-# 110 Prompts de Fotografia de Estúdio e Poses de Modelo
+# 115 Prompts de Fotografia de Estúdio e Poses de Modelo
 
-Catálogo principal consolidado. Os prompts 1–105 permanecem acessíveis pelo catálogo JSON, arquivos históricos ou revisões permanentes; os prompts 106–110 estão completos nesta página.
+Catálogo principal consolidado. Os prompts 1–110 permanecem acessíveis pelo catálogo JSON, arquivos históricos ou revisões permanentes; os prompts 111–115 estão completos nesta página.
 
 ## Índice consolidado
 
@@ -114,121 +114,128 @@ Catálogo principal consolidado. Os prompts 1–105 permanecem acessíveis pelo 
 108. Front projection retroreflexiva coaxial com fundo cinematográfico e silhueta limpa
 109. Grade de difração em primeiro plano com réplicas espectrais e rosto central limpo
 110. Pepper’s Ghost com objeto luminoso virtual e pose de perfil ancorada
+111. Moiré óptico intencional com duas malhas e rosto em zona limpa
+112. Shadowgraph de pluma térmica atrás da silhueta com key facial separada
+113. Túnel de espelhos paralelos com LEDs e pose axial em repetição infinita
+114. Camera obscura de estúdio com cenário externo invertido projetado sobre ciclorama
+115. Caleidoscópio de dois espelhos a 60° com seis setores e rosto primário limpo
 
 ---
 
-## 106. Birrefringência em acrílico cross-polarized com rosto neutro e prop cromático
+## 111. Moiré óptico intencional com duas malhas e rosto em zona limpa
 
-**Uso:** beauty experimental, acessórios, campanha de materiais transparentes, ciência-fashion e editorial tecnológico.
+**Uso:** editorial de moda, campanha têxtil, retrato gráfico, capa musical e visual experimental.
 
-**Pose-chave:** corpo em três quartos, placa ou objeto acrílico transparente ao lado do ombro, uma mão segura a borda inferior e a outra permanece baixa; rosto totalmente livre.
+**Pose-chave:** modelo em três quartos, ombros desencontrados, uma mão tensiona levemente a malha frontal na lateral e o rosto permanece em uma abertura lisa sem padrão.
 
 ### Prompt em português
 
 ```text
-Retrato editorial de estúdio de [modelo adulta] do busto para cima diante de fundo preto. Corpo em três quartos, rosto totalmente livre e voltado para a câmera; uma mão segura pela borda inferior um [disco, placa ou forma de acrílico transparente moldado] ao lado do ombro, sem colocá-lo diante dos olhos, nariz ou boca, e a outra mão permanece baixa. Ilumine o acrílico por trás com luz branca linearmente polarizada e fotografe através de um polarizador na lente girado aproximadamente 90 graus em relação à polarização da fonte, de modo que tensões internas do acrílico apareçam como bandas espectrais de birrefringência apenas dentro do material. Ilumine o rosto separadamente com uma softbox neutra e suave a 45 graus, controlando spill para que a pele permaneça natural e sem arco-íris. Lente de 85 mm, foco nos olhos e na borda frontal do acrílico, fundo preto limpo. Sem efeito rainbow sobre a pele, sem prisma no rosto, sem transparência atravessando a anatomia, sem mãos fundidas ao acrílico, sem duplicação facial, texto ou logotipos. Formato 4:5 vertical.
+Retrato editorial de estúdio de [modelo adulta] do joelho para cima diante de fundo neutro. Posicione uma primeira malha fina semitransparente a cerca de 40–60 cm diante da modelo e uma segunda malha ou painel listrado fino a 1–2 m atrás, com as duas grades giradas alguns graus entre si para gerar um padrão moiré visível apenas nas áreas onde se sobrepõem. Mantenha a modelo em três quartos, ombros em ângulos diferentes, uma mão segurando de leve a borda lateral da malha frontal e a outra abaixo da cintura; preserve uma abertura lisa ao redor do rosto, olhos e mãos. Ilumine com uma softbox lateral ampla e uma luz de fundo controlada para revelar textura sem estourar as linhas. Use lente de 70–85 mm, câmera perpendicular ao plano principal e foco nos olhos. O moiré deve ser geométrico, coerente e localizado no tecido e no fundo, não um artefato colorido do sensor. Sem padrão atravessando olhos ou boca, sem false color aleatório, sem duplicação de grade sobre a pele, sem mãos deformadas, texto ou logotipos. Formato 4:5 vertical.
 ```
 
 ### Prompt em inglês
 
 ```text
-Studio editorial portrait of an adult [model], bust-up, against a black background. Keep the body in three-quarter view and the face fully unobstructed toward camera; one hand holds the lower edge of a [clear molded acrylic disc, sheet or shape] beside the shoulder without placing it over the eyes, nose or mouth, while the other hand stays low. Backlight the acrylic with white linearly polarized light and shoot through a lens polarizer rotated roughly 90 degrees relative to the source polarization so internal stresses in the acrylic appear as spectral birefringence bands confined to the material. Light the face separately with a neutral softbox at 45 degrees, controlling spill so skin remains natural and free of rainbow coloration. Use an 85mm lens, with focus on the eyes and front edge of the acrylic, against a clean black background. No rainbow effect on skin, no prism across the face, no transparent object passing through anatomy, no hands fused into acrylic, no duplicated face, text or logos. Vertical 4:5.
+Studio editorial portrait of an adult [model], framed from the knees up against a neutral background. Place one fine semi-transparent mesh roughly 40–60 cm in front of the model and a second fine mesh or striped panel 1–2 m behind, rotating the two grids by a few degrees relative to one another so a visible moiré pattern appears only where the patterns overlap. Keep the model in three-quarter stance with staggered shoulders, one hand lightly holding the side edge of the front mesh and the other below the waist; preserve a clear pattern-free opening around the face, eyes and hands. Light with a broad side softbox and controlled background light to reveal texture without clipping the lines. Use a 70–85mm lens, camera perpendicular to the primary plane and focus on the eyes. The moiré should be geometric, coherent and confined to the fabric and background, not random sensor false color. No pattern across eyes or mouth, no random false color, no grid duplicated onto skin, no deformed hands, text or logos. Vertical 4:5.
 ```
 
-**Restrição opcional:** `cores de birrefringência somente no acrílico, pele neutra, rosto livre, polarização cruzada, sem arco-íris decorativo aleatório`.
+**Restrição opcional:** `moiré somente nas grades sobrepostas, rosto limpo, sem false color de sensor, sem padrão sobre olhos e boca, mãos anatômicas`.
 
-**Por que funciona:** Plásticos transparentes sob tensão podem tornar-se birrefringentes: entre polarizadores cruzados, diferenças de fase dependentes da tensão e do comprimento de onda aparecem como bandas coloridas. Separar a luz do rosto da luz polarizada do prop mantém o efeito físico localizado e distingue a técnica da cross-polarization usada apenas para suprimir brilho da pele.
+**Por que funciona:** Moiré surge quando padrões periódicos semelhantes se sobrepõem com pequena diferença de ângulo ou frequência. Usar duas malhas físicas transforma um artefato normalmente indesejado em recurso compositivo controlável e claramente diferente de gobo, projeção ou grade de difração.
 
 ---
-## 107. Estúdio inteiro como rebatedor com flag preto único e pose frontal respirada
 
-**Uso:** beauty naturalista, retrato premium, campanha de skincare, catálogo e editorial minimalista.
+## 112. Shadowgraph de pluma térmica atrás da silhueta com key facial separada
 
-**Pose-chave:** corpo quase frontal, peso distribuído, ombros baixos, mãos fora do rosto e cabeça girada poucos graus para o lado oposto ao flag.
+**Uso:** retrato científico, campanha tecnológica, fine art, capa conceitual e editorial de movimento invisível.
+
+**Pose-chave:** perfil de três quartos, corpo estável e braços afastados do tronco para deixar corredores de ar visíveis atrás da silhueta.
 
 ### Prompt em português
 
 ```text
-Retrato de estúdio de [modelo adulta] do peito para cima em um estúdio branco com paredes, teto e ciclorama claros. Corpo quase frontal, ombros baixos e relaxados, cabeça girada apenas 10–15 graus, olhar para a câmera; mãos permanecem abaixo da clavícula e fora da área facial. Aponte duas ou mais cabeças de flash para longe da modelo, exclusivamente para paredes e teto brancos, fazendo o estúdio inteiro funcionar como uma enorme superfície de rebote indireto; nenhuma fonte direta deve apontar para o rosto. Posicione apenas um painel preto alto e fosco próximo a um dos lados da modelo para absorver parte da luz que retorna daquela direção e criar um gradiente facial suave, mantendo o lado oposto muito aberto. Lente de 105 mm, enquadramento limpo, pele com textura real, catchlights amplos e discretos. Sem key direta visível, sem duas bandeiras pretas, sem split lighting, sem sombras duras, sem fundo cinza por subexposição, sem mãos no rosto, texto ou logotipos. Formato 4:5 vertical.
+Retrato conceitual de estúdio de [modelo adulta] em perfil de três quartos diante de uma grande tela branca uniforme. Mantenha a modelo em primeiro plano, imóvel, com braços ligeiramente afastados do torso e cabelo preso, deixando espaços negativos claros ao redor dos ombros. Atrás da modelo e a uma distância segura, gere apenas uma pluma de ar aquecido com equipamento oculto e direcionado para cima, sem fluxo quente tocando a pessoa. Use um arranjo shadowgraph com fonte pequena e intensa alinhada atrás da região da pluma e tela de recepção, de modo que variações de densidade do ar desviem a luz e apareçam como ondas e sombras fluidas no fundo. Ilumine o rosto separadamente com uma key suave e bandeirada que não destrua o shadowgraph. Lente de 85–105 mm, câmera fixa, foco nos olhos e silhueta limpa. Sem fumaça visível, sem fogo, sem vapor encostando na modelo, sem heat gun no quadro, sem efeito de haze genérico, sem duplicação corporal, texto ou logotipos. Formato 3:2 horizontal.
 ```
 
 ### Prompt em inglês
 
 ```text
-Studio portrait of an adult [model], chest-up, inside a white studio with bright walls, ceiling and cyclorama. Keep the body nearly frontal, shoulders lowered and relaxed, head turned only 10–15 degrees, eyes toward camera; hands remain below the collarbone and away from the face. Aim two or more flash heads away from the model and exclusively into the white walls and ceiling so the entire studio becomes one enormous indirect bounce surface; no direct source should point at the face. Place only one tall matte-black panel close to one side of the model to absorb part of the returning light from that direction and create a gentle facial gradient while keeping the opposite side very open. Use a 105mm lens, clean framing, realistic skin texture and broad subtle catchlights. No visible direct key, no pair of black flags, no split lighting, no hard shadows, no gray background caused by underexposure, no hands on face, text or logos. Vertical 4:5.
+Conceptual studio portrait of an adult [model] in three-quarter profile in front of a large uniform white screen. Keep the model in the foreground, still, with arms slightly separated from the torso and hair controlled, leaving clear negative spaces around the shoulders. Behind the model and at a safe distance, generate only an upward plume of warm air from concealed equipment, with no hot airflow touching the person. Use a shadowgraph arrangement with a small intense source aligned through the thermal plume toward the receiving screen so air-density variations bend the light and appear as fluid waves and shadows in the background. Light the face separately with a soft flagged key that does not wash out the shadowgraph. Use an 85–105mm lens, locked camera, focus on the eyes and a clean silhouette. No visible smoke, no flame, no vapor touching the model, no heat gun in frame, no generic haze effect, no duplicated body, text or logos. Horizontal 3:2.
 ```
 
-**Restrição opcional:** `iluminação totalmente indireta, um único flag preto, gradiente suave, pele natural, sem fonte direta sobre o rosto`.
+**Restrição opcional:** `pluma térmica somente atrás da modelo, nenhum calor tocando a pessoa, sem fumaça ou fogo, shadowgraph realista, rosto nítido`.
 
-**Por que funciona:** Quando flashes são rebatidos em múltiplas superfícies brancas, o volume inteiro do estúdio vira uma fonte aparente gigantesca e quase omnidirecional. Um único painel preto retira luz de apenas uma direção, acrescentando modelagem sem abandonar a suavidade extrema do setup indireto.
+**Por que funciona:** Shadowgraph torna visíveis gradientes de densidade porque eles refratam a luz e alteram a intensidade projetada na tela. Separar a pluma do retratado e usar outra fonte para o rosto preserva segurança, legibilidade facial e o caráter físico do efeito.
 
 ---
-## 108. Front projection retroreflexiva coaxial com fundo cinematográfico e silhueta limpa
 
-**Uso:** moda cinematográfica, capa musical, retrato narrativo e composição in-camera com cenário impossível.
+## 113. Túnel de espelhos paralelos com LEDs e pose axial em repetição infinita
 
-**Pose-chave:** modelo em pé a um ou dois metros do fundo retroreflexivo, corpo em três quartos, um pé meio passo à frente e braços afastados da silhueta.
+**Uso:** capa musical, moda futurista, retrato conceitual, campanha de tecnologia e fine art.
+
+**Pose-chave:** corpo inteiro central, pés em base estreita, braços baixos e simétricos, rosto frontal; modelo alinhada ao eixo do túnel.
 
 ### Prompt em português
 
 ```text
-Retrato editorial cinematográfico de [modelo adulta] em corpo inteiro diante de uma grande tela retroreflexiva cinza. Posicione a modelo a cerca de um a dois metros da tela, corpo em três quartos, um pé meio passo à frente, braços ligeiramente afastados do torso e rosto voltado para a câmera. Use front projection real: um projetor envia uma [paisagem, arquitetura ou textura fotográfica] para a tela por meio de um beam splitter semirrefletor a aproximadamente 45 graus, alinhando o eixo óptico do projetor quase coaxialmente com a lente da câmera. A tela retroreflexiva deve devolver a imagem projetada intensamente em direção à câmera, enquanto a própria modelo mascara sua sombra sobre o fundo; ilumine a pele separadamente com uma key lateral suave e bandeirada que não lave a projeção. Lente de 50–70 mm, câmera na altura do peito, fundo fotográfico nítido e perspectiva coerente. Sem green screen, sem projeção estampada sobre o rosto ou roupa, sem sombra escura deslocada no backdrop, sem dois horizontes, sem projector visível, texto ou logotipos. Formato 3:2 horizontal.
+Retrato de estúdio em corpo inteiro de [modelo adulta] dentro de um túnel de espelhos paralelos. Posicione um espelho traseiro plano e um painel frontal semirrefletor perfeitamente paralelos, com pequenas linhas de LED contínuas contornando o espelho traseiro. Coloque a modelo exatamente no eixo central, pés próximos, braços baixos sem encostar nos espelhos e rosto voltado para a câmera. Fotografe através da região semirrefletora frontal de modo que reflexões sucessivas dos LEDs e da silhueta diminuam progressivamente de tamanho e brilho, formando um corredor de repetição aparentemente infinito atrás da figura principal. Use uma key frontal muito suave e fraca, próxima ao eixo da câmera, apenas para preservar olhos e textura de pele sem eliminar o túnel. Lente de 50–70 mm, câmera nivelada, simetria rigorosa e linhas convergentes centradas. Sem cópias laterais aleatórias, sem caleidoscópio, sem Pepper’s Ghost, sem segundo corpo físico, sem espelhos inclinados, sem texto ou logotipos. Formato 2:3 vertical.
 ```
 
 ### Prompt em inglês
 
 ```text
-Cinematic full-body editorial portrait of an adult [model] in front of a large gray retroreflective screen. Place the model roughly one to two meters from the screen, body in three-quarter view, one foot half a step forward, arms slightly separated from the torso and face toward camera. Use true front projection: a projector sends a [landscape, architectural plate or photographic texture] onto the screen through a semi-reflective beam splitter at roughly 45 degrees, placing the projector optical axis nearly coaxial with the camera lens. The retroreflective screen should return the projected plate strongly toward camera while the model naturally masks her own shadow on the background; light the skin separately with a soft flagged side key that does not wash out the projection. Use a 50–70mm lens, camera around chest height, with a sharp photographic background and coherent perspective. No green screen, no projected pattern printed across face or clothing, no displaced dark shadow on the backdrop, no double horizon, no visible projector, text or logos. Horizontal 3:2.
+Full-body studio portrait of an adult [model] inside a parallel-mirror tunnel. Place one flat rear mirror and one front semi-reflective panel perfectly parallel to each other, with small continuous LED lines outlining the rear mirror. Position the model exactly on the central axis, feet close together, arms low without touching the mirrors and face toward camera. Shoot through the front semi-reflective region so successive reflections of the LEDs and silhouette become progressively smaller and dimmer, forming an apparently infinite corridor behind the primary figure. Use a very soft, low-power frontal key close to camera axis only to preserve eyes and skin texture without erasing the tunnel effect. Use a 50–70mm lens, level camera, strict symmetry and centered converging lines. No random side copies, no kaleidoscope, no Pepper’s Ghost, no second physical body, no tilted mirrors, text or logos. Vertical 2:3.
 ```
 
-**Restrição opcional:** `projeção somente no fundo retroreflexivo, câmera e projetor coaxiais, pele limpa, sem green screen, sem sombra deslocada`.
+**Restrição opcional:** `dois espelhos paralelos, repetições progressivamente menores e mais escuras, figura principal única, simetria central, sem caleidoscópio`.
 
-**Por que funciona:** Materiais retroreflexivos devolvem grande parte da luz para perto da direção de onde ela veio. Ao alinhar projetor e câmera por um beam splitter, a placa projetada retorna fortemente à lente e o corpo da modelo oculta a própria sombra, permitindo um compósito fotográfico in-camera sem chroma key.
+**Por que funciona:** Dois espelhos paralelos refletem repetidamente um ao outro; cada ciclo perde energia e cria imagens sucessivamente menores e menos luminosas. Isso produz um túnel de profundidade aparente, distinto de um único reflexo, Pepper’s Ghost ou múltiplas imagens por espelhos angulados.
 
 ---
-## 109. Grade de difração em primeiro plano com réplicas espectrais e rosto central limpo
 
-**Uso:** capa musical, beauty futurista, editorial de joias, retrato tecnológico e campanha de nightlife.
+## 114. Camera obscura de estúdio com cenário externo invertido projetado sobre ciclorama
 
-**Pose-chave:** rosto central e imóvel, ombros em diagonal, uma mão apresenta joia abaixo da clavícula; practicals ficam nas laterais e longe do rosto.
+**Uso:** fine art, moda conceitual, editorial arquitetônico, capa de álbum e retrato surreal in-camera.
+
+**Pose-chave:** modelo sentada de perfil suave em banco baixo, mãos apoiadas no colo e corpo imóvel dentro da zona projetada.
 
 ### Prompt em português
 
 ```text
-Retrato beauty futurista de estúdio de [modelo adulta] do busto para cima diante de fundo preto com quatro a seis pequenos practicals brancos pontuais posicionados nas bordas e vários metros atrás. Mantenha o rosto no centro óptico, olhos nítidos, ombros em diagonal e uma mão apresentando [joia ou acessório] abaixo da clavícula. Coloque uma pequena grade de difração transmissiva muito próxima da frente da lente e alinhe-a para que os practicals laterais gerem réplicas espectrais discretas de primeira ordem nas bordas do quadro, com o feixe de ordem zero e o rosto permanecendo visualmente limpos. Use uma key neutra suave e bandeirada sobre a pele; os efeitos coloridos devem nascer da difração dos pontos luminosos, não de géis, prisma ou projeção. Lente de 85 mm, abertura moderada, fundo preto e contraste alto. Sem arco-íris atravessando olhos ou boca, sem star filter, sem flare anamórfico, sem prisma triangular, sem bokeh colorido aleatório, sem rosto duplicado, texto ou logotipos. Formato 4:5 vertical.
+Retrato fine art de [modelo adulta] em um estúdio transformado em camera obscura. Escureça completamente o ambiente e permita que uma única lente ou abertura óptica em uma parede projete sobre um ciclorama branco a imagem real, invertida e de cabeça para baixo de uma [paisagem urbana, janela arquitetônica, árvores ou céu] intensamente iluminada do lado de fora. Posicione a modelo sentada em banco baixo dentro da área de projeção, em perfil suave, coluna alongada, mãos apoiadas no colo e corpo imóvel, deixando que partes da imagem óptica caiam sobre roupa e fundo enquanto o rosto recebe apenas uma pequena área mais clara e legível. Use câmera em tripé, lente de 50 mm, exposição longa moderada e foco no rosto. A projeção deve parecer óptica, invertida e contínua, sem pixels, sem projector digital e sem bordas de tela. Sem imagem externa em orientação normal, sem textura de vídeo, sem gobo, sem dupla exposição, sem movimento borrado do rosto, sem texto ou logotipos. Formato 3:2 horizontal.
 ```
 
 ### Prompt em inglês
 
 ```text
-Futuristic studio beauty portrait of an adult [model], bust-up, against a black background with four to six small white point practicals positioned near the edges and several meters behind. Keep the face on the optical center, eyes sharp, shoulders on a diagonal and one hand presenting a [jewel or accessory] below the collarbone. Place a small transmissive diffraction grating very close to the front of the lens and align it so the side practicals create restrained first-order spectral replicas near the frame edges while the zero-order beam and the face remain visually clean. Use a neutral soft flagged key on the skin; the colored effects must originate from diffraction of the point lights rather than gels, a prism or projection. Use an 85mm lens at a moderate aperture, black background and high contrast. No rainbow crossing eyes or mouth, no star filter, no anamorphic flare, no triangular prism, no random colored bokeh, no duplicated face, text or logos. Vertical 4:5.
+Fine-art portrait of an adult [model] inside a studio converted into a camera obscura. Darken the room completely and allow a single optical lens or aperture in one wall to project a real, upside-down inverted image of a brightly lit [urban view, architectural window, trees or sky] onto a white cyclorama. Seat the model on a low stool inside the projection area in a gentle profile, spine elongated, hands resting on the lap and body still, allowing parts of the optical image to fall across clothing and background while keeping a small brighter readable area on the face. Use a tripod-mounted camera, 50mm lens, moderately long exposure and focus on the face. The projection must look optical, inverted and continuous, with no pixels, no digital projector and no screen edges. No upright exterior image, no video texture, no gobo, no double exposure, no motion-blurred face, text or logos. Horizontal 3:2.
 ```
 
-**Restrição opcional:** `espectros somente nas bordas a partir de practicals, rosto central limpo, primeira ordem discreta, sem prisma e sem star filter`.
+**Restrição opcional:** `projeção óptica invertida por camera obscura, ambiente escuro, sem projector digital, sem pixels, rosto imóvel e legível`.
 
-**Por que funciona:** Uma grade de difração possui sulcos periódicos que enviam diferentes comprimentos de onda para ângulos diferentes, criando ordens espectrais ao redor da luz de ordem zero. Confinir fontes pontuais às bordas permite usar a dispersão como moldura óptica sem converter todo o retrato em um arco-íris decorativo.
+**Por que funciona:** Uma camera obscura projeta a cena externa através de uma pequena abertura ou lente, formando uma imagem invertida sobre a superfície oposta. Ao colocar a modelo dentro dessa projeção real, o cenário passa a iluminar e envolver o retrato sem usar projetor digital.
 
 ---
-## 110. Pepper’s Ghost com objeto luminoso virtual e pose de perfil ancorada
 
-**Uso:** retrato conceitual, fine art, capa de álbum, editorial teatral e campanha surreal in-camera.
+## 115. Caleidoscópio de dois espelhos a 60° com seis setores e rosto primário limpo
 
-**Pose-chave:** modelo em perfil de três quartos no lado direito, uma mão aberta abaixo de um objeto virtual e a outra baixa, sem tocar o plano do vidro.
+**Uso:** beauty gráfico, moda experimental, capa musical, joalheria e retrato de simetria controlada.
+
+**Pose-chave:** busto frontal no centro do ângulo dos espelhos, queixo neutro, mãos abaixo da clavícula e rosto principal alinhado ao vértice.
 
 ### Prompt em português
 
 ```text
-Retrato conceitual de estúdio de [modelo adulta] em três quartos no lado direito do quadro, diante de um set físico escuro e simples. Corpo estável, rosto em perfil de três quartos voltado para o centro, uma mão aberta abaixo de onde aparecerá um [ramo de flores, escultura leve, véu ou objeto luminoso] e a outra baixa, deixando espaço negativo no lado esquerdo. Entre câmera e set, use uma grande placa de vidro ou acrílico óptico transparente posicionada a aproximadamente 45 graus. Fora do eixo da câmera, esconda em um compartimento preto o objeto real intensamente iluminado; sua reflexão no vidro deve aparecer no set como uma única imagem virtual semitransparente flutuando acima da mão, enquanto a cena principal continua visível por transmissão através da placa. Ilumine a modelo com uma key suave e controlada, mantendo o compartimento refletido totalmente preto. Lente de 70–85 mm, câmera fixa, reflexo virtual coerente em escala e perspectiva. Sem holograma volumétrico verdadeiro, sem dupla exposição, sem segundo rosto, sem vidro visível como painel central, sem objeto físico conectado à mão, sem reflexos múltiplos, texto ou logotipos. Formato 3:2 horizontal.
+Retrato beauty gráfico de estúdio de [modelo adulta] diante de fundo preto, fotografado através de um arranjo caleidoscópico com dois espelhos front-surface formando exatamente 60 graus. Mantenha o busto frontal alinhado ao vértice, queixo neutro, olhos na câmera e mãos abaixo da clavícula. Ajuste os espelhos para produzir uma composição radial de aproximadamente seis setores coerentes, em que o rosto principal permaneça central e as reflexões sejam cópias simétricas previsíveis, não rostos diferentes. Ilumine a modelo com uma beauty light suave e central e use pequenos highlights em joias ou maquiagem para gerar ritmo nas repetições. Lente de 85 mm posicionada no eixo do conjunto, foco no rosto primário e fundo preto profundo. Sem túnel infinito, sem espelhos paralelos, sem dezenas de cópias aleatórias, sem assimetria facial entre reflexos, sem olhos extras dentro do rosto principal, sem texto ou logotipos. Formato 1:1.
 ```
 
 ### Prompt em inglês
 
 ```text
-Conceptual studio portrait of an adult [model] in three-quarter profile on the right side of frame, against a simple dark physical set. Keep the body stable, face in three-quarter profile toward center, one open hand below the location where a [flower branch, lightweight sculpture, veil or luminous object] will appear and the other hand low, leaving negative space on the left. Between camera and set, place a large clean glass or optical acrylic plate at roughly 45 degrees. Off the camera axis, hide the real brightly lit object inside a black chamber; its reflection in the transparent plate should appear within the main set as a single semi-transparent virtual image floating above the hand while the primary scene remains visible through the plate by transmission. Light the model with a controlled soft key and keep the reflected chamber completely black. Use a 70–85mm lens, locked camera and a virtual reflection with coherent scale and perspective. No true volumetric hologram, no double exposure, no second face, no glass panel visible as the central object, no physical object attached to the hand, no multiple reflections, text or logos. Horizontal 3:2.
+Graphic studio beauty portrait of an adult [model] against a black background, photographed through a kaleidoscopic arrangement of two front-surface mirrors meeting at exactly 60 degrees. Keep the bust frontal and aligned to the mirror vertex, chin neutral, eyes toward camera and hands below the collarbone. Adjust the mirrors to create an approximately six-sector radial composition in which the primary face remains central and the reflected images are predictable symmetrical copies rather than different faces. Light the model with a soft central beauty source and use small highlights on jewelry or makeup to create rhythm across the repetitions. Use an 85mm lens on the optical axis of the mirror set, focus on the primary face and keep the background deep black. No infinite tunnel, no parallel mirrors, no dozens of random copies, no facial asymmetry between reflections, no extra eyes inside the primary face, text or logos. Square 1:1.
 ```
 
-**Restrição opcional:** `uma única imagem virtual refletida, placa transparente a 45 graus, fundo do compartimento preto, sem dupla exposição e sem holograma falso volumétrico`.
+**Restrição opcional:** `dois espelhos a 60 graus, cerca de seis setores simétricos, rosto principal único e limpo, sem túnel infinito, sem cópias aleatórias`.
 
-**Por que funciona:** Pepper’s Ghost combina transmissão da cena principal com reflexão parcial de um elemento luminoso fora de eixo em uma placa transparente inclinada. O observador percebe a reflexão como uma imagem virtual flutuante, um mecanismo óptico diferente de dupla exposição, projeção ou composição digital.
-
----
+**Por que funciona:** Espelhos angulados multiplicam a imagem por reflexões sucessivas; a 60 graus, a geometria favorece uma divisão radial de seis setores. A técnica é diferente do túnel de espelhos paralelos porque produz simetria angular finita, não profundidade infinita.
