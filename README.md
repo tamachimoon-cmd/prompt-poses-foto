@@ -1,14 +1,15 @@
 # Prompt Poses Foto
 
-Coleção curada de **115 prompts reutilizáveis para fotografia de estúdio com modelos adultos**, cobrindo retrato beauty, editorial, corpo inteiro, movimento, iluminação clássica e experimental, modificadores ópticos, composição, direção de pose, captura em espectros alternativos e linguagem de lentes.
+Coleção curada de **120 prompts reutilizáveis para fotografia de estúdio com modelos adultos**, cobrindo retrato beauty, editorial, corpo inteiro, movimento, iluminação clássica e experimental, modificadores ópticos, composição, direção de pose, captura em espectros alternativos e linguagem de lentes.
 
 Os prompts seguem uma estrutura consistente: finalidade, modelo e figurino, pose, enquadramento, iluminação, lente, textura, fundo e restrições anatômicas.
 
 ## Conteúdo
 
-- [`PROMPTS.md`](PROMPTS.md): índice consolidado e conteúdo integral dos prompts 111–115.
-- [`prompts.json`](prompts.json): catálogo estruturado com IDs 1–115 e conteúdo integral dos cinco prompts mais recentes.
-- [`prompts/archive-through-110.json`](prompts/archive-through-110.json): cópia exata do catálogo detalhado anterior, preservando os dados estruturados dos prompts 106–110 sem depender apenas do histórico de commits.
+- [`PROMPTS.md`](PROMPTS.md): índice consolidado e conteúdo integral dos prompts 116–120.
+- [`prompts.json`](prompts.json): catálogo estruturado com IDs 1–120 e conteúdo integral dos cinco prompts mais recentes.
+- [`prompts/archive-through-115.json`](prompts/archive-through-115.json): cópia exata do catálogo detalhado anterior, preservando os dados estruturados dos prompts 111–115 sem depender apenas do histórico de commits.
+- [`prompts/archive-through-110.json`](prompts/archive-through-110.json): arquivo histórico anterior.
 - [`prompts/archive-through-105.json`](prompts/archive-through-105.json): arquivo histórico anterior.
 - [`prompts/archive-through-100.json`](prompts/archive-through-100.json): arquivo histórico anterior.
 - [`prompts/2026-08-03.md`](prompts/2026-08-03.md): prompts 11–15.
@@ -16,15 +17,15 @@ Os prompts seguem uma estrutura consistente: finalidade, modelo e figurino, pose
 - [`prompts/2026-08-07.md`](prompts/2026-08-07.md): prompts 26–30.
 - [`REFERENCIAS.md`](REFERENCIAS.md): metodologia e fontes consultadas.
 
-Os IDs e títulos anteriores permanecem no catálogo principal. Os detalhes estruturados do catálogo anterior até o ID 110 também são preservados no arquivo de histórico permanente acima; os cinco prompts mais recentes ficam incorporados integralmente em `PROMPTS.md` e `prompts.json`.
+Os IDs e títulos anteriores permanecem no catálogo principal. Os detalhes estruturados do catálogo anterior até o ID 115 também são preservados no arquivo de histórico permanente acima; os cinco prompts mais recentes ficam incorporados integralmente em `PROMPTS.md` e `prompts.json`.
 
 ## Novos estilos adicionados
 
-111. Moiré óptico intencional com duas malhas e rosto em zona limpa
-112. Shadowgraph de pluma térmica atrás da silhueta com key facial separada
-113. Túnel de espelhos paralelos com LEDs e pose axial em repetição infinita
-114. Camera obscura de estúdio com cenário externo invertido projetado sobre ciclorama
-115. Caleidoscópio de dois espelhos a 60° com seis setores e rosto primário limpo
+116. Slit-scan temporal com passo lateral e silhueta sequencial
+117. Bullet-time em arco multicâmera com salto congelado e parallax de três vistas
+118. Painel Fresnel em primeiro plano com magnificação parcial e anéis ópticos
+119. Dicróico a 45° com retrato transmitido neutro e reflexo cromático lateral
+120. Matriz lenticular em primeiro plano com segmentação direcional e rosto central limpo
 
 ## Fórmula-base
 
@@ -37,10 +38,10 @@ Os IDs e títulos anteriores permanecem no catálogo principal. Os detalhes estr
 ## Notas práticas
 
 - Descreva função, posição, direção, tamanho aparente e percurso da luz.
-- Em padrões repetitivos, diferencie moiré físico intencional de false color ou aliasing do sensor.
-- Em shadowgraph, mantenha a fonte da variação de densidade separada da pessoa e descreva o sistema óptico, não apenas “ondas no ar”.
-- Em múltiplas reflexões, diferencie espelhos paralelos, que criam profundidade aparente, de espelhos angulados, que criam simetria radial.
-- Em camera obscura, especifique que a cena é uma projeção óptica invertida, sem projetor digital.
+- Em técnicas temporais, diferencie amostragem linha a linha, exposição contínua e captura multicâmera sincronizada.
+- Em efeitos de primeiro plano, delimite explicitamente qual região pode sofrer distorção e qual deve permanecer anatômica.
+- Em filtros espectrais, descreva transmissão e reflexão como caminhos distintos; cor não precisa ser simulada como gel.
+- Em matrizes ópticas, informe o eixo das lentículas ou sulcos para evitar multiplicação aleatória.
 - Prefira olhos nítidos quando o rosto estiver no quadro e mãos com função clara.
 - Configurações de câmera funcionam como vocabulário visual; não garantem simulação física exata.
 - Respeite consentimento, direitos de imagem e regras da plataforma.

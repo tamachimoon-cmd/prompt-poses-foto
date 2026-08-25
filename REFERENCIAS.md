@@ -1,6 +1,6 @@
 # Referências e Metodologia
 
-Pesquisa inicial realizada em **2 de agosto de 2026** e ampliada em **3, 4, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23 e 24 de agosto de 2026**. A curadoria prioriza documentação oficial de geração de imagens, materiais educacionais de fabricantes reconhecidos, museus de ciência, instituições acadêmicas e literatura técnica quando a técnica exige base óptica ou espectral.
+Pesquisa inicial realizada em **2 de agosto de 2026** e ampliada em **3, 4, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24 e 25 de agosto de 2026**. A curadoria prioriza documentação oficial de geração de imagens, materiais educacionais de fabricantes reconhecidos, instituições acadêmicas, museus de ciência e literatura técnica quando a técnica exige base óptica, temporal ou espectral.
 
 ## Critérios usados
 
@@ -28,6 +28,10 @@ Pesquisa inicial realizada em **2 de agosto de 2026** e ampliada em **3, 4, 6, 7
 - Shadowgraph e schlieren dependem de variações de índice de refração associadas a gradientes de densidade.
 - Espelhos paralelos geram sequências de reflexões em profundidade; espelhos angulados geram multiplicação radial previsível.
 - Camera obscura projeta uma cena óptica invertida e não deve ser confundida com projeção digital.
+- Slit-scan transforma tempo em espaço por amostragem sucessiva; não é sinônimo de motion blur.
+- Bullet-time exige múltiplos pontos de vista sincronizados do mesmo instante e parallax coerente.
+- Fresnel e matrizes lenticulares devem ser descritas pelo mecanismo refrativo e pelo eixo da estrutura óptica.
+- Filtros dicróicos separam bandas espectrais por transmissão e reflexão, não por absorção como géis comuns.
 - Em setups que envolvem calor, UV ou equipamentos especiais, a segurança física do modelo vem antes do efeito visual.
 
 ## Fontes principais
@@ -123,41 +127,59 @@ Pesquisa inicial realizada em **2 de agosto de 2026** e ampliada em **3, 4, 6, 7
 29. Science World — Pepper’s Ghost: Hologram Illusion  
     https://www.scienceworld.ca/resource/peppers-ghost-hologram-illusion/
 
-## Atualização de 24 de agosto de 2026
-
-Foram adicionados cinco conceitos materialmente diferentes dos 110 anteriores:
-
-- **moiré óptico intencional por sobreposição de duas malhas físicas**, com rosto preservado em área sem padrão;
-- **shadowgraph de pluma térmica**, mantendo a fonte de calor atrás e longe da modelo;
-- **túnel de espelhos paralelos com LEDs**, produzindo uma sequência de reflexões progressivamente menores;
-- **camera obscura de estúdio**, usando projeção óptica invertida de uma cena externa, sem projetor digital;
-- **caleidoscópio de dois espelhos a 60°**, produzindo simetria radial finita e previsível.
-
-### Novas fontes verificadas em 24 de agosto de 2026
-
-30. Nikon USA — Moiré & False Color. Explica que moiré surge da interação entre padrões periódicos e que pequenas mudanças de ângulo, distância, foco ou lente alteram o padrão.  
+30. Nikon USA — Moiré & False Color  
     https://www.nikonusa.com/learn-and-explore/c/products-and-innovation/moire-false-color
 
-31. NASA Technical Reports Server — Development of Background-Oriented Schlieren for NASA. Documenta shadowgraph/BOS de plumas térmicas e uso de fontes pulsadas para visualizar gradientes de densidade.  
+31. NASA Technical Reports Server — Development of Background-Oriented Schlieren for NASA  
     https://ntrs.nasa.gov/api/citations/20160005918/downloads/20160005918.pdf?attachment=true
 
-32. NASA — SP-4302. Descreve shadowgraph e schlieren como técnicas ópticas que tornam visíveis variações de densidade por desvio de um feixe de luz.  
+32. NASA — SP-4302  
     https://www.nasa.gov/wp-content/uploads/2023/03/sp-4302.pdf
 
-33. Exploratorium — Look Into Infinity. Demonstra que dois espelhos frente a frente produzem uma sequência de reflexões que diminui progressivamente em brilho e tamanho aparente.  
+33. Exploratorium — Look Into Infinity  
     https://annex.exploratorium.edu/xref/exhibits/look_into_infinity.html
 
-34. Science World — Multiple Images. Explica como o número e a organização das reflexões dependem do ângulo entre os espelhos e distingue espelhos angulados de paralelos.  
+34. Science World — Multiple Images  
     https://www.scienceworld.ca/resource/multiple-images/
 
-35. Science World — Kaleidoscope Investigation. Mostra a multiplicação radial por múltiplas reflexões e a relação entre o ângulo dos espelhos e a quantidade de imagens.  
+35. Science World — Kaleidoscope Investigation  
     https://www.scienceworld.ca/resource/kaleidoscope-investigation/
 
-36. The Metropolitan Museum of Art — Daguerre and the Invention of Photography. Descreve a camera obscura como caixa com lente que projeta uma imagem sobre vidro fosco.  
+36. The Metropolitan Museum of Art — Daguerre and the Invention of Photography  
     https://www.metmuseum.org/pt/essays/daguerre-1787-1851-and-the-invention-of-photography
 
-37. The Metropolitan Museum of Art — Vera Lutter, Pepsi Cola Interior II. Documenta uma câmera obscura em escala de ambiente e o uso de uma abertura para projetar a cena externa.  
+37. The Metropolitan Museum of Art — Vera Lutter, Pepsi Cola Interior II  
     https://www.metmuseum.org/art/collection/search/284754
+
+## Atualização de 25 de agosto de 2026
+
+Foram adicionados cinco conceitos materialmente diferentes dos 115 anteriores:
+
+- **slit-scan temporal**, em que uma faixa estreita é amostrada sucessivamente e o movimento vira deformação espacial;
+- **bullet-time multicâmera**, preservando exatamente o mesmo instante enquanto o ponto de vista muda e o parallax comprova a variação angular;
+- **painel Fresnel em primeiro plano**, usando magnificação e distorção refrativa apenas em parte do rosto;
+- **filtro dicróico a 45°**, separando transmissão neutra e reflexão cromática por caminhos espectrais diferentes;
+- **matriz lenticular parcial**, produzindo segmentação direcional em um único eixo enquanto o rosto permanece limpo.
+
+### Novas fontes verificadas em 25 de agosto de 2026
+
+38. Rochester Institute of Technology — Andrew Davidhazy, *Slit-scan photography*. Relatório técnico sobre câmeras de varredura por fenda, distorção temporal e relação entre movimento e registro linha a linha.  
+    https://repository.rit.edu/article/214/
+
+39. Blackmagic Design — produção em bullet-time com 60 iPhone 17 Pro sincronizados, publicado em 19 de janeiro de 2026. Demonstra congelamento de um instante enquanto o ponto de vista percorre um arco de câmeras.  
+    https://www.blackmagicdesign.com/pt/media/release/20260119-01
+
+40. Edmund Optics — Advantages of Fresnel Lenses. Explica os sulcos concêntricos refrativos, magnificação e as distorções próprias de lentes Fresnel.  
+    https://www.edmundoptics.com/knowledge-center/application-notes/optics/advantages-of-fresnel-lenses/
+
+41. Edmund Optics — Optical Filters. Documenta filtros dicróicos, transmissão de uma faixa espectral, reflexão de outra e dependência angular.  
+    https://www.edmundoptics.com/knowledge-center/application-notes/optics/optical-filters/
+
+42. Edmund Optics — Lenticular Arrays. Descreve matrizes de lentes cilíndricas que dividem, focam e difundem raios em um eixo preferencial, incluindo aplicações em fotografia estereoscópica.  
+    https://www.edmundoptics.com/f/lenticular-arrays/12445/
+
+43. OpenAI Academy — Criando imagens com o ChatGPT, publicado em 10 de abril de 2026. Recomenda instruções claras sobre propósito, sujeito, ação, composição, iluminação, relações espaciais e restrições.  
+    https://openai.com/pt-BR/academy/image-generation/
 
 ## Autoria
 
