@@ -1,6 +1,6 @@
-# 120 Prompts de Fotografia de Estúdio e Poses de Modelo
+# 125 Prompts de Fotografia de Estúdio e Poses de Modelo
 
-Catálogo principal consolidado. Os prompts 1–115 permanecem acessíveis pelo catálogo JSON, arquivos históricos ou revisões permanentes; os prompts 116–120 estão completos nesta página.
+Catálogo principal consolidado. Os prompts 1–120 permanecem acessíveis pelo catálogo JSON, arquivos históricos ou revisões permanentes; os prompts 121–125 estão completos nesta página.
 
 ## Índice consolidado
 
@@ -124,123 +124,130 @@ Catálogo principal consolidado. Os prompts 1–115 permanecem acessíveis pelo 
 118. Painel Fresnel em primeiro plano com magnificação parcial e anéis ópticos
 119. Dicróico a 45° com retrato transmitido neutro e reflexo cromático lateral
 120. Matriz lenticular em primeiro plano com segmentação direcional e rosto central limpo
+121. High-key branco sobre branco com plexiglass refletivo e catchlight inferior
+122. Perspex pulverizado em primeiro plano com véu óptico parcial e rosto preservado
+123. Panorama por shift lateral com modelo imóvel e três quadros sem rotação
+124. Perspectiva forçada com prop monumental em primeiro plano e modelo recuada
+125. Top shot em piscina rasa de plexiglass com luz roteada por espelho e refração de superfície
 
 ---
 
-## 116. Slit-scan temporal com passo lateral e silhueta sequencial
+## 121. High-key branco sobre branco com plexiglass refletivo e catchlight inferior
 
-**Uso:** editorial experimental, moda conceitual, capa musical e retrato sobre passagem do tempo.
+**Uso:** beauty clean, catálogo de moda branca, campanha cosmética, retrato high-key e editorial minimalista.
 
-**Pose-chave:** modelo cruza lateralmente uma fenda vertical com um passo lento; cabeça mais estável, braço traseiro e tecido executam movimento contínuo para gerar deformação temporal controlada.
+**Pose-chave:** modelo adulta sentada de três quartos sobre placa de plexiglass branco, coluna alongada, joelhos orientados em diagonal, uma mão apoiada suavemente sobre a coxa e a outra próxima da clavícula; rosto girado para a câmera sem encostar os braços ao tronco.
 
 ### Prompt em português
 
 ```text
-Retrato editorial experimental de estúdio de [modelo adulta] usando técnica slit-scan temporal realista. Coloque uma fenda vertical estreita entre câmera e modelo e registre a cena linha a linha ao longo do tempo enquanto a modelo atravessa lateralmente a fenda em um passo lento e contínuo. Mantenha cabeça e olhar relativamente estáveis durante a passagem do rosto, mas permita que o braço traseiro e uma peça de tecido longa se movam de forma contínua para criar alongamentos e compressões sequenciais no eixo horizontal. Fundo preto uniforme, uma stripbox vertical suave alinhada ao plano da fenda e luz de recorte fraca atrás da modelo. Câmera fixa em tripé, perspectiva equivalente a 50–70 mm, exposição temporal coerente com varredura; o resultado deve parecer construído por amostragem sucessiva no tempo, não por motion blur comum. Preserve um único rosto legível e anatomia reconhecível na região central. Sem múltiplos rostos completos, sem panning, sem zoom burst, sem dupla exposição, sem glitch digital, sem texto ou logotipos. Formato 3:2 horizontal.
+Retrato editorial high-key de estúdio de [modelo adulta] vestindo figurino branco sobre fundo seamless branco puro. Sente a modelo em uma placa de plexiglass branco brilhante para criar uma reflexão limpa e controlada abaixo do corpo. Pose de três quartos, coluna alongada, joelhos em diagonal, uma mão descansando sobre a coxa e a outra próxima da clavícula, cotovelos ligeiramente afastados do tronco. Ilumine o fundo separadamente com duas fontes simétricas até branco quase puro, evitando que essa luz envolva o rosto. Use uma fonte principal grande e brilhante acima e à frente da modelo, com grid para limitar spill. Abaixo do plexiglass, coloque uma fonte pequena direcionada para cima apenas o suficiente para gerar um catchlight inferior discreto e definir queixo e olhos sem aparência de horror. Lente 85–105 mm, câmera na altura dos olhos, f/5.6–f/8, textura real de pele, separação tonal visível entre roupa branca, pele, plexiglass e fundo. Sem recorte estourado nas bordas do corpo, sem fundo cinza, sem sombras sujas, sem reflexos duplicados, sem pele plastificada, sem texto ou logotipos. Formato 4:5 vertical.
 ```
 
 ### Prompt em inglês
 
 ```text
-Experimental studio editorial portrait of an adult [model] using a realistic temporal slit-scan technique. Place a narrow vertical slit between camera and model and record the scene line by line over time while the model moves laterally across the slit in one slow continuous step. Keep the head and gaze relatively stable while the face passes the slit, but let the rear arm and a long piece of fabric move continuously to create sequential stretching and compression along the horizontal axis. Use a uniform black background, a soft vertical stripbox aligned with the slit plane and a weak rear rim light. Lock the camera on a tripod with a 50–70mm-equivalent perspective and temporal exposure consistent with scanning; the result must look built from successive samples in time rather than ordinary motion blur. Preserve one readable face and recognizable anatomy near the center. No multiple complete faces, no panning, no zoom burst, no double exposure, no digital glitch, text or logos. Horizontal 3:2.
+High-key studio editorial portrait of an adult [model] wearing white clothing against a pure white seamless background. Seat the model on a glossy white plexiglass sheet to create a clean controlled reflection beneath the body. Use a three-quarter pose with elongated posture, knees angled diagonally, one hand resting on the thigh and the other near the collarbone, elbows slightly separated from the torso. Light the background independently with two symmetrical sources until it is nearly pure white while preventing that light from wrapping onto the face. Use one large brilliant key above and in front of the model with a grid to control spill. Place a small source underneath the plexiglass aimed upward only enough to create a subtle lower catchlight and define chin and eyes without a horror-lighting look. Use an 85–105mm lens at eye level around f/5.6–f/8, retaining real skin texture and visible tonal separation between white clothing, skin, plexiglass and background. No blown body edges, gray background, dirty shadows, duplicated reflections, plastic skin, text or logos. Vertical 4:5.
 ```
 
-**Restrição opcional:** `slit-scan temporal linha a linha, um rosto principal legível, sem motion blur genérico, sem panning, sem múltiplos rostos completos, sem glitch digital`.
+**Restrição opcional:** `white-on-white high-key controlado, reflexão única no plexiglass, separação tonal preservada, sem clipping nas bordas, sem fundo cinza, sem pele plastificada, sem sombras inferiores dramáticas`.
 
-**Por que funciona:** slit-scan registra uma faixa estreita da cena a cada instante e transforma movimento no tempo em deslocamento espacial. Isso cria deformação temporal real, diferente de panning, longa exposição ou múltipla exposição.
+**Por que funciona:** Separar a exposição do fundo da luz da modelo permite branco absoluto sem perder contorno. O plexiglass acrescenta reflexão especular e uma fonte inferior pode criar catchlight controlado sem transformar a iluminação principal em underlight.
 
 ---
 
-## 117. Bullet-time em arco multicâmera com salto congelado e parallax de três vistas
+## 122. Perspex pulverizado em primeiro plano com véu óptico parcial e rosto preservado
 
-**Uso:** moda esportiva, dança, campanha de tênis, capa musical e editorial cinematográfico.
+**Uso:** beauty editorial, retrato de moda etéreo, capa musical, campanha de perfume e fotografia conceitual.
 
-**Pose-chave:** salto congelado com joelho frontal dobrado, perna traseira estendida e braços em diagonal; a mesma pose é vista de três ângulos do mesmo arco de câmeras.
+**Pose-chave:** modelo adulta em busto de três quartos atrás de uma placa transparente pulverizada; ombro frontal baixo, queixo levemente elevado, uma mão encostada na própria clavícula e o rosto posicionado em uma pequena janela limpa da placa.
 
 ### Prompt em português
 
 ```text
-Tríptico fotográfico de estúdio mostrando exatamente o mesmo instante de [modelo adulta] em salto, capturado por um arco multicâmera sincronizado com estética bullet-time. A pose deve permanecer idêntica nos três painéis: joelho frontal dobrado, perna traseira estendida, tronco levemente torsionado, braços formando uma diagonal limpa e tecido suspenso no ar. Mostre três pontos de vista consecutivos do mesmo arco, aproximadamente -30°, 0° e +30°, com parallax coerente entre modelo, um pedestal baixo e duas barras verticais no fundo. A iluminação permanece constante em todas as câmeras: duas softboxes laterais grandes e simétricas e uma fonte zenital suave. Perspectiva equivalente a 50 mm, obturador visualmente rápido e fundo cinza contínuo. Corpo, figurino, expressão e posição do tecido devem ser exatamente os mesmos; apenas o ponto de vista muda. Sem três poses diferentes, sem progressão temporal, sem clones interagindo, sem mudança de figurino, sem distorção de lente entre painéis, sem texto ou logotipos. Tríptico horizontal 3:1.
+Retrato beauty editorial de estúdio de [modelo adulta] fotografada através de uma placa de Perspex transparente colocada próxima da câmera. Pulverize a placa de forma irregular com acabamento branco translúcido, deixando uma única janela oval limpa exatamente diante dos olhos, nariz e boca. A modelo fica 80–120 cm atrás da placa, em busto de três quartos, ombro frontal ligeiramente mais baixo, queixo discretamente elevado e uma mão apoiada na clavícula. Posicione uma octabox grande acima e ligeiramente atrás da placa para que as áreas pulverizadas recebam brilho difuso e criem um véu branco leitoso nas bordas, enquanto o rosto permanece nítido através da janela limpa. Use uma pequena negative fill no lado oposto para recuperar volume facial. Lente 85 mm, f/2.8–f/4, foco rigoroso no olho mais próximo. O efeito deve parecer produzido por uma superfície física à frente da lente, com gradações irregulares e profundidade real. Sem vidro cobrindo olhos ou boca, sem neblina uniforme sobre o rosto, sem duplicação de face, sem flare arco-íris, sem textura digital aleatória, sem texto ou logotipos. Formato 4:5 vertical.
 ```
 
 ### Prompt em inglês
 
 ```text
-Studio photographic triptych showing the exact same instant of an adult [model] jumping, captured by a synchronized multi-camera arc with a bullet-time aesthetic. The pose must remain identical in all three panels: front knee bent, rear leg extended, torso slightly twisted, arms forming a clean diagonal and fabric frozen in mid-air. Show three consecutive viewpoints from the same camera arc, roughly -30°, 0° and +30°, with coherent parallax between the model, a low pedestal and two vertical bars in the background. Lighting must remain constant across all cameras: two large symmetrical side softboxes and a soft overhead source. Use a 50mm-equivalent perspective, visually fast shutter and seamless gray background. The body instant, wardrobe, expression and fabric position must be exactly identical; only viewpoint changes. No three different poses, no time progression, no interacting clones, no wardrobe changes, no lens distortion changes between panels, text or logos. Horizontal 3:1 triptych.
+Studio beauty editorial portrait of an adult [model] photographed through a transparent Perspex sheet positioned close to the camera. Spray the sheet irregularly with a translucent white finish while leaving one clean oval window exactly in front of the eyes, nose and mouth. Place the model 80–120 cm behind the sheet in a three-quarter bust pose, front shoulder slightly lowered, chin subtly raised and one hand resting on the collarbone. Position a large octabox above and slightly behind the sheet so the sprayed areas glow diffusely and form a milky white veil around the frame while the face remains sharp through the clean window. Add a small negative-fill panel on the opposite side to restore facial volume. Use an 85mm lens around f/2.8–f/4 with precise focus on the nearest eye. The effect must read as a real physical surface in front of the lens with irregular gradients and actual depth. No glass covering the eyes or mouth, no uniform fog over the face, duplicated face, rainbow flare, random digital texture, text or logos. Vertical 4:5.
 ```
 
-**Restrição opcional:** `mesmo instante em três ângulos, parallax coerente, pose idêntica, sem progressão temporal, sem clones diferentes, sem mudança de figurino`.
+**Restrição opcional:** `Perspex físico em primeiro plano, uma janela limpa sobre o rosto, véu leitoso apenas nas bordas, sem rosto duplicado, sem neblina uniforme, sem flare prismático`.
 
-**Por que funciona:** bullet-time usa várias câmeras sincronizadas ao redor do sujeito para mudar o ponto de vista sem avançar o tempo. O parallax entre vistas é a pista visual essencial que o diferencia de múltipla exposição ou sequência de movimento.
+**Por que funciona:** A placa próxima da lente cria um plano óptico separado do sujeito. Áreas pulverizadas espalham a luz e produzem difusão localizada, enquanto uma região limpa mantém o rosto legível e dá ao efeito profundidade física.
 
 ---
 
-## 118. Painel Fresnel em primeiro plano com magnificação parcial e anéis ópticos
+## 123. Panorama por shift lateral com modelo imóvel e três quadros sem rotação
 
-**Uso:** beauty experimental, joalheria, capa conceitual, retrato óptico e campanha de tecnologia.
+**Uso:** editorial ambiental de estúdio, retrato arquitetônico, campanha de moda com cenário geométrico e composição panorâmica.
 
-**Pose-chave:** busto frontal deslocado levemente do centro; uma mão fica abaixo da clavícula enquanto apenas um olho e parte da joia atravessam a zona ampliada do painel Fresnel.
+**Pose-chave:** modelo adulta permanece imóvel em pose longa e vertical no terço central; peso na perna traseira, perna frontal alongada, braços assimétricos e olhar atravessando o quadro enquanto apenas o deslocamento óptico muda entre capturas.
 
 ### Prompt em português
 
 ```text
-Retrato beauty de estúdio de [modelo adulta] fotografado através de um painel Fresnel transparente colocado 15–30 cm diante da lente e deslocado lateralmente. Posicione o rosto quase frontal, com um olho e parte de um brinco vistos através da região de potência óptica do painel, produzindo magnificação parcial, leve distorção radial e discretos anéis concêntricos; mantenha o outro olho, boca e a maior parte do rosto fora da zona Fresnel e perfeitamente naturais. Ilumine com uma beauty dish branca alta e frontal e dois refletores suaves laterais, fundo cinza-claro sem textura. Use lente principal de 85 mm, foco no olho não distorcido e profundidade suficiente para manter a transição óptica legível. O painel Fresnel deve funcionar como elemento refrativo físico em primeiro plano, não como flare, gobo ou filtro de pós-produção. Sem duplicação de olhos, sem rosto inteiro derretido, sem círculos projetados na pele, sem fisheye, sem prisma arco-íris, sem texto ou logotipos. Formato 4:5 vertical.
+Retrato panorâmico editorial de estúdio de [modelo adulta] construído com três capturas usando uma lente perspective-control/tilt-shift em modo de shift lateral, sem inclinar a lente e sem girar a câmera. Monte a câmera nivelada em tripé e mantenha a modelo completamente imóvel no terço central de um cenário arquitetônico com três painéis verticais e linhas paralelas. Pose longa e estável: peso na perna traseira, perna frontal alongada, um braço relaxado ao lado do corpo e o outro dobrado com a mão tocando a cintura, olhar atravessando o quadro. Capture uma exposição com shift para a esquerda, uma central e uma para a direita, preservando exatamente o mesmo ponto nodal e a mesma perspectiva; depois una os três quadros em um panorama horizontal contínuo. Use 45–50 mm PC, f/8, luz lateral grande e suave e fill mínimo. As linhas verticais devem permanecer paralelas e a modelo deve aparecer uma única vez, com anatomia íntegra e escala constante. Sem rotação de câmera, sem três clones da modelo, sem efeito tilt-miniatura, sem curvatura panorâmica, sem fisheye, sem costuras visíveis, texto ou logotipos. Formato final 2:1 horizontal.
 ```
 
 ### Prompt em inglês
 
 ```text
-Studio beauty portrait of an adult [model] photographed through a transparent Fresnel panel placed 15–30 cm in front of the lens and offset to one side. Keep the face nearly frontal, with one eye and part of an earring viewed through the optical-power region of the panel, creating partial magnification, mild radial distortion and subtle concentric rings; keep the other eye, mouth and most of the face outside the Fresnel zone and completely natural. Light with a high frontal white beauty dish and two soft side reflectors against a textureless light-gray background. Use an 85mm taking lens, focus on the undistorted eye and enough depth of field to keep the optical transition readable. The Fresnel panel must behave as a physical refractive foreground element, not as flare, gobo or post-processing. No duplicated eyes, no fully melted face, no circles projected onto skin, no fisheye, no rainbow prism, text or logos. Vertical 4:5.
+Studio environmental editorial portrait of an adult [model] built from three captures using a perspective-control/tilt-shift lens in lateral shift mode, with no lens tilt and no camera rotation. Level the camera on a tripod and keep the model completely still in the central third of an architectural set with three vertical panels and parallel lines. Use a long stable pose: weight on the rear leg, front leg extended, one arm relaxed beside the body and the other bent with the hand at the waist, gaze traveling across the frame. Capture one exposure shifted left, one centered and one shifted right while preserving exactly the same nodal position and perspective, then stitch the frames into one continuous horizontal panorama. Use a 45–50mm PC lens around f/8, one large soft side source and minimal fill. Vertical lines must stay parallel and the model must appear only once with intact anatomy and constant scale. No camera rotation, three model clones, tilt-miniature effect, curved panorama, fisheye, visible seams, text or logos. Final horizontal 2:1.
 ```
 
-**Restrição opcional:** `magnificação parcial por painel Fresnel físico, apenas uma área do rosto afetada, segundo olho natural, sem fisheye, sem duplicação facial`.
+**Restrição opcional:** `shift lateral sem tilt, câmera nivelada e imóvel, uma única modelo, linhas paralelas, sem clones, sem rotação panorâmica, sem miniatura tilt-shift, sem costuras`.
 
-**Por que funciona:** uma lente Fresnel substitui a curvatura contínua por sulcos concêntricos que refratam a luz. Usá-la perto da câmera como elemento parcial permite magnificação e distorção localizadas, mecanismo diferente de prisma, stretch glass ou fisheye.
+**Por que funciona:** O deslocamento lateral de uma lente PC altera o enquadramento mantendo o corpo da câmera parado. Isso permite ampliar o campo horizontal e costurar imagens com perspectiva consistente, diferente do tilt do ID 42 e de um panorama feito girando a câmera.
 
 ---
 
-## 119. Dicróico a 45° com retrato transmitido neutro e reflexo cromático lateral
+## 124. Perspectiva forçada com prop monumental em primeiro plano e modelo recuada
 
-**Uso:** beauty de produto, editorial tecnológico, campanha de cosméticos e retrato de cor óptica controlada.
+**Uso:** campanha publicitária, moda conceitual, fotografia de produto com modelo, capa musical e retrato lúdico de escala.
 
-**Pose-chave:** perfil de três quartos próximo ao filtro; rosto principal é visto por transmissão enquanto mão e acessório ocupam o caminho refletido lateral.
+**Pose-chave:** modelo adulta recuada dois a quatro metros, corpo em diagonal e uma mão estendida em direção a um objeto muito próximo da lente, alinhada para parecer tocar ou sustentar o objeto sem contato físico real.
 
 ### Prompt em português
 
 ```text
-Retrato editorial de estúdio de [modelo adulta] construído ao redor de um grande filtro dicróico plano a aproximadamente 45° entre câmera, modelo e uma fonte lateral. Fotografe o rosto principal através da banda transmitida do filtro, mantendo pele majoritariamente neutra e olhos nítidos, enquanto uma fonte branca dura posicionada fora do eixo atinge o dicróico e gera um único reflexo cromático saturado em direção a uma mão e a um acessório metálico no lado oposto do quadro. A modelo fica em três quartos, queixo ligeiramente voltado para o filtro, uma mão elevada até a altura do ombro sem cobrir o rosto. Fundo preto, key suave neutra e bandeirada sobre o rosto, lente de 85 mm. A cor deve surgir da separação espectral física entre luz transmitida e refletida, com mudança limpa de caminho a 45°, não de dois géis coloridos. Sem arco-íris difrativo, sem birrefringência, sem duas cores pintadas diretamente no rosto, sem prismas, sem duplicação, sem texto ou logotipos. Formato 4:5 vertical.
+Retrato editorial de estúdio de [modelo adulta] usando perspectiva forçada inteiramente fotográfica. Coloque um objeto cenográfico pequeno, como [produto/prop], apenas 20–35 cm diante da lente para que pareça monumental; posicione a modelo 2–4 metros atrás, alinhando sua mão estendida com a borda do objeto para criar a ilusão de que ela o toca ou sustenta. A modelo mantém corpo em diagonal de aproximadamente 30°, peso na perna traseira, braço oposto afastado do tronco e olhar dirigido ao ponto de contato aparente. Use lente retangular de 28–35 mm, câmera baixa entre cintura e quadril, f/8–f/11 para manter prop e modelo suficientemente legíveis, fundo geométrico simples com linhas de fuga convergindo suavemente para a modelo. Iluminação: fonte grande lateral atravessando ambos os planos e fill frontal discreto para uniformizar exposição entre primeiro plano e sujeito. Preserve uma diferença de escala convincente causada apenas pelas distâncias físicas. Sem objeto realmente gigante, sem mãos fundidas ao prop, sem fisheye, sem duplicação da modelo, sem perspectiva impossível, sem profundidade de campo incoerente, texto ou logotipos. Formato 3:2 horizontal.
 ```
 
 ### Prompt em inglês
 
 ```text
-Studio editorial portrait of an adult [model] built around a large flat dichroic filter positioned at roughly 45° between camera, model and an off-axis light source. Photograph the primary face through the filter's transmitted band, keeping skin mostly neutral and eyes sharp, while a hard white source outside the camera axis strikes the dichroic and sends one saturated colored reflection toward a raised hand and metallic accessory on the opposite side of the frame. Keep the model in three-quarter stance, chin slightly turned toward the filter, one hand raised to shoulder height without covering the face. Use a black background, a soft neutral flagged key on the face and an 85mm lens. Color must come from physical spectral separation between transmitted and reflected light with a clean 45° path change, not from two colored gels. No diffraction rainbow, no birefringence, no two-color paint directly on the face, no prisms, no duplication, text or logos. Vertical 4:5.
+Studio editorial portrait of an adult [model] using entirely photographic forced perspective. Place a small scenic object such as [product/prop] only 20–35 cm in front of the lens so it appears monumental; position the model 2–4 meters behind it and align her extended hand with the object's edge to create the illusion that she is touching or supporting it. Keep the model's body at roughly a 30° diagonal, weight on the rear leg, opposite arm separated from the torso and gaze directed toward the apparent contact point. Use a rectilinear 28–35mm lens, camera low around waist-to-hip height and f/8–f/11 so both prop and model remain sufficiently readable, with a simple geometric background whose leading lines converge gently toward the model. Light with one large side source spanning both depth planes plus subtle frontal fill to balance foreground and subject exposure. Preserve a convincing scale difference created only by physical distance. No actually giant object, hands fused to the prop, fisheye, duplicated model, impossible perspective, incoherent depth of field, text or logos. Horizontal 3:2.
 ```
 
-**Restrição opcional:** `filtro dicróico a 45 graus, rosto visto por transmissão neutra, um único reflexo cromático lateral, sem gel duplo, sem arco-íris difrativo`.
+**Restrição opcional:** `perspectiva forçada por distância real, prop próximo da lente e modelo distante, alinhamento de mão preciso, sem objeto gigante literal, sem fisheye, sem mão fundida, sem escala incoerente`.
 
-**Por que funciona:** filtros dicróicos transmitem certas faixas de comprimento de onda e refletem outras, frequentemente em geometrias próximas de 45°. Isso permite criar dois caminhos de luz espectralmente diferentes a partir de uma mesma fonte, distinto de géis absorptivos ou difração.
+**Por que funciona:** A perspectiva depende da posição relativa entre câmera, primeiro plano e sujeito. Um prop muito próximo ocupa grande ângulo de visão enquanto a modelo mais distante parece menor; alinhar gesto e linhas de fuga vende a ilusão sem manipulação digital.
 
 ---
 
-## 120. Matriz lenticular em primeiro plano com segmentação direcional e rosto central limpo
+## 125. Top shot em piscina rasa de plexiglass com luz roteada por espelho e refração de superfície
 
-**Uso:** moda experimental, beauty gráfico, capa musical, campanha óptica e retrato futurista.
+**Uso:** editorial de moda, beauty aquático, campanha de joias, capa conceitual e fotografia fine art.
 
-**Pose-chave:** busto frontal com rosto alinhado a uma abertura central; ombro e braço cruzam uma faixa lenticular vertical, criando fatias direcionais sem afetar os olhos.
+**Pose-chave:** modelo adulta deitada de costas em água muito rasa, rosto totalmente fora d’água, um braço curvado acima da cabeça e o outro afastado do corpo; pernas criam uma diagonal longa enquanto tecido leve flutua ao redor sem cobrir o rosto.
 
 ### Prompt em português
 
 ```text
-Retrato gráfico de estúdio de [modelo adulta] fotografado com uma folha de matriz lenticular acrílica muito próxima da lente, ocupando apenas o terço esquerdo do enquadramento. A matriz deve ter microlentes cilíndricas verticais e dividir/refratar direcionalmente a imagem do ombro, braço e parte do figurino em estreitas fatias paralelas, enquanto o rosto permanece fora da folha e totalmente limpo no centro-direita. Pose de busto frontal com um ombro avançado, braço cruzado baixo e olhos diretamente na câmera. Use luz frontal ampla e uniforme, fundo branco levemente cinza e lente de 70–85 mm. As fatias devem seguir um único eixo coerente com as lentículas, sem multiplicação radial. Sem caleidoscópio, sem grade de difração, sem moiré, sem olhos fragmentados, sem rosto fatiado, sem glitch digital, sem texto ou logotipos. Formato 4:5 vertical.
+Top shot editorial de estúdio de [modelo adulta] em uma piscina rasa e transparente de plexiglass, fotografada perpendicularmente de cima por câmera rigidamente montada. Use apenas uma lâmina de água suficiente para produzir pequenas ondulações e refração; o rosto permanece completamente fora d’água e livre. Pose: modelo deitada de costas, um braço curvado acima da cabeça, outro braço afastado do tronco, pernas formando uma diagonal longa e tecido leve flutuando ao redor sem atravessar olhos, nariz ou boca. Ilumine por trás e pelas laterais do tanque: uma fonte de backlight deve chegar à base através de um espelho externo no piso, evitando colocar uma luminária quente diretamente sob o plexiglass; complete com duas fontes laterais suaves para desenhar reflexos coloridos e volume. Lente 50–70 mm equivalente, f/8, foco no rosto, pequenas ondulações gerando distorção apenas no tecido e nas extremidades. A água deve parecer rasa, limpa e fisicamente plausível, com reflexos de superfície controlados. Sem submersão do rosto, sem água cobrindo vias aéreas, sem equipamento elétrico dentro da água, sem corpo duplicado, sem caústicas excessivas sobre os olhos, sem aparência de oceano, texto ou logotipos. Formato 4:5 vertical.
 ```
 
 ### Prompt em inglês
 
 ```text
-Graphic studio portrait of an adult [model] photographed with an acrylic lenticular-array sheet very close to the lens, covering only the left third of the frame. The array should use vertical cylindrical lenslets and directionally divide/refract the image of the shoulder, arm and part of the wardrobe into narrow parallel slices, while the face remains outside the sheet and completely clean at center-right. Use a frontal bust pose with one shoulder advanced, a low crossed arm and eyes directly toward camera. Light with a broad even frontal source, a slightly gray-white background and a 70–85mm lens. The slices must follow one coherent axis matching the lenticules, with no radial multiplication. No kaleidoscope, no diffraction grating, no moiré, no fragmented eyes, no sliced face, no digital glitch, text or logos. Vertical 4:5.
+Overhead studio editorial portrait of an adult [model] in a shallow transparent plexiglass pool, photographed perfectly perpendicular from above with the camera rigidly mounted. Use only a thin layer of water sufficient to create small ripples and refraction; keep the face completely above water and unobstructed. Pose the model lying on her back with one arm curved above the head, the other separated from the torso, legs forming a long diagonal and lightweight fabric floating around the body without crossing the eyes, nose or mouth. Light from behind and the sides of the tank: route one backlight toward the base through an external mirror on the floor rather than placing a hot fixture directly underneath the plexiglass, then add two soft side sources to draw colored reflections and volume. Use a 50–70mm-equivalent lens around f/8 with focus on the face; small ripples should distort only fabric and extremities. Water must look shallow, clean and physically plausible with controlled surface reflections. No face submersion, water covering airways, electrical equipment in the water, duplicated body, excessive caustics over the eyes, ocean appearance, text or logos. Vertical 4:5.
 ```
 
-**Restrição opcional:** `matriz lenticular física em apenas um terço do quadro, fatias paralelas em um único eixo, rosto limpo, sem moiré, sem difração, sem glitch`.
+**Restrição opcional:** `top shot perpendicular, piscina rasa de plexiglass, rosto totalmente fora d’água, refração apenas em tecido e extremidades, sem submersão facial, sem equipamento elétrico na água, sem oceano`.
 
-**Por que funciona:** matrizes lenticulares são conjuntos de pequenas lentes cilíndricas que dividem, focam e difundem luz em um eixo preferencial. Como elemento parcial diante da câmera, elas criam segmentação direcional diferente de Fresnel, grade de difração, moiré ou caleidoscópio.
+**Por que funciona:** Uma piscina transparente permite combinar top shot, reflexão e refração num único set. Roteando o backlight por espelho, a fonte permanece afastada do plexiglass; pequenas ondulações acrescentam distorção localizada sem transformar a cena em um retrato submerso.
+
+---

@@ -1,6 +1,6 @@
 # Referências e Metodologia
 
-Pesquisa inicial realizada em **2 de agosto de 2026** e ampliada em **3, 4, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24 e 25 de agosto de 2026**. A curadoria prioriza documentação oficial de geração de imagens, materiais educacionais de fabricantes reconhecidos, instituições acadêmicas, museus de ciência e literatura técnica quando a técnica exige base óptica, temporal ou espectral.
+Pesquisa inicial realizada em **2 de agosto de 2026** e ampliada em **3, 4, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25 e 26 de agosto de 2026**. A curadoria prioriza documentação oficial de geração de imagens, materiais educacionais de fabricantes reconhecidos, instituições acadêmicas, museus de ciência e literatura técnica quando a técnica exige base óptica, temporal ou espectral.
 
 ## Critérios usados
 
@@ -33,6 +33,10 @@ Pesquisa inicial realizada em **2 de agosto de 2026** e ampliada em **3, 4, 6, 7
 - Fresnel e matrizes lenticulares devem ser descritas pelo mecanismo refrativo e pelo eixo da estrutura óptica.
 - Filtros dicróicos separam bandas espectrais por transmissão e reflexão, não por absorção como géis comuns.
 - Em setups que envolvem calor, UV ou equipamentos especiais, a segurança física do modelo vem antes do efeito visual.
+- High-key branco sobre branco exige controle independente do fundo para evitar wrap e perda de contorno.
+- `Shift` lateral em lente PC muda o enquadramento sem inclinar o plano focal nem girar a câmera.
+- Perspectiva forçada depende de distância relativa, alinhamento e ângulo de visão, não de alteração literal do tamanho dos objetos.
+- Superfícies pulverizadas próximas à lente funcionam como plano físico de difusão e devem preservar zonas limpas quando o rosto precisa permanecer legível.
 
 ## Fontes principais
 
@@ -179,6 +183,45 @@ Foram adicionados cinco conceitos materialmente diferentes dos 115 anteriores:
     https://www.edmundoptics.com/f/lenticular-arrays/12445/
 
 43. OpenAI Academy — Criando imagens com o ChatGPT, publicado em 10 de abril de 2026. Recomenda instruções claras sobre propósito, sujeito, ação, composição, iluminação, relações espaciais e restrições.  
+    https://openai.com/pt-BR/academy/image-generation/
+
+## Atualização de 26 de agosto de 2026
+
+Foram adicionados cinco conceitos que não aparecem entre os 120 títulos anteriores:
+
+- **high-key branco sobre branco em plexiglass**, separando fundo, key e catchlight inferior;
+- **Perspex pulverizado em primeiro plano**, usando difusão física localizada com janela limpa para o rosto;
+- **panorama por shift lateral**, expandindo o enquadramento sem girar a câmera e sem usar tilt;
+- **perspectiva forçada por distância**, em que prop e modelo mudam de escala aparente por posição física e alinhamento;
+- **top shot em piscina rasa de plexiglass**, combinando refração superficial, reflexão e backlight roteado por espelho com o rosto totalmente fora d’água.
+
+### Novas fontes verificadas em 26 de agosto de 2026
+
+44. broncolor — *How to Photograph White on White*. Demonstra fundo branco iluminado separadamente, controle para impedir que a luz do fundo contamine a modelo, plexiglass refletivo e uma fonte sob o plexiglass para catchlight.  
+    https://broncolor.swiss/news/how-to-photograph-white-on-white-1
+
+45. broncolor — *Editorial Portrait Shoot*. Demonstra fotografia através de uma placa de Perspex pulverizada com acabamento branco e posicionamento da placa junto à fonte para intensificar a perspectiva/difusão física.  
+    https://broncolor.swiss/de/news/editorial-portrait-shoot
+
+46. Nikon USA — *The PC Lens Advantage: What You See Is What You'll Get*. Explica tilt e shift como controles distintos e cita o uso de shift lateral para capturas centro/esquerda/direita destinadas a panorama.  
+    https://www.nikonusa.com/learn-and-explore/c/tips-and-techniques/the-pc-lens-advantage-what-you-see-is-what-youll-get
+
+47. Nikon USA — *Get your props*. Recomenda usar objetos no primeiro plano com o sujeito recuado para aumentar profundidade e dramatismo; combinado com princípios de perspectiva de lentes grande-angulares.  
+    https://www.nikonusa.com/learn-and-explore/c/nikon-creators/get-your-props
+
+48. Sony — *Explore lenses for your vision – Lenses by subject*. Resume como grande-angulares enfatizam perspectiva e como teleobjetivas alteram relação entre sujeito e fundo, útil para definir a lógica de escala da perspectiva forçada.  
+    https://www.sony.com/en-bj/lenses/lenses-by-subject
+
+49. broncolor — *Genesis*. Documenta top shot sobre piscina de plexiglass, iluminação traseira roteada por espelho no piso para evitar fonte quente sob o plexiglass e luzes laterais para reflexos coloridos.  
+    https://broncolor.swiss/news/genesis
+
+50. Adobe Learn — *Explore prompting basics for photographers*, publicado em 20 de agosto de 2026. Recomenda especificar lente, abertura, iluminação e posicionamento do sujeito; quanto maior a especificidade compositiva, maior o controle do resultado.  
+    https://www.adobe.com/learn/firefly/web/firefly-photographers-prompting-basics
+
+51. Adobe — *Gerar fotos realistas utilizando uma fórmula de prompt no Firefly*, publicado em 16 de abril de 2026. Estrutura o controle de pose, enquadramento, configurações de câmera, iluminação e textura.  
+    https://helpx.adobe.com/br/firefly/how-to/generate-realistic-photos.html
+
+52. OpenAI Academy — *Criando imagens com o ChatGPT*, publicado em 10 de abril de 2026. Recomenda instruções claras de propósito, assunto, ação, enquadramento, iluminação e restrições explícitas.  
     https://openai.com/pt-BR/academy/image-generation/
 
 ## Autoria
