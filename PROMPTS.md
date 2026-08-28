@@ -1,6 +1,6 @@
-# 130 Prompts de Fotografia de Estúdio e Poses de Modelo
+# 135 Prompts de Fotografia de Estúdio e Poses de Modelo
 
-Catálogo principal consolidado. Os prompts 1–125 permanecem acessíveis pelo catálogo JSON, arquivos históricos ou revisões permanentes; os prompts 126–130 estão completos nesta página.
+Catálogo principal consolidado. Os prompts 1–130 permanecem acessíveis pelo catálogo JSON, arquivos históricos ou revisões permanentes; os prompts 131–135 estão completos nesta página.
 
 ## Índice consolidado
 
@@ -134,125 +134,130 @@ Catálogo principal consolidado. Os prompts 1–125 permanecem acessíveis pelo 
 128. Retrato estereoscópico anáglifo com baseline curto e profundidade em três planos
 129. Separação tricromática sequencial com gesto mínimo e franjas RGB físicas
 130. Gel pincelado sobre vidro com distorção pictórica localizada e rosto parcialmente limpo
+131. Net scrim seletivo sobre hard key com pose em torção controlada
+132. Retrato somente por reflexo em espelho com óleo periférico e centro limpo
+133. LED volume ICVFX com horizonte rastreado e pose integrada ao cenário
+134. Wet-plate collodion contemporâneo com pose apoiada para longa exposição
+135. Pixel Shift Multi-Shot de 400 MP com beauty imóvel e textura sem false color
 
 ---
 
-## 126. Luz estruturada em franjas sobre busto com pose neutra de escaneamento
+## 131. Net scrim seletivo sobre hard key com pose em torção controlada
 
-**Uso:** editorial tecnológico, retrato científico e campanha de inovação.
+**Uso:** editorial de moda, retrato dramático e controle localizado de exposição sem suavizar a luz.
 
-**Pose-chave:** busto frontal imóvel, ombros nivelados, queixo neutro e olhar direto.
+**Pose-chave:** corpo em três quartos, quadril estável, tronco girado cerca de 20°, ombro distante oferecido à key e mãos relaxadas fora do rosto.
 
 ### Prompt em português
 
 ```text
-Retrato de estúdio de [modelo adulta] em busto frontal, imóvel, sobre fundo grafite. Projete franjas verticais brancas de luz estruturada: retas no fundo plano e deformadas de modo contínuo ao contornar testa, nariz, maçãs do rosto, pescoço e roupa. Preserve olhos, pupilas e boca legíveis, reduzindo as franjas nessas áreas. Lente 85 mm, f/5.6, câmera na altura dos olhos, pequena luz frontal neutra apenas para textura de pele. O padrão deve parecer luz branca estruturada segura para pessoas, sem laser, neon, HUD, topografia desenhada, rosto duplicado, texto ou logotipos.
+Retrato editorial de estúdio de [modelo adulta] em três quartos, com quadril estável, tronco girado cerca de 20° para a câmera e o ombro distante voltado para a luz. Use uma fonte dura pequena ou Fresnel a 45° da câmera, ligeiramente acima dos olhos. Interponha um open-end single net scrim apenas na metade inferior do feixe, reduzindo aproximadamente 0,5–1 stop sobre ombro, torso e braço, enquanto rosto e olhos recebem a luz dura sem atenuação. A borda aberta do net deve produzir transição de intensidade invisível, sem linha projetada; a dureza e a direção das sombras permanecem iguais nas duas zonas. Lente 85 mm, f/8, fundo cinza médio, foco preciso no olho mais próximo. Sem softbox, sem difusão, sem malha visível, sem gobo, sem faixa escura artificial, sem mãos deformadas, texto ou logotipos.
 ```
 
 ### Prompt em inglês
 
 ```text
-Studio portrait of an adult [model] in a still frontal bust pose against a matte graphite background. Project narrow vertical white structured-light fringes: straight on the flat background and continuously deformed across forehead, nose, cheekbones, neck and clothing. Keep eyes, pupils and mouth readable by reducing the pattern there. Use an 85mm lens at f/5.6, eye-level camera and a subtle neutral frontal fill for skin texture. The pattern must read as safe white structured light, with no laser, neon, HUD, drawn topography, duplicated face, text or logos.
+Studio editorial portrait of an adult [model] in a three-quarter stance, hips stable, torso rotated about 20° toward camera and the far shoulder presented to the key light. Use a small hard source or Fresnel 45° off camera and slightly above eye level. Place an open-end single net scrim only across the lower half of the beam, reducing roughly 0.5–1 stop on shoulder, torso and arm while the face and eyes receive the unattenuated hard light. The open edge of the net must create an invisible intensity transition with no projected line; shadow hardness and direction stay identical in both zones. Use an 85mm lens at f/8, medium-gray background and critical focus on the nearest eye. No softbox, no diffusion, visible mesh, gobo, artificial dark stripe, malformed hands, text or logos.
 ```
 
-**Restrição opcional:** `franjas deformadas apenas pelo relevo; fundo plano com linhas retas; sem laser, HUD, neon ou rosto duplicado`.
+**Restrição opcional:** `net fora do quadro; redução de intensidade sem amaciar a luz; sem malha visível, gobo, softbox ou linha de corte`.
 
-**Por que funciona:** Luz estruturada descreve relevo pela deformação de um padrão conhecido, diferente de projeção decorativa.
+**Por que funciona:** Um net scrim reduz a intensidade sem aumentar o tamanho aparente da fonte; a borda aberta permite feathering da transição sem mudar a dureza das sombras.
 
 ---
 
-## 127. Brenizer bokeh panorama com 85 mm e pose imóvel em cenário amplo
+## 132. Retrato somente por reflexo em espelho com óleo periférico e centro limpo
 
-**Uso:** retrato editorial ambiental, moda e capa musical com aparência de grande formato.
+**Uso:** beauty experimental, capa musical e editorial de textura óptica.
 
-**Pose-chave:** corpo inteiro em três quartos, peso na perna traseira, uma mão na cintura, totalmente imóvel entre capturas.
+**Pose-chave:** busto em três quartos refletido, queixo levemente elevado, uma mão na clavícula e câmera vendo apenas o reflexo.
 
 ### Prompt em português
 
 ```text
-Retrato ambiental de [modelo adulta] pela técnica Brenizer. Fotografe a modelo com 85 mm em f/1.4–f/1.8, foco manual travado nos olhos, exposição e balanço de branco manuais. Mantenha a pose imóvel e capture 20–30 quadros sobrepostos em grade, cobrindo cenário, chão e espaço negativo com 30–50% de sobreposição; una tudo em um panorama contínuo. Resultado: campo de visão amplo com profundidade de campo extremamente rasa e bokeh natural de teleobjetiva, sem distorção de grande-angular. Luz lateral suave, cenário em camadas. Sem clones, costuras, fisheye, panorama curvo, tilt-miniature, texto ou logotipos.
+Fotografe [modelo adulta] exclusivamente pelo reflexo de um grande espelho de estúdio, sem mostrar a pessoa real fora do espelho. Pose em busto de três quartos, queixo levemente elevado, uma mão tocando a clavícula e olhar dirigido ao eixo óptico refletido. Aplique uma película muito fina de óleo transparente somente nas bordas superior e laterais do espelho, criando veios, halos e textura de "janela molhada" fora do rosto; preserve uma área central completamente limpa sobre olhos, nariz e boca. Use uma key suave neutra lateral-frontal e um pequeno acento azul frio no cabelo refletido, lente 70–85 mm em f/4. O reflexo central deve permanecer nítido e anatomicamente único. Sem rosto real aparecendo junto ao reflexo, sem dupla cabeça, sem gotas de chuva digitais, sem liquify, sem prisma arco-íris, sem texto ou logotipos.
 ```
 
 ### Prompt em inglês
 
 ```text
-Environmental portrait of an adult [model] using the Brenizer method. Shoot the model with an 85mm lens at f/1.4–f/1.8, lock manual focus on the eyes, and keep exposure and white balance manual. Hold the pose completely still while capturing a 20–30-frame overlapping grid of the set, floor and negative space with 30–50% overlap; stitch into one seamless panorama. The result combines a wide field of view with extremely shallow depth of field and natural telephoto bokeh, without wide-angle distortion. Use soft side light and layered depth. No clones, seams, fisheye, curved panorama, tilt-miniature look, text or logos.
+Photograph an adult [model] exclusively through the reflection of a large studio mirror, with the real person kept outside the camera frame. Use a three-quarter bust pose, chin slightly raised, one hand touching the collarbone, gaze aimed at the reflected optical axis. Apply a very thin layer of clear oil only around the upper and side edges of the mirror, creating streaks, halos and a wet-window texture away from the face; preserve a completely clean central zone over eyes, nose and mouth. Use a soft neutral front-side key plus a subtle cool-blue accent on reflected hair, with a 70–85mm lens at f/4. The central reflection must remain sharp and anatomically singular. No real face appearing beside the reflection, duplicated head, digital rain droplets, liquify, rainbow prism, text or logos.
 ```
 
-**Restrição opcional:** `Brenizer real; foco/exposição travados; campo amplo com DOF rasa; sem clones, costuras, fisheye ou tilt-miniature`.
+**Restrição opcional:** `somente o reflexo no quadro; óleo apenas na periferia; centro facial limpo; sem dupla cabeça, liquify ou chuva digital`.
 
-**Por que funciona:** O panorama costurado com teleobjetiva aberta combina campo amplo e DOF rasa, diferente do panorama por shift do ID 123.
+**Por que funciona:** O óleo altera fisicamente a superfície refletora e a forma como highlights se espalham, diferente de fotografar através de vidro refrativo ou aplicar distorção digital.
 
 ---
 
-## 128. Retrato estereoscópico anáglifo com baseline curto e profundidade em três planos
+## 133. LED volume ICVFX com horizonte rastreado e pose integrada ao cenário
 
-**Uso:** editorial retrofuturista, pôster 3D e estudo de profundidade.
+**Uso:** campanha de moda, retrato ambiental e publicidade com produção virtual in-camera.
 
-**Pose-chave:** modelo sentada frontal, uma mão discretamente avançada, rosto no plano médio e fundo em terceiro plano.
+**Pose-chave:** corpo inteiro em passo interrompido, um pé sobre plataforma física e uma mão alinhada a um marco do horizonte virtual.
 
 ### Prompt em português
 
 ```text
-Retrato estereoscópico de [modelo adulta] como anáglifo vermelho-ciano. Registre duas vistas sincronizadas do mesmo instante separadas horizontalmente por 6–7 cm, com mesma altura, lente, foco e exposição. Pose frontal sentada, uma mão 20–30 cm à frente do rosto, rosto no plano médio e painéis geométricos ao fundo. Use 50–70 mm e luz suave simétrica. Combine a vista esquerda no vermelho e a direita no ciano, com disparidade horizontal apenas onde a profundidade exige e convergência confortável no rosto. Sem desalinhamento vertical, cabeça duplicada, RGB aleatório em áreas coplanares, falsa dupla exposição, texto ou logotipos.
+Retrato editorial de corpo inteiro de [modelo adulta] em um LED volume de produção virtual, com parede curva de alta resolução exibindo um deserto ao blue hour e horizonte distante. Use perspectiva rastreada de câmera ICVFX: ao enquadrar com lente 50 mm, o fundo deve responder ao ponto de vista como cenário tridimensional, sem aparência de imagem plana colada. Pose em passo interrompido, um pé sobre uma pequena rocha/plataforma física no chão do estúdio e uma mão relaxadamente alinhada a um marco do horizonte virtual. Deixe a parede LED fornecer ambiente frio e reflexos coerentes no figurino; use uma key neutra suave fora de eixo apenas para controlar pele e olhos. Combine elementos físicos de primeiro plano com o cenário virtual, preservando contato de pés e sombras. Sem chroma key verde, projetor frontal, moiré, grade de pixels visível, horizonte torto, recorte artificial, membros extras, texto ou logotipos.
 ```
 
 ### Prompt em inglês
 
 ```text
-Stereoscopic portrait of an adult [model] as a red-cyan anaglyph. Capture two synchronized views of the same instant separated horizontally by 6–7 cm, with identical height, lens, focus and exposure. Seat the model frontally, place one hand 20–30 cm in front of the face, keep the face in the middle plane and geometric panels behind. Use a 50–70mm lens and soft symmetrical light. Combine the left view in red and the right in cyan, with horizontal disparity only where depth requires it and comfortable convergence on the face. No vertical misalignment, duplicated head, random RGB on coplanar areas, fake double exposure, text or logos.
+Full-body editorial portrait of an adult [model] inside a virtual-production LED volume, with a high-resolution curved wall displaying a blue-hour desert and distant horizon. Use camera-tracked ICVFX perspective: framed with a 50mm lens, the background must respond to viewpoint like a three-dimensional environment rather than a flat pasted image. Direct a paused-step pose with one foot on a small physical rock/platform on the studio floor and one relaxed hand aligned with a visual landmark in the virtual horizon. Let the LED wall provide cool ambient light and coherent reflections on clothing; add a soft neutral off-axis key only to control skin and eyes. Blend physical foreground pieces with the virtual scene, preserving foot contact and shadows. No green-screen chroma key, front projector, moiré, visible pixel grid, crooked horizon, cutout look, extra limbs, text or logos.
 ```
 
-**Restrição opcional:** `duas vistas coerentes; baseline horizontal curto; sem desalinhamento vertical, rosto duplicado ou RGB aleatório`.
+**Restrição opcional:** `ICVFX rastreado; ambiente e reflexos vindos do LED; sem chroma key, projetor, moiré, pixels visíveis ou recorte artificial`.
 
-**Por que funciona:** Estereoscopia usa duas vistas com parallax coerente; o anáglifo apenas codifica essas vistas por canais complementares.
+**Por que funciona:** Um LED volume combina fundo in-camera, perspectiva rastreada e luz ambiente proveniente da própria tela, diferente de front projection, rear projection ou simples substituição de fundo.
 
 ---
 
-## 129. Separação tricromática sequencial com gesto mínimo e franjas RGB físicas
+## 134. Wet-plate collodion contemporâneo com pose apoiada para longa exposição
 
-**Uso:** retrato experimental, capa musical e editorial de movimento.
+**Uso:** retrato autoral, fine art e editorial contemporâneo com materialidade de placa única.
 
-**Pose-chave:** busto frontal quase imóvel; apenas uma mão muda alguns centímetros entre três exposições.
+**Pose-chave:** modelo sentada, coluna ereta mas relaxada, antebraços apoiados numa mesa estreita e cabeça estável para tolerar alguns segundos de exposição.
 
 ### Prompt em português
 
 ```text
-Retrato experimental de [modelo adulta] por separação tricromática sequencial. Câmera fixa em tripé; faça três exposições registradas através de filtros vermelho, verde e azul. Mantenha rosto e tronco imóveis e mova apenas a mão direita alguns centímetros entre registros. Ao recombinar os canais, regiões imóveis devem resultar neutras e alinhadas; somente mão e manga mostram franjas vermelha, verde e azul correspondentes aos três instantes. Fundo cinza, 85 mm, f/8 e luz contínua uniforme. Sem aberração cromática global, glitch digital, três rostos, sombras RGB aleatórias, neon, texto ou logotipos.
+Retrato contemporâneo de [modelo adulta] realizado como uma placa wet-plate collodion/tintype autêntica, mantendo figurino atual e fundo escuro simples. Direcione a modelo sentada com coluna ereta mas relaxada, antebraços apoiados numa mesa estreita, mãos separadas e cabeça estável, expressão serena e olhar direto, como uma pose desenhada para alguns segundos de exposição. Use iluminação ampla lateral semelhante a claraboia, lente de grande formato com perspectiva natural e profundidade de campo moderada. A imagem deve ter microcontraste irregular, resposta tonal ortocromática, bordas de emulsão discretamente imperfeitas e pequenas variações físicas da placa, sem transformar o resultado em filtro sépia genérico. Pele, olhos e mãos continuam reconhecíveis e proporcionais. Sem arranhões exagerados, textura falsa de papel, vinheta pesada, roupa vitoriana obrigatória, bokeh digital moderno, texto ou logotipos.
 ```
 
 ### Prompt em inglês
 
 ```text
-Experimental portrait of an adult [model] using sequential tri-color separation. Lock the camera on a tripod and make three registered exposures through red, green and blue filters. Keep face and torso still and move only the right hand a few centimeters between exposures. When recombined, stationary areas must appear neutral and aligned; only the moving hand and sleeve show red, green and blue fringes corresponding to the three instants. Use a gray background, 85mm lens at f/8 and even continuous light. No global chromatic aberration, digital glitch, three faces, random RGB shadows, neon, text or logos.
+Contemporary portrait of an adult [model] made as an authentic wet-plate collodion/tintype image while keeping modern clothing and a simple dark background. Direct the model seated with an upright but relaxed spine, forearms supported on a narrow table, hands separated and head kept stable, calm expression and direct gaze, as a pose designed to tolerate several seconds of exposure. Use broad side light resembling a skylight, a large-format lens with natural perspective and moderate depth of field. The image should show irregular micro-contrast, an orthochromatic tonal response, subtly imperfect emulsion edges and small physical plate variations without becoming a generic sepia filter. Skin, eyes and hands remain recognizable and proportional. No exaggerated scratches, fake paper texture, heavy vignette, mandatory Victorian clothing, modern digital bokeh, text or logos.
 ```
 
-**Restrição opcional:** `RGB apenas no elemento em movimento; rosto neutro e alinhado; sem glitch, aberração global ou três rostos`.
+**Restrição opcional:** `wet-plate material, não filtro sépia; pose apoiada e imóvel; sem arranhões excessivos, papel falso ou figurino histórico obrigatório`.
 
-**Por que funciona:** Separações de cor feitas em instantes distintos deixam de coincidir somente onde houve movimento, criando franjas temporais localizadas.
+**Por que funciona:** Wet plate é um processo de placa única que exige estabilidade e produz resposta tonal e imperfeições materiais próprias; a direção corporal nasce da mecânica da exposição, não de uma estética vintage arbitrária.
 
 ---
 
-## 130. Gel pincelado sobre vidro com distorção pictórica localizada e rosto parcialmente limpo
+## 135. Pixel Shift Multi-Shot de 400 MP com beauty imóvel e textura sem false color
 
-**Uso:** beauty fine art, capa musical, perfume e retrato monocromático.
+**Uso:** beauty de altíssima resolução, joalheria no corpo, cosméticos e campanha para impressão grande.
 
-**Pose-chave:** busto em três quartos, cabeça inclinada, um olho e a boca em área limpa; pinceladas afetam cabelo e um lado do rosto.
+**Pose-chave:** busto frontal completamente apoiado, cotovelos sobre suporte oculto, mãos simétricas abaixo do rosto e expressão mantida sem movimento durante a sequência.
 
 ### Prompt em português
 
 ```text
-Retrato fine-art de [modelo adulta] através de vidro transparente a 5–15 cm da lente. Aplique gel óptico transparente e espesso em pinceladas verticais e diagonais sobre cabelo, um lado do rosto, ombro e peito, deixando olho mais próximo, pupila, narina e boca em área limpa. Pose em busto de três quartos, cabeça levemente inclinada e mão abaixo do queixo. Use softbox grande lateral-frontal, lente 85–105 mm em f/4–f/5.6 e fundo cinza-claro. A refração deve seguir exatamente as pinceladas, com áreas limpas nítidas. Sem Perspex pulverizado, neblina uniforme, arco-íris, liquify digital, duplicação facial, texto ou logotipos.
+Beauty portrait hiper-detalhado de [modelo adulta] usando Pixel Shift Multi-Shot de médio formato, equivalente a uma sequência de 16 quadros com deslocamentos de meio pixel combinados em um arquivo de aproximadamente 400 MP. Câmera rigidamente em tripé, lente 110 mm em f/8, foco manual travado nos olhos e iluminação LED contínua high-CRI perfeitamente estável. Direcione a modelo em busto frontal completamente apoiado, cotovelos sobre suporte oculto, mãos simétricas abaixo do rosto, respiração mínima e expressão mantida durante toda a sequência. Preserve poros, fios de cabelo, tecido e joias com detalhe fino e cor limpa, sem false color. Não deve existir ghosting entre quadros em olhos, cílios, boca ou dedos. Resultado natural de alta resolução, não oversharpened. Sem movimento, duplicação de contorno, halos de nitidez, pele plástica, microtextura inventada, texto ou logotipos.
 ```
 
 ### Prompt em inglês
 
 ```text
-Fine-art portrait of an adult [model] through clear glass placed 5–15 cm in front of the lens. Apply thick transparent optical gel in vertical and diagonal brush strokes over hair, one side of the face, shoulder and chest, leaving the nearest eye, pupil, nostril and mouth in a clean area. Use a three-quarter bust pose, slight head tilt and one hand below the chin. Light with a large front-side softbox, use an 85–105mm lens at f/4–f/5.6 and a light-gray background. Refraction must follow the brush strokes while uncovered areas stay sharp. No sprayed Perspex, uniform haze, rainbow prism, digital liquify, duplicated facial features, text or logos.
+Ultra-detailed beauty portrait of an adult [model] using medium-format Pixel Shift Multi-Shot, equivalent to a 16-frame sequence with half-pixel sensor shifts combined into an approximately 400MP file. Lock the camera on a rigid tripod, use a 110mm lens at f/8, manual focus locked on the eyes and perfectly stable high-CRI continuous LED lighting. Direct the model in a fully supported frontal bust pose, elbows on a hidden support, hands symmetrical below the face, minimal breathing and an unchanged expression throughout the sequence. Preserve pores, individual hair, fabric and jewelry with fine detail and clean color, with virtually no false color. There must be no inter-frame ghosting in eyes, lashes, mouth or fingers. The result should look naturally high resolution, not oversharpened. No movement, doubled contours, sharpening halos, plastic skin, invented microtexture, text or logos.
 ```
 
-**Restrição opcional:** `gel pincelado em vidro; distorção só sob as pinceladas; sem Perspex pulverizado, arco-íris ou liquify digital`.
+**Restrição opcional:** `modelo absolutamente imóvel; detalhe real sem false color; sem ghosting, contornos duplicados, oversharpening ou pele plástica`.
 
-**Por que funciona:** O gel espesso altera localmente a refração conforme a direção das pinceladas, diferente da difusão pulverizada do ID 122.
+**Por que funciona:** Pixel shift combina múltiplas exposições com deslocamentos controlados do sensor para aumentar informação espacial e cromática; por isso pose, câmera e iluminação precisam permanecer invariáveis entre os quadros.
 
 ---
