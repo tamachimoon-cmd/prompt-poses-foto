@@ -1,6 +1,6 @@
 # Referências e Metodologia
 
-Pesquisa inicial realizada em **2 de agosto de 2026** e ampliada em **3, 4, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27 e 28 de agosto de 2026**. A curadoria prioriza documentação oficial de geração de imagens, materiais educacionais de fabricantes reconhecidos, instituições acadêmicas, museus, arquivos públicos, literatura técnica e estudos de caso primários quando a técnica exige base óptica, temporal, espectral, analógica ou computacional.
+Pesquisa inicial realizada em **2 de agosto de 2026** e ampliada em **3, 4, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28 e 29 de agosto de 2026**. A curadoria prioriza documentação oficial de geração de imagens, materiais educacionais de fabricantes reconhecidos, instituições acadêmicas, museus, arquivos públicos, literatura técnica e estudos de caso primários quando a técnica exige base óptica, temporal, espectral, analógica ou computacional.
 
 ## Critérios usados
 
@@ -46,6 +46,11 @@ Pesquisa inicial realizada em **2 de agosto de 2026** e ampliada em **3, 4, 6, 7
 - Estereoscopia depende de duas vistas com disparidade horizontal coerente; anáglifo é uma forma de codificar essas vistas por canais de cor.
 - Separação tricromática sequencial recompõe cor a partir de registros filtrados; movimento entre registros pode produzir bordas cromáticas temporais localizadas.
 - Materiais transparentes irregulares em primeiro plano devem ter área de efeito delimitada para evitar deriva anatômica.
+- Darkfield exclui a iluminação direta do eixo da lente e depende de luz refletida, refratada ou espalhada pelo objeto para formar contraste sobre fundo escuro.
+- Termografia LWIR registra radiação térmica emitida e deve ser distinguida de fotografia NIR, filtros coloridos e composições que apenas imitam mapas de calor.
+- Freelensing usa uma lente fisicamente desacoplada do mount, alterando o plano focal e permitindo vazamentos de luz pela folga óptica.
+- Fotogrametria humana funciona melhor com múltiplas vistas simultâneas, iluminação uniforme e pose aberta o bastante para reduzir oclusões.
+- Solarização Sabattier é reversão tonal parcial provocada por uma segunda exposição durante o desenvolvimento; não é mera inversão digital.
 
 ## Fontes consolidadas
 
@@ -226,20 +231,6 @@ Pesquisa inicial realizada em **2 de agosto de 2026** e ampliada em **3, 4, 6, 7
 59. Adobe Learn — Generate realistic photos with a prompt formula in Firefly — 2026  
     https://www.adobe.com/learn/firefly/web/generate-realistic-photos
 
-## Atualização de 28 de agosto de 2026
-
-Foram selecionados cinco mecanismos que não aparecem entre os 130 títulos anteriores:
-
-- **net scrim seletivo em hard key**, reduzindo intensidade em parte do corpo sem alterar a dureza da sombra;
-- **reflexo em espelho com óleo periférico**, usando a própria superfície refletora como textura óptica e preservando o centro facial limpo;
-- **LED volume ICVFX**, com perspectiva rastreada, integração de foreground físico e contribuição luminosa do cenário virtual;
-- **wet-plate collodion contemporâneo**, em que a direção da pose responde à necessidade de estabilidade durante uma exposição prolongada;
-- **Pixel Shift Multi-Shot**, explorando captura multiquadro de altíssima resolução com sujeito e iluminação imóveis.
-
-Na direção de modelos, foi reforçado o uso de instruções claras, realistas e executáveis, com atenção específica às mãos, espaço de movimento e relação entre pose e produto/figurino. Na engenharia de prompts, a pesquisa de 20 de agosto de 2026 da Adobe reforça que lente, abertura, iluminação e composição devem ser explicitadas quando forem relevantes, reduzindo decisões deixadas ao modelo.
-
-### Novas fontes verificadas em 28 de agosto de 2026
-
 60. B&H eXplora — Using Scrims and Flags for Portraits  
     https://www.bhphotovideo.com/explora/photography/tips-and-solutions/using-scrims-and-flags-for-portraits
 
@@ -263,6 +254,59 @@ Na direção de modelos, foi reforçado o uso de instruções claras, realistas 
 
 67. B&H eXplora — Five Budget-Friendly Professional Lighting Strategies for Creators — agosto de 2026  
     https://www.bhphotovideo.com/explora/photography/tips-and-solutions/five-budget-friendly-professional-lighting-strategies-for-creators
+
+## Atualização de 28 de agosto de 2026
+
+Foram selecionados cinco mecanismos que não aparecem entre os 130 títulos anteriores:
+
+- **net scrim seletivo em hard key**, reduzindo intensidade em parte do corpo sem alterar a dureza da sombra;
+- **reflexo em espelho com óleo periférico**, usando a própria superfície refletora como textura óptica e preservando o centro facial limpo;
+- **LED volume ICVFX**, com perspectiva rastreada, integração de foreground físico e contribuição luminosa do cenário virtual;
+- **wet-plate collodion contemporâneo**, em que a direção da pose responde à necessidade de estabilidade durante uma exposição prolongada;
+- **Pixel Shift Multi-Shot**, explorando captura multiquadro de altíssima resolução com sujeito e iluminação imóveis.
+
+Na direção de modelos, foi reforçado o uso de instruções claras, realistas e executáveis, com atenção específica às mãos, espaço de movimento e relação entre pose e produto/figurino. Na engenharia de prompts, a pesquisa de 20 de agosto de 2026 da Adobe reforça que lente, abertura, iluminação e composição devem ser explicitadas quando forem relevantes, reduzindo decisões deixadas ao modelo.
+
+## Atualização de 29 de agosto de 2026
+
+Foram selecionados cinco mecanismos ausentes dos 135 títulos anteriores:
+
+- **darkfield aplicado a acrílico transparente**, separando a iluminação facial da luz oblíqua que revela apenas bordas e microtexturas do material;
+- **termografia LWIR 7,5–14 µm**, baseada em radiação térmica emitida e em separação de emissividade/temperatura, não em infravermelho próximo;
+- **freelensing com lente desacoplada**, usando a própria folga física para inclinar o plano focal e admitir um único vazamento de luz controlado;
+- **fotogrametria full-body multicâmera**, em que pose aberta, iluminação uniforme e disparo simultâneo sustentam correspondência geométrica entre vistas;
+- **solarização Sabattier**, processo de laboratório com segunda exposição durante o desenvolvimento, reversão tonal parcial e linhas de contorno características.
+
+Para direção de modelos, a pesquisa atual reforçou instruções executáveis para mãos, braços e interação com props, evitando oclusões e ambiguidades. Para engenharia de prompts, OpenAI e Adobe continuam convergindo na necessidade de descrever propósito, sujeito, ação, relações espaciais, lente, iluminação, composição e restrições quando esses elementos forem determinantes.
+
+### Novas fontes verificadas em 29 de agosto de 2026
+
+68. Nikon MicroscopyU — Darkfield Illumination  
+    https://www.microscopyu.com/techniques/stereomicroscopy/darkfield-illumination
+
+69. Edmund Optics — Understanding Microscopes and Objectives / Darkfield Illumination  
+    https://www.edmundoptics.com/knowledge-center/application-notes/microscopy/understanding-microscopes-and-objectives
+
+70. FLIR — TG165-X Thermal Camera / especificações espectrais  
+    https://www.flir.com/pt-br/products/tg165-x/
+
+71. FLIR Support — emissividade e parâmetros de medição térmica  
+    https://support.flir.com/docdownload/assets/web/27eh/en-us/T505000.xml.html
+
+72. B&H — Freelensing Cine System / movimento independente de lente  
+    https://www.bhphotovideo.com/c/product/1721754-REG/freelensing_frls_freelensingcd_cine_system.html/overview
+
+73. Adobe Substance 3D Sampler — 3D Capture / photogrammetry — atualizado em 18/08/2026  
+    https://experienceleague.adobe.com/pt-br/docs/substance-3d-sampler/using/features-and-workflows/3d-capture
+
+74. Capturing Reality — Full Body Scanning with Backface / 96 câmeras simultâneas  
+    https://www.capturingreality.com/FullBody-Scanning-with-Backface
+
+75. The Metropolitan Museum of Art — An Overlooked Partnership: Man Ray and Lee Miller / Sabattier effect  
+    https://www.metmuseum.org/de/perspectives/man-ray-lee-miller
+
+76. The Metropolitan Museum of Art — Lillian Bassman, Solarized Fashion Study  
+    https://www.metmuseum.org/art/collection/search/933658
 
 ## Autoria
 
