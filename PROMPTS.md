@@ -1,6 +1,6 @@
-# 140 Prompts de Fotografia de Estúdio e Poses de Modelo
+# 145 Prompts de Fotografia de Estúdio e Poses de Modelo
 
-Catálogo principal consolidado. Os prompts 1–135 permanecem acessíveis pelo catálogo JSON, arquivos históricos ou revisões permanentes; os prompts 136–140 estão completos nesta página.
+Catálogo principal consolidado. Os prompts 1–140 permanecem acessíveis pelo catálogo JSON, arquivos históricos ou revisões permanentes; os prompts 141–145 estão completos nesta página.
 
 ## Índice consolidado
 
@@ -144,125 +144,128 @@ Catálogo principal consolidado. Os prompts 1–135 permanecem acessíveis pelo 
 138. Freelensing 50 mm com cunha de foco e vazamento único de luz
 139. Fotogrametria full-body em matriz multicâmera com pose estática tridimensional
 140. Solarização Sabattier em prata gelatinada com contorno de reversão tonal
+141. Light Stage por gradientes esféricos com reflectância facial separada
+142. Retrato plenóptico light-field com refoco pós-captura entre mão e olhos
+143. Pseudo-telecentricidade com Fresnel frontal e gesto sem mudança aparente de escala
+144. Separação polarimétrica difusa-especular em díptico beauty sincronizado
+145. Iluminação coaxial por beamsplitter com beauty metálico e sombra quase nula
 
 ---
 
-## 136. Darkfield de acrílico transparente com bordas luminosas e rosto separado
+## 141. Light Stage por gradientes esféricos com reflectância facial separada
 
-**Uso:** beauty tecnológico, joalheria, eyewear e editorial com materiais transparentes sem transformar o set em neon genérico.
+**Uso:** beauty técnico, digital double, estudo de pele e retrato para relighting realista.
 
-**Pose-chave:** busto em três quartos, queixo neutro, uma mão segurando um painel/acessório de acrílico transparente afastado do rosto e a outra mão baixa, sem cobrir o torso.
+**Pose-chave:** busto frontal apoiado, queixo neutro, expressão relaxada e cabelo afastado das maçãs do rosto.
 
 ### Prompt em português
 
 ```text
-Retrato editorial de estúdio de [modelo adulta] em busto três quartos diante de fundo preto profundo. A modelo segura com uma mão um acessório ou painel fino de acrílico totalmente transparente a 10–15 cm do rosto, inclinado levemente para a câmera; a outra mão permanece baixa e relaxada. Ilumine o acrílico em geometria darkfield: duas fontes estreitas e rasantes partem das laterais/traseira em ângulos oblíquos, com flags bloqueando qualquer raio direto no eixo da lente, de modo que apenas bordas, microtexturas e pequenas descontinuidades do acrílico devolvam luz para a câmera. Ilumine o rosto separadamente com uma key suave neutra e muito controlada, sem contaminar o fundo. Use lente 85 mm, f/5.6, foco no olho mais próximo. O acrílico deve permanecer majoritariamente transparente e escuro, com bordas luminosas finas e fisicamente plausíveis. Sem glow neon uniforme, sem contorno digital em todo o corpo, sem placa opaca, sem reflexo duplicando o rosto, sem flare cobrindo os olhos, mãos deformadas, texto ou logotipos.
+Retrato técnico-editorial de estúdio de [modelo adulta] capturado em um Light Stage hemisférico, enquadramento de cabeça e ombros, pose frontal apoiada, queixo neutro, expressão relaxada e cabelo afastado das laterais do rosto. A captura-base é formada por uma sequência rápida de iluminações em gradiente esférico vindas de centenas de direções, com as fontes cobertas por polarizadores lineares e a câmera alternando orientação do polarizador para separar contribuição difusa/subsuperficial da contribuição especular da pele. Apresente o resultado final como um retrato beauty fotorealista sob uma iluminação virtual única, suave e lateral, mas preserve microtextura, brilho labial, resposta especular localizada e translucidez natural da pele como se tivessem sido reconstruídos a partir da reflectância capturada. Lente equivalente a 85 mm, perspectiva neutra, olhos perfeitamente alinhados e fundo cinza médio. Sem aparência de CGI plástico, sem pele encerada, sem múltiplas direções de sombra simultâneas, sem mapa normal visível, sem duplicação facial, texto ou logotipos.
 ```
 
 ### Prompt em inglês
 
 ```text
-Studio editorial portrait of an adult [model] in a three-quarter bust pose against a deep black background. The model holds a thin fully transparent acrylic accessory or panel 10–15 cm away from the face with one hand, slightly angled toward camera; the other hand stays low and relaxed. Light the acrylic using darkfield geometry: two narrow grazing sources come from the sides/rear at oblique angles, with flags blocking any direct ray from reaching the lens axis, so only edges, micro-texture and small discontinuities in the acrylic scatter light back to camera. Light the face separately with a tightly controlled soft neutral key that does not contaminate the background. Use an 85mm lens at f/5.6 and focus on the nearest eye. The acrylic should remain mostly transparent and dark, with thin physically plausible luminous edges. No uniform neon glow, digital outline around the whole body, opaque panel, duplicated facial reflection, flare covering the eyes, malformed hands, text or logos.
+Technical-editorial studio portrait of an adult [model] captured inside a hemispherical Light Stage, framed head-and-shoulders, with a supported frontal pose, neutral chin, relaxed expression and hair kept away from the cheekbones. The source capture consists of a rapid sequence of spherical-gradient illumination patterns arriving from hundreds of directions, with linear polarizers on the lights and camera-polarizer orientation alternated to separate diffuse/subsurface skin response from specular response. Present the final image as one photorealistic beauty portrait under a single soft virtual side light, while preserving pores, localized lip shine, controlled facial specularity and natural skin translucency as if reconstructed from measured reflectance. Use an 85mm-equivalent perspective, perfectly aligned eyes and a medium-gray background. No plastic CGI skin, waxy texture, simultaneous conflicting shadow directions, visible normal map, duplicated face, text or logos.
 ```
 
-**Restrição opcional:** `darkfield real: luz direta bloqueada da lente; acrílico majoritariamente escuro e transparente; somente bordas e microtexturas acesas`.
+**Restrição opcional:** `uma única iluminação final coerente; reflectância separada e recomposta; sem pele plástica, mapa normal, múltiplas sombras conflitantes ou rosto duplicado.`
 
-**Por que funciona:** Em darkfield, a iluminação direta é excluída do eixo óptico e o objeto aparece porque reflete, refrata ou espalha luz oblíqua. Em material transparente isso cria contraste alto nas bordas sem exigir um fundo iluminado.
+**Por que funciona:** Light Stages capturam a resposta do rosto sob muitas direções de iluminação; gradientes esféricos e polarização permitem estimar componentes de reflectância e depois relightar o retrato de forma consistente.
 
 ---
 
-## 137. Termografia LWIR 7,5–14 µm com gesto térmico e fundo frio
+## 142. Retrato plenóptico light-field com refoco pós-captura entre mão e olhos
 
-**Uso:** retrato experimental, ciência visual, capa tecnológica e conceito futurista baseado em termografia real, não em falso filtro térmico.
+**Uso:** editorial tecnológico, publicidade interativa e experimentação de profundidade com refoco posterior.
 
-**Pose-chave:** busto frontal, uma palma aberta a cerca de 5 cm da bochecha sem tocar a pele, outra mão abaixo do enquadramento e ombros nivelados.
+**Pose-chave:** busto três quartos, uma mão avançada cerca de 25 cm à frente do rosto e os dois olhos no mesmo plano.
 
 ### Prompt em português
 
 ```text
-Retrato termográfico real de [modelo adulta] capturado por câmera LWIR com microbolômetro na faixa aproximada de 7,5–14 µm, enquadramento de cabeça e ombros e campo de visão equivalente a uma lente térmica de cerca de 24°. Direcione a modelo frontalmente, ombros relaxados, uma palma aberta pairando cerca de 5 cm ao lado da bochecha sem contato, criando duas superfícies térmicas distintas no mesmo plano visual. Use fundo de alta emissividade deliberadamente mais frio que a pele e ambiente estável, sem iluminação visível necessária para formar a imagem. Renderize a leitura em paleta White Hot ou Iron, com transições térmicas contínuas e detalhe facial coerente; trate a pele como superfície de alta emissividade, aproximadamente 0,97–0,98. A mão não deve parecer colada ao rosto e o fundo precisa permanecer termicamente separado. Sem chamas, sem visão de raio-X, sem veias inventadas, sem efeito 720 nm, sem iluminação neon visível, sem contorno MSX de câmera comum, sem mapa térmico arbitrário, texto ou logotipos.
+Retrato plenóptico de estúdio de [modelo adulta] capturado por câmera light-field com matriz de microlentes sobre o sensor. Direcione a modelo em busto três quartos, com os dois olhos praticamente coplanares e uma mão avançada cerca de 25 cm em direção à câmera, dedos separados de forma natural. Use iluminação contínua ampla e estável, fundo com três practicals pequenos em profundidades diferentes e enquadramento equivalente a 50 mm. A imagem final deve representar uma visualização refocada após a captura: olhos e cílios estão criticamente nítidos, a mão frontal aparece suavemente fora de foco e os practicals traseiros formam bokeh; inclua apenas uma faixa estreita na borda direita mostrando uma segunda subvisão angular coerente, com pequeno parallax lateral, para deixar claro que o arquivo contém informação de campo de luz. Sem split diopter, sem foco impossível simultâneo em todos os planos, sem panorama, sem estereograma anáglifo, sem múltiplas cabeças, dedos extras, texto ou logotipos.
 ```
 
 ### Prompt em inglês
 
 ```text
-True thermographic portrait of an adult [model] captured with an LWIR microbolometer camera in the approximate 7.5–14 µm spectral range, framed as a head-and-shoulders image with a thermal-lens field of view around 24°. Direct the model frontally with relaxed shoulders and one open palm hovering about 5 cm beside the cheek without touching it, creating two distinct thermal surfaces in the same visual plane. Use a high-emissivity background deliberately cooler than the skin and a stable environment; visible-light illumination is not required to form the thermal image. Render the reading in a White Hot or Iron palette with continuous thermal gradients and coherent facial structure, treating human skin as a high-emissivity surface around 0.97–0.98. The hand must not look fused to the face and the background must remain thermally separated. No flames, X-ray vision, invented veins, 720nm near-IR look, visible neon lighting, ordinary-camera MSX outlines, arbitrary heat-map colors, text or logos.
+Studio plenoptic portrait of an adult [model] captured with a light-field camera using a microlens array over the sensor. Direct the model in a three-quarter bust pose with both eyes nearly coplanar and one hand extended about 25 cm toward the camera, fingers naturally separated. Use broad stable continuous lighting, a background with three small practical lights at different depths and a 50mm-equivalent framing. The final image should represent one post-capture refocused view: eyes and eyelashes critically sharp, the forward hand softly defocused and rear practicals rendered as bokeh; include only a narrow strip along the right edge showing a coherent secondary angular sub-view with slight lateral parallax to make the light-field nature explicit. No split diopter, impossible all-depth focus, panorama, anaglyph stereogram, duplicated heads, extra fingers, text or logos.
 ```
 
-**Restrição opcional:** `LWIR 7,5–14 µm real; pele de alta emissividade; fundo mais frio; sem NIR 720 nm, raio-X, chamas ou falso filtro térmico`.
+**Restrição opcional:** `refoco pós-captura em um único plano; parallax discreto e coerente; sem split diopter, foco total impossível, anáglifo ou duplicação facial.`
 
-**Por que funciona:** Termografia LWIR mede radiação térmica emitida, não luz visível refletida. Isso a diferencia radicalmente do infravermelho fotográfico de 720 nm já presente no catálogo; pose e fundo são dirigidos para criar separação térmica, não apenas contraste luminoso.
+**Por que funciona:** Câmeras plenópticas registram várias subvisões por uma matriz de microlentes, armazenando informação angular além da intensidade; isso permite refoco e pequenas mudanças de ponto de vista depois da captura.
 
 ---
 
-## 138. Freelensing 50 mm com cunha de foco e vazamento único de luz
+## 143. Pseudo-telecentricidade com Fresnel frontal e gesto sem mudança aparente de escala
 
-**Uso:** retrato editorial orgânico, capa musical e estética in-camera com foco seletivo irregular e light leak controlado.
+**Uso:** beauty conceitual, retrato de produto e experimentação óptica com perspectiva deliberadamente achatada.
 
-**Pose-chave:** rosto em três quartos, olho mais próximo alinhado à cunha de foco, ombro oposto recuado e uma mão avançando para uma região deliberadamente desfocada.
+**Pose-chave:** busto frontal, uma mão 15–20 cm à frente do rosto segurando um objeto pequeno e a outra junto ao torso.
 
 ### Prompt em português
 
 ```text
-Retrato editorial de [modelo adulta] feito por freelensing com uma lente normal de aproximadamente 50 mm fisicamente desacoplada do mount por poucos milímetros e inclinada levemente para baixo e para a direita. Enquadre o rosto em três quartos e alinhe o olho mais próximo à estreita cunha de foco criada pelo plano óptico inclinado; deixe o ombro distante e uma mão avançada cair progressivamente em blur assimétrico. Cubra quase toda a folga entre lente e câmera com tecido preto, deixando apenas uma pequena abertura no canto superior esquerdo para produzir um único vazamento de luz quente, suave e localizado. Use uma key neutra lateral ampla e fundo cinza escuro, exposição controlada para preservar pele e highlights. O efeito precisa parecer óptico e in-camera: foco irregular contínuo, leve perda de contraste periférica e um só light leak. Sem miniatura tilt-shift, sem múltiplos flares, sem lente flutuando visível no quadro, sem blur radial, sem rosto duplicado, sem olhos desalinhados, mãos deformadas, texto ou logotipos.
+Retrato conceitual de estúdio de [modelo adulta] em busto frontal usando um sistema de imagem pseudo-telecêntrico de campo amplo: lente fixa de aproximadamente 25 mm combinada com uma grande lente Fresnel coaxial posicionada à frente para reduzir o campo angular e a variação de magnificação com a profundidade. A modelo mantém o rosto frontal e uma mão 15–20 cm mais próxima da câmera segurando [objeto pequeno], enquanto a outra mão permanece junto ao torso. O objeto frontal e as proporções do rosto devem conservar escalas aparentes incomumente semelhantes apesar da diferença de distância, com linhas quase paralelas e forte redução de perspectiva, sem o aspecto comprimido de uma teleobjetiva distante. Iluminação suave bilateral, fundo quadriculado técnico muito discreto, foco suficiente no rosto e na mão, estética limpa de laboratório editorial. Aceite leve aberração cromática periférica compatível com uma solução pseudo-telecêntrica baseada em Fresnel. Sem efeito fisheye, sem perspectiva forçada de objeto gigante, sem Fresnel visível como prop diante do rosto, sem anéis de magnificação local, sem mãos deformadas, texto ou logotipos.
 ```
 
 ### Prompt em inglês
 
 ```text
-Editorial portrait of an adult [model] created through freelensing with an approximately 50mm normal lens physically detached from the camera mount by a few millimeters and tilted slightly downward and to the right. Frame the face in three-quarter view and align the nearest eye with the narrow wedge of focus created by the tilted optical plane; let the far shoulder and a forward hand fall progressively into asymmetric blur. Cover most of the lens-to-camera gap with black fabric, leaving only a small opening at the upper-left corner to create one soft localized warm light leak. Use a broad neutral side key and dark-gray background, controlling exposure to preserve skin and highlights. The result must feel optical and in-camera: continuous irregular focus falloff, slight peripheral contrast loss and one light leak only. No tilt-shift miniature look, multiple flares, visibly floating lens inside the frame, radial blur, duplicated face, misaligned eyes, malformed hands, text or logos.
+Conceptual studio portrait of an adult [model] in a frontal bust pose using a wide-field pseudo-telecentric imaging system: an approximately 25mm fixed lens augmented by a large coaxial Fresnel lens placed in front to reduce angular field and magnification change with depth. Keep the face frontal while one hand sits 15–20 cm closer to camera holding a [small object], with the other hand near the torso. The foreground object and facial proportions should retain unusually similar apparent scale despite their depth difference, with nearly parallel lines and strongly reduced perspective, without the look of ordinary long-lens compression from far away. Use soft bilateral lighting, a very subtle technical grid background and enough focus across face and hand, with a clean laboratory-editorial aesthetic. Allow slight peripheral chromatic aberration consistent with a Fresnel-based pseudo-telecentric solution. No fisheye look, giant-object forced perspective, visible Fresnel prop crossing the face, local magnification rings, malformed hands, text or logos.
 ```
 
-**Restrição opcional:** `lente fisicamente desacoplada; uma única cunha de foco e um único light leak; sem miniatura tilt-shift ou blur radial`.
+**Restrição opcional:** `escala quase invariável com profundidade; perspectiva reduzida por pseudo-telecentricidade; sem fisheye, perspectiva forçada, Fresnel visível ou magnificação localizada.`
 
-**Por que funciona:** Freelensing altera o plano focal e admite vazamentos de luz porque a lente deixa de estar rigidamente alinhada e selada ao sensor. O mecanismo é diferente de uma tilt-shift montada ou de uma Lensbaby dedicada, apesar de compartilhar parte da linguagem de foco seletivo.
+**Por que funciona:** Sistemas telecêntricos reduzem parallax e mantêm magnificação mais constante com a distância. Para campos maiores, uma lente comum pode ser aumentada com uma Fresnel, formando uma solução pseudo-telecêntrica com compromissos de qualidade.
 
 ---
 
-## 139. Fotogrametria full-body em matriz multicâmera com pose estática tridimensional
+## 144. Separação polarimétrica difusa-especular em díptico beauty sincronizado
 
-**Uso:** digital double, referência de personagem, moda 3D, fitting virtual e criação de ativos com geometria corporal consistente.
+**Uso:** beauty técnico, cosméticos, dermatologia visual não diagnóstica e estudo de materiais de pele/maquiagem.
 
-**Pose-chave:** corpo inteiro em base estável, pés separados cerca de 25 cm, braços levemente afastados do torso, dedos separados e cabeça neutra, sem cruzamentos ou oclusões desnecessárias.
+**Pose-chave:** headshot frontal perfeitamente imóvel, queixo neutro e lábios relaxados.
 
 ### Prompt em português
 
 ```text
-Crie uma prancha editorial de captura fotogramétrica full-body de [modelo adulta] em exatamente três vistas consistentes do mesmo instante: frontal, três quartos e posterior. A captura original acontece dentro de uma matriz circular de aproximadamente 80–100 câmeras sincronizadas, todas disparando simultaneamente, com iluminação ampla, uniforme e de baixo contraste para preservar textura e facilitar correspondência entre imagens. Direcione a modelo em pose estática tridimensional sustentável: pés separados cerca de 25 cm, peso equilibrado, braços 10–15 cm afastados do torso, dedos naturalmente separados, cabeça neutra e cabelo controlado para não ocultar pescoço ou ombros. Use fundo neutro fosco e marcadores de calibração discretos apenas no chão, nunca sobre o corpo. As três vistas devem mostrar exatamente a mesma roupa, anatomia, expressão, pregas e posição dos dedos, como se viessem de um único mesh texturizado reconstruído por fotogrametria. Sem mudança de pose entre vistas, sem bullet-time, sem motion blur, sem câmera orbitando durante a exposição, sem membros extras, geometria incompatível, textura inventada, texto ou logotipos.
+Díptico fotográfico de beauty de [modelo adulta] capturado no mesmo instante por sensor polarimétrico, com headshot frontal perfeitamente imóvel, queixo neutro, olhos na lente e lábios relaxados. Ilumine com uma fonte branca ampla e controlada. O painel esquerdo mostra a componente predominantemente difusa reconstruída: cor de pele, pigmento e textura de base preservados, com highlights especulares fortemente reduzidos. O painel direito mostra a componente predominantemente especular isolada sobre fundo quase preto: apenas brilhos fisicamente plausíveis na testa, ponta do nariz, lábios, maçãs do rosto, olhos e áreas cosméticas lustrosas, mantendo exatamente a mesma geometria facial. Use lente 100 mm macro em enquadramento de rosto, exposição e white balance calibrados. Os dois painéis devem se alinhar pixel a pixel como duas decomposições da mesma captura polarimétrica, não duas fotos independentes. Sem cross-polarized beauty comum apresentado como única imagem, sem textura dermatológica exagerada, sem falso mapa de profundidade, sem brilho desenhado à mão, sem diferença de pose, texto ou logotipos.
 ```
 
 ### Prompt em inglês
 
 ```text
-Create an editorial full-body photogrammetry capture sheet of an adult [model] shown in exactly three geometrically consistent views of the same instant: front, three-quarter and back. The original capture takes place inside a circular array of approximately 80–100 synchronized cameras firing simultaneously, with broad even low-contrast lighting to preserve texture and support image matching. Direct the model into a sustainable static 3D-capture pose: feet about 25 cm apart, weight balanced, arms held 10–15 cm away from the torso, fingers naturally separated, head neutral and hair controlled so it does not hide the neck or shoulders. Use a matte neutral background and subtle calibration markers only on the floor, never on the body. All three views must show exactly the same clothing, anatomy, expression, folds and finger positions, as if derived from one textured photogrammetry mesh. No pose change between views, bullet-time, motion blur, camera orbit during exposure, extra limbs, inconsistent geometry, invented texture, text or logos.
+Beauty photographic diptych of an adult [model] captured at the same instant with a polarimetric sensor, using a perfectly still frontal headshot, neutral chin, eyes into lens and relaxed lips. Light with one broad controlled white source. The left panel shows the predominantly diffuse reconstructed component: skin color, pigment and foundation texture preserved while specular highlights are strongly suppressed. The right panel shows the predominantly specular component isolated against near-black: only physically plausible highlights on forehead, nose tip, lips, cheekbones, eyes and glossy cosmetics, with exactly the same facial geometry. Use a 100mm macro lens for face framing with calibrated exposure and white balance. Both panels must align pixel-for-pixel as two decompositions of the same polarimetric capture, not two independent photographs. No ordinary single-image cross-polarized beauty, exaggerated clinical skin texture, fake depth map, hand-painted shine, pose mismatch, text or logos.
 ```
 
-**Restrição opcional:** `três vistas do mesmo instante e da mesma pose; geometria idêntica entre ângulos; câmeras simultâneas; sem bullet-time ou mudanças de anatomia`.
+**Restrição opcional:** `díptico alinhado da mesma captura; componente difusa e especular separadas; sem duas poses, mapa de profundidade, brilho inventado ou beauty cross-polarized simples.`
 
-**Por que funciona:** Fotogrametria reconstrói forma 3D a partir de correspondências entre várias fotografias sobrepostas. Em captura humana profissional, muitas câmeras sincronizadas reduzem o problema do movimento e exigem pose aberta o bastante para evitar oclusões entre braços, torso e dedos.
+**Por que funciona:** Imagens polarimétricas podem explorar diferenças no estado de polarização para separar aproximadamente reflexão difusa e especular, permitindo analisar e recompor aparência de superfície.
 
 ---
 
-## 140. Solarização Sabattier em prata gelatinada com contorno de reversão tonal
+## 145. Iluminação coaxial por beamsplitter com beauty metálico e sombra quase nula
 
-**Uso:** retrato fine art, moda surrealista e capa editorial com processo analógico de laboratório claramente identificável.
+**Uso:** beauty gráfico, maquiagem metálica, joalheria frontal e retrato com reflexão axial extremamente controlada.
 
-**Pose-chave:** perfil três quartos com queixo levemente elevado, um braço separado do torso e mão visível de lado para criar fronteiras tonais limpas.
+**Pose-chave:** headshot frontal, um ombro levemente avançado e queixo alinhado ao eixo da câmera.
 
 ### Prompt em português
 
 ```text
-Retrato preto e branco de [modelo adulta] pensado como impressão em prata gelatinada solarizada pelo efeito Sabattier. Fotografe em estúdio com pose de perfil três quartos, queixo levemente elevado, um braço afastado do torso e mão vista de lado para criar bordas tonais claras; use uma key lateral dura moderada e fundo cinza uniforme. Durante a revelação da cópia, uma breve segunda exposição à luz provoca reversão tonal parcial: algumas áreas claras escurecem, partes das sombras se levantam e linhas de contorno finas aparecem nas fronteiras de maior contraste do rosto, cabelo, braço e roupa. Preserve textura real de prata, grão fino e ampla faixa de cinzas. O resultado deve permanecer legível como retrato fotográfico, não como negativo completo. Sem sépia, sem inversão total de preto e branco, sem glow digital, sem contorno vetorial uniforme, sem posterização agressiva, sem duplicação de rosto ou membros, texto ou logotipos.
+Headshot beauty de estúdio de [modelo adulta] com maquiagem metálica localizada nas pálpebras e uma pequena joia frontal, capturado através de um beamsplitter fino a 45° diante da lente. Uma fonte LED branca difusa fica lateralmente fora do eixo e é refletida pelo beamsplitter exatamente para o eixo óptico, criando iluminação coaxial verdadeira: sombra facial quase nula, reflexos frontais simétricos e leitura uniforme das superfícies brilhantes. A câmera fotografa através do beamsplitter; a modelo permanece frontal, queixo alinhado ao eixo, um ombro discretamente avançado para evitar rigidez. Use 85 mm, f/8, fundo preto fosco mantido fora do feixe e flags para impedir spill. Preserve um único catchlight axial compacto em cada olho e highlights metálicos controlados, sem aparência de ring flash circular. Sem halo circular atrás da cabeça, sem dois catchlights por olho, sem reflexo fantasma do beamsplitter, sem brilho estourado, sem duplicação facial, texto ou logotipos.
 ```
 
 ### Prompt em inglês
 
 ```text
-Black-and-white portrait of an adult [model] conceived as a gelatin-silver print solarized through the Sabattier effect. Photograph in studio with a three-quarter profile pose, chin slightly raised, one arm separated from the torso and the hand seen edge-on to create clear tonal boundaries; use a moderately hard side key and an even gray background. During print development, a brief second exposure to light causes partial tonal reversal: some highlights darken, portions of the shadows lift and thin contour lines emerge along high-contrast boundaries of the face, hair, arm and clothing. Preserve genuine silver-print texture, fine grain and a broad range of grays. The result must remain readable as a photographic portrait rather than a fully inverted negative. No sepia, total black-white inversion, digital glow, uniform vector outline, aggressive posterization, duplicated face or limbs, text or logos.
+Studio beauty headshot of an adult [model] with localized metallic eye makeup and one small frontal jewelry piece, photographed through a thin 45-degree beamsplitter placed in front of the lens. A diffused white LED source sits laterally off-axis and is reflected by the beamsplitter precisely onto the optical axis, creating true coaxial illumination: almost no facial shadow, symmetrical frontal reflections and even rendering of glossy surfaces. The camera shoots through the beamsplitter; keep the model frontal with chin aligned to camera and one shoulder subtly advanced to avoid stiffness. Use an 85mm lens at f/8, a matte black background kept outside the beam and flags to stop spill. Preserve one compact axial catchlight in each eye and controlled metallic highlights, without a circular ring-flash look. No circular halo behind the head, double catchlights, beamsplitter ghost reflection, clipped shine, duplicated face, text or logos.
 ```
 
-**Restrição opcional:** `solarização Sabattier parcial em prata gelatinada; reversão tonal localizada e linhas de contorno; sem negativo completo, sépia ou posterização`.
+**Restrição opcional:** `luz coaxial real via beamsplitter; um catchlight axial por olho; sem ring flash circular, ghost reflection, halo ou highlights estourados.`
 
-**Por que funciona:** O efeito Sabattier ocorre quando negativo ou cópia recebe uma segunda exposição durante o desenvolvimento, provocando reversão parcial de tons e contornos característicos. É um mecanismo químico de laboratório, não um preset de inversão digital.
-
----
+**Por que funciona:** Iluminação coaxial dobra uma fonte lateral para o mesmo eixo da câmera com um beamsplitter. Em superfícies frontais brilhantes, isso reduz sombras e torna a reflexão especular altamente previsível.

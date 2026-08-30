@@ -1,35 +1,27 @@
 # Prompt Poses Foto
 
-Coleção curada de **140 prompts reutilizáveis para fotografia de estúdio com modelos adultos**, cobrindo retrato beauty, editorial, corpo inteiro, movimento, iluminação clássica e experimental, modificadores ópticos, composição, direção de pose, captura em espectros alternativos, técnicas computacionais, processos analógicos e linguagem de lentes.
+Coleção curada de **145 prompts reutilizáveis para fotografia de estúdio com modelos adultos**, cobrindo retrato beauty, editorial, corpo inteiro, movimento, iluminação clássica e experimental, modificadores ópticos, composição, direção de pose, captura em espectros alternativos, técnicas computacionais, processos analógicos e linguagem de lentes.
 
 Os prompts seguem uma estrutura consistente: finalidade, modelo e figurino, pose, enquadramento, iluminação, lente ou mecanismo de captura, textura, fundo e restrições anatômicas.
 
 ## Conteúdo
 
-- [`PROMPTS.md`](PROMPTS.md): índice consolidado e conteúdo integral dos prompts 136–140.
-- [`prompts.json`](prompts.json): catálogo estruturado com IDs 1–140 e conteúdo integral dos cinco prompts mais recentes.
-- [`prompts/archive-through-135.json`](prompts/archive-through-135.json): cópia exata do catálogo detalhado anterior, preservando os dados estruturados dos prompts 131–135.
-- [`prompts/archive-through-130.json`](prompts/archive-through-130.json): arquivo histórico anterior.
-- [`prompts/archive-through-125.json`](prompts/archive-through-125.json): arquivo histórico anterior.
-- [`prompts/archive-through-120.json`](prompts/archive-through-120.json): arquivo histórico anterior.
-- [`prompts/archive-through-115.json`](prompts/archive-through-115.json): arquivo histórico anterior.
-- [`prompts/archive-through-110.json`](prompts/archive-through-110.json): arquivo histórico anterior.
-- [`prompts/archive-through-105.json`](prompts/archive-through-105.json): arquivo histórico anterior.
-- [`prompts/archive-through-100.json`](prompts/archive-through-100.json): arquivo histórico anterior.
-- [`prompts/2026-08-03.md`](prompts/2026-08-03.md): prompts 11–15.
-- [`prompts/2026-08-04.md`](prompts/2026-08-04.md): prompts 16–20.
-- [`prompts/2026-08-07.md`](prompts/2026-08-07.md): prompts 26–30.
-- [`REFERENCIAS.md`](REFERENCIAS.md): metodologia e fontes consultadas.
+- [`PROMPTS.md`](PROMPTS.md): índice consolidado e conteúdo integral dos prompts 141–145.
+- [`prompts.json`](prompts.json): catálogo estruturado com IDs 1–145 e conteúdo integral dos cinco prompts mais recentes.
+- [`prompts/archive-through-140.json`](prompts/archive-through-140.json): cópia exata do catálogo detalhado anterior, preservando os dados estruturados dos prompts 136–140.
+- [`prompts/references-through-140.md`](prompts/references-through-140.md): snapshot integral das referências acumuladas até o ID 140.
+- Arquivos históricos anteriores dentro de [`prompts/`](prompts/).
+- [`REFERENCIAS.md`](REFERENCIAS.md): metodologia consolidada e fontes atuais desta rodada.
 
-Os IDs e títulos anteriores permanecem no catálogo principal. Os detalhes estruturados do catálogo anterior até o ID 135 são preservados no arquivo histórico permanente acima; os cinco prompts mais recentes ficam incorporados integralmente em `PROMPTS.md` e `prompts.json`.
+Os IDs e títulos anteriores permanecem no catálogo principal. Os detalhes estruturados até o ID 140 são preservados no arquivo histórico permanente; os cinco prompts mais recentes ficam incorporados integralmente em `PROMPTS.md` e `prompts.json`.
 
 ## Novos estilos adicionados
 
-136. Darkfield de acrílico transparente com bordas luminosas e rosto separado
-137. Termografia LWIR 7,5–14 µm com gesto térmico e fundo frio
-138. Freelensing 50 mm com cunha de foco e vazamento único de luz
-139. Fotogrametria full-body em matriz multicâmera com pose estática tridimensional
-140. Solarização Sabattier em prata gelatinada com contorno de reversão tonal
+141. Light Stage por gradientes esféricos com reflectância facial separada
+142. Retrato plenóptico light-field com refoco pós-captura entre mão e olhos
+143. Pseudo-telecentricidade com Fresnel frontal e gesto sem mudança aparente de escala
+144. Separação polarimétrica difusa-especular em díptico beauty sincronizado
+145. Iluminação coaxial por beamsplitter com beauty metálico e sombra quase nula
 
 ## Fórmula-base
 
@@ -42,11 +34,11 @@ Os IDs e títulos anteriores permanecem no catálogo principal. Os detalhes estr
 ## Notas práticas
 
 - Descreva função, posição, direção, tamanho aparente e percurso da luz.
-- Em darkfield, bloqueie a luz direta no eixo da câmera e deixe chegar à lente apenas luz espalhada, refletida ou refratada pelo material.
-- Em termografia, diferencie LWIR real de infravermelho próximo e de filtros de cor que apenas imitam mapas térmicos.
-- Em freelensing, descreva a lente fisicamente desacoplada, o ângulo do plano focal e a posição exata do eventual vazamento de luz.
-- Em fotogrametria humana, a pose precisa ser sustentável e todas as câmeras devem registrar o mesmo instante com iluminação uniforme.
-- Em solarização Sabattier, peça reversão tonal parcial e linhas de contorno, não uma simples inversão negativa ou sépia.
+- Em captura de reflectância, diferencie a captura técnica multiquadro do retrato final relightado.
+- Em light-field, especifique o plano de refoco e mantenha o parallax discreto e coerente.
+- Em pseudo-telecentricidade, descreva invariância aproximada de escala com profundidade, não compressão de teleobjetiva.
+- Em separação polarimétrica, deixe claro que os painéis são componentes alinhados da mesma captura.
+- Em iluminação coaxial, descreva o beamsplitter e o percurso da fonte até o eixo óptico.
 - Prefira olhos nítidos quando o rosto estiver no quadro e mãos com função clara.
 - Configurações de câmera funcionam como vocabulário visual; não garantem simulação física exata.
 - Respeite consentimento, direitos de imagem e regras da plataforma.
