@@ -1,8 +1,8 @@
 # Referências e Metodologia
 
-Pesquisa inicial realizada em **2 de agosto de 2026** e ampliada continuamente até **30 de agosto de 2026**. A curadoria prioriza documentação oficial, fabricantes reconhecidos, instituições acadêmicas, museus, literatura técnica e pesquisa primária quando a técnica exige base óptica, computacional, espectral ou temporal.
+Pesquisa inicial realizada em **2 de agosto de 2026** e ampliada continuamente até **31 de agosto de 2026**. A curadoria prioriza documentação oficial, fabricantes reconhecidos, instituições acadêmicas, museus, literatura técnica e pesquisa primária quando a técnica exige base óptica, computacional, espectral ou temporal.
 
-> O snapshot integral das referências acumuladas até o ID 140 foi preservado em [`prompts/references-through-140.md`](prompts/references-through-140.md).
+> O snapshot integral das referências acumuladas até o ID 145 foi preservado em [`prompts/references-through-145.md`](prompts/references-through-145.md).
 
 ## Critérios usados
 
@@ -20,62 +20,53 @@ Pesquisa inicial realizada em **2 de agosto de 2026** e ampliada continuamente a
 - Clareza e especificidade superam listas ornamentais de adjetivos.
 - Propósito, assunto, ação, composição, iluminação, textura e restrições formam uma estrutura robusta.
 - Instruções espaciais reduzem ambiguidades.
-- Light Stage registra a resposta do rosto sob muitas direções de iluminação; polarização pode ajudar a separar componentes especulares e difusas/subsuperficiais.
-- Light-field/plenoptic captura informação angular por múltiplas subvisões, permitindo refoco e pequeno ajuste de ponto de vista depois da captura.
-- Telecentricidade reduz parallax e variação de magnificação com profundidade; soluções pseudo-telecêntricas de grande campo podem usar uma Fresnel, aceitando compromissos ópticos.
-- Separação polarimétrica difusa-especular não é sinônimo de uma única foto cross-polarized: a finalidade é decompor componentes da reflectância.
-- Iluminação coaxial usa beamsplitter para sobrepor o caminho da iluminação ao eixo de imagem, reduzindo sombras e tornando reflexos frontais previsíveis.
+- Imagem multiespectral combina bandas visíveis e invisíveis, com calibração e alinhamento entre exposições.
+- Câmeras de eventos registram mudanças assíncronas de intensidade por pixel, não quadros convencionais completos.
+- Materiais retrorefletivos de microesferas devolvem grande parte da luz em direção próxima à fonte; a proximidade fonte–câmera altera fortemente a aparência.
+- Metamerismo ocorre quando duas amostras coincidem sob um iluminante e divergem sob outro por terem curvas espectrais de reflectância diferentes.
+- Luminescência VIS-excited IR é emissão no infravermelho provocada por excitação visível; deve ser distinguida de reflectância NIR e de termografia.
 - Para geração de imagens, lente, abertura, iluminação, pose, composição e restrições devem ser explicitadas quando determinantes.
 
-## Fontes verificadas em 30 de agosto de 2026
+## Fontes verificadas em 31 de agosto de 2026
 
-1. USC Institute for Creative Technologies — The Digital Emily Project  
-   https://vgl.ict.usc.edu/Research/DigitalEmily/
+1. Phase One — Multispectral Imaging Camera Systems  
+   https://www.phaseone.com/heritage-solutions/multispectral-imaging/
 
-2. USC Institute for Creative Technologies — Light Stage 2.0  
-   https://vgl.ict.usc.edu/Research/LS2/
+2. Phase One — Modular Digitization at Herzogin Anna Amalia Library  
+   https://www.phaseone.com/inspiration/modular-digitization-at-the-herzogin-anna-amalia-library/
 
-3. USC Institute for Creative Technologies — The Light Stages  
-   https://vgl.ict.usc.edu/LightStages/
+3. Prophesee — Event-Based Metavision Sensor GENX320  
+   https://www.prophesee.ai/event-based-sensor-genx320/
 
-4. Adobe Research — PlenoPatch: Patch-based Plenoptic Image Manipulation  
-   https://research.adobe.com/publication/plenopatch-patch-based-plenoptic-image-manipulation/
+4. 3M — Scotchlite Reflective Material 8712 Series  
+   https://www.3m.com/3M/sl_SI/p/d/b00015045/
 
-5. Edmund Optics — The Advantages of Telecentricity  
-   https://www.edmundoptics.com/knowledge-center/application-notes/imaging/advantages-of-telecentricity/
+5. X-Rite — What is Metamerism?  
+   https://www.xrite.com/service-support/what_is_metamerism
 
-6. Edmund Optics — Telecentric Lens Size Control  
-   https://www.edmundoptics.com/knowledge-center/application-notes/imaging/telecentric-lens-size-control
+6. X-Rite — Illuminants available in X-Rite hardware and software  
+   https://www.xrite.com/service-support/what_illuminants_are_available_in_xrite_hardware_and_software
 
-7. PubMed / Optics Express — Snapshot polarimetric diffuse-specular separation  
-   https://pubmed.ncbi.nlm.nih.gov/36242441/
+7. OpenAI Academy — Creating images with ChatGPT — 10/04/2026  
+   https://openai.com/academy/image-generation/
 
-8. Edmund Optics — In-line Illumination  
-   https://www.edmundoptics.com/knowledge-center/application-notes/illumination/in-line-illumination-considerations/
+8. Adobe Learn — Explore prompting basics for photographers — 20/08/2026  
+   https://www.adobe.com/learn/firefly/web/firefly-photographers-prompting-basics
 
-9. Edmund Optics / CCS — Half Mirror Coaxial Light  
-   https://www.edmundoptics.com/p/27x27mm-half-mirror-coaxial-light-white/48003/
+9. Adobe Learn — Generate realistic photos with a prompt formula in Firefly — 2026  
+   https://www.adobe.com/learn/firefly/web/generate-realistic-photos
 
-10. OpenAI Academy — Creating images with ChatGPT — 10/04/2026  
-    https://openai.com/academy/image-generation/
+## Atualização de 31 de agosto de 2026
 
-11. Adobe Learn — Explore prompting basics for photographers — 20/08/2026  
-    https://www.adobe.com/learn/firefly/web/firefly-photographers-prompting-basics
+Foram selecionados cinco mecanismos ausentes dos 145 títulos anteriores:
 
-12. Adobe Learn — Generate realistic photos with a prompt formula in Firefly — 2026  
-    https://www.adobe.com/learn/firefly/web/generate-realistic-photos
+- **reflectância multiespectral VIS–NIR alinhada**, para comparar resposta material em bandas distintas sem confundir NIR com termografia;
+- **câmera de eventos**, para representar movimento como nuvem temporal assíncrona em vez de blur de quadro convencional;
+- **retroreflexão por microesferas no figurino**, usando flash quase coaxial e iluminação facial separada;
+- **metamerismo controlado por iluminante**, com a mesma composição fotografada sob D50 e iluminante A;
+- **luminescência VIS-excited IR**, na qual um acessório emite no infravermelho após excitação por luz visível.
 
-## Atualização de 30 de agosto de 2026
-
-Foram selecionados cinco mecanismos ausentes dos 140 títulos anteriores:
-
-- **Light Stage com gradientes esféricos**, para captura de reflectância e relighting facial;
-- **imagem plenóptica/light-field**, para refoco e parallax pós-captura;
-- **pseudo-telecentricidade com Fresnel**, para reduzir variação aparente de escala com profundidade;
-- **separação polarimétrica difusa-especular**, para decompor a reflectância em componentes alinhados;
-- **iluminação coaxial por beamsplitter**, para beauty frontal com sombra mínima e reflexos previsíveis.
-
-Na direção de modelos, os cinco prompts usam poses estáveis e funcionais compatíveis com captura multiquadro ou óptica especializada. Na engenharia de prompts, as instruções explicitam mecanismo, relações espaciais, plano de foco, percurso da luz e restrições negativas, seguindo as recomendações atuais da OpenAI e Adobe.
+Na direção de modelos, os prompts privilegiam poses estáveis quando a técnica exige alinhamento multiquadro e gestos deliberados quando o movimento é o dado principal. Na engenharia de prompts, mecanismo, relações espaciais, iluminação, banda espectral, plano de foco e restrições negativas são explicitados, alinhados às recomendações atuais da OpenAI e Adobe.
 
 ## Autoria
 
