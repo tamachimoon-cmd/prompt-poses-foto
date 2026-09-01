@@ -1,6 +1,6 @@
-# 150 Prompts de Fotografia de Estúdio e Poses de Modelo
+# 155 Prompts de Fotografia de Estúdio e Poses de Modelo
 
-Catálogo principal consolidado. Os prompts 1–145 permanecem acessíveis pelo catálogo JSON, arquivos históricos ou revisões permanentes; os prompts 146–150 estão completos nesta página.
+Catálogo principal consolidado. Os prompts 1–150 permanecem acessíveis pelo catálogo JSON, arquivos históricos ou revisões permanentes; os prompts 151–155 estão completos nesta página.
 
 ## Índice consolidado
 
@@ -154,123 +154,128 @@ Catálogo principal consolidado. Os prompts 1–145 permanecem acessíveis pelo 
 148. Figurino retrorefletivo de microesferas com flash quase coaxial e pele separada
 149. Díptico metamérico D50 versus iluminante A com tecidos de mesma aparência inicial
 150. Luminescência VIS-excited IR em acessório com retrato de referência visível
+151. Schlieren por knife-edge com fluxo térmico atrás da silhueta e rosto separado
+152. Díptico VIS–UVR de acessório com UV refletido isolado e rosto protegido
+153. Rear projection em tela translúcida com plate cinematográfico e foreground real
+154. Retrato em filme reversível cross-processed com contraste alto e deriva cromática orgânica
+155. Banding temporal intencional com LED PWM e shutter eletrônico sobre pose imóvel
 
 ---
 
-## 146. Díptico multiespectral VIS–NIR com reflectância alinhada e textura comparável
+## 151. Schlieren por knife-edge com fluxo térmico atrás da silhueta e rosto separado
 
-**Uso:** editorial científico, estudo de materiais, beauty experimental e visualização de resposta espectral.
+**Uso:** editorial científico, visualização de fluxo e retrato experimental sem fumaça cenográfica.
 
-**Pose-chave:** busto frontal apoiado, olhos na lente, mãos fora do rosto e imobilidade entre as duas bandas.
+**Pose-chave:** meio-corpo em três quartos, cabeça imóvel, queixo levemente elevado e braços afastados do torso para abrir espaço ao fluxo no fundo.
 
 ### Prompt em português
 
 ```text
-Díptico técnico-editorial de [modelo adulta] em busto frontal apoiado, olhos na lente, cabelo afastado do rosto e pose perfeitamente imóvel entre capturas. Painel esquerdo: fotografia de reflectância em luz branca visível, cor natural de pele e figurino. Painel direito: reflectância no infravermelho próximo, capturada com câmera full-spectrum e filtro IR-pass em torno de 850 nm, convertida para monocromático neutro. Mantenha enquadramento, foco, escala e geometria pixel a pixel entre os painéis; use 85 mm equivalente, fundo cinza fosco, iluminação ampla calibrada e cartão de referência fora do enquadramento final. Preserve diferenças plausíveis de reflectância entre pele, cabelo, tecidos e maquiagem. Sem aparência térmica, mapa de calor, glow UV, desalinhamento facial, duplicação de olhos, texto ou logotipos.
+Retrato técnico-editorial de [modelo adulta] em meio-corpo três quartos, cabeça imóvel, queixo levemente elevado, olhos na lente e braços afastados do torso. Atrás da modelo, fisicamente separado por uma barreira transparente, um canal estreito conduz apenas ar morno de baixa temperatura, sem chama, sem fumaça e sem contato com a pessoa. Use um sistema schlieren clássico: fonte pontual, feixe colimado por espelho côncavo, passagem pelo volume de ar atrás da silhueta, segundo espelho e knife-edge no plano focal antes da câmera. O schlieren deve revelar gradientes de densidade como linhas e ondas claras/escuras no espaço ao redor da silhueta, enquanto o rosto é iluminado por uma softbox visível independente e suave. Fundo preto, 85 mm equivalente, anatomia natural, olhos nítidos. Sem haze, sem smoke overlay, sem shadowgraph simples, sem fogo, sem distorção do rosto, texto ou logotipos.
 ```
 
 ### Prompt em inglês
 
 ```text
-Technical-editorial diptych of an adult [model] in a supported frontal bust pose, eyes into camera, hair away from the face and perfectly still between captures. Left panel: visible-white-light reflectance photograph with natural skin and wardrobe color. Right panel: near-infrared reflectance captured with a full-spectrum camera and an approximately 850nm IR-pass filter, rendered as neutral monochrome. Keep framing, focus, scale and geometry pixel-aligned across both panels; use an 85mm-equivalent lens, matte gray background, broad calibrated illumination and an off-frame reference target. Preserve plausible reflectance differences across skin, hair, fabrics and makeup. No thermal look, heat map, UV glow, facial misregistration, duplicated eyes, text or logos.
+Technical-editorial portrait of an adult [model] in a three-quarter half-body pose, head still, chin slightly raised, eyes into camera and arms separated from the torso. Behind the model, physically isolated by a transparent barrier, a narrow channel carries only low-temperature warm air, with no flame, smoke or contact with the person. Use a classic schlieren system: point source, collimated beam from a concave mirror, passage through the air volume behind the silhouette, second mirror and a knife edge at the focal plane before the camera. The schlieren field should reveal density gradients as bright and dark ripples around the silhouette, while the face is lit independently by a soft visible-light softbox. Black background, 85mm-equivalent framing, natural anatomy, sharp eyes. No haze, smoke overlay, simple shadowgraph look, fire, facial distortion, text or logos.
 ```
 
-**Restrição opcional:** `VIS e NIR perfeitamente alinhados; NIR é reflectância, não termografia; sem falso mapa de calor ou glow UV.`
+**Restrição opcional:** `schlieren real por gradiente de densidade; fonte térmica isolada; sem fumaça, fogo, haze cenográfico ou shadowgraph simples.`
 
-**Por que funciona:** captura multiespectral registra bandas visíveis e invisíveis em uma pilha alinhada; o NIR revela respostas de reflectância de materiais que não são equivalentes à cor visível nem à emissão térmica.
+**Por que funciona:** Schlieren usa refração causada por gradientes de densidade e um cutoff no foco para converter pequenos desvios angulares em variações claras/escuras; é mais sensível que um shadowgraph simples.
 
 ---
 
-## 147. Retrato por câmera de eventos com gesto lateral e nuvem temporal de polaridade
+## 152. Díptico VIS–UVR de acessório com UV refletido isolado e rosto protegido
 
-**Uso:** motion design, editorial tecnológico e estudo de gesto sem motion blur convencional.
+**Uso:** editorial científico, materiais, moda conceitual e documentação espectral segura de acessórios.
 
-**Pose-chave:** cabeça quase imóvel e uma mão atravessando lateralmente o quadro em arco curto.
+**Pose-chave:** busto frontal estável, rosto fora do campo UV e duas mãos enluvadas sustentando o acessório abaixo do queixo.
 
 ### Prompt em português
 
 ```text
-Retrato experimental de [modelo adulta] baseado em câmera neuromórfica de eventos. A cabeça permanece quase imóvel no centro, expressão neutra e olhos na lente, enquanto a mão direita executa um arco lateral rápido de aproximadamente 40 cm diante do ombro. Fundo preto uniforme e uma barra LED branca contínua ilumina contorno do rosto, braço e mão. Apresente a imagem final como composição híbrida: um retrato convencional discreto em cinza-escuro serve apenas de referência espacial, sobreposto por uma nuvem temporal de eventos em duas polaridades, ciano para aumento de intensidade e magenta para redução, concentrada nas bordas realmente móveis da mão, dedos, cabelo solto e contorno do braço. Não preencha regiões estáticas com textura falsa. Sem rastro fotográfico contínuo, sem múltiplos braços sólidos, sem estroboscopia, sem duplicação facial, texto ou logotipos.
+Díptico técnico de [modelo adulta] em busto frontal estável, rosto acima da zona de teste e duas mãos com luvas UV-blocking segurando um acessório plano abaixo do queixo. Painel esquerdo: referência em luz branca visível, 85 mm, pele natural, fundo cinza. Painel direito: fotografia de ultravioleta refletido do acessório, usando fonte UV-A em torno de 365 nm rigidamente bandeirada para iluminar somente o objeto, filtro UV-pass na lente e bloqueio de luz visível/IR; rosto, olhos e pele ficam fora do feixe UV e aparecem apenas como contorno escuro de referência. Preserve alinhamento, escala e posição do objeto entre os painéis. O painel UVR deve mostrar diferenças plausíveis de reflectância do material em monocromático, não fluorescência colorida. Sem UV-C, sem UV incidindo na face ou pele, sem glow fluorescente, sem termografia, sem mapa de calor, texto ou logotipos.
 ```
 
 ### Prompt em inglês
 
 ```text
-Experimental portrait of an adult [model] based on a neuromorphic event camera. Keep the head nearly still at center, neutral expression and eyes into lens, while the right hand performs a fast 40cm lateral arc in front of the shoulder. Use a uniform black background and one continuous white LED bar to define facial edge, arm and hand. Present the final result as a hybrid composition: a subtle dark-gray conventional reference portrait is overlaid by a two-polarity temporal event cloud, cyan for positive intensity changes and magenta for negative changes, concentrated only on genuinely moving edges of the hand, fingers, loose hair and arm contour. Do not invent texture in static regions. No continuous photographic blur, no multiple solid arms, no stroboscopic sequence, duplicated face, text or logos.
+Technical diptych of an adult [model] in a stable frontal bust pose, face above the test zone and both hands in UV-blocking gloves holding a flat accessory below the chin. Left panel: visible-white-light reference, 85mm framing, natural skin, gray background. Right panel: reflected-ultraviolet photograph of the accessory using a tightly flagged UV-A source around 365nm aimed only at the object, a UV-pass lens filter and visible/IR blocking; face, eyes and skin remain outside the UV beam and appear only as a dark reference contour. Preserve alignment, scale and object position across panels. The UVR panel should show plausible monochrome reflectance differences in the material, not colored fluorescence. No UV-C, no UV on face or skin, no fluorescent glow, thermal look, heat map, text or logos.
 ```
 
-**Restrição opcional:** `eventos apenas onde há mudança temporal; fundo e regiões estáticas quase vazios; sem blur de longa exposição ou multiexposição sólida.`
+**Restrição opcional:** `UV-A confinado somente ao acessório; pele e olhos fora do feixe; UV refletido monocromático, não fluorescência.`
 
-**Por que funciona:** sensores de eventos registram mudanças assíncronas de intensidade por pixel, com alta resolução temporal, em vez de capturar quadros completos em intervalos fixos.
+**Por que funciona:** Fotografia UV refletida registra radiação ultravioleta que retorna do material; ela é distinta de fluorescência induzida por UV, que registra emissão visível após excitação.
 
 ---
 
-## 148. Figurino retrorefletivo de microesferas com flash quase coaxial e pele separada
+## 153. Rear projection em tela translúcida com plate cinematográfico e foreground real
 
-**Uso:** moda futurista, retrato noturno controlado e estudo de materiais retrorefletivos.
+**Uso:** editorial cinematográfico, retrato narrativo e composição in-camera com cenário projetado.
 
-**Pose-chave:** corpo inteiro três quartos, um braço dobrado afastado do torso para separar áreas retrorefletivas.
+**Pose-chave:** modelo sentada de lado em banco baixo, tronco girado para a câmera e uma mão apoiada no joelho.
 
 ### Prompt em português
 
 ```text
-Retrato de moda em corpo inteiro de [modelo adulta] usando jaqueta preta com painéis prateados de tecido retrorefletivo por microesferas de vidro. Pose três quartos, peso na perna traseira, braço direito dobrado e afastado do torso para criar espaço negativo. Posicione um flash pequeno apenas alguns centímetros acima e ao lado do eixo da lente, quase coaxial, com potência suficiente para fazer somente os painéis retrorefletivos devolverem um branco prateado muito intenso diretamente para a câmera. Ilumine rosto e pele separadamente com uma softbox lateral suave e baixa, evitando que a key lave o material. Fundo preto a dois metros, 70 mm, exposição controlada para preservar textura facial e impedir clipping total nas faixas refletivas. Sem aparência de LED embutido, sem tecido emissivo, sem front projection, sem halo de ring flash, sem duplicação corporal, texto ou logotipos.
+Retrato cinematográfico de [modelo adulta] sentada de lado em banco baixo, tronco girado para a câmera, uma mão apoiada no joelho e olhar ligeiramente fora do eixo. Posicione a modelo cerca de 1,5 metro à frente de uma grande tela translúcida de rear projection. Um projetor colocado fisicamente atrás da tela exibe um plate de cidade noturna em movimento lento, previamente invertido para leitura correta pela câmera. Combine a direção e a temperatura da key frontal com as luzes dominantes do plate, mantendo um pequeno practical real no foreground para integrar profundidade. Use lente 50 mm, f/2.8, câmera fixa e exposição que preserve simultaneamente pele e imagem projetada. Permita leve suavidade e textura de tela no fundo como assinatura do processo, mas mantenha o rosto nítido. Sem chroma key, sem LED volume, sem front projection sobre a modelo, sem recorte digital, sem duplicação corporal, texto ou logotipos.
 ```
 
 ### Prompt em inglês
 
 ```text
-Full-body fashion portrait of an adult [model] wearing a black jacket with silver glass-bead retroreflective fabric panels. Use a three-quarter stance, weight on the rear leg, right arm bent and separated from the torso to create negative space. Place a small flash only a few centimeters above and beside the lens axis, nearly coaxial, strong enough for only the retroreflective panels to return an intense silver-white response toward camera. Light face and skin separately with a low soft side key so the key does not wash out the material. Keep the black background two meters behind, use 70mm framing and controlled exposure to preserve facial texture while avoiding complete clipping in the reflective strips. No embedded LEDs, emissive fabric, front projection, ring-flash halo, duplicated body, text or logos.
+Cinematic portrait of an adult [model] seated sideways on a low bench, torso turned toward camera, one hand resting on the knee and gaze slightly off axis. Place the model about 1.5 meters in front of a large translucent rear-projection screen. A projector physically behind the screen displays a slowly moving nighttime city plate, pre-reversed for correct camera orientation. Match the direction and color temperature of the frontal key to the dominant light in the plate, and include one small real practical in the foreground to integrate depth. Use a 50mm lens at f/2.8, locked camera and exposure that preserves both skin and projected image. Allow slight screen softness and texture in the background as a signature of the process while keeping the face sharp. No chroma key, LED volume, front projection on the model, digital cutout, duplicated body, text or logos.
 ```
 
-**Restrição opcional:** `o brilho vem da retroreflexão de microesferas; pele usa key separada; sem LED, tecido emissivo ou projeção frontal.`
+**Restrição opcional:** `projetor atrás de tela translúcida; foreground real; sem chroma key, LED volume ou front projection.`
 
-**Por que funciona:** materiais retrorefletivos com microesferas devolvem a luz em direção próxima à fonte; aproximar o flash do eixo da câmera maximiza a resposta do tecido sem exigir que a pele seja iluminada da mesma maneira.
+**Por que funciona:** Rear projection combina performance real e plate projetado em uma única captura; a integração depende de tela translúcida, exposição equilibrada, alinhamento e luz de foreground coerente com o plate.
 
 ---
 
-## 149. Díptico metamérico D50 versus iluminante A com tecidos de mesma aparência inicial
+## 154. Retrato em filme reversível cross-processed com contraste alto e deriva cromática orgânica
 
-**Uso:** editorial de ciência da cor, moda, design têxtil e comparação de materiais.
+**Uso:** editorial analógico, moda experimental, retrato musical e estética química imprevisível.
 
-**Pose-chave:** meio-corpo frontal estável, segurando duas faixas de tecido lado a lado sem sobreposição.
+**Pose-chave:** meio-corpo inclinado para a frente, cotovelos assimétricos e olhar direto, mantendo geometria simples para deixar a química dominar.
 
 ### Prompt em português
 
 ```text
-Díptico de ciência da cor com [modelo adulta] em meio-corpo frontal, expressão neutra, segurando lado a lado duas faixas de tecido escuro feitas de materiais diferentes. Câmera, lente 85 mm, exposição, white balance de referência, pose, foco e enquadramento permanecem idênticos. Painel esquerdo sob iluminante D50 de referência: as duas faixas parecem praticamente da mesma cor neutra. Painel direito sob iluminante A semelhante a tungstênio: as duas faixas revelam diferença cromática clara, uma puxando discretamente para azul-violeta e a outra para marrom-avermelhado, enquanto pele e fundo permanecem plausíveis para o novo iluminante. Não altere pigmentos, posição, tecido ou maquiagem entre os painéis; a única causa visual da divergência deve ser a mudança de distribuição espectral da luz. Sem split toning artificial, gel colorido localizado, troca de roupa, saturação extrema, texto ou logotipos.
+Retrato analógico de [modelo adulta] em meio-corpo, levemente inclinada para a frente, cotovelos em alturas diferentes e olhar direto para a câmera. Fotografe em filme colorido reversível de 35 mm normalmente destinado ao processo E-6, usando luz de estúdio simples: uma key dura lateral e fill mínimo. Deliberadamente processe o filme em um processo de negativo colorido incompatível, como ECN-2, para produzir cross-processing real: contraste elevado, saturação forte e deriva cromática orgânica e não totalmente previsível. Preserve grão fotográfico, roll-off de highlights e pequenas variações químicas entre tons; não fixe uma única cor dominante obrigatória. Enquadramento 50 mm, fundo neutro e figurino de cores sólidas para tornar a mudança cromática legível. Sem LUT digital, sem filtro Instagram, sem neon artificial, sem aparência HDR, sem pele plástica, texto ou logotipos.
 ```
 
 ### Prompt em inglês
 
 ```text
-Color-science diptych of an adult [model] in a stable frontal half-body pose, neutral expression, holding two dark fabric swatches made from different materials side by side without overlap. Camera, 85mm lens, exposure, reference white balance workflow, pose, focus and framing remain identical. Left panel under reference D50 illumination: both swatches appear nearly the same neutral color. Right panel under Illuminant A / tungsten-like light: the swatches clearly diverge, one shifting subtly blue-violet and the other reddish-brown, while skin and background remain plausible under the new illuminant. Do not change pigments, position, fabric or makeup between panels; the only cause of the mismatch is the changed spectral power distribution of the light. No artificial split toning, localized color gels, wardrobe swap, extreme saturation, text or logos.
+Analog portrait of an adult [model] in a half-body pose, leaning slightly forward, elbows at different heights and looking directly into camera. Shoot on 35mm color reversal film normally intended for E-6 processing, using a simple studio setup with one hard side key and minimal fill. Deliberately process the film in an incompatible color-negative process such as ECN-2 to create genuine cross-processing: higher contrast, strong saturation and organic, not fully predictable color shifts. Preserve photographic grain, highlight roll-off and small chemical variations across tones; do not force one exact dominant color. Use 50mm framing, a neutral background and solid-color wardrobe so the chromatic shift remains legible. No digital LUT, Instagram filter, artificial neon, HDR look, plastic skin, text or logos.
 ```
 
-**Restrição opcional:** `mesmos materiais e mesma pose; só o iluminante muda; coincidência sob D50 e divergência sob A.`
+**Restrição opcional:** `aparência de filme cross-processed real; sem LUT digital; deriva cromática não deve parecer um único gel uniforme.`
 
-**Por que funciona:** pares metaméricos podem coincidir visualmente sob uma fonte e divergir sob outra porque suas curvas de reflectância espectral são diferentes; mudar o iluminante altera a mistura espectral que chega à câmera.
+**Por que funciona:** Cross-processing usa um processo químico diferente daquele para o qual o filme foi projetado; em reversível, isso pode aumentar contraste, saturação e alterar a reprodução cromática de modo dependente do estoque e do laboratório.
 
 ---
 
-## 150. Luminescência VIS-excited IR em acessório com retrato de referência visível
+## 155. Banding temporal intencional com LED PWM e shutter eletrônico sobre pose imóvel
 
-**Uso:** editorial espectral, joalheria experimental, materiais especiais e visualização científica.
+**Uso:** editorial tecnológico, moda gráfica e estudo visual de flicker e leitura sequencial do sensor.
 
-**Pose-chave:** headshot três quartos imóvel, segurando um pingente a poucos centímetros do ombro sem cobrir o rosto.
+**Pose-chave:** corpo inteiro frontal perfeitamente imóvel, pés assimétricos e braços formando dois espaços negativos amplos.
 
 ### Prompt em português
 
 ```text
-Díptico espectral de [modelo adulta] em headshot três quartos, imóvel, segurando um pequeno pingente com pigmento de luminescência infravermelha a poucos centímetros do ombro. Painel esquerdo: retrato de referência sob luz branca visível, pele natural, pingente discreto e fundo preto. Painel direito: capture VIS-excited IR luminescence; desligue a luz branca de referência, excite o pingente com luz visível azul-verde controlada fora do eixo e fotografe através de filtro IR-pass que bloqueia a excitação visível, de modo que o pingente apareça como emissão infravermelha clara enquanto pele, roupa e fundo ficam muito escuros, com apenas contorno mínimo de referência. Preserve alinhamento e pose entre os painéis. Sem UV, sem termografia, sem mapa de calor, sem laser, sem fazer a pele inteira brilhar, sem joia duplicada, texto ou logotipos.
+Retrato editorial de [modelo adulta] em corpo inteiro frontal perfeitamente imóvel, pés em alturas visuais diferentes e braços afastados do torso criando dois espaços negativos. Ilumine o rosto com uma fonte contínua DC estável e sem flicker. No fundo e no figurino, use dois painéis LED RGB com PWM de alta frequência e capture com shutter eletrônico/rolling shutter em velocidade deliberadamente incompatível com a frequência dos LEDs, de modo que o sensor registre faixas horizontais regulares de brilho e cor em posições diferentes ao longo do quadro. As bandas devem surgir da diferença temporal de leitura do sensor e do flicker real das fontes, não de um efeito gráfico adicionado depois. Mantenha olhos e traços faciais legíveis graças à key estável, 70 mm, fundo escuro e composição central. Sem glitch digital, scanline overlay, VHS, motion blur, múltiplos corpos, HSS de flash, texto ou logotipos.
 ```
 
 ### Prompt em inglês
 
 ```text
-Spectral diptych of an adult [model] in a still three-quarter headshot, holding a small pendant containing an infrared-luminescent pigment a few centimeters from the shoulder without covering the face. Left panel: visible-white-light reference portrait with natural skin, subtle pendant and black background. Right panel: capture visible-excited infrared luminescence; turn off the white reference light, excite the pendant with controlled off-axis blue-green visible light and photograph through an IR-pass filter that blocks the visible excitation, so the pendant appears as bright infrared emission while skin, clothing and background remain very dark with only minimal reference contour. Preserve alignment and pose between panels. No UV, thermal imaging, heat map, laser, whole-skin glow, duplicated jewelry, text or logos.
+Editorial full-body portrait of an adult [model] standing perfectly still, feet visually staggered and arms separated from the torso to create two large negative spaces. Light the face with a stable flicker-free DC continuous source. On the background and wardrobe, use two high-frequency PWM RGB LED panels and capture with an electronic rolling shutter at a speed deliberately mismatched to the LED frequency so the sensor records regular horizontal brightness and color bands at different positions across the frame. The bands must arise from real temporal differences between sensor readout and LED flicker, not from a graphic effect added later. Keep eyes and facial features readable through the stable key, use 70mm framing, dark background and centered composition. No digital glitch, scanline overlay, VHS effect, motion blur, multiple bodies, flash HSS, text or logos.
 ```
 
-**Restrição opcional:** `excitação visível e emissão IR do acessório; sem UV, termografia, laser ou pele inteira luminosa.`
+**Restrição opcional:** `bandas causadas por flicker real + rolling shutter; key facial sem flicker; sem overlay digital, VHS ou HSS.`
 
-**Por que funciona:** sistemas multiespectrais podem registrar luminescência excitada por luz visível e emitida no infravermelho; filtros e iluminação adequados separam a emissão do material da luz de excitação e da reflectância comum.
+**Por que funciona:** Com shutter de varredura, diferentes linhas do sensor são expostas em tempos ligeiramente diferentes; sob LEDs que pulsam por PWM, essa defasagem pode aparecer como bandas de brilho ou cor.
