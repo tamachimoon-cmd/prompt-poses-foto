@@ -1,6 +1,6 @@
-# 155 Prompts de Fotografia de Estúdio e Poses de Modelo
+# 160 Prompts de Fotografia de Estúdio e Poses de Modelo
 
-Catálogo principal consolidado. Os prompts 1–150 permanecem acessíveis pelo catálogo JSON, arquivos históricos ou revisões permanentes; os prompts 151–155 estão completos nesta página.
+Catálogo principal consolidado. Os prompts 1–155 permanecem acessíveis pelo catálogo JSON, arquivos históricos ou revisões permanentes; os prompts 156–160 estão completos nesta página.
 
 ## Índice consolidado
 
@@ -159,123 +159,128 @@ Catálogo principal consolidado. Os prompts 1–150 permanecem acessíveis pelo 
 153. Rear projection em tela translúcida com plate cinematográfico e foreground real
 154. Retrato em filme reversível cross-processed com contraste alto e deriva cromática orgânica
 155. Banding temporal intencional com LED PWM e shutter eletrônico sobre pose imóvel
+156. Daguerréotype medallion com cinco vistas sequenciais em placa única
+157. Retrato pinhole 4×5 com exposição longa e leve rastro nas mãos
+158. Retrato cyanotype por negativo ampliado com recorte azul da silhueta
+159. Emulsion lift de instant film sobre papel aquarela com retrato fragmentado
+160. Retrato ortocromático com vermelho escurecido e luz verde controlada
 
 ---
 
-## 151. Schlieren por knife-edge com fluxo térmico atrás da silhueta e rosto separado
+## 156. Daguerréotype medallion com cinco vistas sequenciais em placa única
 
-**Uso:** editorial científico, visualização de fluxo e retrato experimental sem fumaça cenográfica.
+**Uso:** retrato histórico-conceitual, estudo de identidade e composição serial analógica.
 
-**Pose-chave:** meio-corpo em três quartos, cabeça imóvel, queixo levemente elevado e braços afastados do torso para abrir espaço ao fluxo no fundo.
+**Pose-chave:** busto apoiado e imóvel entre exposições, com cinco microvariações progressivas do giro da cabeça do perfil para o frontal.
 
 ### Prompt em português
 
 ```text
-Retrato técnico-editorial de [modelo adulta] em meio-corpo três quartos, cabeça imóvel, queixo levemente elevado, olhos na lente e braços afastados do torso. Atrás da modelo, fisicamente separado por uma barreira transparente, um canal estreito conduz apenas ar morno de baixa temperatura, sem chama, sem fumaça e sem contato com a pessoa. Use um sistema schlieren clássico: fonte pontual, feixe colimado por espelho côncavo, passagem pelo volume de ar atrás da silhueta, segundo espelho e knife-edge no plano focal antes da câmera. O schlieren deve revelar gradientes de densidade como linhas e ondas claras/escuras no espaço ao redor da silhueta, enquanto o rosto é iluminado por uma softbox visível independente e suave. Fundo preto, 85 mm equivalente, anatomia natural, olhos nítidos. Sem haze, sem smoke overlay, sem shadowgraph simples, sem fogo, sem distorção do rosto, texto ou logotipos.
+Retrato histórico-conceitual de [modelo adulta] apresentado como um único daguerreótipo em placa metálica polida, contendo exatamente cinco pequenas vistas ovais sequenciais da mesma pessoa. A modelo mantém o busto apoiado e a posição corporal estável; entre exposições, gira apenas a cabeça em etapas progressivas, do perfil esquerdo ao frontal. Organize as cinco vistas em arco regular como um medalhão, com fundo dividido em áreas claras e escuras para separar cada perfil. Aparência de daguerreótipo autêntico: detalhe fino, prata especular, contraste delicado, bordas discretamente irregulares e leitura tonal dependente do ângulo, sem imitar colagem digital. Iluminação de estúdio ampla e lateral, pose digna do século XIX, anatomia natural. Sem duplicações aleatórias, sem mais ou menos que cinco vistas, sem estética wet-plate collodion, sem moldura moderna, texto ou logotipos.
 ```
 
 ### Prompt em inglês
 
 ```text
-Technical-editorial portrait of an adult [model] in a three-quarter half-body pose, head still, chin slightly raised, eyes into camera and arms separated from the torso. Behind the model, physically isolated by a transparent barrier, a narrow channel carries only low-temperature warm air, with no flame, smoke or contact with the person. Use a classic schlieren system: point source, collimated beam from a concave mirror, passage through the air volume behind the silhouette, second mirror and a knife edge at the focal plane before the camera. The schlieren field should reveal density gradients as bright and dark ripples around the silhouette, while the face is lit independently by a soft visible-light softbox. Black background, 85mm-equivalent framing, natural anatomy, sharp eyes. No haze, smoke overlay, simple shadowgraph look, fire, facial distortion, text or logos.
+Historical-conceptual portrait presented as a single polished-metal daguerreotype plate containing exactly five small sequential oval views of the same adult [model]. Keep the torso supported and stable; between exposures, rotate only the head in progressive steps from left profile to frontal. Arrange the five views in a regular medallion arc, using alternating light and dark background areas to separate each profile. Authentic daguerreotype character: extremely fine detail, specular silver surface, delicate contrast, subtly irregular edges and angle-dependent tonal reading, not a digital collage. Broad side studio light, restrained nineteenth-century pose, natural anatomy. No random duplicates, no more or fewer than five views, no wet-plate collodion look, modern frame, text or logos.
 ```
 
-**Restrição opcional:** `schlieren real por gradiente de densidade; fonte térmica isolada; sem fumaça, fogo, haze cenográfico ou shadowgraph simples.`
+**Restrição opcional:** `exatamente cinco vistas sequenciais na mesma placa; sem colagem digital, wet plate, duplicações extras ou rostos inconsistentes.`
 
-**Por que funciona:** Schlieren usa refração causada por gradientes de densidade e um cutoff no foco para converter pequenos desvios angulares em variações claras/escuras; é mais sensível que um shadowgraph simples.
+**Por que funciona:** Southworth & Hawes produziram retratos em múltiplas vistas na mesma placa usando exposições sequenciais e um suporte deslizante; o efeito serial nasce da captura em uma única superfície fotográfica, não de montagem posterior.
 
 ---
 
-## 152. Díptico VIS–UVR de acessório com UV refletido isolado e rosto protegido
+## 157. Retrato pinhole 4×5 com exposição longa e leve rastro nas mãos
 
-**Uso:** editorial científico, materiais, moda conceitual e documentação espectral segura de acessórios.
+**Uso:** fine art minimalista, retrato contemplativo e linguagem óptica sem lente.
 
-**Pose-chave:** busto frontal estável, rosto fora do campo UV e duas mãos enluvadas sustentando o acessório abaixo do queixo.
+**Pose-chave:** modelo sentada e apoiada, cabeça completamente imóvel, mãos afastadas do rosto realizando um movimento lento e único durante a exposição.
 
 ### Prompt em português
 
 ```text
-Díptico técnico de [modelo adulta] em busto frontal estável, rosto acima da zona de teste e duas mãos com luvas UV-blocking segurando um acessório plano abaixo do queixo. Painel esquerdo: referência em luz branca visível, 85 mm, pele natural, fundo cinza. Painel direito: fotografia de ultravioleta refletido do acessório, usando fonte UV-A em torno de 365 nm rigidamente bandeirada para iluminar somente o objeto, filtro UV-pass na lente e bloqueio de luz visível/IR; rosto, olhos e pele ficam fora do feixe UV e aparecem apenas como contorno escuro de referência. Preserve alinhamento, escala e posição do objeto entre os painéis. O painel UVR deve mostrar diferenças plausíveis de reflectância do material em monocromático, não fluorescência colorida. Sem UV-C, sem UV incidindo na face ou pele, sem glow fluorescente, sem termografia, sem mapa de calor, texto ou logotipos.
+Retrato fine-art de [modelo adulta] feito com câmera pinhole 4×5 sem lente, enquadramento de meio-corpo e distância suficiente para evitar deformação extrema. A modelo está sentada com costas apoiadas, cabeça e olhos totalmente imóveis durante uma exposição longa; somente as mãos, afastadas do rosto, executam um movimento lento de poucos centímetros para criar um rastro suave e contínuo. Use um pequeno orifício real como abertura, profundidade de campo muito extensa, nitidez global suave sem ponto focal óptico convencional, leve queda luminosa nas bordas e textura de filme de grande formato. Iluminação contínua ampla e estável, fundo cinza simples. O rosto deve permanecer reconhecível e sem motion blur. Sem lente, sem bokeh, sem zone plate, sem efeito Lensbaby, sem duplicação de mãos, texto ou logotipos.
 ```
 
 ### Prompt em inglês
 
 ```text
-Technical diptych of an adult [model] in a stable frontal bust pose, face above the test zone and both hands in UV-blocking gloves holding a flat accessory below the chin. Left panel: visible-white-light reference, 85mm framing, natural skin, gray background. Right panel: reflected-ultraviolet photograph of the accessory using a tightly flagged UV-A source around 365nm aimed only at the object, a UV-pass lens filter and visible/IR blocking; face, eyes and skin remain outside the UV beam and appear only as a dark reference contour. Preserve alignment, scale and object position across panels. The UVR panel should show plausible monochrome reflectance differences in the material, not colored fluorescence. No UV-C, no UV on face or skin, no fluorescent glow, thermal look, heat map, text or logos.
+Fine-art portrait of an adult [model] made with a lensless 4×5 pinhole camera, half-body framing and enough camera distance to avoid extreme distortion. The model sits with back support, keeping head and eyes completely still during a long exposure; only the hands, held away from the face, move slowly by a few centimeters to create one soft continuous trace. Use a real small pinhole aperture, very deep depth of field, globally soft detail with no conventional optical focus plane, subtle edge falloff and large-format film texture. Broad stable continuous lighting, simple gray background. Keep the face recognizable and free of motion blur. No lens, bokeh, zone plate, Lensbaby look, duplicated hands, text or logos.
 ```
 
-**Restrição opcional:** `UV-A confinado somente ao acessório; pele e olhos fora do feixe; UV refletido monocromático, não fluorescência.`
+**Restrição opcional:** `câmera sem lente; cabeça imóvel; rastro apenas nas mãos; sem zone plate, bokeh ou blur facial.`
 
-**Por que funciona:** Fotografia UV refletida registra radiação ultravioleta que retorna do material; ela é distinta de fluorescência induzida por UV, que registra emissão visível após excitação.
+**Por que funciona:** Uma câmera pinhole forma a imagem por um pequeno orifício em vez de uma lente. Isso elimina bokeh e plano focal convencional, produzindo nitidez suave e profundidade extensa; a longa exposição torna movimentos seletivos visíveis.
 
 ---
 
-## 153. Rear projection em tela translúcida com plate cinematográfico e foreground real
+## 158. Retrato cyanotype por negativo ampliado com recorte azul da silhueta
 
-**Uso:** editorial cinematográfico, retrato narrativo e composição in-camera com cenário projetado.
+**Uso:** retrato autoral, impressão artesanal, capas e editorial com linguagem fotográfica histórica.
 
-**Pose-chave:** modelo sentada de lado em banco baixo, tronco girado para a câmera e uma mão apoiada no joelho.
+**Pose-chave:** perfil de busto bem definido, queixo elevado e uma mão próxima ao peito para criar contorno legível no negativo.
 
 ### Prompt em português
 
 ```text
-Retrato cinematográfico de [modelo adulta] sentada de lado em banco baixo, tronco girado para a câmera, uma mão apoiada no joelho e olhar ligeiramente fora do eixo. Posicione a modelo cerca de 1,5 metro à frente de uma grande tela translúcida de rear projection. Um projetor colocado fisicamente atrás da tela exibe um plate de cidade noturna em movimento lento, previamente invertido para leitura correta pela câmera. Combine a direção e a temperatura da key frontal com as luzes dominantes do plate, mantendo um pequeno practical real no foreground para integrar profundidade. Use lente 50 mm, f/2.8, câmera fixa e exposição que preserve simultaneamente pele e imagem projetada. Permita leve suavidade e textura de tela no fundo como assinatura do processo, mas mantenha o rosto nítido. Sem chroma key, sem LED volume, sem front projection sobre a modelo, sem recorte digital, sem duplicação corporal, texto ou logotipos.
+Retrato autoral de [modelo adulta] concebido para ser finalizado como cyanotype fotográfico em papel de algodão. Primeiro imagine uma fotografia de perfil de busto com contorno muito claro: queixo levemente elevado, uma mão junto ao peito sem tocar o rosto, cabelo organizado para não quebrar a silhueta, luz lateral dura e fundo branco. A imagem é convertida em um grande negativo fotográfico e impressa por contato no processo cyanotype, resultando em azul da Prússia profundo e áreas claras formadas pela densidade do negativo. Preserve gradações reais no rosto e no tecido, bordas orgânicas do revestimento sensível e textura fibrosa do papel; não transforme tudo em silhueta chapada. Composição vertical minimalista, sem cor adicional. Sem filtro azul digital uniforme, sem aparência de blueprint técnico, sem texto, bordas vetoriais ou logotipos.
 ```
 
 ### Prompt em inglês
 
 ```text
-Cinematic portrait of an adult [model] seated sideways on a low bench, torso turned toward camera, one hand resting on the knee and gaze slightly off axis. Place the model about 1.5 meters in front of a large translucent rear-projection screen. A projector physically behind the screen displays a slowly moving nighttime city plate, pre-reversed for correct camera orientation. Match the direction and color temperature of the frontal key to the dominant light in the plate, and include one small real practical in the foreground to integrate depth. Use a 50mm lens at f/2.8, locked camera and exposure that preserves both skin and projected image. Allow slight screen softness and texture in the background as a signature of the process while keeping the face sharp. No chroma key, LED volume, front projection on the model, digital cutout, duplicated body, text or logos.
+Authorial portrait of an adult [model] designed to be finished as a photographic cyanotype on cotton paper. Begin from a clearly shaped bust-profile photograph: chin slightly raised, one hand near the chest without touching the face, hair arranged to preserve the silhouette, hard side light and a white background. Convert the photograph into a large negative and contact-print it as a cyanotype, producing deep Prussian blue with lighter values controlled by negative density. Preserve real tonal gradation across face and fabric, organic sensitized-coating edges and visible paper fibers; do not reduce the portrait to a flat silhouette. Minimal vertical composition with no additional color. No uniform digital blue filter, technical blueprint look, text, vector edges or logos.
 ```
 
-**Restrição opcional:** `projetor atrás de tela translúcida; foreground real; sem chroma key, LED volume ou front projection.`
+**Restrição opcional:** `cyanotype fotográfico com gradação tonal e papel real; sem filtro azul uniforme, blueprint ou silhueta chapada.`
 
-**Por que funciona:** Rear projection combina performance real e plate projetado em uma única captura; a integração depende de tela translúcida, exposição equilibrada, alinhamento e luz de foreground coerente com o plate.
+**Por que funciona:** Cyanotype é um processo fotográfico de impressão que pode receber um negativo fotográfico por contato; retratos em cyanotype preservam gradação quando o negativo contém densidades adequadas, em vez de funcionar apenas como fotograma de silhueta.
 
 ---
 
-## 154. Retrato em filme reversível cross-processed com contraste alto e deriva cromática orgânica
+## 159. Emulsion lift de instant film sobre papel aquarela com retrato fragmentado
 
-**Uso:** editorial analógico, moda experimental, retrato musical e estética química imprevisível.
+**Uso:** editorial artesanal, capa musical, retrato íntimo e estética instantânea material.
 
-**Pose-chave:** meio-corpo inclinado para a frente, cotovelos assimétricos e olhar direto, mantendo geometria simples para deixar a química dominar.
+**Pose-chave:** close-up em três quartos com olhar direto e uma mão tocando de leve a gola, mantendo o rosto simples para suportar a deformação física posterior.
 
 ### Prompt em português
 
 ```text
-Retrato analógico de [modelo adulta] em meio-corpo, levemente inclinada para a frente, cotovelos em alturas diferentes e olhar direto para a câmera. Fotografe em filme colorido reversível de 35 mm normalmente destinado ao processo E-6, usando luz de estúdio simples: uma key dura lateral e fill mínimo. Deliberadamente processe o filme em um processo de negativo colorido incompatível, como ECN-2, para produzir cross-processing real: contraste elevado, saturação forte e deriva cromática orgânica e não totalmente previsível. Preserve grão fotográfico, roll-off de highlights e pequenas variações químicas entre tons; não fixe uma única cor dominante obrigatória. Enquadramento 50 mm, fundo neutro e figurino de cores sólidas para tornar a mudança cromática legível. Sem LUT digital, sem filtro Instagram, sem neon artificial, sem aparência HDR, sem pele plástica, texto ou logotipos.
+Close-up de [modelo adulta] em três quartos, olhar direto para a câmera e uma mão tocando levemente a gola, fotografado originalmente em filme instantâneo colorido com flash frontal suave e fundo neutro. Depois do desenvolvimento, trate a imagem como uma emulsion lift autêntica: a camada positiva transparente é removida do suporte e transferida para papel aquarela úmido, formando pequenas rugas, dobras e deslocamentos orgânicos principalmente nas bordas e no cabelo. Preserve olhos, nariz e boca legíveis no centro; permita apenas distorção física suave da emulsão nas áreas periféricas. Mostre textura real do papel sob as zonas transparentes, cores instantâneas ligeiramente suaves e uma borda irregular impossível de confundir com moldura Polaroid intacta. Sem rasgos digitais, glitch, colagem, duplicação facial, texto ou logotipos.
 ```
 
 ### Prompt em inglês
 
 ```text
-Analog portrait of an adult [model] in a half-body pose, leaning slightly forward, elbows at different heights and looking directly into camera. Shoot on 35mm color reversal film normally intended for E-6 processing, using a simple studio setup with one hard side key and minimal fill. Deliberately process the film in an incompatible color-negative process such as ECN-2 to create genuine cross-processing: higher contrast, strong saturation and organic, not fully predictable color shifts. Preserve photographic grain, highlight roll-off and small chemical variations across tones; do not force one exact dominant color. Use 50mm framing, a neutral background and solid-color wardrobe so the chromatic shift remains legible. No digital LUT, Instagram filter, artificial neon, HDR look, plastic skin, text or logos.
+Close-up portrait of an adult [model] in three-quarter view, looking directly at camera with one hand lightly touching the collar, originally shot on color instant film using soft frontal flash and a neutral background. After development, render the image as an authentic emulsion lift: the transparent positive layer is removed from its original support and transferred onto wet watercolor paper, creating small organic wrinkles, folds and shifts mainly around the edges and hair. Keep eyes, nose and mouth clearly legible in the center; allow only gentle physical emulsion distortion in peripheral areas. Show real paper texture through transparent regions, slightly soft instant-film color and an irregular edge that cannot be mistaken for an intact Polaroid frame. No digital tears, glitch, collage, duplicated face, text or logos.
 ```
 
-**Restrição opcional:** `aparência de filme cross-processed real; sem LUT digital; deriva cromática não deve parecer um único gel uniforme.`
+**Restrição opcional:** `emulsão transferida fisicamente para papel aquarela; centro facial legível; sem glitch, moldura Polaroid intacta ou colagem digital.`
 
-**Por que funciona:** Cross-processing usa um processo químico diferente daquele para o qual o filme foi projetado; em reversível, isso pode aumentar contraste, saturação e alterar a reprodução cromática de modo dependente do estoque e do laboratório.
+**Por que funciona:** Emulsion lift remove a camada positiva de uma fotografia instantânea e a transfere para outro suporte. Rugas e deslocamentos surgem da película física flexível, não de um filtro de distorção.
 
 ---
 
-## 155. Banding temporal intencional com LED PWM e shutter eletrônico sobre pose imóvel
+## 160. Retrato ortocromático com vermelho escurecido e luz verde controlada
 
-**Uso:** editorial tecnológico, moda gráfica e estudo visual de flicker e leitura sequencial do sensor.
+**Uso:** retrato preto e branco gráfico, moda monocromática e estudo de resposta espectral do filme.
 
-**Pose-chave:** corpo inteiro frontal perfeitamente imóvel, pés assimétricos e braços formando dois espaços negativos amplos.
+**Pose-chave:** meio-corpo frontal com rosto levemente virado, um braço cruzado e o outro segurando um tecido vermelho afastado da pele.
 
 ### Prompt em português
 
 ```text
-Retrato editorial de [modelo adulta] em corpo inteiro frontal perfeitamente imóvel, pés em alturas visuais diferentes e braços afastados do torso criando dois espaços negativos. Ilumine o rosto com uma fonte contínua DC estável e sem flicker. No fundo e no figurino, use dois painéis LED RGB com PWM de alta frequência e capture com shutter eletrônico/rolling shutter em velocidade deliberadamente incompatível com a frequência dos LEDs, de modo que o sensor registre faixas horizontais regulares de brilho e cor em posições diferentes ao longo do quadro. As bandas devem surgir da diferença temporal de leitura do sensor e do flicker real das fontes, não de um efeito gráfico adicionado depois. Mantenha olhos e traços faciais legíveis graças à key estável, 70 mm, fundo escuro e composição central. Sem glitch digital, scanline overlay, VHS, motion blur, múltiplos corpos, HSS de flash, texto ou logotipos.
+Retrato preto e branco de [modelo adulta] fotografado em filme ortocromático de grão fino, meio-corpo frontal com o rosto levemente virado, um braço cruzado e a outra mão segurando um tecido vermelho afastado do rosto. Use iluminação contínua branca neutra com pequena contribuição verde lateral e fundo cinza médio. A resposta espectral deve ser claramente ortocromática: azul e verde registrados com boa sensibilidade, enquanto vermelho e laranja aparecem visivelmente mais escuros do que apareceriam em filme pancromático. O tecido vermelho deve cair para um cinza muito profundo, lábios e tons avermelhados da pele um pouco mais escuros, sem transformar pele saudável em preto sólido. Preserve textura fina, alta nitidez, latitude natural e caráter fotográfico analógico. 85 mm, f/4, sem filtro vermelho. Sem efeito infravermelho, sem solarização, sem tintype, sem colorização seletiva, texto ou logotipos.
 ```
 
 ### Prompt em inglês
 
 ```text
-Editorial full-body portrait of an adult [model] standing perfectly still, feet visually staggered and arms separated from the torso to create two large negative spaces. Light the face with a stable flicker-free DC continuous source. On the background and wardrobe, use two high-frequency PWM RGB LED panels and capture with an electronic rolling shutter at a speed deliberately mismatched to the LED frequency so the sensor records regular horizontal brightness and color bands at different positions across the frame. The bands must arise from real temporal differences between sensor readout and LED flicker, not from a graphic effect added later. Keep eyes and facial features readable through the stable key, use 70mm framing, dark background and centered composition. No digital glitch, scanline overlay, VHS effect, motion blur, multiple bodies, flash HSS, text or logos.
+Black-and-white portrait of an adult [model] photographed on fine-grain orthochromatic film, frontal half-body pose with the face slightly turned, one arm crossed and the other hand holding a red fabric away from the face. Use neutral white continuous light with a small controlled green side contribution and a mid-gray background. Make the spectral response clearly orthochromatic: blue and green reproduce with good sensitivity while red and orange render noticeably darker than they would on panchromatic film. The red fabric should fall to a very deep gray, with lips and naturally reddish skin areas somewhat darker without turning healthy skin solid black. Preserve fine texture, high sharpness, natural latitude and authentic analog character. 85mm, f/4, no red filter. No infrared look, solarization, tintype, selective colorization, text or logos.
 ```
 
-**Restrição opcional:** `bandas causadas por flicker real + rolling shutter; key facial sem flicker; sem overlay digital, VHS ou HSS.`
+**Restrição opcional:** `resposta ortocromática realista; vermelhos escurecem; sem infravermelho, solarização ou filtro vermelho.`
 
-**Por que funciona:** Com shutter de varredura, diferentes linhas do sensor são expostas em tempos ligeiramente diferentes; sob LEDs que pulsam por PWM, essa defasagem pode aparecer como bandas de brilho ou cor.
+**Por que funciona:** Filme ortocromático é sensível principalmente a azul e verde e tem pouca ou nenhuma sensibilidade ao vermelho. Por isso elementos vermelhos podem registrar muito mais escuros do que em filme pancromático.

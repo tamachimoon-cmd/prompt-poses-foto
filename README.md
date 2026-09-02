@@ -1,27 +1,27 @@
 # Prompt Poses Foto
 
-Coleção curada de **155 prompts reutilizáveis para fotografia de estúdio com modelos adultos**, cobrindo retrato beauty, editorial, corpo inteiro, movimento, iluminação clássica e experimental, modificadores ópticos, composição, direção de pose, captura em espectros alternativos, técnicas computacionais, processos analógicos e linguagem de lentes.
+Coleção curada de **160 prompts reutilizáveis para fotografia de estúdio com modelos adultos**, cobrindo retrato beauty, editorial, corpo inteiro, movimento, iluminação clássica e experimental, modificadores ópticos, composição, direção de pose, captura em espectros alternativos, técnicas computacionais, processos analógicos e linguagem de lentes.
 
 Os prompts seguem uma estrutura consistente: finalidade, modelo e figurino, pose, enquadramento, iluminação, lente ou mecanismo de captura, textura, fundo e restrições anatômicas.
 
 ## Conteúdo
 
-- [`PROMPTS.md`](PROMPTS.md): índice consolidado e conteúdo integral dos prompts 151–155.
-- [`prompts.json`](prompts.json): catálogo estruturado com IDs 1–155 e conteúdo integral dos cinco prompts mais recentes.
-- [`prompts/archive-through-150.json`](prompts/archive-through-150.json): cópia exata do catálogo detalhado anterior, preservando os dados estruturados dos prompts 146–150.
-- [`prompts/references-through-145.md`](prompts/references-through-145.md): snapshot histórico de referências até o ID 145.
+- [`PROMPTS.md`](PROMPTS.md): índice consolidado e conteúdo integral dos prompts 156–160.
+- [`prompts.json`](prompts.json): catálogo estruturado com IDs 1–160 e conteúdo integral dos cinco prompts mais recentes.
+- [`prompts/archive-through-155.json`](prompts/archive-through-155.json): cópia exata do catálogo detalhado anterior, preservando os dados estruturados dos prompts 151–155.
+- [`prompts/references-through-155.md`](prompts/references-through-155.md): snapshot das referências consolidadas até a rodada anterior.
 - Arquivos históricos anteriores dentro de [`prompts/`](prompts/).
 - [`REFERENCIAS.md`](REFERENCIAS.md): metodologia consolidada e fontes atuais desta rodada.
 
-Os IDs e títulos anteriores permanecem no catálogo principal. Os detalhes estruturados até o ID 150 são preservados nos arquivos históricos permanentes; os cinco prompts mais recentes ficam incorporados integralmente em `PROMPTS.md` e `prompts.json`.
+Os IDs e títulos anteriores permanecem no catálogo principal. Os detalhes estruturados até o ID 155 são preservados nos arquivos históricos permanentes; os cinco prompts mais recentes ficam incorporados integralmente em `PROMPTS.md` e `prompts.json`.
 
 ## Novos estilos adicionados
 
-151. Schlieren por knife-edge com fluxo térmico atrás da silhueta e rosto separado  
-152. Díptico VIS–UVR de acessório com UV refletido isolado e rosto protegido  
-153. Rear projection em tela translúcida com plate cinematográfico e foreground real  
-154. Retrato em filme reversível cross-processed com contraste alto e deriva cromática orgânica  
-155. Banding temporal intencional com LED PWM e shutter eletrônico sobre pose imóvel
+156. Daguerréotype medallion com cinco vistas sequenciais em placa única  
+157. Retrato pinhole 4×5 com exposição longa e leve rastro nas mãos  
+158. Retrato cyanotype por negativo ampliado com recorte azul da silhueta  
+159. Emulsion lift de instant film sobre papel aquarela com retrato fragmentado  
+160. Retrato ortocromático com vermelho escurecido e luz verde controlada
 
 ## Fórmula-base
 
@@ -35,8 +35,8 @@ Os IDs e títulos anteriores permanecem no catálogo principal. Os detalhes estr
 
 - Descreva função, posição, direção, tamanho aparente e percurso da luz.
 - Diferencie efeitos ópticos/captura física de overlays adicionados em pós.
-- Em técnicas espectrais, especifique banda, filtro e aquilo que deve permanecer fora do feixe.
-- Em captura temporal, descreva claramente o que se move, o que permanece imóvel e como o sensor registra o tempo.
+- Em processos analógicos, descreva a assinatura do material sem confundir processo químico com filtro digital.
+- Em captura temporal, descreva claramente o que se move, o que permanece imóvel e como a exposição registra o tempo.
 - Prefira olhos nítidos quando o rosto estiver no quadro e mãos com função clara.
 - Configurações de câmera funcionam como vocabulário visual; não garantem simulação física exata.
 - Respeite consentimento, direitos de imagem e regras da plataforma.
