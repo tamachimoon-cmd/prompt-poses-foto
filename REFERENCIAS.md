@@ -1,8 +1,8 @@
 # Referências e Metodologia
 
-Pesquisa inicial realizada em **2 de agosto de 2026** e ampliada continuamente até **2 de setembro de 2026**. A curadoria prioriza documentação oficial, fabricantes reconhecidos, instituições acadêmicas, museus e fontes técnicas diretamente relacionadas ao mecanismo fotográfico.
+Pesquisa inicial realizada em **2 de agosto de 2026** e ampliada continuamente até **3 de setembro de 2026**. A curadoria prioriza documentação oficial, fabricantes reconhecidos, instituições acadêmicas, museus e fontes técnicas diretamente relacionadas ao mecanismo fotográfico.
 
-> O snapshot das referências consolidadas até a rodada anterior foi preservado em [`prompts/references-through-155.md`](prompts/references-through-155.md). O catálogo detalhado anterior está em [`prompts/archive-through-155.json`](prompts/archive-through-155.json).
+> O catálogo detalhado anterior está preservado em [`prompts/archive-through-160.json`](prompts/archive-through-160.json). Snapshots de referências das rodadas anteriores permanecem em [`prompts/`](prompts/).
 
 ## Critérios usados
 
@@ -20,63 +20,69 @@ Pesquisa inicial realizada em **2 de agosto de 2026** e ampliada continuamente a
 - Clareza e especificidade superam listas ornamentais de adjetivos.
 - Propósito, assunto, ação, composição, iluminação, textura e restrições formam uma estrutura robusta.
 - Relações espaciais explícitas ajudam a preservar pose, plano de foco, foreground e background.
-- Em retrato, focal, abertura e distância trabalham juntas na perspectiva e no isolamento do fundo; 85 mm continua sendo uma referência frequente de linguagem de retrato.
 - Em estúdio, posição, tamanho aparente, direção, temperatura, spill e relação entre luz ambiente e luz adicionada devem ser descritos operacionalmente.
-- Processos históricos devem ser distinguidos por sua física ou química real: daguerreótipo, pinhole, cyanotype, instant-film emulsion lift e filme ortocromático não são equivalentes a filtros digitais.
-- Para geração de imagens, pose, composição, lente, iluminação, materiais e restrições específicas devem ser declaradas quando determinantes.
+- Direção de modelo melhora quando mãos, pés, olhar e área de movimento recebem instruções concretas.
+- Processos históricos devem ser distinguidos por sua física ou química real, não por um filtro visual genérico.
+- Em captura temporal, deve ficar explícito o que se move, o que permanece imóvel e como o sensor ou exposição registra o tempo.
 
-## Fontes verificadas em 2 de setembro de 2026
+## Fontes verificadas em 3 de setembro de 2026
 
-1. The Metropolitan Museum of Art — Southworth and Hawes, *Unidentified Woman in Nine Oval Views*  
-   https://www.metmuseum.org/art/collection/search/268650
+1. Adobe Learn — *Explore prompting basics for photographers* — 20/08/2026  
+   https://www.adobe.com/learn/firefly/web/firefly-photographers-prompting-basics
 
-2. Smithsonian National Museum of American History — Camera Obscura  
-   https://americanhistory.si.edu/collections/object/nmah_1184229
+2. Adobe Learn — *Generate realistic photos with a prompt formula in Firefly* — 01/05/2026  
+   https://www.adobe.com/learn/firefly/web/generate-realistic-photos
 
-3. The Metropolitan Museum of Art — Vera Lutter, *Pepsi Cola Interior II: July 6-13, 2000*  
-   https://www.metmuseum.org/art/collection/search/284754
+3. OpenAI Academy — *Criando imagens com o ChatGPT* — 10/04/2026  
+   https://openai.com/pt-BR/academy/image-generation/
 
-4. The Metropolitan Museum of Art — John Dugdale, *Self-Portrait with Keats' Death Mask* — cyanotype portrait  
-   https://www.metmuseum.org/art/collection/search/307421
+4. Profoto — *5 tips on posing your model during a photoshoot*  
+   https://www.profoto.com/int/en/studio-solutions/tips-tricks/5-tips-on-posing-your-model-during-a-photoshoot
 
-5. The Metropolitan Museum of Art — Anna Atkins, cyanotype works  
-   https://www.metmuseum.org/art/collection/search/291636
+5. Profoto — *How to successfully run a photoshoot and direct your model for stills*  
+   https://www.profoto.com/jp/en/studio-solutions/tips-tricks/how-to-successfully-run-a-photoshoot-and-direct-your-model/ImportedBlogPage
 
-6. Polaroid Support — *How can I get creative with my Polaroid pictures?* — atualizado em 05/03/2026  
-   https://support.polaroid.com/hc/en-us/articles/33801823979154-How-can-I-get-creative-with-my-Polaroid-pictures
+6. Victoria and Albert Museum — *Photography: Processes and Techniques — Autochrome*  
+   https://www.vam.ac.uk/info/collection-selection-boxes-photography-processes-and-techniques
 
-7. ILFORD PHOTO — ORTHO PLUS technical information  
-   https://www.ilfordphoto.com/amfile/file/download/file/1948/product/1658
+7. The Metropolitan Museum of Art — Frederick Dellenbaugh, *[Bananas]* — Autochrome  
+   https://www.metmuseum.org/art/collection/search/285857
 
-8. Profoto — *Environmental lighting – cinematic set* — 24/02/2026  
-   https://www.profoto.com/nl/en/still-photography/profoto-stories/4-photoshoots-with-the-new-profoto-l600c-led/setup-4-environmental-lighting-cinematic-set
+8. National Gallery of Art — *Stieglitz’s Practices and Processes — Gum Bichromate Prints*  
+   https://www.nga.gov/research/publications/alfred-stieglitz-key-set/stieglitzs-practices-and-processes
 
-9. Canon Europe — RF lens lineup, RF85mm F1.2 L USM portrait characteristics  
-   https://files.canon-europe.com/files/webcontent/rf-lens-world/features/rf-lineup/index.html
+9. The Metropolitan Museum of Art — Robert Demachy, *Struggle* — gum bichromate print  
+   https://www.metmuseum.org/art/collection/search/289550
 
-10. OpenAI Academy — *Criando imagens com o ChatGPT* — 10/04/2026  
-    https://openai.com/pt-BR/academy/image-generation/
+10. The Metropolitan Museum of Art — *Photography: Processes, Preservation, and Conservation* — photogravure  
+    https://www.metmuseum.org/exhibitions/listings/2001/photography-processes-preservation-conservation
 
-11. Adobe Learn — *Explore prompting basics for photographers* — 20/08/2026  
-    https://www.adobe.com/learn/firefly/web/firefly-photographers-prompting-basics
+11. The Metropolitan Museum of Art — Armand-Hippolyte-Louis Fizeau, *St. Sulpice, Paris* — photogravure  
+    https://www.metmuseum.org/art/collection/search/269071
 
-12. Adobe Learn — *Generate realistic photos with a prompt formula in Firefly* — 01/05/2026  
-    https://www.adobe.com/learn/firefly/web/generate-realistic-photos
+12. Exploratorium — *Soap Bubbles* — thin-film interference  
+    https://annex.exploratorium.edu/xref/exhibits/soap_bubbles.html
 
-13. Adobe Learn — *Previsualize a shoot with reference images in Firefly* — 20/08/2026  
-    https://www.adobe.com/learn/firefly/web/firefly-photographers-previsualize-photo-shoots
+13. Exploratorium — *See Colors in Bubbles* — interference colors and black background  
+    https://annex.exploratorium.edu/science-explorer/bub_dome.html
 
-## Atualização de 2 de setembro de 2026
+14. Sony USA — *Are there any restrictions on the use of Silent Shooting mode?* — rolling-shutter distortion  
+    https://www.sony.com/electronics/support/e-mount-body-ilce-6000-series/ilce-6400m/articles/00122352
 
-Foram selecionados cinco mecanismos ausentes dos 155 títulos anteriores:
+15. Sony USA — *What are the restrictions on using the Electronic Shutter?* — electronic shutter artifacts  
+    https://www.sony.com/electronics/support/e-mount-body-ilce-6000-series/ilce-6700l/articles/00176309
 
-- **daguerréotype medallion sequencial**, usando múltiplas vistas registradas em uma única placa como linguagem serial de retrato;
-- **pinhole 4×5**, sem lente, com longa exposição e movimento restrito às mãos;
-- **cyanotype de retrato por negativo ampliado**, preservando gradação tonal em papel em vez de simular apenas um filtro azul;
-- **instant-film emulsion lift**, transferindo fisicamente a camada positiva para papel aquarela;
-- **filme ortocromático**, explorando a resposta espectral limitada ao vermelho para alterar a reprodução tonal de tecido, lábios e pele.
+## Atualização de 3 de setembro de 2026
 
-Na direção de modelos, poses apoiadas foram escolhidas quando o mecanismo exige exposição longa ou múltiplas capturas, e as mãos receberam função clara para evitar ambiguidade anatômica. Na engenharia de prompts, cada registro descreve finalidade, pose, relações espaciais, mecanismo de captura, luz, textura e restrições negativas.
+Foram selecionados cinco mecanismos ausentes dos 160 títulos anteriores:
+
+- **Autochrome Lumière**, explorando cor aditiva em placa de vidro por grãos de amido tingidos;
+- **gum bichromate tricolor**, usando múltiplas camadas pigmentadas e registro manual;
+- **photogravure em cobre**, tratando a fotografia como matriz gravada e impressão em tinta;
+- **interferência em filme fino de sabão**, com bandas iridescentes físicas confinadas ao foreground;
+- **rolling shutter controlado**, usando leitura temporal linha a linha para cisalhar apenas um elemento móvel enquanto o rosto permanece estático.
+
+Na direção de modelos, as poses mantêm mãos com função clara, evitam cruzamentos ambíguos e delimitam explicitamente quais partes podem se mover. Na engenharia de prompts, cada registro descreve finalidade, pose, relações espaciais, mecanismo de captura, luz, textura e restrições negativas.
 
 ## Autoria
 

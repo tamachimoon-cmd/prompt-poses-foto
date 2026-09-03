@@ -1,27 +1,27 @@
 # Prompt Poses Foto
 
-Coleção curada de **160 prompts reutilizáveis para fotografia de estúdio com modelos adultos**, cobrindo retrato beauty, editorial, corpo inteiro, movimento, iluminação clássica e experimental, modificadores ópticos, composição, direção de pose, captura em espectros alternativos, técnicas computacionais, processos analógicos e linguagem de lentes.
+Coleção curada de **165 prompts reutilizáveis para fotografia de estúdio com modelos adultos**, cobrindo retrato beauty, editorial, corpo inteiro, movimento, iluminação clássica e experimental, modificadores ópticos, composição, direção de pose, captura em espectros alternativos, técnicas computacionais, processos analógicos e linguagem de lentes.
 
 Os prompts seguem uma estrutura consistente: finalidade, modelo e figurino, pose, enquadramento, iluminação, lente ou mecanismo de captura, textura, fundo e restrições anatômicas.
 
 ## Conteúdo
 
-- [`PROMPTS.md`](PROMPTS.md): índice consolidado e conteúdo integral dos prompts 156–160.
-- [`prompts.json`](prompts.json): catálogo estruturado com IDs 1–160 e conteúdo integral dos cinco prompts mais recentes.
-- [`prompts/archive-through-155.json`](prompts/archive-through-155.json): cópia exata do catálogo detalhado anterior, preservando os dados estruturados dos prompts 151–155.
-- [`prompts/references-through-155.md`](prompts/references-through-155.md): snapshot das referências consolidadas até a rodada anterior.
+- [`PROMPTS.md`](PROMPTS.md): índice consolidado e conteúdo integral dos prompts 161–165.
+- [`prompts.json`](prompts.json): catálogo estruturado com IDs 1–165 e conteúdo integral dos cinco prompts mais recentes.
+- [`prompts/archive-through-160.json`](prompts/archive-through-160.json): cópia exata do catálogo detalhado anterior, preservando os dados estruturados dos prompts 156–160.
+- [`prompts/references-through-155.md`](prompts/references-through-155.md): snapshot histórico das referências consolidadas até a rodada anterior disponível na estrutura atual.
 - Arquivos históricos anteriores dentro de [`prompts/`](prompts/).
 - [`REFERENCIAS.md`](REFERENCIAS.md): metodologia consolidada e fontes atuais desta rodada.
 
-Os IDs e títulos anteriores permanecem no catálogo principal. Os detalhes estruturados até o ID 155 são preservados nos arquivos históricos permanentes; os cinco prompts mais recentes ficam incorporados integralmente em `PROMPTS.md` e `prompts.json`.
+Os IDs e títulos anteriores permanecem no catálogo principal. Os detalhes estruturados até o ID 160 são preservados nos arquivos históricos permanentes; os cinco prompts mais recentes ficam incorporados integralmente em `PROMPTS.md` e `prompts.json`.
 
 ## Novos estilos adicionados
 
-156. Daguerréotype medallion com cinco vistas sequenciais em placa única  
-157. Retrato pinhole 4×5 com exposição longa e leve rastro nas mãos  
-158. Retrato cyanotype por negativo ampliado com recorte azul da silhueta  
-159. Emulsion lift de instant film sobre papel aquarela com retrato fragmentado  
-160. Retrato ortocromático com vermelho escurecido e luz verde controlada
+161. Autochrome Lumière com retrato retroiluminado e grão de amido visível  
+162. Gum bichromate tricolor em três camadas com pose escultórica e registro pictorialista  
+163. Photogravure em cobre com pretos de tinta profundos e retrato de perfil recortado  
+164. Filme fino de sabão em foreground com interferência iridescente e rosto em janela limpa  
+165. Rolling shutter de tecido horizontal com rosto estático e cisalhamento temporal controlado
 
 ## Fórmula-base
 

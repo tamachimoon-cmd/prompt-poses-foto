@@ -1,6 +1,6 @@
-# 160 Prompts de Fotografia de Estúdio e Poses de Modelo
+# 165 Prompts de Fotografia de Estúdio e Poses de Modelo
 
-Catálogo principal consolidado. Os prompts 1–155 permanecem acessíveis pelo catálogo JSON, arquivos históricos ou revisões permanentes; os prompts 156–160 estão completos nesta página.
+Catálogo principal consolidado. Os prompts 1–160 permanecem acessíveis pelo catálogo JSON, arquivos históricos ou revisões permanentes; os prompts 161–165 estão completos nesta página.
 
 ## Índice consolidado
 
@@ -164,123 +164,126 @@ Catálogo principal consolidado. Os prompts 1–155 permanecem acessíveis pelo 
 158. Retrato cyanotype por negativo ampliado com recorte azul da silhueta
 159. Emulsion lift de instant film sobre papel aquarela com retrato fragmentado
 160. Retrato ortocromático com vermelho escurecido e luz verde controlada
+161. Autochrome Lumière com retrato retroiluminado e grão de amido visível
+162. Gum bichromate tricolor em três camadas com pose escultórica e registro pictorialista
+163. Photogravure em cobre com pretos de tinta profundos e retrato de perfil recortado
+164. Filme fino de sabão em foreground com interferência iridescente e rosto em janela limpa
+165. Rolling shutter de tecido horizontal com rosto estático e cisalhamento temporal controlado
 
 ---
 
-## 156. Daguerréotype medallion com cinco vistas sequenciais em placa única
+## 161. Autochrome Lumière com retrato retroiluminado e grão de amido visível
 
-**Uso:** retrato histórico-conceitual, estudo de identidade e composição serial analógica.
+**Uso:** editorial histórico em cor, retrato pictorialista e estudo de cor aditiva em transparência.
 
-**Pose-chave:** busto apoiado e imóvel entre exposições, com cinco microvariações progressivas do giro da cabeça do perfil para o frontal.
+**Pose-chave:** busto em três quartos, cabeça levemente inclinada para a luz, uma mão apoiada no colo e a outra segurando discretamente um tecido translúcido.
 
 ### Prompt em português
 
 ```text
-Retrato histórico-conceitual de [modelo adulta] apresentado como um único daguerreótipo em placa metálica polida, contendo exatamente cinco pequenas vistas ovais sequenciais da mesma pessoa. A modelo mantém o busto apoiado e a posição corporal estável; entre exposições, gira apenas a cabeça em etapas progressivas, do perfil esquerdo ao frontal. Organize as cinco vistas em arco regular como um medalhão, com fundo dividido em áreas claras e escuras para separar cada perfil. Aparência de daguerreótipo autêntico: detalhe fino, prata especular, contraste delicado, bordas discretamente irregulares e leitura tonal dependente do ângulo, sem imitar colagem digital. Iluminação de estúdio ampla e lateral, pose digna do século XIX, anatomia natural. Sem duplicações aleatórias, sem mais ou menos que cinco vistas, sem estética wet-plate collodion, sem moldura moderna, texto ou logotipos.
+Retrato histórico-colorido de [modelo adulta] concebido como um Autochrome Lumière autêntico sobre placa de vidro. A modelo posa em busto três quartos, cabeça levemente inclinada para a luz, uma mão apoiada no colo e a outra segurando discretamente um tecido translúcido. Use luz contínua ampla e suave, com pequena predominância lateral e fundo simples de estúdio em tons naturais. A imagem deve parecer uma transparência positiva vista por luz transmitida: cores naturais porém ligeiramente densas, microtextura granular formada por grãos de amido tingidos, nitidez delicadamente suave e pequenas variações cromáticas orgânicas, sem aparência de filme moderno escaneado. Preserve olhos legíveis, pele natural e anatomia correta. Sem filtro vintage genérico, sem halftone CMYK, sem cyanotype, sem colorização manual, texto ou logotipos.
 ```
 
 ### Prompt em inglês
 
 ```text
-Historical-conceptual portrait presented as a single polished-metal daguerreotype plate containing exactly five small sequential oval views of the same adult [model]. Keep the torso supported and stable; between exposures, rotate only the head in progressive steps from left profile to frontal. Arrange the five views in a regular medallion arc, using alternating light and dark background areas to separate each profile. Authentic daguerreotype character: extremely fine detail, specular silver surface, delicate contrast, subtly irregular edges and angle-dependent tonal reading, not a digital collage. Broad side studio light, restrained nineteenth-century pose, natural anatomy. No random duplicates, no more or fewer than five views, no wet-plate collodion look, modern frame, text or logos.
+Historical color portrait of an adult [model] conceived as an authentic Lumière Autochrome on glass. Pose the model in a three-quarter bust view, head slightly inclined toward the light, one hand resting in the lap and the other lightly holding a translucent fabric. Use broad soft continuous studio light with a gentle side bias and a simple natural-toned background. The image should read as a positive transparency viewed by transmitted light: natural yet slightly dense colors, fine granular texture created by dyed starch grains, delicately soft detail and subtle organic chromatic variation, not a scan of modern film. Keep the eyes legible, skin natural and anatomy correct. No generic vintage filter, CMYK halftone, cyanotype, hand-coloring, text or logos.
 ```
 
-**Restrição opcional:** `exatamente cinco vistas sequenciais na mesma placa; sem colagem digital, wet plate, duplicações extras ou rostos inconsistentes.`
+**Restrição opcional:** `Autochrome em placa de vidro com cor aditiva e grão de amido; sem filtro vintage genérico, halftone ou colorização manual.`
 
-**Por que funciona:** Southworth & Hawes produziram retratos em múltiplas vistas na mesma placa usando exposições sequenciais e um suporte deslizante; o efeito serial nasce da captura em uma única superfície fotográfica, não de montagem posterior.
+**Por que funciona:** Autochrome foi o primeiro processo de cor comercialmente bem-sucedido. A cor vinha de uma tela aditiva de minúsculos grãos de amido tingidos sobre vidro, o que produz transparência positiva, granulação cromática e nitidez suavizada características.
 
 ---
+## 162. Gum bichromate tricolor em três camadas com pose escultórica e registro pictorialista
 
-## 157. Retrato pinhole 4×5 com exposição longa e leve rastro nas mãos
+**Uso:** fine art, editorial pictorialista e retrato com aparência de pigmento artesanal em papel.
 
-**Uso:** fine art minimalista, retrato contemplativo e linguagem óptica sem lente.
-
-**Pose-chave:** modelo sentada e apoiada, cabeça completamente imóvel, mãos afastadas do rosto realizando um movimento lento e único durante a exposição.
+**Pose-chave:** meio-corpo frontal, ombros em leve diagonal, queixo baixo e mãos abertas em alturas diferentes sem tocar o rosto.
 
 ### Prompt em português
 
 ```text
-Retrato fine-art de [modelo adulta] feito com câmera pinhole 4×5 sem lente, enquadramento de meio-corpo e distância suficiente para evitar deformação extrema. A modelo está sentada com costas apoiadas, cabeça e olhos totalmente imóveis durante uma exposição longa; somente as mãos, afastadas do rosto, executam um movimento lento de poucos centímetros para criar um rastro suave e contínuo. Use um pequeno orifício real como abertura, profundidade de campo muito extensa, nitidez global suave sem ponto focal óptico convencional, leve queda luminosa nas bordas e textura de filme de grande formato. Iluminação contínua ampla e estável, fundo cinza simples. O rosto deve permanecer reconhecível e sem motion blur. Sem lente, sem bokeh, sem zone plate, sem efeito Lensbaby, sem duplicação de mãos, texto ou logotipos.
+Retrato fine-art de [modelo adulta] concebido como impressão gum bichromate tricolor feita em três passagens pigmentadas sobre papel de algodão. Pose de meio-corpo frontal, ombros em leve diagonal, queixo discretamente baixo e mãos abertas em alturas diferentes sem tocar o rosto. A fotografia-base deve ter luz lateral ampla, fundo simples e formas grandes bem separadas. Construa a aparência final por três camadas de pigmento registradas manualmente, com pequenas imperfeições de alinhamento apenas nas bordas, textura granulada de pigmento, médios menos contínuos que uma prata gelatinada e possibilidade de pinceladas discretas no fundo. Preserve olhos, nariz e boca alinhados e reconhecíveis. Sem aquarela aleatória, sem RGB glitch, sem impressão offset, sem cyanotype, sem posterização digital, texto ou logotipos.
 ```
 
 ### Prompt em inglês
 
 ```text
-Fine-art portrait of an adult [model] made with a lensless 4×5 pinhole camera, half-body framing and enough camera distance to avoid extreme distortion. The model sits with back support, keeping head and eyes completely still during a long exposure; only the hands, held away from the face, move slowly by a few centimeters to create one soft continuous trace. Use a real small pinhole aperture, very deep depth of field, globally soft detail with no conventional optical focus plane, subtle edge falloff and large-format film texture. Broad stable continuous lighting, simple gray background. Keep the face recognizable and free of motion blur. No lens, bokeh, zone plate, Lensbaby look, duplicated hands, text or logos.
+Fine-art portrait of an adult [model] conceived as a three-color gum bichromate print built from three pigmented passes on cotton paper. Use a frontal half-body pose with shoulders on a slight diagonal, chin gently lowered and open hands at different heights without touching the face. The source photograph should use broad side light, a simple background and clearly separated large shapes. Build the final appearance from three manually registered pigment layers, allowing tiny registration imperfections only near edges, visible pigment grain, less continuous midtones than a silver-gelatin print and subtle brush manipulation in the background. Keep eyes, nose and mouth aligned and recognizable. No random watercolor effect, RGB glitch, offset print, cyanotype, digital posterization, text or logos.
 ```
 
-**Restrição opcional:** `câmera sem lente; cabeça imóvel; rastro apenas nas mãos; sem zone plate, bokeh ou blur facial.`
+**Restrição opcional:** `três camadas de gum bichromate registradas; rosto alinhado; sem glitch RGB, aquarela genérica, offset ou cyanotype.`
 
-**Por que funciona:** Uma câmera pinhole forma a imagem por um pequeno orifício em vez de uma lente. Isso elimina bokeh e plano focal convencional, produzindo nitidez suave e profundidade extensa; a longa exposição torna movimentos seletivos visíveis.
+**Por que funciona:** Gum bichromate usa pigmento em goma sensibilizada e permite múltiplas camadas, cores e intervenção manual. A granulação, os médios menos contínuos e a possibilidade de manipular o revestimento diferenciam o processo de uma simples coloração digital.
 
 ---
+## 163. Photogravure em cobre com pretos de tinta profundos e retrato de perfil recortado
 
-## 158. Retrato cyanotype por negativo ampliado com recorte azul da silhueta
+**Uso:** retrato editorial clássico, impressão fine-art e estética de gravura fotográfica.
 
-**Uso:** retrato autoral, impressão artesanal, capas e editorial com linguagem fotográfica histórica.
-
-**Pose-chave:** perfil de busto bem definido, queixo elevado e uma mão próxima ao peito para criar contorno legível no negativo.
+**Pose-chave:** perfil de busto muito limpo, coluna ereta, queixo paralelo ao chão e uma mão segurando a lapela abaixo da linha do rosto.
 
 ### Prompt em português
 
 ```text
-Retrato autoral de [modelo adulta] concebido para ser finalizado como cyanotype fotográfico em papel de algodão. Primeiro imagine uma fotografia de perfil de busto com contorno muito claro: queixo levemente elevado, uma mão junto ao peito sem tocar o rosto, cabelo organizado para não quebrar a silhueta, luz lateral dura e fundo branco. A imagem é convertida em um grande negativo fotográfico e impressa por contato no processo cyanotype, resultando em azul da Prússia profundo e áreas claras formadas pela densidade do negativo. Preserve gradações reais no rosto e no tecido, bordas orgânicas do revestimento sensível e textura fibrosa do papel; não transforme tudo em silhueta chapada. Composição vertical minimalista, sem cor adicional. Sem filtro azul digital uniforme, sem aparência de blueprint técnico, sem texto, bordas vetoriais ou logotipos.
+Retrato monocromático de [modelo adulta] preparado para photogravure em placa de cobre. Pose em perfil de busto muito limpo, coluna ereta, queixo paralelo ao chão e uma mão segurando a lapela abaixo da linha do rosto. Fotografe com 100 mm equivalente, luz lateral dura porém controlada e fundo claro uniforme para produzir separação gráfica. A impressão final deve ter pretos ricos de tinta depositada nas cavidades gravadas, sombras profundas porém detalhadas, meios-tons construídos por grão de aquatinta e brancos definidos pelo papel sem tinta. Mostre leve relevo e textura do papel, bordas de placa discretas e nenhuma aparência de fotografia laser impressa. Preserve contorno facial e anatomia natural. Sem halftone de jornal, sem charcoal filter, sem mezzotint falsa, sem bordas vetoriais, texto ou logotipos.
 ```
 
 ### Prompt em inglês
 
 ```text
-Authorial portrait of an adult [model] designed to be finished as a photographic cyanotype on cotton paper. Begin from a clearly shaped bust-profile photograph: chin slightly raised, one hand near the chest without touching the face, hair arranged to preserve the silhouette, hard side light and a white background. Convert the photograph into a large negative and contact-print it as a cyanotype, producing deep Prussian blue with lighter values controlled by negative density. Preserve real tonal gradation across face and fabric, organic sensitized-coating edges and visible paper fibers; do not reduce the portrait to a flat silhouette. Minimal vertical composition with no additional color. No uniform digital blue filter, technical blueprint look, text, vector edges or logos.
+Monochrome portrait of an adult [model] prepared as a copper-plate photogravure. Use a very clean bust profile, upright spine, chin parallel to the floor and one hand holding the lapel below the face line. Photograph with a 100mm-equivalent lens, controlled hard side light and an even light background for graphic separation. The final print should show rich ink blacks held in etched recesses, deep but detailed shadows, midtones built through aquatint-like grain and whites formed by untouched paper. Include subtle paper relief and a restrained plate mark, with no laser-printed photographic look. Preserve facial contour and natural anatomy. No newspaper halftone, charcoal filter, fake mezzotint, vector edges, text or logos.
 ```
 
-**Restrição opcional:** `cyanotype fotográfico com gradação tonal e papel real; sem filtro azul uniforme, blueprint ou silhueta chapada.`
+**Restrição opcional:** `photogravure em cobre com tinta e papel reais; sem halftone, filtro carvão, impressão laser ou desenho vetorial.`
 
-**Por que funciona:** Cyanotype é um processo fotográfico de impressão que pode receber um negativo fotográfico por contato; retratos em cyanotype preservam gradação quando o negativo contém densidades adequadas, em vez de funcionar apenas como fotograma de silhueta.
+**Por que funciona:** Photogravure transfere a imagem fotográfica para uma placa de cobre gravada e imprime com tinta. Os pretos vêm da tinta, os brancos do papel e a estrutura tonal é diferente de uma fotografia de prata ou de um filtro de gravura.
 
 ---
+## 164. Filme fino de sabão em foreground com interferência iridescente e rosto em janela limpa
 
-## 159. Emulsion lift de instant film sobre papel aquarela com retrato fragmentado
+**Uso:** beauty experimental, editorial de cor e retrato óptico com efeito físico em primeiro plano.
 
-**Uso:** editorial artesanal, capa musical, retrato íntimo e estética instantânea material.
-
-**Pose-chave:** close-up em três quartos com olhar direto e uma mão tocando de leve a gola, mantendo o rosto simples para suportar a deformação física posterior.
+**Pose-chave:** close-up frontal, cabeça imóvel, um ombro avançado e mãos fora do quadro para deixar a janela facial totalmente limpa.
 
 ### Prompt em português
 
 ```text
-Close-up de [modelo adulta] em três quartos, olhar direto para a câmera e uma mão tocando levemente a gola, fotografado originalmente em filme instantâneo colorido com flash frontal suave e fundo neutro. Depois do desenvolvimento, trate a imagem como uma emulsion lift autêntica: a camada positiva transparente é removida do suporte e transferida para papel aquarela úmido, formando pequenas rugas, dobras e deslocamentos orgânicos principalmente nas bordas e no cabelo. Preserve olhos, nariz e boca legíveis no centro; permita apenas distorção física suave da emulsão nas áreas periféricas. Mostre textura real do papel sob as zonas transparentes, cores instantâneas ligeiramente suaves e uma borda irregular impossível de confundir com moldura Polaroid intacta. Sem rasgos digitais, glitch, colagem, duplicação facial, texto ou logotipos.
+Close-up beauty de [modelo adulta] fotografado através de um grande filme fino de sabão montado em moldura vertical diante da câmera, mas com uma janela central sem membrana alinhada ao rosto. A modelo mantém cabeça imóvel, um ombro levemente avançado e mãos fora do enquadramento. Ilumine o filme de sabão com uma fonte branca ampla do mesmo lado da câmera e mantenha fundo preto atrás dele para maximizar as cores de interferência; ilumine o rosto separadamente com softbox neutra e baixa potência. As bordas do quadro devem mostrar bandas iridescentes orgânicas, curvas e variáveis produzidas por diferenças reais de espessura do filme fino, enquanto olhos, nariz e boca ficam completamente livres e nítidos. 85 mm, f/4. Sem prisma, grade de difração, óleo digital, arco-íris uniforme, bolhas cobrindo o rosto, texto ou logotipos.
 ```
 
 ### Prompt em inglês
 
 ```text
-Close-up portrait of an adult [model] in three-quarter view, looking directly at camera with one hand lightly touching the collar, originally shot on color instant film using soft frontal flash and a neutral background. After development, render the image as an authentic emulsion lift: the transparent positive layer is removed from its original support and transferred onto wet watercolor paper, creating small organic wrinkles, folds and shifts mainly around the edges and hair. Keep eyes, nose and mouth clearly legible in the center; allow only gentle physical emulsion distortion in peripheral areas. Show real paper texture through transparent regions, slightly soft instant-film color and an irregular edge that cannot be mistaken for an intact Polaroid frame. No digital tears, glitch, collage, duplicated face, text or logos.
+Beauty close-up of an adult [model] photographed through a large vertical soap-film membrane placed in front of the camera, with a clean central opening aligned to the face. Keep the head still, one shoulder slightly forward and hands outside the frame. Light the soap film with a broad white source from the camera side and place a black background behind it to maximize interference colors; light the face separately with a low-power neutral softbox. The frame edges should show organic curved iridescent bands that vary with true thin-film thickness, while eyes, nose and mouth remain completely clear and sharp. 85mm, f/4. No prism, diffraction grating, digital oil overlay, uniform rainbow, bubbles covering the face, text or logos.
 ```
 
-**Restrição opcional:** `emulsão transferida fisicamente para papel aquarela; centro facial legível; sem glitch, moldura Polaroid intacta ou colagem digital.`
+**Restrição opcional:** `interferência real em filme fino apenas nas bordas; rosto em janela limpa; sem prisma, difração, overlay arco-íris ou bolhas sobre a face.`
 
-**Por que funciona:** Emulsion lift remove a camada positiva de uma fotografia instantânea e a transfere para outro suporte. Rugas e deslocamentos surgem da película física flexível, não de um filtro de distorção.
+**Por que funciona:** As cores de um filme de sabão surgem da interferência entre reflexos das superfícies frontal e traseira da película. Espessuras diferentes reforçam ou cancelam comprimentos de onda diferentes, criando bandas iridescentes que mudam organicamente.
 
 ---
+## 165. Rolling shutter de tecido horizontal com rosto estático e cisalhamento temporal controlado
 
-## 160. Retrato ortocromático com vermelho escurecido e luz verde controlada
+**Uso:** editorial tecnológico, estudo de captura eletrônica e movimento com distorção temporal real.
 
-**Uso:** retrato preto e branco gráfico, moda monocromática e estudo de resposta espectral do filme.
-
-**Pose-chave:** meio-corpo frontal com rosto levemente virado, um braço cruzado e o outro segurando um tecido vermelho afastado da pele.
+**Pose-chave:** busto frontal absolutamente imóvel enquanto um tecido rígido e longo é puxado rapidamente na horizontal atrás dos ombros.
 
 ### Prompt em português
 
 ```text
-Retrato preto e branco de [modelo adulta] fotografado em filme ortocromático de grão fino, meio-corpo frontal com o rosto levemente virado, um braço cruzado e a outra mão segurando um tecido vermelho afastado do rosto. Use iluminação contínua branca neutra com pequena contribuição verde lateral e fundo cinza médio. A resposta espectral deve ser claramente ortocromática: azul e verde registrados com boa sensibilidade, enquanto vermelho e laranja aparecem visivelmente mais escuros do que apareceriam em filme pancromático. O tecido vermelho deve cair para um cinza muito profundo, lábios e tons avermelhados da pele um pouco mais escuros, sem transformar pele saudável em preto sólido. Preserve textura fina, alta nitidez, latitude natural e caráter fotográfico analógico. 85 mm, f/4, sem filtro vermelho. Sem efeito infravermelho, sem solarização, sem tintype, sem colorização seletiva, texto ou logotipos.
+Retrato editorial de [modelo adulta] em busto frontal absolutamente imóvel, olhos fixos na lente e mãos fora do quadro. Atrás dos ombros, um assistente move rapidamente na horizontal um tecido longo com padrão geométrico vertical, sem tocar a modelo. Capture com sensor CMOS em obturador eletrônico de leitura linha a linha e velocidade suficiente para manter o rosto nítido, mas lenta o bastante para que o tecido em movimento seja registrado em posições diferentes entre a parte superior e inferior do frame. O resultado deve mostrar cisalhamento e inclinação temporal coerentes apenas no tecido, revelando a assinatura de rolling shutter, enquanto cabeça, corpo e fundo estático permanecem geometricamente corretos. Iluminação contínua uniforme, 70 mm equivalente, fundo cinza. Sem motion blur generalizado, sem banding de LED/PWM, sem glitch digital, sem liquify, sem distorção facial, texto ou logotipos.
 ```
 
 ### Prompt em inglês
 
 ```text
-Black-and-white portrait of an adult [model] photographed on fine-grain orthochromatic film, frontal half-body pose with the face slightly turned, one arm crossed and the other hand holding a red fabric away from the face. Use neutral white continuous light with a small controlled green side contribution and a mid-gray background. Make the spectral response clearly orthochromatic: blue and green reproduce with good sensitivity while red and orange render noticeably darker than they would on panchromatic film. The red fabric should fall to a very deep gray, with lips and naturally reddish skin areas somewhat darker without turning healthy skin solid black. Preserve fine texture, high sharpness, natural latitude and authentic analog character. 85mm, f/4, no red filter. No infrared look, solarization, tintype, selective colorization, text or logos.
+Editorial portrait of an adult [model] in an absolutely still frontal bust pose, eyes fixed on the lens and hands outside the frame. Behind the shoulders, an assistant rapidly pulls a long fabric with vertical geometric patterns horizontally without touching the model. Capture with a CMOS sensor using line-by-line electronic shutter readout, fast enough to keep the face sharp but slow enough for the moving fabric to occupy different positions from the top to the bottom of the frame. The result should show coherent temporal shear and leaning only in the moving fabric, revealing a true rolling-shutter signature, while head, body and static background remain geometrically correct. Even continuous lighting, 70mm-equivalent framing, gray background. No global motion blur, LED/PWM banding, digital glitch, liquify effect, facial distortion, text or logos.
 ```
 
-**Restrição opcional:** `resposta ortocromática realista; vermelhos escurecem; sem infravermelho, solarização ou filtro vermelho.`
+**Restrição opcional:** `rolling shutter apenas no tecido em movimento; rosto e fundo estáticos corretos; sem banding PWM, glitch ou blur global.`
 
-**Por que funciona:** Filme ortocromático é sensível principalmente a azul e verde e tem pouca ou nenhuma sensibilidade ao vermelho. Por isso elementos vermelhos podem registrar muito mais escuros do que em filme pancromático.
+**Por que funciona:** Em muitos shutters eletrônicos CMOS, linhas diferentes do sensor são expostas em instantes ligeiramente diferentes. Movimento rápido durante essa leitura pode produzir inclinação ou cisalhamento espacial; manter a modelo imóvel confina o efeito ao elemento móvel.
+
+---
