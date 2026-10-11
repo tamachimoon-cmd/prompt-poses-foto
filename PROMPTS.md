@@ -1,6 +1,6 @@
-# 165 Prompts de Fotografia de Estúdio e Poses de Modelo
+# 196 Prompts de Fotografia de Estúdio e Poses de Modelo
 
-Catálogo principal consolidado. Os prompts 1–160 permanecem acessíveis pelo catálogo JSON, arquivos históricos ou revisões permanentes; os prompts 161–165 estão completos nesta página.
+Catálogo principal consolidado. Os prompts 1–160 permanecem acessíveis pelo catálogo JSON, arquivos históricos ou revisões permanentes; os prompts 161–165 estão completos nesta página. A partir do 166, cada prompt fica em arquivo individual em `prompts/` (lista abaixo); os números 170–172 não foram usados.
 
 ## Índice consolidado
 
@@ -169,6 +169,40 @@ Catálogo principal consolidado. Os prompts 1–160 permanecem acessíveis pelo 
 163. Photogravure em cobre com pretos de tinta profundos e retrato de perfil recortado
 164. Filme fino de sabão em foreground com interferência iridescente e rosto em janela limpa
 165. Rolling shutter de tecido horizontal com rosto estático e cisalhamento temporal controlado
+
+## Prompts 166+ em arquivos individuais
+
+- **166** — [Contrapposto de estúdio](prompts/166-contrapposto-estudio.md)
+- **167** — [Sentada na borda do banco](prompts/167-sentada-borda-banco.md)
+- **168** — [Power pose em contra-plongée](prompts/168-power-pose-contra-plongee.md)
+- **169** — [Meio da passada](prompts/169-passo-meio-da-passada.md)
+- **173** — [Janela, lifestyle](prompts/173-janela-lifestyle.md)
+- **174** — [Rembrandt de estúdio](prompts/174-rembrandt-estudio.md)
+- **175** — [Golden hour na rua](prompts/175-golden-hour-rua.md)
+- **176** — [Catálogo, corpo quadrado](prompts/176-catalogo-quadrado.md)
+- **177** — [Mão na clavícula, três quartos](prompts/177-mao-na-clavicula.md)
+- **178** — [Natural Stance Outdoor](prompts/178-natural-stance-outdoor.md)
+- **179** — [Thinker no Parque](prompts/179-thinker-park.md)
+- **180** — [City Confidence Hands on Hips](prompts/180-city-confidence-hands-hips.md)
+- **181** — [Corporate Headshot Softbox](prompts/181-corporate-headshot-softbox.md)
+- **182** — [Casual Outdoor Waist-up](prompts/182-casual-outdoor-waistup.md)
+- **183** — [Fashion Editorial Contrapposto](prompts/183-fashion-editorial-contrapposto.md)
+- **184** — [Golden Hour Backlight](prompts/184-golden-hour-backlight.md)
+- **185** — [Street Candid 35mm](prompts/185-street-candid-35mm.md)
+- **186** — [Low Angle Power Pose](prompts/186-low-angle-power-pose.md)
+- **187** — [Hands in Pockets Casual](prompts/187-hands-in-pockets-casual.md)
+- **188** — [Seated Cube Natural](prompts/188-seated-cube-natural.md)
+- **189** — [Over Shoulder Look](prompts/189-over-shoulder-look.md)
+- **190** — [Squinch e testa à frente no headshot](prompts/190-squinch-testa-a-frente-headshot.md)
+- **191** — [Encostada na parede com um único ponto de contato](prompts/191-encostada-na-parede-um-ponto-de-contato.md)
+- **192** — [Ombro à frente, cabeça inclinada para o lado oposto](prompts/192-ombro-a-frente-cabeca-inclinada-oposta.md)
+- **193** — [Plongée suave com olhar para a lente](prompts/193-plongee-olhar-para-cima.md)
+- **194** — [Dutch angle em editorial de moda](prompts/194-dutch-angle-editorial-moda.md)
+- **195** — [Softbox feathered: rosto na borda da luz](prompts/195-softbox-feathered-borda-da-luz.md)
+- **196** — [Retrato ambiental com regra dos terços e linhas guia](prompts/196-retrato-ambiental-tercos-linhas-guia.md)
+- **197** — [Cores complementares entre figurino e fundo](prompts/197-cores-complementares-figurino-fundo.md)
+- **198** — [Fundo branco que vira preto pela lei do inverso do quadrado](prompts/198-fundo-preto-lei-inverso-quadrado.md)
+- **199** — [Corpo inteiro com tornozelos cruzados e mão no bolso](prompts/199-corpo-inteiro-tornozelos-cruzados-mao-no-bolso.md)
 
 ---
 
