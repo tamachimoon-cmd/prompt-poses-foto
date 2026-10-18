@@ -1,16 +1,15 @@
-# 230 — Over-the-shoulder glance
+# 230 — Over the shoulder glance
 
-Finalidade: pose de olhar por cima do ombro para editorial de moda, lifestyle ou storytelling.
+Finalidade: pose com olhar sobre o ombro para mistério e conexão.
 
 ## Prompt (copiar)
 
-Three-quarter over-the-shoulder portrait of an adult model, body angled away from camera, head turned back looking over the shoulder toward the lens with soft or intense expression, one hand visible near the face or resting naturally, soft directional lighting creating gentle shadows, 85mm lens at f/2.0, shallow depth of field, neutral or environmental background with soft bokeh, true-to-life skin texture, elegant and cinematic mood, photorealistic editorial photography, natural neck and shoulder line.
+Adult model turned slightly away from the camera, looking back over her shoulder with a gentle smile, in a softly lit studio or sunlit park. Realistic photography style, medium shot, 85mm lens, soft light, natural skin texture, elegant posture, weight on one leg, photorealistic.
 
 ## Por que funciona
 
-Olhar por cima do ombro cria tensão e elegância. Corpo em ângulo adiciona dinâmica. Iluminação direcional destaca a curva do pescoço e ombro.
+O olhar sobre o ombro cria engajamento e intriga. Turn do corpo adiciona linhas interessantes. Luz soft mantém o mood elegante.
 
 ## Fonte
 
-- https://geekycuriosity.substack.com/p/midjourney-prompts-1-portrait-photography
-- https://www.geniea.com/prompts/subject-portrait
+- https://imaginewithrashid.com/16-midjourney-prompts-for-photography-poses/

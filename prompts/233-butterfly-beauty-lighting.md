@@ -1,16 +1,16 @@
 # 233 — Butterfly beauty lighting
 
-Finalidade: beauty portrait com luz butterfly clássica para pele uniforme e glow controlado.
+Finalidade: iluminação butterfly clássica para beauty portrait glamouroso.
 
 ## Prompt (copiar)
 
-Beauty portrait of an adult subject, butterfly lighting with soft frontal key light slightly elevated, butterfly-shaped shadow under the nose, even skin illumination, crisp catchlights in both eyes, white seamless background, 85mm lens, natural skin pores and texture, no over-smoothing, high-end commercial beauty photography.
+Beauty portrait of an adult model, close-up, butterfly lighting with key light directly above and slightly in front creating a butterfly-shaped shadow under the nose, soft fill below. Neutral backdrop, 85mm or 100mm lens at f/4, sharp focus on eyes, natural skin texture with pores, elegant expression, magazine beauty style, photorealistic.
 
 ## Por que funciona
 
-Butterfly (clamshell elevado) é o padrão de beauty/glamour que modela o rosto sem sombras duras. Catchlights simétricos vendem o look de estúdio profissional.
+Butterfly é o padrão de beauty lighting: lisonjeira e glamourosa. Sombra sob o nariz define a luz. Textura de pele mantém realismo.
 
 ## Fonte
 
-- https://blog.picassoia.com/how-to-add-realistic-lighting-to-ai-renders
-- https://www.prompthackers.co/ai-photo-prompts
+- Práticas clássicas de iluminação de estúdio
+- https://godofprompt.ai/blog/gemini-ai-photo-prompts/
