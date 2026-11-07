@@ -1,14 +1,14 @@
 # 231 — Sprinting mid-stride low angle
 
-Finalidade: pose dinâmica de sprint para ação esportiva ou editorial de movimento.
+Finalidade: pose dinâmica de corrida em pleno movimento para editorial esportivo ou urbano.
 
 ## Prompt (copiar)
 
-Athletic adult in streetwear, sprinting mid-stride, full-body from low angle, intent gaze forward, urban crosswalk at dusk, motion blur edges, cinematic rim light, 35mm, rule of thirds, photorealistic, --ar 16:9
+Athletic adult woman in streetwear, sprinting mid-stride, full-body from low angle, intent gaze forward, urban crosswalk at dusk, motion blur edges, cinematic rim light, 35mm lens, rule of thirds, photorealistic —ar 16:9 --s 200
 
 ## Por que funciona
 
-Ângulo baixo + mid-stride cria drama e poder. Motion blur nas bordas reforça velocidade sem destruir o sujeito.
+Ação clara + baixo ângulo + freeze de movimento capturam energia. Lente 35mm controla distorção enquanto mantém drama.
 
 ## Fonte
 
