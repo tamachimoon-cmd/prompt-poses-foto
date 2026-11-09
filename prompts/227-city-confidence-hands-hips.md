@@ -1,14 +1,14 @@
-# 227 — City confidence hands on hips
+# 227 — City Confidence Hands on Hips
 
-Finalidade: pose de poder urbano com mãos nos quadris para retrato confiante de lifestyle ou editorial de rua.
+Finalidade: pose de autoconfiança urbana para editorial ou retrato profissional.
 
 ## Prompt (copiar)
 
-Photorealistic three-quarter shot of an adult woman standing confidently with hands on hips, elbows bent outward, looking straight at camera, against blurred cityscape backdrop, soft overcast light, 70mm lens, realistic fabric and skin, shoulders relaxed —ar 3:4
+A confident woman standing with hands on her hips, elbows slightly bent, looking straight at the camera, against a cityscape backdrop, realistic photography style. –ar 3:4
 
 ## Por que funciona
 
-Mãos nos quadris criam base de poder visual. Contato visual direto + fundo urbano reforçam autoridade sem exagero.
+Mãos no quadril + contato visual direto criam autoridade. Fundo urbano reforça o contexto sem distração.
 
 ## Fonte
 

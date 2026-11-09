@@ -1,14 +1,14 @@
-# 226 — The Thinker park
+# 226 — The Thinker Park
 
-Finalidade: pose contemplativa de mão no queixo para retrato pensativo em ambiente natural.
+Finalidade: pose contemplativa com mão no queixo para retratos com profundidade.
 
 ## Prompt (copiar)
 
-Realistic photography of an adult man standing in an autumn park, one hand resting on his chin with elbow supported, thoughtful expression, looking slightly away, weight on one leg, soft golden hour light, fallen leaves background, 85mm lens, shallow depth, natural skin —ar 3:4
+A man standing with one hand resting on his chin, looking thoughtful, in a park with autumn leaves, realistic photography style. –ar 3:4
 
 ## Por que funciona
 
-Gesto clássico de mão no queixo comunica imediatamente reflexão. Ambiente outonal reforça o mood sem competir com a pose.
+O gesto da mão no queixo comunica imediatamente pensamento. Fundo de outono adiciona textura sem competir.
 
 ## Fonte
 
