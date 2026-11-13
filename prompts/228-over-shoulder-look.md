@@ -1,16 +1,9 @@
-# 228 — Over-the-shoulder look
+# Over the Shoulder Look
 
-Finalidade: pose de olhar por cima do ombro, com leve mistério e conexão.
+Olhar por cima do ombro, pose elegante e misteriosa.
 
-## Prompt (copiar)
+```
+A woman turned three-quarters away from the camera, looking back over her shoulder with a gentle smile, one hand near her collar, in a sunlit outdoor setting, soft natural light, realistic photography, 50mm lens, shallow DOF, natural skin texture --ar 3:4
+```
 
-Portrait photograph of an adult model turned three-quarters away from the camera, looking back over the shoulder with a soft natural smile, gentle head tilt, outdoor setting with soft window or golden light, 85mm lens at f/1.8, shallow depth of field, creamy bokeh background, realistic skin texture, subtle catchlights in eyes, editorial fashion or lifestyle photography.
-
-## Por que funciona
-
-O olhar por cima do ombro cria linha dinâmica e conexão visual sem frontalidade rígida. Funciona bem tanto em moda quanto em lifestyle.
-
-## Fonte
-
-- https://imaginewithrashid.com/16-midjourney-prompts-for-photography-poses/
-- https://nanoprompts.net/articles/ai-portrait-poses-composition-guide/
+**Fonte:** Imagine with Rashid - The Coy Look Back, adaptado.
